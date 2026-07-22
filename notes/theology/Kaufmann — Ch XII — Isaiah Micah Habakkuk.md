@@ -3,7 +3,12 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
-  - theology/prophecy
+  - history/israel-judah
+  - history/exile
+  - historiography
+  - methodology
+  - philology
+  - eschatology
   - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22

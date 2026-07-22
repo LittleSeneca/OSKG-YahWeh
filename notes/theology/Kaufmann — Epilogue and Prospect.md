@@ -3,7 +3,10 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
-  - theology/judaism
+  - history/exile
+  - historiography
+  - methodology
+  - canon-formation
   - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22

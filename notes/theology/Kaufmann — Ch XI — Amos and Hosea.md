@@ -3,7 +3,11 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
-  - theology/prophecy
+  - faith/baal
+  - history/israel-judah
+  - historiography
+  - methodology
+  - philology
   - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22

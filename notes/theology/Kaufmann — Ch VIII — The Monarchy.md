@@ -3,6 +3,13 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
+  - faith/baal
+  - faith/asherah
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - historiography
+  - methodology
   - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22

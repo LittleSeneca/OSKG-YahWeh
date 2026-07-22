@@ -3,6 +3,10 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
+  - faith/polytheism
+  - history/israel-judah
+  - historiography
+  - methodology
   - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22
