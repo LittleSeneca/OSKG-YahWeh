@@ -66,6 +66,8 @@ Fleming does not reject everything. He affirms:
 
 ## Assessment
 
+**Fleming's own caveats (from the Preface):** He acknowledges the two pillars of his argument are debatable: (1) the Yhwʒ = Yahweh identification is "widely shared but capable of valid doubt"; (2) his reading of Judges 5 (Israel as secondary to 'am Yhwh) is "debatable from the start." He came from geology and brings a Popperian epistemology: construct falsifiable hypotheses, test them, refine. "Possibilities and probabilities are what we have, and they warrant weighing."
+
 **Strongest contribution:** The Soleb column measurement argument (Seir probably absent) is genuinely original and potentially field-changing if verified by Egyptologists.
 
 **Weakest link:** The 'am Yhwh argument depends on a specific reading of Judges 5 that Mark Smith — Fleming's most important dialogue partner — disputes.

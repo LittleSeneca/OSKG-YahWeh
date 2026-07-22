@@ -96,30 +96,59 @@ This concluding chapter asks: if Yahweh was originally the name of a Shasu peopl
 
 ---
 
-## Claim 4: Yahweh and El were originally separate deities — "convergence" was real, not original identity (contra Cross)
+## Claim 4: Yahweh and El were originally separate deities — El was Israel's original god, and Yahweh arrived later
 
-**Author's claim:** "I conclude that the divine name did not originally pertain to El and that we must grapple with the reality of two key gods underlying the single God of late monarchic Judah and Judaism" (p. 284). "Beyond the two dominant names for God, the Bible's repeated complaints against goddesses called Asherah or Ashtoreth... suggest the persistence of female deities" (p. 285).
+**Author's claim:** "I conclude that the divine name did not originally pertain to El and that we must grapple with the reality of two key gods underlying the single God of late monarchic Judah and Judaism" (p. 284). "The first 'god of Israel' was El, as the deity in the personal name yiśrā'ēl" (p. 270, citing Smith 2001a: 142-45 and Lewis 2020b).
 
 **Evidence presented:**
-- Yahweh and El have different names, different associations, and different geographical profiles in the earliest evidence
-- El is widely attested across the Levant (Ugarit, Deir 'Alla, Genesis patriarchal narratives); Yahweh is absent from this broader Levantine context
-- Cross's theory (Yahweh as epithet of El) "bypass[es] the identification of the Shasu group with a human personal name and cannot convince" (Ch 5, p. 203)
-- The identification of Yahweh with El at Kuntillet Ajrud ("Yahweh... and his asherah") already assumes their convergence — Asherah was El's consort, not originally Yahweh's
-- Deut 32:8-9 distinguishes Elyon (who allots nations) from Yahweh (who receives Israel) — even if the finished text equates them, the older conception distinguishes them
+- The name "Israel" (yiśrā'ēl) likely means "May El contend" — El is the theophoric element, not Yahweh. "Such a connection would go back at least to the late 13th century, when Israel appears in the Merenptah stela" (p. 271)
+- Shechem preserves El traditions without any reference to Yahweh: the temple of "El-Berith" (El of the Covenant) in Judg 9:46; Jacob's altar to "El, god of Israel" (Gen 33:20); and Rehoboam's assembly there (1 Kgs 12) — all under El's supervision (pp. 271-272)
+- The Deir 'Alla plaster inscriptions (9th/8th c., east of the Jordan) record visions of Balaam by the "utterance of El" — "the presence and prominence of El, without concern for Yahweh, display the persistent centrality of El in this region as a god unto himself" (p. 269)
+- Kuntillet 'Ajrud shows the convergence was underway by c. 800 BCE: blessings in the name of "Yahweh... and his asherah" assume Yahweh has absorbed El's consort (p. 269)
+- At Jerusalem, Yahweh was a newcomer: "the narratives of Samuel and Kings envision Yahweh as a new arrival there, with David and his family" (p. 279). David took Jerusalem from Jebusites and brought Yahweh with him
+- Jerusalem's pre-Israelite traditions associate the city with El Elyon, not Yahweh: Melchizedek is priest of El Elyon in Gen 14:18-20 (p. 278)
+- The Mesha inscription (c. 840) already associates Israel with Yahweh — but this is Omride Israel, not earlier. "Nothing indicates or requires that Yahweh was a god of the El type" (p. 280)
+- "Like Aššur at the city by that name, Yahweh may naturally have assumed the dominant role once a larger social and religious world came into play, and his identification with El may have resembled the eventual equation of Aššur with Marduk and Enlil in the ambitious Assyrian kingdom" (p. 280)
 
-**Confidence:** HIGH. The separate-origin thesis is the default position of most scholars (Smith, van der Toorn, Römer). Fleming's contribution is to argue that the Shasu evidence makes Cross's alternative untenable, not just unlikely.
+**Confidence:** HIGH. The separate-origin thesis is the default position of most scholars (Smith, van der Toorn, Römer, Lewis). The Deir 'Alla and Shechem evidence strengthens it considerably. Fleming's specific contribution is adding the Shasu evidence to the case and providing the Mesopotamian analogies for how such convergence happens.
 
-**What's at stake:** If Yahweh and El were always separate, then Israelite religion involved "convergence" (Smith's term) — the merging of two originally distinct deities. This has implications for understanding biblical monotheism: it was achieved by merging gods, not by demoting one and elevating another.
+**What's at stake:** If Israel's name contains El and its earliest cult sites are El sanctuaries, then Yahweh was a secondary arrival in Israel — exactly what Fleming's "Yahweh before Israel" thesis requires. The convergence of El and Yahweh was a political-theological process driven by monarchy.
 
-**Who disagrees:** Cross (1973): Yahweh originated as a cultic epithet of El. De Moor (1997): Yahweh as "God of the Fathers" who is also El. Dijkstra: identification was original.
+**Who disagrees:** Cross (1973): Yahweh originated as a cultic epithet of El — they were always the same. De Moor (1997): Yahweh as "God of the Fathers" = El.
 
-**Alternative reading:** Cross's theory explains why the Bible shows so little tension between Yahweh and El — they were always the same god under different names.
+**Alternative reading:** Cross's theory explains why the Bible shows so little tension between Yahweh and El — if they were always identified, there was nothing to converge.
 
-**My assessment:** Fleming is on solid ground here. The separate-origin position has become the consensus for good reasons. The Shasu evidence adds weight but isn't necessary to the argument.
+**My assessment:** Fleming is on solid ground. The separate-origin position is well-supported by the name "Israel," the Shechem traditions, and Deir 'Alla. The Shasu evidence adds weight but isn't necessary to the argument.
 
 ---
 
-## Claim 5: We cannot reconstruct an early Israelite "pantheon" — the evidence is too fragmentary and models from Ugarit/Mesopotamia are imperial-scale projections
+## Claim 5: The name "Israel" contains El, not Yahweh — and the archaeological/epigraphic evidence confirms El was the region's original high god
+
+**Author's claim:** "If 'the god' in yiśrā'ēl is indeed El and not the generic 'god' of many such personal names, this would establish a particular link between El and Israel that goes back to the origin of the people's identity... In this relationship, Israel would have no unique claim on El but would rather claim participation in the interests of the major deity. At the moment when Israel received its name, no role for Yahweh need be supposed" (p. 271).
+
+**Evidence presented:**
+- The name "Israel" (yiśrā'ēl) contains the theophoric element 'ēl — most naturally read as the divine name El, not generic "god." Merneptah's Israel (c. 1207) was therefore an El-people, not a Yahweh-people
+- Shechem was an El sanctuary: "the temple of El-Berith" (Judg 9:46), Jacob's altar to "El, god of Israel" (Gen 33:20), Rehoboam's coronation assembly there (1 Kgs 12) — three separate traditions all associating collective Israel with El at Shechem, with no role for Yahweh (pp. 271-272)
+- The Deir 'Alla plaster texts (9th/8th c., east of the Jordan, within Israel's territory) record Balaam's visions by "the utterance of El" — entirely El-focused, with no mention of Yahweh. The texts are in Aramaic, not Hebrew, representing local tradition independent of both kingdoms' official cults (pp. 269-270)
+- Kuntillet 'Ajrud (c. 800) shows the convergence process: "Yahweh of Samaria" and "Yahweh of Teman" appear alongside blessings invoking "his asherah" — Asherah was El's consort at Ugarit, so her pairing with Yahweh shows Yahweh absorbing El's attributes and family (p. 269)
+- The KA 4.2 plaster text at Kuntillet 'Ajrud uses both names (El and Yahweh) with reference to the same deity — the convergence was underway but not yet complete (p. 269)
+- Jerusalem's pre-Israelite traditions: Melchizedek is priest of "El Elyon, creator of heaven and earth" (Gen 14:18-20). David took Jerusalem from Jebusites — "the narratives of Samuel and Kings envision Yahweh as a new arrival there" (p. 279)
+- Iron Age I archaeological evidence for cult sites in the region of earliest Israel: the "Bull Site" (bronze figurine on a high ridge east of Dothan) and the Mount Ebal enclosure — both in the territory between Shechem and the Jezreel Valley, the likely location of "little Israel" (p. 272)
+- "Both Yahweh and El had political roles in the region. El may be represented in Israel's name, and collective Israel was defined in relation to El at Shechem; and however else he may have been present in the region, Yahweh undergirded an arrangement for mutual self-defense that reached a larger space" (p. 280)
+
+**Confidence:** HIGH for the name "Israel" containing El. MEDIUM-HIGH for Shechem as an El sanctuary (the biblical texts are late but the convergence of three independent traditions is striking). MEDIUM for Deir 'Alla as evidence of persistent El worship (the texts are fragmentary and their relationship to Israelite territory is debated).
+
+**What's at stake:** If Israel's very name invokes El, and its earliest cult sites are El sanctuaries, then Yahweh was a secondary god in Israel — exactly what Fleming's "Yahweh before Israel" thesis requires. The sequence is: El was the original high god of the region, Yahweh arrived among Shasu-related groups, and only under the monarchy (9th century) did the two converge.
+
+**Who disagrees:** Cross (1973): El and Yahweh were always the same god. Those who read 'ēl in yiśrā'ēl as generic "god" rather than the proper name El.
+
+**Alternative reading:** The 'ēl element in yiśrā'ēl could be generic ("God contends"), not the specific deity El. And the Shechem/Deir 'Alla evidence shows El worship PERSISTED alongside Yahweh worship, not that El was chronologically prior.
+
+**My assessment:** The cumulative weight of the name "Israel," the Shechem traditions, Deir 'Alla, and Jerusalem's El Elyon background is strong. Fleming's specific contribution is showing how this convergence fits the broader pattern: just as Assur absorbed Enlil and Marduk as the Assyrian empire grew, Yahweh absorbed El as the Israelite kingdom expanded.
+
+---
+
+## Claim 6: We cannot reconstruct an early Israelite "pantheon" — the evidence is too fragmentary and models from Ugarit/Mesopotamia are imperial-scale projections
 
 **Author's claim:** "In the decentralized social and political landscape of the early southern Levant, the idea of pantheon is more likely to lead astray than to guide" (p. 292). "When Yahweh came on the scene, was it taken for granted that he had to be fitted into a pantheon with El as head? Perhaps, but I wonder whether we have relied too much on the structures of major kingdoms to reconstruct the religion of small towns and a back country beyond" (p. 293).
 
@@ -150,8 +179,9 @@ This concluding chapter asks: if Yahweh was originally the name of a Shasu peopl
 | 1: Yahweh not originally storm/warrior god | MEDIUM | Deeply embedded storm imagery |
 | 2: South Arabian political gods as best analogy | MEDIUM | Geographical/cultural distance |
 | 3: Mesopotamian counter-examples to van der Toorn | HIGH | Distinction between ancestor-gods and people-gods |
-| 4: Yahweh and El originally separate | HIGH | Cross's counter-arguments |
-| 5: Pantheon reconstruction unreliable | MEDIUM | Pervasiveness of divine council imagery |
+| 4: Yahweh and El originally separate — El was Israel's original god | HIGH | Cross's counter-arguments |
+| 5: Name "Israel" contains El; Shechem + Deir 'Alla confirm El's priority | HIGH/MEDIUM | Generic 'ēl reading; dating of Deir 'Alla |
+| 6: Pantheon reconstruction unreliable | MEDIUM | Pervasiveness of divine council imagery |
 
 **Strongest section:** The South Arabian analogies (pp. 257-264). This is genuinely new to the Yahweh-origins debate and opens up comparative possibilities that have been almost entirely neglected. The "Descendants of 'Amm" / "people of Yahweh" parallel is striking.
 
