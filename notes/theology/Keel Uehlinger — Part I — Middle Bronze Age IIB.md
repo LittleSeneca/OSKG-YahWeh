@@ -22,7 +22,7 @@ related:
   - "[[Kaufmann — Ch II — Pagan Religion]]"
   - "[[Day — Chapter 2 — Yahweh and Asherah]]"
   - "[[yahweh-monotheism-polytheism-debate]]"
-  - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
+  - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Smith Origins — Introduction]]"
   - "[[Romer — Introduction]]"

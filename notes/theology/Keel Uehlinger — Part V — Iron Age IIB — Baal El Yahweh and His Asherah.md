@@ -25,7 +25,7 @@ source:
   year: 1998
   publisher: "Fortress Press"
 related:
-  - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
+  - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
   - "[[Dever — Chapters VI-IX — Asherah to Conclusions]]"
   - "[[Romer — Chapter 9 — Yhwh and His Asherah]]"

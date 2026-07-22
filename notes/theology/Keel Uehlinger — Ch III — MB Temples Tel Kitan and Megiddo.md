@@ -1,13 +1,15 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - yahweh-origins
+  - faith/asherah
+  - faith/baal
+  - faith/polytheism
+  - ane-religion
+  - archaeology
   - iconography
-  - middle-bronze-age
-  - temples
-  - scholars/keel
-  - scholars/uehlinger
+  - methodology
+  - scholars/othmar-keel
+  - scholars/christoph-uehlinger
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -20,10 +22,10 @@ source:
   local_file: "sources/books/_fulltext/Keel_Uehlinger_Gods_Goddesses_and_Images_1998.txt"
 related:
   - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
-  - "[[Keel Uehlinger — Ch II — Equality of the Sexes Middle Bronze IIB]]"
+  - "[[Keel Uehlinger — Part I — Middle Bronze Age IIB]]"
   - "[[Dever — Chapters III-V — Sources and Archaeological Evidence]]"
   - "[[scholarly-directory-yahweh-origins]]"
-  - "[[Romer — Invention of God]]"
+  - "[[Romer — Introduction]]"
 ---
 
 # Keel & Uehlinger — Chapter III: The Iconography of the Middle Bronze Age Temples of Tel Kitan and Megiddo

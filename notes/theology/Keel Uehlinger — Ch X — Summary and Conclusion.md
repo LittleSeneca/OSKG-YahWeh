@@ -1,13 +1,17 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - yahweh-origins
+  - faith/yahweh
+  - faith/asherah
+  - faith/monotheism
+  - history/aniconism
+  - archaeology
   - iconography
   - methodology
-  - feminist-theology
-  - scholars/keel
-  - scholars/uehlinger
+  - historiography
+  - gender
+  - scholars/othmar-keel
+  - scholars/christoph-uehlinger
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -20,7 +24,7 @@ source:
   local_file: "sources/books/_fulltext/Keel_Uehlinger_Gods_Goddesses_and_Images_1998.txt"
 related:
   - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
-  - "[[Keel Uehlinger — Ch VII — Baal El Yahweh and His Asherah Iron IIB]]"
+  - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
   - "[[Smith Origins — Ch10 — Monotheism in Isaiah 40-55]]"
   - "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]"
   - "[[Romer — Chapter 12 + Conclusion]]"

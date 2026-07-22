@@ -1,13 +1,15 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - iconography
+  - faith/asherah
+  - faith/polytheism
   - archaeology
-  - goddess
-  - figurines
-  - scholars/keel
-  - scholars/uehlinger
+  - iconography
+  - methodology
+  - gender
+  - history/israel-judah
+  - scholars/othmar-keel
+  - scholars/christoph-uehlinger
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -25,6 +27,10 @@ related:
   - "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]"
   - "[[Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction]]"
   - "[[Keel Uehlinger — Ch V — The Hidden God Victorious Gods Fertility Iron I]]"
+  - "[[Smith Chapter 3 — Yahweh and Asherah]]"
+  - "[[Day — Chapter 2 — Yahweh and Asherah]]"
+  - "[[Romer — Chapter 9 — Yhwh and His Asherah]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
 ---

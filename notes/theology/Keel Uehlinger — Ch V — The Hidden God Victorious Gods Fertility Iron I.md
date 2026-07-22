@@ -1,15 +1,17 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - yahweh-origins
+  - faith/yahweh
+  - faith/asherah
+  - faith/baal
+  - faith/polytheism
+  - faith/monotheism
+  - archaeology
   - iconography
-  - iron-age-i
-  - philistines
-  - aniconism
-  - goddess
-  - scholars/keel
-  - scholars/uehlinger
+  - history/aniconism
+  - methodology
+  - scholars/othmar-keel
+  - scholars/christoph-uehlinger
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -24,12 +26,16 @@ source:
   local_file: "sources/books/_fulltext/Keel_Uehlinger_Gods_Goddesses_and_Images_1998.txt"
 related:
   - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
-  - "[[Keel Uehlinger — Ch IV — Egyptian Dominance in the Late Bronze Age]]"
-  - "[[Keel Uehlinger — Ch VI — Yahweh and the Gods of Iron Age IIA]]"
+  - "[[Keel Uehlinger — Part II — Late Bronze Age]]"
+  - "[[Keel Uehlinger — Part IV — Iron Age IIA]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Romer — Chapter 8 — Statue of Yhwh]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Stavrakopoulou — Part I — Feet and Legs]]"
+  - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
+  - "[[Fleming — Ch 4 — The Old Poetry]]"
+  - "[[Cross — Parts II-III — Divine Warrior and League]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[scholarly-directory-yahweh-origins]]"
 ---
 

@@ -24,7 +24,7 @@ source:
   publisher: "Fortress Press"
 related:
   - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
-  - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
+  - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Dever — Chapters VI-IX — Asherah to Conclusions]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"

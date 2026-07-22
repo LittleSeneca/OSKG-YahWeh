@@ -1,12 +1,16 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - yahweh-origins
+  - faith/yahweh
+  - faith/asherah
+  - faith/monotheism
+  - faith/polytheism
+  - archaeology
   - iconography
   - methodology
-  - scholars/keel
-  - scholars/uehlinger
+  - historiography
+  - scholars/othmar-keel
+  - scholars/christoph-uehlinger
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

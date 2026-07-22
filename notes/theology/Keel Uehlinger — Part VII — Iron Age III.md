@@ -25,7 +25,7 @@ source:
   local_file: "sources/books/_fulltext/Keel_Uehlinger_Gods_Goddesses_and_Images_1998.txt"
 related:
   - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
-  - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
+  - "[[Keel Uehlinger — Ch I — Starting Point and Points of Departure]]"
   - "[[Romer — Chapter 12 + Conclusion]]"
   - "[[Albertz Vol2 — Chapter 4 — Exilic Period]]"
   - "[[yahweh-monotheism-polytheism-debate]]"
