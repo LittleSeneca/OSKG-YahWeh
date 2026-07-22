@@ -29,4 +29,4 @@ From [[history-of-yahweh-alex-oconnor|Justin Sledge's recommendations]]:
 
 ## Reading Queue
 
-*None yet in progress.*
+- **[[core-monographs-reading-list|Core Monographs Reading List]]** — 10 curated monographs in three tiers, with availability, pricing, and recommended reading order. 4 available free on Internet Archive.
