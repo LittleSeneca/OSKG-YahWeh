@@ -22,6 +22,8 @@ related:
   - "[[Albertz Vol2 — Chapter 4 — Exilic Period]]"
   - "[[Romer — Chapter 10 — Fall of Samaria]]"
   - "[[Romer — Chapter 11 — Reform of Josiah]]"
+  - "[[Albertz Vol1 — Introduction — History, Method, Dividing Lines]]"
+  - "[[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]]"
 ---
 
 # Albertz — Chapter 5: The History of Israelite Religion in the Post-Exilic Period
@@ -223,7 +225,37 @@ Albertz's central thesis: the post-exilic period — especially 538-400 BCE — 
 
 **Weakest section:** 5.5 (split in personal piety). The reconstruction of class-specific religious groups from psalmic and wisdom texts, while suggestive, rests on a chain of inferences that's hard to verify independently.
 
+---
+
+## Claim 8 [ADDED IN RETROSPECTIVE]: The post-exilic priesthood transformed the sacrificial cult — expanding the tamid, creating the Day of Atonement, and making atonement theology central to public worship
+
+**Albertz's claim:** The Day of Atonement "denotes a new element in post-exilic worship which permanently changed in comparison to pre-exilic worship, in both the public and the private spheres: an emphasis on the function of the cult in making atonement. It was the decisive means by which the reform priesthood reacted to the traumatic experience of a national catastrophe which had happened despite a functioning cult."
+
+**Evidence presented:**
+- The daily tamid was expanded: from one morning burnt offering + evening meal offering (2 Kings 16.15) to two burnt offerings each combined with food and drink offerings (Ex 29.38-42; Num 28.3-8), plus the high priest's daily meal offering (Lev 6.12-16)
+- The Mishnah Tamid shows the morning tamid combined with Shema recitation, benediction, Decalogue, Aaronic blessing, Levitical choirs, and trumpet-signaled prostration — a developed liturgy involving the laity
+- The festival calendar was expanded: the new year festival (1st day, 7th month) was added, possibly under Babylonian influence, and the Day of Atonement (10th day, 7th month) was inserted before Tabernacles (Lev 23.23-32)
+- The Day of Atonement had two functions: (a) purify the sanctuary from impurities and sins of laity/priests, (b) make atonement for the high priest and people
+- Two rituals were combined: the scapegoat ritual (sins transferred and eliminated from the community, Lev 16.7-9, 20-22) and the blood-sprinkling ritual in the holy of holies (atonement through encounter with divine holiness, 16.14f.)
+- The financing shifted from royal provision to priestly self-administration through: drastically increased sacrificial portions (Num 18.9; Lev 2.3; 7.9), direct taxes (tithes to Levites, Num 18.20-32), money tax (1/3 shekel, later 1/2 shekel, Neh 10.33f.; Ex 30.11-16), and wood deliveries by clan rotation (Neh 10.35; 13.31)
+- Total cultic obligations swelled to "around a third of the total income, with the state taxes on top of that"
+- "The expense of the official sacrificial cult had hardly diminished since the time of the state cult: quite the contrary"
+
+**Confidence:** MEDIUM-HIGH. The textual evidence for the expanded cultic system is extensive (Leviticus, Numbers, Nehemiah, Mishnah). The theological interpretation (atonement as response to 587 trauma) is Albertz's own but plausible.
+
+**What's at stake:** The post-exilic cult wasn't a diminished version of the First Temple cult — it was more elaborate and expensive. The Day of Atonement represents a permanent institutionalization of guilt processing: Israel could never again assume the cult automatically guaranteed divine favor. The entire system now presupposed the need for regular purification and atonement. This is the cultic counterpart to the historiographical "confession of sin" in DtrG.
+
+**Who disagrees:** Scholars who date the Day of Atonement earlier or who see it as primarily a pre-exilic ritual adapted, not a post-exilic innovation. The claim about Babylonian influence on the new year festival is speculative.
+
+**Alternative reading:** The expanded cult was primarily about priestly economic self-interest (more sacrifices = more priestly income), not theological innovation. The atonement emphasis is a rationalization, not a cause.
+
+**My assessment:** This was a significant gap in my original Chapter 5 note. The cultic transformation is as important as the textual/legal transformation (Torah canonization) for understanding post-exilic religion. Albertz's linkage of atonement theology to the trauma of 587 (the cult failed once; it must never fail again) is persuasive. The economic data — "a third of total income" — is striking and explains why the temple became both the central unifying symbol AND a source of resentment.
+
+---
+
 **Cross-references:**
 - The Elephantine papyri (AP 30/31) for the non-Jerusalem Yahwism of the Egyptian Diaspora
 - The Nehemiah memorandum for the social crisis evidence
 - Römer, The Invention of God, Chapters 10-12, for the transformation from Israelite religion to Judaism
+- [[Albertz Vol1 — Introduction — History, Method, Dividing Lines]] for the "internal religious pluralism" framework
+- [[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]] for the family piety substratum that feeds into post-exilic developments

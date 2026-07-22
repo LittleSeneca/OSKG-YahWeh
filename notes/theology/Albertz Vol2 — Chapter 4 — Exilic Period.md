@@ -23,6 +23,8 @@ related:
   - "[[Romer — Chapter 12 + Conclusion]]"
   - "[[Romer — Chapter 10 — Fall of Samaria]]"
   - "[[Romer — Chapter 11 — Reform of Josiah]]"
+  - "[[Albertz Vol1 — Introduction — History, Method, Dividing Lines]]"
+  - "[[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]]"
 ---
 
 # Albertz — Chapter 4: The History of Israelite Religion in the Exilic Period
