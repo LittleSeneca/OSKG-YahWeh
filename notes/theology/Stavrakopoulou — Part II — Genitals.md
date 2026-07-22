@@ -2,7 +2,7 @@
 tags: [source/book-notes, theology/divine-embodiment, gender, scholars/francesca-stavrakopoulou, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Stavrakopoulou — Part I — Feet and Legs]]", "[[Dever — Chapters VI-IX — Asherah to Conclusions]]"]
+related: ["[[Stavrakopoulou — Part I — Feet and Legs]]", "[[Stavrakopoulou — Part III — Torso]]", "[[Dever — Chapters VI-IX — Asherah to Conclusions]]", "[[Sommer — The Bodies of God]]", "[[Smith Chapter 3 — Yahweh and Asherah]]"]
 ---
 
 # Stavrakopoulou — Part II: Genitals (Chapters 5-8)

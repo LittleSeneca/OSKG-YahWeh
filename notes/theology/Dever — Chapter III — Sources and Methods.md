@@ -2,7 +2,7 @@
 tags: [source/book-notes, archaeology, methodology, scholars/william-dever, history/exile, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Dever — Chapter II — History of Scholarship]]"]
+related: ["[[Dever — Chapter II — History of Scholarship]]", "[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Dever — Chapter V — Archaeological Evidence]]", "[[Fleming — Ch 1 — Introduction]]", "[[Dever — Chapters III-V — Sources and Archaeological Evidence]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapter III

@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, historiography, methodology, scholars/william-dever, scholars/mark-smith, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Dever — Chapter I — Defining Religion]]", "[[../../notes/theology/meta-analysis-scholars]]"]
+related: ["[[Dever — Chapter I — Defining Religion]]", "[[Dever — Chapter III — Sources and Methods]]", "[[meta-analysis-scholars]]", "[[Smith Chapter 0 — Introduction]]", "[[scholarly-directory-yahweh-origins]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapter II

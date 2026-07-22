@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Dever — Introduction]]"]
+related: ["[[Dever — Introduction]]", "[[Dever — Introduction and Chapters I-II — Methodology]]", "[[Dever — Chapter II — History of Scholarship]]", "[[Smith Chapter 0 — Introduction]]", "[[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapter I

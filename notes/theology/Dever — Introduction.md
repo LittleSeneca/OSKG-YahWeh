@@ -21,7 +21,9 @@ source:
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Romer — Introduction]]"
-  - "[[../../notes/theology/meta-analysis-scholars]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[Dever — Introduction and Chapters I-II — Methodology]]"
 ---
 
 # Dever, Did God Have a Wife? — Introduction

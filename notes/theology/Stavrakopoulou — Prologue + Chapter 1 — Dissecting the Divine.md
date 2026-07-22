@@ -11,7 +11,10 @@ source:
 related:
   - "[[Sommer — Introduction]]"
   - "[[Sommer — Chapter 1 — Mesopotamia and Canaan]]"
-  - "[[../../notes/theology/meta-analysis-scholars]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[Stavrakopoulou — Part I — Feet and Legs]]"
+  - "[[Dever — Introduction]]"
+  - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
 ---
 
 # Stavrakopoulou — Prologue + Chapter 1: Dissecting the Divine

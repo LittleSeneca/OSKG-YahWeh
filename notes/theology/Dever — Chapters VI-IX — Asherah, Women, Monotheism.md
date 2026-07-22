@@ -18,9 +18,12 @@ created: 2026-07-22
 confidence: medium
 related:
   - "[[Dever — Chapters III-V — Sources and Archaeological Evidence]]"
+  - "[[Dever — Chapters VI-IX — Asherah to Conclusions]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
   - "[[Romer — Chapters 8-9 — Statue and Asherah]]"
   - "[[Romer — Chapters 10-12 + Conclusion]]"
+  - "[[Day — Chapter 2 — Yahweh and Asherah]]"
+  - "[[Stavrakopoulou — Part II — Genitals]]"
 ---
 
 # Dever, Did God Have a Wife? — Chapters VI-IX

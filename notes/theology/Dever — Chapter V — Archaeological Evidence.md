@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]"]
+related: ["[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Dever — Chapters VI-IX — Asherah to Conclusions]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Day — Chapter 2 — Yahweh and Asherah]]", "[[Stavrakopoulou — Part I — Feet and Legs]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapter V

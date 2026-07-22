@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/divine-warrior, theology/divine-embodiment, scholars/francesca-stavrakopoulou, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Stavrakopoulou — Part III — Torso]]", "[[Cross — Parts II-III — Divine Warrior and League]]"]
+related: ["[[Stavrakopoulou — Part III — Torso]]", "[[Stavrakopoulou — Part V — Head + Epilogue]]", "[[Cross — Parts II-III — Divine Warrior and League]]", "[[Day — Chapter 3 — Yahweh Versus Baal]]", "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]"]
 ---
 
 # Stavrakopoulou — Part IV: Arms and Hands (Chapters 12-15)

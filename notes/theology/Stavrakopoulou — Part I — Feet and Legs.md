@@ -2,7 +2,7 @@
 tags: [source/book-notes, theology/divine-embodiment, archaeology, scholars/francesca-stavrakopoulou, methodology, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]", "[[Sommer — Chapter 4 — Sacred Space 1]]"]
+related: ["[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]", "[[Stavrakopoulou — Part II — Genitals]]", "[[Sommer — Chapter 4 — Sacred Space 1]]", "[[Sommer — Chapter 1 — Mesopotamia and Canaan]]", "[[Dever — Chapter V — Archaeological Evidence]]"]
 ---
 
 # Stavrakopoulou — Part I: Feet and Legs (Chapters 2-4)

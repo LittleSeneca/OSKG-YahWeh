@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, faith/asherah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Dever — Chapter III — Sources and Methods]]"]
+related: ["[[Dever — Chapter III — Sources and Methods]]", "[[Dever — Chapter V — Archaeological Evidence]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Day — Chapter 2 — Yahweh and Asherah]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapter IV

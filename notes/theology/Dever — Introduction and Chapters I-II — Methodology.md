@@ -16,7 +16,9 @@ confidence: medium
 related:
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
   - "[[Romer — Chapters 8-9 — Statue and Asherah]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[Dever — Chapter I — Defining Religion]]"
 ---
 
 # Dever, Did God Have a Wife? — Introduction + Chapters I-II

@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, philology, methodology, history/israel-judah, history/josiah, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Dever — Chapter V — Archaeological Evidence]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]"]
+related: ["[[Dever — Chapter V — Archaeological Evidence]]", "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Day — Chapter 2 — Yahweh and Asherah]]", "[[Stavrakopoulou — Part II — Genitals]]", "[[meta-analysis-scholars]]"]
 ---
 
 # Dever, Did God Have a Wife? — Chapters VI-IX

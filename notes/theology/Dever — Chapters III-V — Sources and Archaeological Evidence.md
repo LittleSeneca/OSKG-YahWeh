@@ -15,8 +15,11 @@ created: 2026-07-22
 confidence: medium
 related:
   - "[[Dever — Introduction and Chapters I-II — Methodology]]"
+  - "[[Dever — Chapter III — Sources and Methods]]"
+  - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
   - "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]"
+  - "[[meta-analysis-scholars]]"
 ---
 
 # Dever, Did God Have a Wife? — Chapters III-V
