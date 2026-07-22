@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Sommer — Introduction]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]"]
+related: ["[[Sommer — Introduction]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Heiser — Part 2 — The Households of God]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]"]
 ---
 
 # Sommer, The Bodies of God — Chapters 1-3

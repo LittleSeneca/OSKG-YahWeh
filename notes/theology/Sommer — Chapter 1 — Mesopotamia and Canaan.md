@@ -7,7 +7,7 @@ source:
   author: "Benjamin D. Sommer"
   year: 2009
   chapter: 1
-related: ["[[Sommer — Introduction]]"]
+related: ["[[Sommer — Introduction]]", "[[Sommer — Chapter 2 — Fluidity in Israel]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Stavrakopoulou — Part I — Feet and Legs]]"]
 ---
 
 # Sommer — Chapter 1

@@ -19,8 +19,11 @@ related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"
   - "[[Romer — Chapters 10-12 + Conclusion]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
-  - "[[../../notes/theology/meta-analysis-scholars]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]"
+  - "[[Sommer — Introduction]]"
+  - "[[Heiser — Part 2 — The Households of God]]"
 ---
 
 # Sommer, The Bodies of God — Complete Book Note

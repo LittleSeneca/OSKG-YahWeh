@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, methodology, history/kenite-hypothesis, history/israel-judah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Sommer — Chapter 1 — Mesopotamia and Canaan]]"]
+related: ["[[Sommer — Chapter 1 — Mesopotamia and Canaan]]", "[[Sommer — Chapter 3 — Rejection of Fluidity]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Heiser — Part 2 — The Households of God]]"]
 ---
 
 # Sommer — Chapter 2

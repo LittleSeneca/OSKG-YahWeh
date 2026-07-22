@@ -19,6 +19,10 @@ related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Romer — Introduction]]"
   - "[[Dever — Introduction]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[Sommer — The Bodies of God]]"
+  - "[[Sommer — Chapter 1 — Mesopotamia and Canaan]]"
 ---
 
 # Sommer, The Bodies of God — Introduction

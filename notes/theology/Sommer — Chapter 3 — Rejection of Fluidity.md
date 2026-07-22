@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Sommer — Chapter 2 — Fluidity in Israel]]"]
+related: ["[[Sommer — Chapter 2 — Fluidity in Israel]]", "[[Sommer — Chapter 4 — Sacred Space 1]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Dever — Introduction]]", "[[meta-analysis-scholars]]"]
 ---
 
 # Sommer — Chapter 3

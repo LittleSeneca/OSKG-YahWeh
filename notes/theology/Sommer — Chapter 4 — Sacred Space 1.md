@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, temple, scholars/benjamin-sommer, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Sommer — Chapter 3 — Rejection of Fluidity]]"]
+related: ["[[Sommer — Chapter 3 — Rejection of Fluidity]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Sommer — Chapters 5-6 + Appendix]]", "[[Stavrakopoulou — Part I — Feet and Legs]]", "[[Day — Chapter 1 — Yahweh and El]]"]
 ---
 
 # Sommer — Chapter 4

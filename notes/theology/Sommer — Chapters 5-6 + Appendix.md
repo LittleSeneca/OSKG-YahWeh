@@ -2,7 +2,7 @@
 tags: [source/book-notes, theology/divine-embodiment, kabbalah, christianity, scholars/benjamin-sommer, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Sommer — Chapter 4 — Sacred Space 1]]"]
+related: ["[[Sommer — Chapter 4 — Sacred Space 1]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Sommer — The Bodies of God]]", "[[Stavrakopoulou — Part V — Head + Epilogue]]"]
 ---
 
 # Sommer — Chapters 5-6 + Appendix
