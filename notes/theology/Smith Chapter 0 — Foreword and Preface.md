@@ -3,117 +3,88 @@ tags:
   - source/book-notes
   - faith/yahweh
   - faith/monotheism
-  - history/canaanite-religion
   - scholars/mark-smith
   - truth-project
 created: 2026-07-22
-source:
-  title: "The Early History of God: Yahweh and the Other Deities in Ancient Israel"
-  author: "Mark S. Smith"
-  edition: "2nd edition (2002)"
-  publisher: "Eerdmans"
-  original: 1990
-  pages: ~289
-  local_file: "sources/books/_fulltext/Smith_Early_History_of_God_2002.txt"
+updated: 2026-07-22
+confidence: high
 related:
-  - "[[../../sources/books/core-monographs-reading-list]]"
+  - "[[Smith Chapter 0 — Introduction]]"
+  - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
   - "[[../../notes/theology/meta-analysis-scholars]]"
-  - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
 status: in-progress
 ---
 
-# Smith, Early History of God — Overview & Methodology
+# Smith, Early History of God — Foreword & Preface
 
-## Chunk 1: Foreword + Preface to Second Edition
+## Claim 1: The convergence/differentiation framework is the right way to understand Israelite religious development
 
-### Foreword (Patrick D. Miller)
+**Smith's claim:** The relationship between Yahweh and other deities can't be understood as simple "syncretism" (foreign contamination of pure Yahwism). Instead, two processes operated: (a) **convergence** — Yahweh absorbed the characteristics of other deities into his own profile; (b) **differentiation** — those same characteristics were later rejected as non-Yahwistic. This framework explains both why Yahweh resembles Canaanite gods AND why the Bible polemicizes against them.
 
-Miller situates Smith's book as **the most important single study of Israelite religion in the last quarter century**. The field had reached an impasse:
+**Evidence presented:** The evidence is the entire book. The preface doesn't present new evidence — it establishes the lens. Miller's foreword describes it as Smith's major contribution to breaking a scholarly deadlock between those who saw early polytheism and those who insisted on early exclusive Yahwism.
 
-> "Some speak with ease of an early polytheism in Israelite religion, while others insist on the priority and generally exclusive worship of the god Yahweh from very early stages."
+**Confidence in this claim:** HIGH that this is a useful interpretive framework. MEDIUM that it captures the full complexity. Smith himself acknowledges the evidence is fragmentary and pre-8th century reconstruction is "largely conjectural." The framework may impose more order than the data warrant.
 
-Smith's book broke the deadlock by offering a **typology of convergence and differentiation**:
+**What's at stake for faith:** This framework, if accepted, reframes the entire Bible's religious polemic. The prophets weren't fighting foreign corruption — they were fighting Israel's OWN heritage. "Canaanite" isn't an external threat; it's what Israel used to be. This means the biblical narrative of a pure original Yahwism corrupted by foreigners is **a theological construction, not history.** If you were raised to believe Israel was always monotheistic and only occasionally "fell into" idolatry, this framework says the opposite: Israel was polytheistic and only gradually became monotheistic through internal conflict.
 
-- **Convergence:** Yahweh absorbed the characteristics, imagery, and functions of other deities (El, Baal, Asherah). The other gods didn't just disappear — they were folded INTO Yahweh's profile.
-- **Differentiation:** Israel eventually rejected those other deities as objects of worship. This created the "Yahweh-alone" movement that produced monotheism.
+**Who disagrees:** Scholars who argue Israel was essentially monolatrous from the beginning (Tigay, Kaufmann). Scholars who argue the biblical texts are too late to preserve reliable pre-exilic religion (Schmid, minimalists). Both groups would say Smith's framework overstates what we can know.
 
-> Miller's key observation: "The place of the other deities is not simply alongside Israel's deity but **within the god Yahweh** as well as in differentiation and, at times, conflict with him."
+**Alternative reading:** The convergence/differentiation framework assumes the Canaanite parallels represent actual Israelite belief, not just shared ANE literary conventions. If the parallels are common cultural idiom rather than evidence of polytheistic practice, the framework overstates the case. See [[scholarly-directory-yahweh-origins|Hess's critique]]: "imagery does not equal worship."
 
-### Preface to the Second Edition (2002)
-
-Smith uses the preface to do three things: survey the field's development, acknowledge theoretical challenges, and revisit his most controversial argument.
-
-#### 1. The Field Has Exploded
-
-Since 1990, a flood of new work: Day, Keel/Uehlinger, Zevit, Dever, Finkelstein, Albertz, van der Toorn, Niehr, Wyatt, the *Dictionary of Deities and Demons in the Bible*. Smith notes his own *Origins of Biblical Monotheism* (2001) as the sequel.
-
-#### 2. Three Major Trends
-
-| Trend | Key Figures | Significance |
-|-------|------------|-------------|
-| **Iconography** | Keel & Uehlinger, Mettinger, Cornelius, Beck | Visual evidence now a "third major set of data" alongside texts and archaeology |
-| **Archaeological synthesis** | Zevit, Dever, Finkelstein, Stager, King | New theoretical sophistication; Zevit's 2001 book is "monumental" |
-| **Social sciences** | van der Toorn (family religion), Schloen (patrimonial household model) | Religion understood through social structures — domestic vs. public, elite vs. peasant |
-
-#### 3. Theoretical Challenges Smith Acknowledges
-
-Smith is remarkably honest about the limitations of his own project:
-
-- **Fragmentary evidence:** "What vestiges we have provide **barely enough material** to write a proper history of religion for ancient Israel." Pre-8th century BCE is especially murky.
-- **Textual problems:** The Documentary Hypothesis is under fire. Texts have undergone long redactional histories. What we recover are "literary vestiges" that have been "refracted" through later editing.
-- **Historical reconstruction is harder now:** Finkelstein's challenges to the United Monarchy make the 10th century BCE increasingly difficult to pin down. The Shishak list may not anchor chronology as once thought.
-- **What is "history" anyway?** Smith pushes back on both Halpern (the biblical writers had antiquarian interest in the past) and Brettler (any narrative about the past is history). Smith argues biblical narratives may be more about **collective memory** and **commemoration** than history in the modern sense.
-- **Ugaritic comparisons are more nuanced:** The days of "pan-Ugariticism" are over. Comparisons must account for temporal, geographical, and cultural distance. But the Ugaritic texts remain "the single greatest extra-biblical textual witness" to Israel's West Semitic background.
-
-> **Smith's methodological humility is striking.** He openly states that pre-8th century reconstruction is largely conjectural, that genres only offer "a glimpse of the larger understanding," and that "archaeology and iconography... can alleviate only some of the difficulty."
-
-#### 4. The Asherah Controversy — Smith Defends His Most Contested Position
-
-This is the section where Smith pushes back on his critics. The debate: **was Asherah a goddess worshipped in monarchic Israel, or was the "asherah" a cult symbol (a wooden pole/tree) that had lost its connection to the goddess?**
-
-**The majority view (which Smith resists):** Asherah was a goddess in monarchic Israel. Most scholars hold this (Ackerman, Binger, Day, Dever, Dijkstra, Edelman, Hadley, Handy, Keel/Uehlinger, Loretz, Merlo, Niehr, Olyan, Petty, Wyatt, Xella, Zevit).
-
-**The minority view (Smith's position):** The evidence is insufficient to prove Asherah was a goddess during the monarchy. The asherah may have been a cult symbol rendered in the likeness of a tree or pole, which had earlier referred to the goddess but by the monarchic period functioned as part of **Yahweh's symbolic repertoire**. "His asherah" means exactly that — it's HIS, not hers.
-
-**Smith's specific arguments:**
-
-1. **The grammar at Kuntillet Ajrud:** `/‘šrth` with possessive suffix makes most sense as "his asherah" (the symbol), not "his Asherah" (the goddess). "What would it have meant to say that the goddess belonged to or was possessed by Yahweh?" (quoting Zevit)
-
-2. **The Deuteronomistic History is polemic:** If the Deuteronomists are ideologically driven polemicists (which everyone agrees), why should we trust their claim that the asherah was a goddess? The polemical nature cuts both ways. Smith: "Advocates are the scholars taken in by the ideological perspective of the Deuteronomistic History."
-
-3. **1 Kings 18:19 ("prophets of Asherah"):** This may be a later polemical misidentification — conflating the Phoenician Astarte (there IS no Phoenician Asherah attested) with the symbol and assuming it represented a goddess. The textual variations between Asherah and Astarte support this.
-
-4. **Aniconic Yahweh, aniconic asherah:** If the Jerusalem temple was aniconic for Yahweh (no statues), it's reasonable that the asherah symbol was also non-anthropomorphic.
-
-5. **Smith concedes he may be wrong:** "I am not opposed in theory to the possibility that Asherah was an Israelite goddess during the monarchy. My chief objection to this view is that it has not been demonstrated... It may be only a matter of time before superior evidence attesting to Asherah's cult in monarchic Israel is discovered."
-
-> **This is one of the most methodologically interesting passages in the book.** Smith is resisting the majority view on his own topic — the very scholars who cite him as the authority on Israelite polytheism mostly disagree with him on this specific point. He's being more skeptical of the evidence than his own camp.
-
-#### 5. Relationship to *Origins of Biblical Monotheism*
-
-Smith explicitly frames the two books as a pair:
-- **This book:** convergence and differentiation — HOW Yahweh absorbed and then rejected other deities
-- **The sequel:** monotheism's emergence in the 7th-6th centuries BCE
-
-The second edition adds citations to the sequel throughout, making the two function as a unified argument.
+**My assessment:** The framework is elegant and has enormous explanatory power. Its main vulnerability is the weakness of pre-8th century evidence — Smith is building a detailed model from "barely enough material." The model may be right in broad outline but wrong in specifics that we can never verify. Worth holding as a working hypothesis, not a settled conclusion.
 
 ---
 
-## Methodological Takeaways
+## Claim 2: Asherah was probably a cult symbol, not a goddess, in monarchic Israel
 
-After reading Smith's preface, several things are clear about how he works:
+**Smith's claim:** Despite the majority scholarly view, the evidence is insufficient to prove Asherah was worshipped as a goddess during the Israelite monarchy. The "asherah" mentioned in inscriptions and the Bible was more likely a wooden cult symbol (a pole or stylized tree) that had earlier represented the goddess but by the monarchic period functioned as part of Yahweh's cultic apparatus. "His asherah" means it belonged to Yahweh, not to a goddess.
 
-1. **He's more cautious than his reputation suggests.** The popular version of "Smith proved Israel was polytheistic" overstates his actual claims. He repeatedly emphasizes fragmentary evidence and conjecture.
+**Evidence presented:**
+- The Kuntillet Ajrud grammar: the possessive suffix on *'šrth* makes most sense as "his asherah" (the symbol), not "his Asherah" (the goddess). "What would it have meant to say that the goddess belonged to Yahweh?" (citing Zevit's question)
+- No Phoenician goddess "Asherah" is attested — the Phoenician goddess is Astarte. 1 Kings 18:19's "prophets of Asherah" may be a scribal confusion between Asherah and Astarte.
+- The Deuteronomistic History is ideologically driven polemic. If we accept that it's polemical (which everyone does), why trust its claim that the asherah was a goddess?
+- If the Jerusalem temple was aniconic for Yahweh, the asherah symbol may have been aniconic too — a pole, not a goddess statue.
+- Smith concedes he may be wrong and that new evidence could change his position.
 
-2. **He distinguishes between the symbol and the deity.** The asherah debate crystallizes his methodological approach: take the evidence at its most straightforward reading (grammar says "his asherah," not "his goddess Asherah") rather than the most exciting one.
+**Confidence in this claim:** MEDIUM. Smith's grammatical argument is strong but not decisive — the morphology CAN be read either way. His point about the Deuteronomistic polemic cutting both ways is genuinely insightful. But the majority of scholars who otherwise agree with him (Dever, Day, Olyan, Zevit, Ackerman) disagree on this specific point. That should give pause.
 
-3. **He's aware of the theoretical problems with his own project.** He doesn't pretend the Documentary Hypothesis is settled, that the United Monarchy is historically solid, or that pre-8th century reconstruction is reliable. He's doing the best he can with bad data.
+**What's at stake for faith:** Higher than it seems. If Asherah was a goddess and Yahweh's consort, then Israelite religion was not just polytheistic in a generic sense but included a DIVINE COUPLE — a god and goddess pair. This would mean the biblical God had a wife. That's a more specific and theologically explosive claim than "Israelites sometimes worshipped other gods." Smith's resistance to this conclusion shows he's not just trying to maximize the polytheism case — he's following the evidence where he thinks it leads, even when it costs him support from his own allies.
 
-4. **He's in an interesting position with his critics.** The scholars who cite him as authority (Dever, Day, etc.) mostly disagree with him on Asherah. The scholars who agree with him on Asherah (Frevel, Korpel) tend to be more conservative. He's caught between camps.
+**Who disagrees:** Almost everyone. The majority view (Ackerman, Binger, Day, Dever, Dijkstra, Edelman, Hadley, Handy, Keel/Uehlinger, Loretz, Merlo, Niehr, Olyan, Petty, Wyatt, Xella, Zevit) holds Asherah was a goddess in monarchic Israel. The minority that agrees with Smith includes Frevel, Korpel, Tigay, Cross, and McCarter (with various nuances). See [[scholarly-directory-yahweh-origins|the Kuntillet Ajrud grammar debate]].
+
+**Alternative reading:** The majority view: Asherah WAS a goddess, and the asherah pole was her cult symbol representing her presence. The possessive suffix on *'šrth* is simply "his Asherah" — his consort. The Deuteronomistic polemic, while ideological, preserves genuine knowledge of goddess worship.
+
+**My assessment:** This is the most interesting passage in the preface because it reveals Smith's methodological character. He could easily go with the majority and strengthen his own case (a goddess consort makes the polytheism argument even stronger). He doesn't. This suggests he's following the evidence rather than a predetermined conclusion. That said, his position requires some strained readings (explaining away 1 Kings 18:19 as scribal confusion) and the majority may simply be right. I'd flag this as: "Smith is probably too cautious here, but his caution is methodologically admirable."
 
 ---
 
-## Next: Introduction
+## Claim 3: The field's development since 1990 has strengthened the convergence model
 
-The Introduction proper (starting at line 429) lays out the conceptual framework. I'll cover that in the next chunk.
+**Smith's claim:** New discoveries in iconography, archaeology, and inscriptions, combined with theoretical advances from social sciences, have reinforced the basic picture he drew in 1990.
+
+**Evidence presented:** Names roughly 40 scholars and major works that have appeared since the first edition. Key additions: Keel & Uehlinger's iconographic synthesis, Zevit's monumental *Religions of Ancient Israel*, van der Toorn's work on family religion, Dever's and Finkelstein's archaeological syntheses.
+
+**Confidence in this claim:** HIGH that the field has been productive. MEDIUM that it has "strengthened" Smith's specific model — some developments (Tigay's onomastics, Schmid's late dating) actually challenge it.
+
+**What's at stake for faith:** Low directly. This is about the sociology of the field, not about God. But it matters for evaluating Smith's credibility: he's not a lone voice; he's summarizing a broad research program.
+
+**Who disagrees:** Minimalists (Thompson, Lemche, Davies) would say the entire enterprise of reconstructing pre-exilic Israelite religion is misguided. Conservatives would say the field has been captured by naturalistic presuppositions. See [[meta-analysis-scholars|the meta-analysis note]].
+
+**My assessment:** Smith's survey of the field is useful but self-serving. He cites works that support his framework and acknowledges challenges without fully grappling with them. The preface is advocacy, not neutral assessment. Read it as "here's why my approach remains viable" rather than "here's an objective state of the field."
+
+---
+
+## Methodological Assessment of Smith as a Scholar
+
+After reading the preface, here's what matters for evaluating everything that follows:
+
+| Strength | Weakness |
+|----------|----------|
+| Acknowledges fragmentary evidence and conjectural reconstruction | Builds detailed models anyway from "barely enough material" |
+| Distinguishes between what evidence shows and what it might suggest | Sometimes treats "might suggest" as "shows" in later chapters |
+| Willing to hold minority position against his own allies (Asherah) | The minority position may simply be wrong |
+| Honest about theoretical challenges to his project | Doesn't let those challenges constrain his conclusions |
+| Catholic faith doesn't predetermine his conclusions (they cut against doctrine) | His institutional location (Princeton Seminary, NYU) rewards critical conclusions |
+
+**Bottom line:** Smith is a careful, methodologically self-aware scholar whose conclusions should be taken seriously but not treated as settled. His greatest vulnerability is the quality of pre-8th century evidence — he acknowledges this openly, then proceeds to build detailed arguments anyway. The tension between his methodological humility and his ambitious conclusions is the single most important thing to track through the rest of the book.
