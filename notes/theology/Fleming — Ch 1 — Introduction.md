@@ -10,10 +10,10 @@ source:
   publisher: "Cambridge University Press"
   local_file: "sources/books/_fulltext/Fleming_Yahweh_Before_Israel_2021.txt"
 related:
-  - "[[Römer — Chapter 3 — Moses and the Midianites]]"
+  - "[[Romer — Chapter 3 — Moses and the Midianites]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Tigay — Introduction]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Fleming — Chapter 1: Introduction — The Search for Yahweh's Origins
@@ -191,7 +191,7 @@ Fleming sets out a radical reframing of the entire debate over Yahweh's origins.
 **Weakest section:** The positive proposal of "nearby spaces" (pp. 36-37). This is where the book promises more than the Introduction can deliver. The geographical argument needs Ch 2 (Egyptian evidence) and Ch 6 (Judges 5) to land before "nearby" has content.
 
 **Cross-reference check:**
-- [[Römer — Chapter 3 — Moses and the Midianites]]: Römer's is the most sophisticated current defense of the Midianite Hypothesis that Fleming targets. Fleming cites Römer's survey of failed non-biblical Yahweh attestations (p. 25, n.5) and acknowledges Römer's monograph as "the most recent major statement" (p. 25, n.6).
+- [[Romer — Chapter 3 — Moses and the Midianites]]: Römer's is the most sophisticated current defense of the Midianite Hypothesis that Fleming targets. Fleming cites Römer's survey of failed non-biblical Yahweh attestations (p. 25, n.5) and acknowledges Römer's monograph as "the most recent major statement" (p. 25, n.6).
 - [[Cross — Preface + Part I — Canaanite Religion and El]]: Cross's (1973) argument that Yahweh originated as an epithet of El is the most influential American version of the Midianite Hypothesis. Fleming notes Cross's lack of success but acknowledges his sophistication (p. 31).
 - [[Tigay — Introduction]]: Relevant for the onomastic question — if Yahweh names were common in the early period, that would bear on Fleming's argument about Yahweh's early presence in the land. Tigay's work on the onomasticon is foundational.
-- [[sources/primary-sources/key-inscriptions]]: The Soleb Shasu inscription (Section 4) is the primary source for Ch 2 and the entire book's foundation.
+- [[scholarly-directory-yahweh-origins]]: The Soleb Shasu inscription (Section 4) is the primary source for Ch 2 and the entire book's foundation.

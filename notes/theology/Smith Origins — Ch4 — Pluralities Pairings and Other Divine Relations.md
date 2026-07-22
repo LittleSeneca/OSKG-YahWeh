@@ -13,7 +13,7 @@ related:
   - "[[Smith Origins — Ch3 — The Divine Family]]"
   - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
-  - "[[Romer - The Invention of God]]"
+  - "[[Romer — Introduction]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
 ---
 

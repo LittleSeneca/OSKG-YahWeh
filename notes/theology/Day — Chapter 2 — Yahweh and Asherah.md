@@ -27,7 +27,7 @@ related:
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Dever — Chapters VI-IX — Asherah to Conclusions]]"
   - "[[Romer — Chapter 9 — Yhwh and His Asherah]]"
-  - "[[key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
   - "[[scholarly-directory-yahweh-origins]]"
 ---
 

@@ -14,10 +14,10 @@ updated: 2026-07-22
 confidence: high
 related:
   - "[[yahweh-monotheism-polytheism-debate]]"
-  - "[[../history/History Index]]"
+  - "[[meta-analysis-scholars]]"
   - "[[Theology Index]]"
-  - "[[../../sources/transcripts/history-of-yahweh-alex-oconnor]]"
-  - "[[../../sources/Sources Index]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
 status: active-research
 ---
 

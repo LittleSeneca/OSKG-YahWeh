@@ -16,8 +16,8 @@ confidence: high
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
-  - "[[../../notes/theology/meta-analysis-scholars]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
 status: in-progress
 ---
 

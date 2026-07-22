@@ -15,7 +15,7 @@ confidence: medium
 related:
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Smith Chapter 0 — Introduction]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Smith, Early History of God — Chapter 2

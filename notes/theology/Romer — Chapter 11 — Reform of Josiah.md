@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, scholars/thomas-romer, history/jerusalem, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 10 — Fall of Samaria]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"]
+related: ["[[Romer — Chapter 10 — Fall of Samaria]]", "[[Romer — Chapter 12 + Conclusion]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"]
 ---
 
 # Römer, The Invention of God — Chapter 11

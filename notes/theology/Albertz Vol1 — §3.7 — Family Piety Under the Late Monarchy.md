@@ -9,7 +9,7 @@ source:
   publisher: "Westminster/John Knox Press"
   local_file: "sources/books/_fulltext/Albertz_History_of_Israelite_Religion_Vol1_1994.txt"
 related:
-  - "[[Albertz Vol1 — §2.4 — Family Piety in the Later Pre-State Period]]"
+  - "[[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]]"
   - "[[Albertz Vol1 — §3.8 — The Deuteronomic Reform Movement]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
 ---

@@ -27,7 +27,7 @@ related:
   - "[[Day — Chapter 3 — Yahweh Versus Baal]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
   - "[[scholarly-directory-yahweh-origins]]"
-  - "[[key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Day — Chapter 5: Yahweh and the Goddesses Astarte and Anat (and the Queen of Heaven)

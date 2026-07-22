@@ -18,7 +18,7 @@ confidence: medium
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
   - "[[../../sources/books/core-monographs-reading-list]]"
 ---
 

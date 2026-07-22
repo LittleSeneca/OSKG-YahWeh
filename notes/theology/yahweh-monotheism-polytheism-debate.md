@@ -13,11 +13,11 @@ created: 2026-07-22
 updated: 2026-07-22
 confidence: high
 related:
-  - "[[../history/History Index]]"
+  - "[[meta-analysis-scholars]]"
   - "[[Theology Index]]"
-  - "[[../../sources/transcripts/history-of-yahweh-alex-oconnor]]"
-  - "[[../../sources/Sources Index]]"
-  - "[[../questions/Questions Index]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[meta-analysis-scholars]]"
 status: active-research
 ---
 

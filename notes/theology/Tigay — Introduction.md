@@ -18,7 +18,7 @@ source:
   local_file: "sources/books/_fulltext/Tigay_You_Shall_Have_No_Other_Gods_1986.txt"
 related:
   - "[[Smith Chapter 0 — Introduction]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Tigay — Introduction

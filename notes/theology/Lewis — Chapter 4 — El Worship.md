@@ -11,10 +11,10 @@ source:
 related:
   - "[[Lewis — Chapter 1 — Introductory Matters]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
-  - "[[Smith Origins — Part I — Structures of Divinity]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Heiser — Part 2 — The Households of God]]"
   - "[[Romer — Chapter 2 — Geographic Origin]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Lewis — Chapter 4: El Worship

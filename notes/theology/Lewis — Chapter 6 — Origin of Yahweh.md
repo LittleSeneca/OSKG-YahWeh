@@ -15,7 +15,7 @@ related:
   - "[[Romer — Chapter 2 — Geographic Origin]]"
   - "[[Romer — Chapter 3 — Moses and the Midianites]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Lewis — Chapter 6: The Origin of Yahweh

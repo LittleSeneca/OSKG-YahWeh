@@ -7,8 +7,8 @@ tags:
   - truth-project
 created: 2026-07-22
 related:
-  - "[[Notes Index]]"
-  - "[[History Index]]"
+  - "[[Theology Index]]"
+  - "[[Theology Index]]"
   - "[[Questions Index]]"
 ---
 

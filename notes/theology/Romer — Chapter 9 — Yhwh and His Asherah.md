@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/asherah, scholars/thomas-romer, archaeology, philology, history/israel-judah, history/jerusalem, history/josiah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 8 — Statue of Yhwh]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]"]
+related: ["[[Romer — Chapter 8 — Statue of Yhwh]]", "[[Romer — Chapter 10 — Fall of Samaria]]", "[[Romer — Chapters 8-9 — Statue and Asherah]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]", "[[Day — Chapter 2 — Yahweh and Asherah]]"]
 ---
 
 # Römer, The Invention of God — Chapter 9

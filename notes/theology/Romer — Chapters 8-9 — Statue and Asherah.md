@@ -19,7 +19,7 @@ confidence: medium
 related:
   - "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Römer, The Invention of God — Chapters 8-9

@@ -9,8 +9,12 @@ source:
   publisher: "Harvard University Press"
   local_file: "sources/books/_fulltext/Cross_Canaanite_Myth_and_Hebrew_Epic_1973.txt"
 related:
+  - "[[Cross — Parts II-III — Divine Warrior and League]]"
+  - "[[Smith Origins — Ch2 — The Divine Council]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Romer — Chapter 4 — How Yhwh Became Israel's God]]"
+  - "[[Sommer — Chapter 1 — Mesopotamia and Canaan]]"
+  - "[[Day — Chapter 1 — Yahweh and El]]"
 ---
 
 # Cross — Preface + Part I: The Religion of Canaan and the God of Israel

@@ -10,7 +10,7 @@ source:
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
   - "[[Smith Origins — Ch5 — The Traits of Deities]]"
-  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
+  - "[[Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations]]"
   - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
   - "[[JZ Smith - Drudgery Divine]]"
 ---

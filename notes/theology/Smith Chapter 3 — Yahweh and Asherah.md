@@ -17,7 +17,7 @@ related:
   - "[[Smith Chapter 0 — Foreword and Preface]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Smith Chapter 2 — Yahweh and Baal]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Smith, Early History of God — Chapter 3

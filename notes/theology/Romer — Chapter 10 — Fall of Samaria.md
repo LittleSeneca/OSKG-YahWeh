@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/israel-judah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 9 — Yhwh and His Asherah]]"]
+related: ["[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Romer — Chapter 11 — Reform of Josiah]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Albertz Vol2 — Chapter 4 — Exilic Period]]"]
 ---
 
 # Römer, The Invention of God — Chapter 10

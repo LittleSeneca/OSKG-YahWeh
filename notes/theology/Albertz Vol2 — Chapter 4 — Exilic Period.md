@@ -26,7 +26,7 @@ source:
   german_original: "Religionsgeschichte Israels in alttestamentlicher Zeit, Vandenhoeck & Ruprecht, 1992"
   local_file: "sources/books/_fulltext/Albertz_History_of_Israelite_Religion_Vol2_1994.txt"
 related:
-  - "[[Smith Origins — Part III — Origins of Monotheism]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Romer — Chapter 12 + Conclusion]]"
   - "[[Romer — Chapter 10 — Fall of Samaria]]"
   - "[[Romer — Chapter 11 — Reform of Josiah]]"

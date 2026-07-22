@@ -12,9 +12,9 @@ related:
   - "[[Smith Origins — Introduction]]"
   - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
   - "[[Smith Origins — Ch3 — The Divine Family]]"
-  - "[[Smith Origins — Ch7 — El, Yahweh, and the Original God]]"
-  - "[[Heiser - The Unseen Realm]]"
-  - "[[Cross - Canaanite Myth and Hebrew Epic]]"
+  - "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]"
+  - "[[Heiser — Part 1 — First Things]]"
+  - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Tigay — You Shall Have No Other Gods]]"
 ---
 

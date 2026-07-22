@@ -11,11 +11,11 @@ source:
 related:
   - "[[Smith Origins — Introduction]]"
   - "[[Smith Origins — Ch2 — The Divine Council]]"
-  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
-  - "[[Smith Origins — Ch7 — El, Yahweh, and the Original God]]"
-  - "[[Smith - The Early History of God]]"
-  - "[[Cross - Canaanite Myth and Hebrew Epic]]"
-  - "[[Heiser - The Unseen Realm]]"
+  - "[[Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations]]"
+  - "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]"
+  - "[[Smith Chapter 0 — Foreword and Preface]]"
+  - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
+  - "[[Heiser — Part 1 — First Things]]"
 ---
 
 # Smith — Chapter 3: The Divine Family

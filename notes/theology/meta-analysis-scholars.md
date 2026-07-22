@@ -15,7 +15,7 @@ related:
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Theology Index]]"
-  - "[[../../sources/Sources Index]]"
+  - "[[meta-analysis-scholars]]"
 status: active-research
 ---
 

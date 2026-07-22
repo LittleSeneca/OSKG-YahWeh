@@ -17,10 +17,10 @@ related:
   - "[[Fleming — Ch 5 — The Name Yahweh]]"
   - "[[Fleming — Ch 6 — The People of Yahweh]]"
   - "[[Fleming — Ch 7 — The Early Character of the God Yahweh]]"
-  - "[[Römer — Chapter 3 — Moses and the Midianites]]"
+  - "[[Romer — Chapter 3 — Moses and the Midianites]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Tigay — Introduction]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Fleming — Yahweh Before Israel: Book Summary

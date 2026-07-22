@@ -18,8 +18,8 @@ confidence: high
 related:
   - "[[Smith Chapter 0 — Foreword and Preface]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
-  - "[[../../notes/theology/yahweh-monotheism-polytheism-debate]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Smith, Early History of God — Introduction

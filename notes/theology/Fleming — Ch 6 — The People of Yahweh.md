@@ -14,7 +14,7 @@ related:
   - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
   - "[[Fleming — Ch 4 — The Old Poetry]]"
   - "[[Fleming — Ch 5 — The Name Yahweh]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Fleming — Chapter 6: The People of Yahweh
@@ -219,4 +219,4 @@ This is Fleming's positive argument and the constructive center of the book. Hav
 
 **Overall:** This is the chapter where Fleming's thesis succeeds or fails. The 'am Yhwh argument is creative, textually grounded, and fits the evidence better than the Midianite Hypothesis in several respects. But it depends heavily on a specific reading of Judges 5's redaction history that Fleming's most important dialogue partner (Smith) rejects. The gap between "suggestive" and "demonstrated" remains wide — but Fleming has opened up a genuinely new line of inquiry that the field will need to engage.
 
-**Cross-reference to primary sources:** [[sources/primary-sources/key-inscriptions]] on the Mesha Stele (Section 5) is directly relevant — the Mesha inscription's pairing of Kamosh and Moab provides the epigraphic parallel to the biblical 'am Yhwh / 'am kĕmôš pattern.
+**Cross-reference to primary sources:** [[scholarly-directory-yahweh-origins]] on the Mesha Stele (Section 5) is directly relevant — the Mesha inscription's pairing of Kamosh and Moab provides the epigraphic parallel to the biblical 'am Yhwh / 'am kĕmôš pattern.

@@ -12,7 +12,7 @@ related:
   - "[[Albertz Vol1 — §3.6 — Eighth-Century Prophetic Controversies]]"
   - "[[Albertz Vol1 — §3.7 — Family Piety Under the Late Monarchy]]"
   - "[[Romer — Chapter 11 — Reform of Josiah]]"
-  - "[[Smith Origins — Part III — Origins of Monotheism]]"
+  - "[[Smith Origins — Introduction]]"
 ---
 
 # Albertz — §3.8: The Deuteronomic Reform Movement

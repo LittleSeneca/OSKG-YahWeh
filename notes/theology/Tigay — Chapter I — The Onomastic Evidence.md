@@ -8,6 +8,9 @@ source:
   year: 1986
 related:
   - "[[Tigay — Introduction]]"
+  - "[[Tigay — Chapter II + Conclusions]]"
+  - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
+  - "[[meta-analysis-scholars]]"
 ---
 
 # Tigay — Chapter I: The Onomastic Evidence

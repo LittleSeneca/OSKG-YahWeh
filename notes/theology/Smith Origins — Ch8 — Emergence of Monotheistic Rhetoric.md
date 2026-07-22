@@ -9,12 +9,12 @@ source:
   publisher: "Oxford University Press"
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
-  - "[[Smith Origins — Ch7 — El, Yahweh, and the Original God]]"
-  - "[[Smith Origins — Ch9 — The Formation of Monotheistic Theologies]]"
+  - "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]"
+  - "[[Smith Origins — Ch9 — Formation of Monotheistic Theologies]]"
   - "[[Smith Origins — Ch5 — The Traits of Deities]]"
-  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
+  - "[[Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations]]"
   - "[[Smith Origins — Introduction]]"
-  - "[[Romer - The Invention of God]]"
+  - "[[Romer — Introduction]]"
   - "[[Tigay — Introduction]]"
 ---
 

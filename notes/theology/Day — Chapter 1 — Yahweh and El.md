@@ -24,11 +24,11 @@ source:
   local_file: "sources/books/_fulltext/Day_Yahweh_and_the_Gods_of_Canaan_2000.txt"
 related:
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
-  - "[[Smith Origins — Part I — Structures of Divinity]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Dever — Introduction and Chapters I-II — Methodology]]"
   - "[[scholarly-directory-yahweh-origins]]"
-  - "[[key-inscriptions]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Day — Chapter 1: Yahweh and El

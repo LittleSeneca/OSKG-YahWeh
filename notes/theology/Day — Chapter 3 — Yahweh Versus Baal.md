@@ -21,7 +21,7 @@ source:
   local_file: "sources/books/_fulltext/Day_Yahweh_and_the_Gods_of_Canaan_2000.txt"
 related:
   - "[[Day — Chapter 1 — Yahweh and El]]"
-  - "[[Day — Chapter 4 — Yahweh's Appropriation of Baal Imagery]]"
+  - "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]"
   - "[[Smith Chapter 2 — Yahweh and Baal]]"
   - "[[scholarly-directory-yahweh-origins]]"
 ---

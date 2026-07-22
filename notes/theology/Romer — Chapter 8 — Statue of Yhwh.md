@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, history/aniconism, scholars/thomas-romer, history/kenite-hypothesis, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 7 — Cult of Yhwh in Judah]]", "[[Smith Chapter 3 — Yahweh and Asherah]]"]
+related: ["[[Romer — Chapter 7 — Cult of Yhwh in Judah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Romer — Chapters 8-9 — Statue and Asherah]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]"]
 ---
 
 # Römer, The Invention of God — Chapter 8

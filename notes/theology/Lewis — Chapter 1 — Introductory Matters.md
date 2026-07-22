@@ -13,7 +13,7 @@ related:
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Sommer — Introduction]]"
   - "[[Dever — Chapter I — Defining Religion]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Lewis — Chapter 1: Introductory Matters

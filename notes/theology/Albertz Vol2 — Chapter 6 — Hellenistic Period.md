@@ -27,7 +27,7 @@ source:
 related:
   - "[[Albertz Vol2 — Chapter 4 — Exilic Period]]"
   - "[[Albertz Vol2 — Chapter 5 — Post-Exilic Period]]"
-  - "[[Smith Origins — Part III — Origins of Monotheism]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Albertz Vol1 — Introduction — History, Method, Dividing Lines]]"
   - "[[Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety]]"
 ---

@@ -11,8 +11,8 @@ source:
 related:
   - "[[Smith Origins — Introduction]]"
   - "[[Smith Origins — Ch2 — The Divine Council]]"
-  - "[[Smith Origins — Part I — Structures of Divinity]]"
-  - "[[Romer - The Invention of God]]"
+  - "[[Smith Origins — Introduction]]"
+  - "[[Romer — Introduction]]"
   - "[[Tigay — Introduction]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
 ---

@@ -27,8 +27,8 @@ source:
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapter 0 — Foreword and Preface]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
-  - "[[../../notes/theology/meta-analysis-scholars]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
 ---
 
 # Römer, The Invention of God — Introduction

@@ -19,8 +19,8 @@ confidence: medium
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapter 2 — Yahweh and Baal]]"
-  - "[[../../notes/theology/yahweh-monotheism-polytheism-debate]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Smith, Early History of God — Chapter 1

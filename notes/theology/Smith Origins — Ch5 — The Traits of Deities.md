@@ -9,10 +9,10 @@ source:
   publisher: "Oxford University Press"
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
-  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
+  - "[[Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations]]"
   - "[[Smith Origins — Ch6 — The Life and Death of Baal]]"
   - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
-  - "[[Sommer - The Bodies of God]]"
+  - "[[Sommer — The Bodies of God]]"
   - "[[Hendel - Aniconism and Anthropomorphism]]"
 ---
 

@@ -15,7 +15,7 @@ confidence: medium
 related:
   - "[[Romer — Introduction and Chapter 1]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
-  - "[[../../notes/theology/scholarly-directory-yahweh-origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Römer, The Invention of God — Chapters 2-3

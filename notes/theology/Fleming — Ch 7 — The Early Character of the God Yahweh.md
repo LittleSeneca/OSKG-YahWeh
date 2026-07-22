@@ -14,8 +14,8 @@ related:
   - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
   - "[[Fleming — Ch 6 — The People of Yahweh]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
-  - "[[Smith Origins — Part I — Structures of Divinity]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
+  - "[[Smith Origins — Introduction]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Fleming — Chapter 7: The Early Character of the God Yahweh
@@ -191,4 +191,4 @@ This concluding chapter asks: if Yahweh was originally the name of a Shasu peopl
 
 **Cross-reference to Cross:** [[Cross — Preface + Part I — Canaanite Religion and El]] — Fleming's entire argument entails the rejection of Cross's Yahweh-as-El-epithet model. This chapter makes the rejection explicit and systematic.
 
-**Cross-reference to Smith:** [[Smith Origins — Part I — Structures of Divinity]] — Smith's four-tier divine council model is the primary target of Fleming's "polytheism without pantheon" skepticism. The two scholars are in dialogue throughout.
+**Cross-reference to Smith:** [[Smith Origins — Introduction]] — Smith's four-tier divine council model is the primary target of Fleming's "polytheism without pantheon" skepticism. The two scholars are in dialogue throughout.

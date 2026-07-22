@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-romer, history/jerusalem, history/josiah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 6 — Cult of Yhwh in Israel]]"]
+related: ["[[Romer — Chapter 6 — Cult of Yhwh in Israel]]", "[[Romer — Chapter 8 — Statue of Yhwh]]", "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]", "[[Dever — Chapters III-V — Sources and Archaeological Evidence]]"]
 ---
 
 # Römer, The Invention of God — Chapter 7

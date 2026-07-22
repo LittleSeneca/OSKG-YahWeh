@@ -14,8 +14,8 @@ related:
   - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
   - "[[Fleming — Ch 3 — The Midianite Hypothesis — Moses and the Priest]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
-  - "[[Römer — Chapter 2 — Geographic Origin]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
+  - "[[Romer — Chapter 2 — Geographic Origin]]"
+  - "[[scholarly-directory-yahweh-origins]]"
 ---
 
 # Fleming — Chapter 4: The Old Poetry
@@ -159,4 +159,4 @@ This chapter tackles the strongest remaining evidence for the Midianite Hypothes
 
 **Overall:** This chapter completes the demolition of the Midianite Hypothesis's three pillars (Egyptian geography in Ch 2, prose in Ch 3, poetry in Ch 4). The poetry is the hardest target, and Fleming's arguments are more nuanced here — he's not claiming the southern references are meaningless, but that they mean something different than the Midianite Hypothesis assumes. The Ugaritic analogy is the strongest single contribution.
 
-**Cross-reference:** The [[sources/primary-sources/key-inscriptions]] on Kuntillet Ajrud (Section 1) should be updated to note Fleming's argument that the inscriptions show Israelite projection southward, not evidence of southern Yahweh origins.
+**Cross-reference:** The [[scholarly-directory-yahweh-origins]] on Kuntillet Ajrud (Section 1) should be updated to note Fleming's argument that the inscriptions show Israelite projection southward, not evidence of southern Yahweh origins.

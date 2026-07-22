@@ -12,7 +12,7 @@ source:
 related:
   - "[[Fleming — Ch 1 — Introduction]]"
   - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
-  - "[[Römer — Chapter 3 — Moses and the Midianites]]"
+  - "[[Romer — Chapter 3 — Moses and the Midianites]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
 ---
 
@@ -157,6 +157,6 @@ This chapter dismantles the biblical prose foundation of the Midianite Hypothesi
 
 **Weakest section:** The Exodus 18 analysis, which is good but slightly over-argued. Fleming's reading is more plausible than the traditional one, but the text IS genuinely ambiguous about Jethro's relationship to Yahweh, and a defender could reasonably disagree.
 
-**Cross-reference to Römer:** [[Römer — Chapter 3 — Moses and the Midianites]] takes the opposite approach — Römer treats Exodus 3 and 18 as preserving genuine memory of Midianite contribution to Yahweh's cult. Fleming directly engages Römer's reading (pp. 105-106) and reaches the opposite conclusion. The divergence between these two scholars on the same texts makes this the sharpest point of conflict in the current debate.
+**Cross-reference to Römer:** [[Romer — Chapter 3 — Moses and the Midianites]] takes the opposite approach — Römer treats Exodus 3 and 18 as preserving genuine memory of Midianite contribution to Yahweh's cult. Fleming directly engages Römer's reading (pp. 105-106) and reaches the opposite conclusion. The divergence between these two scholars on the same texts makes this the sharpest point of conflict in the current debate.
 
 **Cross-reference to Cross:** [[Cross — Preface + Part I — Canaanite Religion and El]] — Cross built his southern league concept partly on the same prose traditions Fleming deconstructs. If Exodus 3/6/18 don't support southern Yahwistic origins, Cross's model loses one of its pillars.

@@ -28,7 +28,7 @@ related:
   - "[[Day — Chapter 1 — Yahweh and El]]"
   - "[[Day — Chapter 2 — Yahweh and Asherah]]"
   - "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]"
-  - "[[Smith Origins — Part III — Origins of Monotheism]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[yahweh-monotheism-polytheism-debate]]"

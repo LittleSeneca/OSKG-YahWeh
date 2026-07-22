@@ -11,8 +11,8 @@ source:
   local_file: "sources/books/_fulltext/Fleming_Yahweh_Before_Israel_2021.txt"
 related:
   - "[[Fleming — Ch 1 — Introduction]]"
-  - "[[sources/primary-sources/key-inscriptions]]"
-  - "[[Römer — Chapter 3 — Moses and the Midianites]]"
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[Romer — Chapter 3 — Moses and the Midianites]]"
 ---
 
 # Fleming — Chapter 2: Yhwʒ of Shasu-Land
@@ -203,4 +203,4 @@ This is the foundation chapter of the entire book. Fleming undertakes the most t
 
 **Overall assessment:** This is the most important chapter in the book and arguably the most original contribution to the Yahweh-origins debate in decades. If Seir wasn't in the Soleb list, the southern-origin hypothesis loses its oldest and most "objective" anchor. The kinship-group reading of the Shasu names is less certain but opens up genuinely new interpretive possibilities. The chapter's caution ("we cannot locate Yhwʒ of Shasu-land") is admirable and honest.
 
-**Cross-reference to primary sources:** [[sources/primary-sources/key-inscriptions]] Section 4 (Soleb Shasu Inscription) needs updating: the primary source note currently states "yhwA could be a place name or a divine name" and assumes the Seir connection. Fleming's argument that Seir was absent from the original list and that Yhwʒ is a people-name should be noted there.
+**Cross-reference to primary sources:** [[scholarly-directory-yahweh-origins]] Section 4 (Soleb Shasu Inscription) needs updating: the primary source note currently states "yhwA could be a place name or a divine name" and assumes the Seir connection. Fleming's argument that Seir was absent from the original list and that Yhwʒ is a people-name should be noted there.

@@ -9,10 +9,10 @@ source:
   publisher: "Oxford University Press"
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
-  - "[[Smith Origins — Ch8 — The Emergence of Monotheistic Rhetoric]]"
-  - "[[Smith Origins — Ch9 — The Formation of Monotheistic Theologies]]"
+  - "[[Smith Origins — Ch8 — Emergence of Monotheistic Rhetoric]]"
+  - "[[Smith Origins — Ch9 — Formation of Monotheistic Theologies]]"
   - "[[Smith Origins — Introduction]]"
-  - "[[Romer - The Invention of God]]"
+  - "[[Romer — Introduction]]"
 ---
 
 # Smith — Chapter 10: Monotheism in Isaiah 40-55

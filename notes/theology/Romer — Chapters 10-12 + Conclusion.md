@@ -17,7 +17,7 @@ confidence: medium
 related:
   - "[[Romer — Chapters 8-9 — Statue and Asherah]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"
-  - "[[../../notes/theology/yahweh-monotheism-polytheism-debate]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
 ---
 
 # Römer, The Invention of God — Chapters 10-12 + Conclusion
