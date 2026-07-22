@@ -4,10 +4,12 @@ tags:
   - faith/yahweh
   - faith/asherah
   - faith/monotheism
-  - faith/aniconism
+  - history/aniconism
   - faith/solar-religion
   - history/exile
   - history/persian-period
+  - methodology
+  - historiography
   - archaeology
   - iconography
   - scholars/othmar-keel

@@ -7,6 +7,9 @@ tags:
   - iconography
   - scholars/othmar-keel
   - scholars/christoph-uehlinger
+  - faith/polytheism
+  - faith/baal
+  - ane-religion
   - truth-project
 created: 2026-07-22
 confidence: high

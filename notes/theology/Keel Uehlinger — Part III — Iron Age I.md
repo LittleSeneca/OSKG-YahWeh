@@ -6,6 +6,10 @@ tags:
   - iconography
   - scholars/othmar-keel
   - scholars/christoph-uehlinger
+  - faith/asherah
+  - faith/baal
+  - faith/polytheism
+  - methodology
   - truth-project
 created: 2026-07-22
 confidence: high

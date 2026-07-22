@@ -2,7 +2,10 @@
 tags:
   - source/book-notes
   - faith/yahweh
-  - faith/aniconism
+  - history/aniconism
+  - faith/asherah
+  - history/israel-judah
+  - methodology
   - archaeology
   - iconography
   - scholars/othmar-keel

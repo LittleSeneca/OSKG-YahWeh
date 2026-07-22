@@ -4,7 +4,9 @@ tags:
   - faith/yahweh
   - faith/asherah
   - faith/monotheism
-  - faith/aniconism
+  - history/aniconism
+  - methodology
+  - historiography
   - archaeology
   - iconography
   - scholars/othmar-keel
@@ -21,7 +23,7 @@ related:
   - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
   - "[[Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction]]"
   - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
-  - "[[Scholarly Directory - Yahweh Origins]]"
+  - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
   - "[[Theology Index]]"
 status: active-research

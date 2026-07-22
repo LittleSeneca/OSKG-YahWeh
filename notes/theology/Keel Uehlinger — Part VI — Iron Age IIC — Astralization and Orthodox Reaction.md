@@ -10,6 +10,10 @@ tags:
   - pillar-figurines
   - scholars/othmar-keel
   - scholars/christoph-uehlinger
+  - history/exile
+  - history/josiah
+  - history/aniconism
+  - methodology
   - truth-project
 created: 2026-07-22
 confidence: high

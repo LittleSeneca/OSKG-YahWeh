@@ -10,6 +10,12 @@ tags:
   - kuntillet-ajrud
   - scholars/othmar-keel
   - scholars/christoph-uehlinger
+  - faith/baal
+  - faith/el
+  - history/israel-judah
+  - history/aniconism
+  - methodology
+  - historiography
   - truth-project
 created: 2026-07-22
 confidence: high
