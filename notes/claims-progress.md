@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 3
-- **Total claims extracted:** 12
-- **Notes with edges added:** 3
-- **Last session:** 2026-07-23 (Session 1)
+- **Notes with claims extracted:** 6
+- **Total claims extracted:** 24
+- **Notes with edges added:** 6
+- **Last session:** 2026-07-23 (Session 2)
 
 ## By Scholar
 
@@ -25,7 +25,7 @@ related:
 - [ ] Smith Chapter 0 — Foreword and Preface
 - [ ] Smith Chapter 0 — Introduction
 - [ ] Smith Chapter 1 — Deities in the Period of the Judges
-- [ ] Smith Chapter 2 — Yahweh and Baal
+- [x] Smith Chapter 2 — Yahweh and Baal
 - [x] Smith Chapter 3 — Yahweh and Asherah
 - [ ] Smith Chapter 4 — Yahweh and the Sun
 - [ ] Smith Chapters 5-7 — Cult, Monotheism, Portraits
@@ -56,7 +56,7 @@ related:
 - [ ] Romer — Chapter 6 — Cult of Yhwh in Israel
 - [ ] Romer — Chapter 7 — Cult of Yhwh in Judah
 - [ ] Romer — Chapters 6-7 — Cults of Israel and Judah
-- [ ] Romer — Chapter 8 — Statue of Yhwh
+- [x] Romer — Chapter 8 — Statue of Yhwh
 - [x] Romer — Chapter 9 — Yhwh and His Asherah
 - [ ] Romer — Chapters 8-9 — Statue and Asherah
 - [ ] Romer — Chapter 10 — Fall of Samaria
@@ -136,7 +136,7 @@ related:
 - [ ] Dever — Chapters VI-IX — Asherah, Women, Monotheism
 
 ### Day, Yahweh and the Gods of Canaan (8 notes)
-- [ ] Day — Chapter 1 — Yahweh and El
+- [x] Day — Chapter 1 — Yahweh and El
 - [x] Day — Chapter 2 — Yahweh and Asherah
 - [ ] Day — Chapter 3 — Yahweh Versus Baal
 - [ ] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
@@ -205,6 +205,17 @@ related:
 ---
 
 ## Session Log
+
+### 2026-07-23 — Session 2
+- **Notes processed:** 3 — Smith Ch2 (Yahweh and Baal), Römer Ch8 (Statue of Yhwh), Day Ch1 (Yahweh and El)
+- **Claims extracted:** 12 (3 Smith, 3 Römer, 6 Day)
+- **Edges added:** 14 cross-scholar edges to existing Session 1 claims + 12 internal edges in new claims = 26 total
+  - Key edge clusters: Römer Ch8→Ch9 (Arad steles → consort inscriptions), Day Ch1→Ch2 (El distinction → goddess identification), Smith Ch2→Ch3 (convergence model: Baal → Asherah)
+  - Smith and Day both cover El identification (edges from day-ygc-1.1 to smith-ehg-3.1, romer-inv-9.1)
+  - Römer and Day both cover aniconism (edges from romer-inv-8.1/8.3 to day-ygc-1.6, smith-ehg-3.1)
+- **Commits:** 1 (pending)
+- **Notes remaining:** 143
+- **Next batch suggestion:** Smith Ch4 (Yahweh and the Sun) + Day Ch3 (Yahweh Versus Baal) + Smith Origins Ch7 (El, Yahweh, and the Original God of Israel). The solarization thread (Smith Ch4) is a new deity profile absorption to track; Day Ch3's Baal rivalry chapter provides the counter-narrative to Smith Ch2's convergence model (same data, Day reads it as conflict, Smith reads it as absorption); Smith Origins Ch7 provides the El-Yahweh identification argument from Smith's later perspective (2001 vs. 1990), which edges against Day Ch1 and provides Smith's matured thinking on the question.
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)

@@ -60,6 +60,7 @@ If Day is right, the OT itself attests that Asherah was worshipped as a goddess 
 
 **Depends on:**
 - [[claim-ot-asherah-equals-ugaritic-athirat]] (day-ygc-2.2) — If Asherah ≠ Athirat, the goddess identification in the OT loses its ANE background context (though Day's textual arguments would still stand)
+- [[claim-yahweh-el-originally-distinct-deities]] (day-ygc-1.1) — Day's Ch1 argument that Yahweh and El were separate is foundational: if Yahweh was always El, the goddess = consort reading of OT passages loses some of its force because there's no "transfer" to document
 
 **Supports:**
 - [[claim-bible-deliberately-obscures-yhwh-asherah-link]] (romer-inv-9.2) — Day's demonstration that Asherah appears as a goddess in the OT strengthens Römer's claim that the Dtr editors were actively trying to suppress her: the goddess breaks through despite the editorial program

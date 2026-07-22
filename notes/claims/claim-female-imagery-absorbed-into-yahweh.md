@@ -59,6 +59,7 @@ Moderate. The female dimension of biblical God-language has a history — and th
 
 **Supports:**
 - [[claim-kuntillet-ajrud-symbol-not-goddess]] (smith-ehg-3.2) — If female imagery was absorbed into Yahweh, Smith's convergence-and-differentiation model gains coherence, which in turn supports his symbol reading of Kuntillet Ajrud
+- [[claim-anat-martial-imagery-absorbed-into-yahweh]] (smith-ehg-2.3) — The same convergence pattern: Yahweh absorbs gendered imagery (Anat's warrior fury, Asherah's maternal nurture) from female deities whose cults were rejected; both claims demonstrate Smith's convergence-and-differentiation model operating across different divine profiles
 
 **Challenged by:**
 - [[claim-asherah-was-stylized-tree]] (day-ygc-2.4) — Day's detailed iconographic evidence that the asherah was a stylized tree connected to goddess imagery could support OR challenge Smith: it supports the absorption thesis (the tree imagery DID transfer) but challenges the "not a goddess" claim (the tree was a goddess symbol)

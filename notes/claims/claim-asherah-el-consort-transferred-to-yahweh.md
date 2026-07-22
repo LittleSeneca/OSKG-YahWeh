@@ -55,6 +55,8 @@ Yhwh had a wife. The goddess was worshipped alongside the god in the Jerusalem t
 
 **Depends on:**
 - [[claim-ot-asherah-equals-ugaritic-athirat]] (day-ygc-2.2) — If Asherah ≠ Athirat, the Ugaritic background collapses as evidence for the goddess in Israel
+- [[claim-yahweh-el-originally-distinct-deities]] (day-ygc-1.1) — Day argues Yahweh and El were originally separate; the consort transfer only makes sense if they were distinct deities that merged, not if Yahweh was always a form of El
+- [[claim-divine-council-seventy-sons-of-el]] (day-ygc-1.3) — The seventy sons belong to El AND Asherah at Ugarit; the divine council is the divine couple's offspring, confirming the consort relationship
 
 **Supports:**
 - [[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3) — If Asherah was a goddess transferred from El to Yhwh, the Kuntillet Ajrud inscriptions are evidence of her continued worship as consort

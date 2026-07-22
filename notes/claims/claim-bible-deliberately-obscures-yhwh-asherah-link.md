@@ -55,10 +55,12 @@ If the Bible deliberately rewrote the Asherah-Yhwh relationship into an Asherah-
 
 **Depends on:**
 - [[claim-asherah-el-consort-transferred-to-yahweh]] (romer-inv-9.1) — The Dtr strategy only makes sense if there WAS a genuine Yhwh-Asherah link to obscure
+- [[claim-baal-accepted-israelite-god-persistent]] (smith-ehg-2.1) — Smith's evidence that Baal was persistently worshipped for centuries provides the historical backdrop for WHY the Dtr editors could plausibly associate Asherah with a real competitor deity rather than an obscure foreign god
 
 **Supports:**
 - [[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3) — The Dtr obfuscation strategy explains WHY the biblical text and the inscriptions seem to describe different religions: the Bible was edited to hide what the inscriptions reveal
 - [[claim-asherah-goddess-in-ot-passages]] (day-ygc-2.1) — Day's argument that Asherah appears as a goddess in the OT is even more striking if the Dtr editors were actively trying to suppress that fact
+- [[claim-yahweh-absorbed-baal-storm-warrior-imagery]] (smith-ehg-2.2) — Smith's convergence model and Römer's obscuration thesis are complementary: one shows Yahweh absorbing Baal's profile through competitive appropriation, the other shows the Dtr editors hiding the Asherah link by falsely associating her with Baal; both reveal a complex dynamic where Yahweh both competes with AND absorbs from rival deities
 
 **Challenged by:**
 - [[claim-biblical-evidence-insufficient-for-goddess]] (smith-ehg-3.3) — Smith's skepticism about the biblical evidence cuts both ways: if the biblical evidence is too ambiguous to prove the goddess, it's also too ambiguous to prove a deliberate cover-up

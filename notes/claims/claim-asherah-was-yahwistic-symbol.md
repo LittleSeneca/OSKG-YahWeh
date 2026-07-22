@@ -63,6 +63,7 @@ If the asherah was a Yahwistic symbol (not a foreign goddess), then the Deuteron
 
 **Supports:**
 - [[claim-kuntillet-ajrud-symbol-not-goddess]] (smith-ehg-3.2) — Smith's reading of Kuntillet Ajrud only makes sense if the asherah was already a Yahwistic cult symbol
+- [[claim-yahweh-absorbed-baal-storm-warrior-imagery]] (smith-ehg-2.2) — Smith's convergence model for Baal (Yahweh absorbs a deity's profile while the cult is rejected) is the same model Smith applies to Asherah in Ch3; the Baal case structurally supports the Asherah convergence argument
 
 **Contradicts:**
 - [[claim-asherah-el-consort-transferred-to-yahweh]] (romer-inv-9.1) — Römer argues the asherah represented a real goddess transferred from El to Yahweh, not merely a symbol that had lost its goddess connection
@@ -71,6 +72,7 @@ If the asherah was a Yahwistic symbol (not a foreign goddess), then the Deuteron
 - [[claim-asherah-goddess-in-ot-passages]] (day-ygc-2.1) — Day identifies five OT passages where "Asherah" must refer to the goddess, not a cult symbol. If Day is right, Smith's claim that the asherah was just a symbol during the monarchy is undermined.
 - [[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3) — If the inscriptions pair Yahweh with the goddess, the symbol interpretation loses ground
 - [[claim-asherah-was-stylized-tree]] (day-ygc-2.4) — Day's evidence that the asherah was a stylized tree connected to goddess iconography strengthens the goddess reading over the symbol-only reading
+- [[claim-yahweh-el-originally-distinct-deities]] (day-ygc-1.1) — If Yahweh and El were originally distinct, and the asherah derived from El's cult, the asherah may carry goddess significance from El that wasn't fully absorbed into Yahweh; Day's distinction undermines Smith's claim that the goddess connection was severed by the monarchy
 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->

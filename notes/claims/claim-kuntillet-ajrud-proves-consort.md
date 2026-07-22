@@ -56,6 +56,7 @@ This is the single most explosive question in the field — did Yahweh have a wi
 
 **Depends on:**
 - [[claim-asherah-el-consort-transferred-to-yahweh]] (romer-inv-9.1) — The consort reading of the inscriptions is much stronger if Asherah was already a goddess (El's consort) rather than merely a symbol
+- [[claim-yhwh-represented-by-standing-stones-massebot]] (romer-inv-8.1) — The Arad temple's two steles (Yhwh + another deity, probably Asherah) provide material evidence for a divine couple in an official Judahite sanctuary, supporting the consort reading of the Kuntillet Ajrud inscriptions
 
 **Supports:**
 - [[claim-josiah-reform-removed-asherah]] (romer-inv-9.4) — If the inscriptions prove the divine couple, Josiah's reform was actively suppressing a genuine consort goddess

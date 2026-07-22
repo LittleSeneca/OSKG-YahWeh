@@ -62,7 +62,7 @@ If Athirat = Asherah, we have a continuous goddess tradition from Late Bronze Ag
 ## Edges
 
 **Depends on:**
-<!-- Claims this one requires to be true -->
+- [[claim-divine-council-seventy-sons-of-el]] (day-ygc-1.3) — The seventy sons of El AND Asherah at Ugarit confirm Athirat as El's consort and mother of the gods; this is part of Day's structural argument for the equation: the divine couple at Ugarit has the same structure (El + Athirat → seventy sons) that the OT inherits
 
 **Supports:**
 - [[claim-asherah-goddess-in-ot-passages]] (day-ygc-2.1) — If Asherah = Athirat, the OT passages Day identifies are describing a known goddess, not an unknown cult object
