@@ -43,13 +43,13 @@ Cross argues that the Israelite league (the pre-monarchic tribal confederation) 
 
 **The parallels:**
 
-| Exodus 15 | Ba'l Cycle (KTU 1.1-1.6) |
-|-----------|--------------------------|
-| "Yahweh is a man of war" | Ba'l the warrior |
-| "Your right hand, Yahweh, shatters the enemy" | Ba'l's club drives back Sea |
-| "At the blast of your nostrils the waters piled up" | Ba'l's meteorological weapons |
-| "You led the people you redeemed to your holy abode" | Ba'l's temple on Saphon after victory |
-| "Yahweh will reign forever and ever" | Ba'l enthroned as king after defeating Mot |
+| Exodus 15                                            | Ba'l Cycle (KTU 1.1-1.6)                   |
+| ---------------------------------------------------- | ------------------------------------------ |
+| "Yahweh is a man of war"                             | Ba'l the warrior                           |
+| "Your right hand, Yahweh, shatters the enemy"        | Ba'l's club drives back Sea                |
+| "At the blast of your nostrils the waters piled up"  | Ba'l's meteorological weapons              |
+| "You led the people you redeemed to your holy abode" | Ba'l's temple on Saphon after victory      |
+| "Yahweh will reign forever and ever"                 | Ba'l enthroned as king after defeating Mot |
 
 **Cross's conclusion:** "The Song of the Sea is a historicized version of the mythic conflict between the Divine Warrior and the Sea. The historical event (the escape from Egypt) has been shaped and interpreted by mythic patterns. This is not to say the event didn't happen. It is to say that the event was experienced and narrated through inherited mythic categories."
 
