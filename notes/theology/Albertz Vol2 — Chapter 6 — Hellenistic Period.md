@@ -58,7 +58,35 @@ Albertz treats the Hellenistic period (332-64 BCE) as a transitional era — con
 
 ---
 
-## Claim 2: The Chronistic history was a response to the Samaritan schism — an attempt to re-legitimate the Davidic monarchy and Jerusalem temple within the framework of the Torah
+## Claim 2 [ADDED IN RETROSPECTIVE]: The Hellenistic period deepened the social crisis through Ptolemaic tax-leasing, adding a cultural split (Hellenizers vs. traditionalists) to the existing class conflict
+
+**Albertz's claim:** "Social tensions were further intensified in comparison with the Persian period because a cultural split was now added to the social split." The Ptolemaean economic system "not only deepened the social rift in the community of Judah as compared with Persian times but also stoked up considerable aggression in the lower class against those aristocrats who... allowed themselves to be drawn right into the oppressive system of the foreign power."
+
+**Evidence presented:**
+- The Ptolemies imposed a centralistic economic administration — "their aim was to derive as high a profit as possible from the land"
+- The tax-leasing system was the key innovation: aristocrats bid for the right to collect taxes; everything above the agreed sum was profit
+- The Tobiad Joseph (c. 240-218) is the prime example: "he secured a royal tax lease for the whole province for twenty-two years by doubling the amount to be raised" and collected "heedlessly and sometimes by armed force"
+- Hecataeus of Abdera (c. 300 BCE) already noted land concentration by the wealthy
+- Koheleth and Sirach both report "constant destructive oppression of the poor by the rich"
+- Debt slavery became so threatening the Ptolemies enacted protective laws; "Palestine became a land which exported slaves to meet the needs of the Graeco-Roman world"
+- The cultural split: wealthy aristocrats adopted Greek language, names, clothing, festivals — while the lower class "hardly came into contact with Greek culture in Judaea"
+- "As a result of this cultural reshaping, the chronic class contrast developed such a potential for conflict that it only needed an occasion to turn it into a civil war"
+- The upper class was internally split: "pious" aristocrats (like Sirach) vs. "Hellenizers" (Tobiads), with a power struggle predating the Maccabean crisis
+- The Hasidim emerge as the "hard core" of the conservative party — identified by Albertz (following Kampen) as an influential scribal group, not a lower-class pietistic conventicle
+
+**Confidence:** MEDIUM for specific mechanisms (tax-leasing details rely on Josephus's Tobiad romance). HIGH for the general picture of deepening social conflict with a cultural dimension.
+
+**What's at stake:** The Maccabean revolt wasn't just a religious persecution reaction — it was ALSO a class war. The cultural conflict (Hellenism vs. Torah Judaism) mapped onto an economic conflict (tax-leasing aristocrats vs. impoverished farmers). This dual nature explains why the revolt could be simultaneously a fight for religious freedom AND a civil war between Jewish factions.
+
+**Who disagrees:** Bickerman emphasized the religious dimension of the Maccabean crisis over the economic. Tcherikover saw the Hasidim as scribal class rather than pietists (which Albertz follows). The reliability of Josephus's Tobiad romance is debated.
+
+**Alternative reading:** The cultural-religious conflict was primary; the economic dimension was secondary. Hellenism was the real threat, and economic exploitation was a symptom of cultural apostasy, not a separate cause.
+
+**My assessment:** Albertz's insistence on the social-economic dimension as co-equal with the cultural-religious dimension is a valuable corrective to narratives that treat the Maccabean crisis as purely about "freedom of religion." The identification of the Hasidim as scribes rather than pietists is significant but needs more evidence than Albertz provides here.
+
+---
+
+## Claim 3: The Chronistic history was a response to the Samaritan schism — an attempt to re-legitimate the Davidic monarchy and Jerusalem temple within the framework of the Torah
 
 **Albertz's claim:** "The Samarian split provoked a new effort at integration within the community of Judah aimed at extending the consensus over the foundations of the official religion of Israel beyond the framework created by the Torah." Chronicles was "no less than a revision of the canon."
 
@@ -86,7 +114,7 @@ Albertz treats the Hellenistic period (332-64 BCE) as a transitional era — con
 
 ---
 
-## Claim 3: Torah piety (Psalms 1, 19, 119) transformed personal piety into a distinctively Jewish theology centered on scripture — creating the "Bible piety" that became characteristic of Judaism
+## Claim 4: Torah piety (Psalms 1, 19, 119) transformed personal piety into a distinctively Jewish theology centered on scripture — creating the "Bible piety" that became characteristic of Judaism
 
 **Albertz's claim:** "The concern of those who promoted this new personal theology becomes clearest where they transferred to the Torah expressions of prayer language which in current personal piety were applied to God." This created "a distinctive Jewish personal theology and practice of piety which could unite all those who took their faith seriously beyond social and territorial barriers."
 
@@ -113,7 +141,7 @@ Albertz treats the Hellenistic period (332-64 BCE) as a transitional era — con
 
 ---
 
-## Claim 4: Apocalyptic emerged from marginalized lower-class and scribal circles as a "theology of resistance" — combining eschatological prophecy with elements of wisdom and Torah piety
+## Claim 5: Apocalyptic emerged from marginalized lower-class and scribal circles as a "theology of resistance" — combining eschatological prophecy with elements of wisdom and Torah piety
 
 **Albertz's claim:** The late prophetic and apocalyptic literature represents "oppositional eschatological interpretation of history" that developed in marginalized groups. It progressed through three stages: (1) Zech 9-14's oppositional eschatology sparked by Alexander's conquests, (2) Isa 24-27's eschatological assurance from lower-class circles, and (3) Daniel's apocalyptic instructions for resistance under Antiochus IV.
 
@@ -156,9 +184,10 @@ Albertz treats the Hellenistic period (332-64 BCE) as a transitional era — con
 | Claim | Confidence | Most Vulnerable To |
 |-------|-----------|-------------------|
 | 1. Hellenistic hierocracy and aristocratic power struggles | MEDIUM-HIGH | Dating of high priest's political powers |
-| 2. Chronicles as anti-Samaritan re-legitimation | MEDIUM | Samaritan connection inferential; alternative readings possible |
-| 3. Torah piety as distinctive Jewish personal theology | MEDIUM-HIGH | Dating of Torah psalms; identification of "Torah" with Pentateuch |
-| 4. Apocalyptic as theology of resistance from below | LOW-MEDIUM | Sociological locations speculative; dating of individual texts |
+| 2. Tax-leasing, cultural split, and Maccabean preconditions | MEDIUM | Josephus's Tobiad romance reliability |
+| 3. Chronicles as anti-Samaritan re-legitimation | MEDIUM | Samaritan connection inferential |
+| 4. Torah piety as distinctive Jewish personal theology | MEDIUM-HIGH | Dating of Torah psalms |
+| 5. Apocalyptic as theology of resistance from marginalized groups | LOW-MEDIUM | Sociological locations speculative |
 
 **Strongest section:** 6.3 (Torah piety). Albertz's analysis of how Torah piety transformed personal religion is the best thing in the chapter — specific, textually grounded, and theologically significant.
 
