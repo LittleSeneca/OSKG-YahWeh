@@ -33,13 +33,15 @@ This is the dominant lineage in American scholarship, and it tells a fascinating
 |------------|---------|------------|----------------------|---------------------|
 | 1 | **William F. Albright** (1891–1971) | Johns Hopkins | Early Mosaic monotheism — Israel was distinctive from the beginning | Confessional Protestant |
 | 2 | **Frank Moore Cross** (1921–2012) | Harvard (student of Albright at Hopkins) | Yahweh emerged from within the El tradition; evolutionary model, but still saw early distinctiveness | Presbyterian background |
-| 3 | **Mark S. Smith** (b. 1956) | Princeton Seminary / NYU (student of Cross at Harvard) | Thoroughgoing evolutionary model — Israelite religion as subset of Canaanite religion | Roman Catholic |
+| 3 | **Mark S. Smith** (b. 1956) | Princeton Seminary / NYU | Thoroughgoing evolutionary model — Israelite religion as subset of Canaanite religion | Roman Catholic |
 
-**The trajectory is striking.** Albright argued for early Mosaic monotheism. His student Cross moved substantially toward the evolutionary model. Cross's student Smith completed the journey — Smith's work is the most thorough articulation of the position that Israelite religion was fundamentally Canaanite and polytheistic in origin.
+**Important correction:** Smith's doctoral advisor was **Marvin H. Pope at Yale** (PhD 1985), not Frank Moore Cross. The Albright → Cross → Smith connection is **intellectual influence**, not a direct doctoral lineage. Smith studied at Harvard Divinity School and was shaped by Cross's Ugaritic approach to Israelite religion, but the formal genealogy runs through Yale's Ugaritic school: **Goetze/Obermann → Pope → Smith.** William Dever's advisor was **G. Ernest Wright** (Albright's student), not Cross. Emanuel Tov is entirely outside the Albright lineage (Hebrew University).
 
-**Cross's other students:** William Dever (archaeology, "not even a theist"), Richard Elliott Friedman (moderate critical), Emanuel Tov (leading textual critic, Hebrew University). Cross trained an entire generation — and they span the spectrum from Friedman's moderate position to Dever's atheism.
+**The intellectual trajectory remains real even if the formal genealogy is messier.** Albright argued for early Mosaic monotheism. His student Cross moved substantially toward the evolutionary model. Cross's intellectual heir Smith (via the Yale Ugaritic school) completed the journey — Smith's work is the most thorough articulation of the position that Israelite religion was fundamentally Canaanite and polytheistic in origin.
 
-**This is not a conspiracy.** It's how academic fields work. But it means that a single intellectual lineage has had disproportionate influence on what counts as "the consensus."
+**Albright's confirmed doctoral students (12):** Francis Andersen, Avraham Biran, John Bright, Raymond E. Brown, Frank Moore Cross, Mitchell Dahood, Joseph Fitzmyer, David Noel Freedman, William L. Moran, Abraham Sachs, Merrill Unger, G. Ernest Wright. The deeper lineage traces back through Paul Haupt (Johns Hopkins) to Friedrich Delitzsch in Germany — the Albright school has roots in 19th-century German philology even as it reacted against German liberal skepticism.
+
+**Cross's confirmed doctoral students (6):** James Davila, Sidnie White Crawford, Richard Elliott Friedman, Choon-Leong Seow, Lawrence Stager, Michael E. Stone. Friedman bridges the Harvard critical school to a more moderate position; Stager became a leading archaeologist.
 
 ### Competing Lineages
 
@@ -217,6 +219,46 @@ Academic fields are controlled through journals, conferences, and hiring committ
 
 The SBL is the main professional organization. Its annual meeting is where careers are made. **The SBL is methodologically pluralistic** — evangelical, Catholic, Jewish, and secular scholars all present. But the program units (the panels that accept or reject papers) are controlled by senior scholars, and the prestige gradient clearly favors critical over confessional work.
 
+### The Two-Ecosystem Reality
+
+Evangelical biblical studies operates within a **parallel but partially overlapping** academic ecosystem:
+
+| Ecosystem | Primary Org | Key Journal | Requirement |
+|-----------|------------|-------------|-------------|
+| **Critical/Mainline** | SBL | JBL, VT, JSOT, CBQ, ZAW | Methodological naturalism (de facto) |
+| **Evangelical** | ETS (Evangelical Theological Society) | JETS | Annual affirmation of biblical inerrancy |
+| **Bridge** | IBR (Institute for Biblical Research) | BBR | Doctrinal basis but broader than ETS; more academically rigorous |
+
+**The ETS/SBL Co-location Strategy:** Since 2008, ETS and SBL have held their annual meetings in the same city during the same week (the week before Thanksgiving). This allows evangelical scholars to participate in both — presenting at ETS where confessional assumptions are shared, and attending SBL for critical engagement. It's a deliberate strategy to prevent isolation.
+
+**Key evangelical institutions:** Trinity Evangelical Divinity School (TEDS), Dallas Theological Seminary, Westminster Theological Seminary, Gordon-Conwell, Asbury Theological Seminary, Wheaton College.
+
+**Key evangelical publishers:** Baker Academic, Zondervan Academic, IVP Academic, B&H Academic. Eerdmans occupies a **unique bridge position** — it publishes both critical works (Smith's *Early History of God*, Dever's *Did God Have a Wife?*) and evangelical works (Block, Walton).
+
+**How evangelicals navigate:** A two-strategy pattern. Evangelical scholars often publish in mainstream critical journals (JBL, CBQ, VT) on technical topics (textual criticism, linguistics, archaeology) where confessional commitments don't matter, AND in evangelical journals (JETS, BBR) on theological topics where they do. "Threshold figures" who bridge both worlds include Richard Bauckham, N.T. Wright, Gordon Wenham, Tremper Longman III, and Daniel Block.
+
+**The Pete Enns case (2008):** Enns's *Inspiration and Incarnation* (2005) argued evangelicals must accept the human, culturally-conditioned nature of Scripture. His suspension and departure from Westminster Theological Seminary highlighted the tension WITHIN evangelicalism about how far critical engagement can go. The case illustrated that the deepest divide isn't between evangelical and critical scholarship — it's between evangelicals who believe critical methods are compatible with orthodoxy and those who don't.
+
+### Gatekeeping: Structural, Not Formal
+
+**No sign on the door says "No Evangelicals Allowed."** SBL has no confessional statement. Evangelical scholars DO publish in JBL, CBQ, VT, and JSOT. But gatekeeping is structural:
+
+- Papers that rely on inerrancy as an argument, assume Mosaic authorship, or appeal to supernatural causality are routinely rejected — not because of the author's faith, but because the arguments don't meet the journals' standards for historical reasoning
+- Editorial boards of major journals are overwhelmingly populated by scholars from secular universities and mainline divinity schools (Harvard, Yale, Chicago, Princeton, Duke, Emory)
+- Evangelical representation on editorial boards exists but is minimal
+- The gatekeeping is **institutional and reputational**, not formal
+
+### Levenson's "Unexamined Commitments of Criticism" (1993)
+
+Jon Levenson's 1993 essay in *First Things* is arguably the single most important article on presuppositions in biblical studies. His key arguments:
+
+1. Historical criticism has **its own unexamined faith commitments**. It functions as a "second conversion" for students who must "change after two weeks" in doctoral programs.
+2. Critical scholarship **neglects the history of the Bible** (its reception in religious communities) by focusing only on compositional history — it "ends precisely when the history of the Bible begins."
+3. The anti-traditional, anti-dogmatic stance of criticism is itself a **dogmatic position** rooted in specific Protestant assumptions (particularly *sola scriptura*).
+4. **Jewish and Catholic interpretive traditions**, which never privileged *sola scriptura*, are erased by critical methods that assume Protestant categories.
+
+This essay is the closest thing the field has to a formal indictment of its own presuppositions — written by a Harvard professor, not an evangelical outsider.
+
 ---
 
 ## 8. Generational Drift: How the Field Has Moved
@@ -300,10 +342,10 @@ When evaluating any scholar in this debate, don't just ask "what do they argue?"
 
 | Scholar | Lineage | Institution Type | Religious Stance | Primary Method | Direction of Career Movement |
 |---------|---------|-----------------|------------------|----------------|------------------------------|
-| **Mark Smith** | Cross→Albright | Seminary (Princeton) | Catholic | Text + comparative | Toward more thoroughgoing evolution |
+| **Mark Smith** | Yale Ugaritic (Pope) | Seminary (Princeton) | Catholic | Text + comparative | Toward more thoroughgoing evolution |
 | **Thomas Römer** | European critical | Elite secular (Collège de France) | Secular context | Historical-critical | Refining consensus |
 | **Theodore Lewis** | Independent? | Research university (Hopkins) | Secular context | Comprehensive synthesis | Toward comprehensive reference |
-| **William Dever** | Cross→Albright | Research university (Arizona) | Atheist | Archaeology | From moderate toward more critical |
+| **William Dever** | Albright→Wright | Research university (Arizona) | Atheist | Archaeology | From moderate toward more critical |
 | **Israel Finkelstein** | Israeli archaeology | Research university (Tel Aviv) | Secular/Jewish | Archaeology | Toward more skeptical of Bible |
 | **Michael Heiser** | UW-Madison (secular PhD) | Religious organization (Faithlife) | Evangelical | Text criticism | Consistent divine council framework |
 | **Benjamin Sommer** | Chicago | Jewish seminary (JTS) | Jewish | Literary/theological | Toward third-way models |
@@ -326,4 +368,4 @@ When evaluating any scholar in this debate, don't just ask "what do they argue?"
 
 ---
 
-*Last updated: 2026-07-22 | Confidence: HIGH on the genealogy and confessional mapping (verifiable from public sources), MEDIUM on the institutional analysis (requires insider knowledge of field dynamics), LOW on the citation patterns and journal gatekeeping (requires quantitative data we don't yet have). Subagents are currently researching the genealogy details and presuppositional landscape.*
+*Last updated: 2026-07-22 | Confidence: HIGH on genealogy (corrected: Smith→Pope at Yale, Dever→Wright) and confessional mapping. MEDIUM on institutional analysis. LOW on citation patterns. Subagent findings on two-ecosystem structure, ETS/SBL co-location, Levenson, the Pete Enns case, and structural gatekeeping now integrated.*
