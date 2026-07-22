@@ -1,7 +1,7 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugaritic-studies, divine-attributes, anthropomorphism]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugaritic-studies, divine-traits, anthropomorphism, holiness, immortality]
 created: 2026-07-22
-confidence: medium-high
+confidence: high
 source:
   title: "The Origins of Biblical Monotheism"
   author: "Mark S. Smith"
@@ -9,175 +9,185 @@ source:
   publisher: "Oxford University Press"
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
-  - "[[Smith Origins — Introduction]]"
-  - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
-  - "[[Smith Origins — Ch3 — The Divine Family]]"
+  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
   - "[[Smith Origins — Ch6 — The Life and Death of Baal]]"
-  - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
+  - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
+  - "[[Sommer - The Bodies of God]]"
+  - "[[Hendel - Aniconism and Anthropomorphism]]"
 ---
 
-# Smith — Ch5: The Traits of Deities
+# Smith — Chapter 5: The Traits of Deities
 
-Smith asks the foundational question: what was a deity considered to BE? He examines four shared traits of deities across Ugaritic and Israelite literature: (1) strength and size, (2) body and gender, (3) holiness, and (4) immortality. A postscript reflects on how divine traits map onto human existential problems. The chapter builds toward the claim that Israelite monotheism produced a deity "more concealed in character, more revealed in function" — all divine roles converged into Yahweh, eliminating sex, death, and family.
+Smith asks what a deity WAS considered to be in Ugaritic and Israelite thought — moving from structural organization (Part I) to characteristic traits. Four traits are examined across both corpora: strength/size, body/gender, holiness, and immortality. The chapter's central finding: Israelite monotheism did not invent new divine traits — it REDUCED the number while concentrating valued traits in one deity. Yahweh has no peers, no sex, no death, no family — but maintains all the expected roles of divine protection and blessing. Monotheism produces a deity "more concealed in character, more revealed in function."
 
 ---
 
-## Claim 1: Deities were superhuman in both strength and physical size — this was not metaphorical but spatial-theological
+## Claim 1: Deities are characterized by superhuman strength and size — this is universal across Ugarit and Israel
 
-**Author's claim:** "Deities have superhuman strength" and "superhuman scale." This is not mere poetry. At Ugarit, El's penis "extends like the sea" (CAT 1.23.33-35); Baal is as large as his mountain Sapan (1.101.1-3); deities stride across "a thousand fields, ten thousands hectares." In Israel, the Solomonic Temple's structures were built to divine scale: the throne in the Holy of Holies was 10×10 cubits (~5.3m²), the tank held 38,000 liters, pillars rose 23 cubits (~12.2m). "Only a deity superhuman in scale could take a seat in such a throne."
+**Author's claim:** "Just as deities have superhuman strength, they also have superhuman scale." This is archaeologically confirmed by temple architecture built for a giant deity.
 
 **Evidence presented:**
-- Ugaritic: Divine hand (yd) as power (CAT 1.18 I 14; 1.4 VIII 23; 2.10.11-13); El's supersize penis (1.23.33-35); Baal's body identified with Sapan's features (1.101.1-3); Athtar can't fit Baal's throne — "his feet do not reach the footstool, his head does not reach the head-rest" (1.6 I 59-61).
-- Israelite: Temple measurements (1 Kgs 6:23-28); Isaiah's vision — divine robe skirt fills the Temple (Isa 6:1); Ezekiel 1's cosmic-scale vision; Exodus 33:18-23 — Yahweh's hand covers Moses in the rock cleft, implying superhuman appendage.
-- Mesopotamian: Marduk's four eyes and ears denote omniscience through spatial extension (Enuma Elish I:95-98).
-- 'Ain Dara temple: meter-long footsteps carved into thresholds suggest a huge deity.
+- Ugaritic deities travel "a thousand fields, ten thousand hectares" (1.3 VI 17-19; 1.4 V 24; 1.4 VIII 24-26). Baal's palace covers the same scale (1.4 VI 56-57).
+- El's penis compared to "the sea" and "the flood" (1.23.33-35) — implies supersize more generally.
+- Baal is described as large as his own mountain Sapan (1.101.1-3): "the text seems to identify features of the god with those of his mountain." Athtar can't fill Baal's throne: "his feet do not reach the footstool, his head does not reach the head-rest" (1.6 I 59-61).
+- 'Ain Dara temple: meter-long footsteps carved into portal and thresholds — "suggest a huge deity."
+- Solomon's Temple: throne 10 × 10 cubits (~5.3m square), only a superhuman deity could sit there. Pillars 23 cubits (~12.2m), tank 10 cubits diameter holding 38,000 liters, ten stands each 4 × 7 cubits with 920-liter basins. "The exaggerated size of the structures... suggests that they were intended not for human use but for the realm of the divine."
+- Isaiah 6:1: Yahweh's robe-skirt fills the Temple — "evoking the deity's massive scale."
+- Ezekiel 1: vision located on the firmament "denoting super-earthly or cosmic size." Hurowitz: spatial extension may be "the root of the notion of divine omnipresence." Marduk's four eyes and ears (Enuma Elish I:95-98) → divine omniscience. Ezekiel's four creatures with four faces → "spatial extension and knowledge."
+- Exodus 33:18-23: Yahweh's hand covers Moses in a rock cleft — "suggests a superhuman appendage that can cover a human being."
+- Divine "hand" (yd) is the universal idiom for divine power: Nergal, Ishtar, Marduk, Yahweh. Numbers 11:23: "Is the hand of Yahweh too short?"
 
-**Confidence:** HIGH. The architectural evidence (Temple measurements, 'Ain Dara footsteps) is concrete. The textual evidence is consistent across Ugarit, Israel, and Mesopotamia.
+**Confidence:** VERY HIGH. The architectural evidence from multiple sites independently confirms the textual evidence. The superhuman-size deity is one of the best-attested features of ANE religion.
 
-**What's at stake:** If divine size was literal rather than metaphorical, ancient worshippers experienced their temples as housing an actual gigantic being. This transforms how we understand Israelite cult — the Temple wasn't a "meeting house" but a divine residence built to divine proportions.
+**What's at stake:** This is the least controversial divine trait, which is precisely why Smith starts with it — it establishes that Israel shared basic conceptions with its neighbors. The theological trajectory (size → omnipresence; multiple eyes → omniscience) shows how monotheism took physical traits and abstracted them into metaphysical attributes.
 
-**Who disagrees:** Scholars who treat divine size language as purely poetic/metaphorical. Theologians who emphasize divine incorporeality.
+**Who disagrees:** Probably no one on the basic claim. Disagreement would be on whether the abstraction (omnipresence, omniscience) genuinely derives from physical-giant conceptions or represents independent philosophical development.
 
-**Alternative reading:** The measurements could reflect royal prestige architecture (showing off Solomon's wealth) rather than theological convictions about Yahweh's literal size. The 'Ain Dara footsteps could be symbolic rather than literal.
+**Alternative reading:** The massive temple architecture could be royal display rather than theological statement — kings build big things to demonstrate power, not because they believe the deity is literally 10 cubits tall.
 
-**My assessment:** Smith's architectural argument is strong — you don't build a 5-meter-square throne for a metaphor. The cross-cultural consistency (Ugarit, Israel, Mesopotamia) supports the interpretation. Exodus 33's divine hand covering Moses is an underappreciated size indicator.
+**My assessment:** The architectural evidence is decisive. You don't build a 10-cubit-square throne for a human-sized god. The fact that the same pattern appears at 'Ain Dara (Syria) and Jerusalem (Israel) confirms this is a shared cultural conception, not uniquely Israelite.
 
 ---
 
-## Claim 2: Anthropomorphism was the norm across the ANE including Israel — it was refined into "transcendent anthropomorphism," not abandoned
+## Claim 2: Anthropomorphism is the norm across ANE cultures; Israel develops "transcendent anthropomorphism" but never abandons it
 
-**Author's claim:** "It is commonly thought that anthropomorphism is a general ancient Middle Eastern trait that Israel eventually discarded, unlike the rest of the region. This characterization is inaccurate for both Israel and the rest of the ancient Middle East."
+**Author's claim:** "It is commonly thought that anthropomorphism is a general ancient Middle Eastern trait that Israel eventually discarded... This characterization is inaccurate for both Israel and the rest of the ancient Middle East."
 
 **Evidence presented:**
-- Mesopotamian "transcendent anthropomorphism" (Hendel's term): parts of Marduk's body are equated with other deities (e.g., "your face is the sun god"); fifty names of Marduk in Enuma Elish absorb other gods' identities. "In these cases Mesopotamian descriptions of the divine do not avoid anthropomorphic language. Instead, they heighten the anthropomorphism to make the deity transcend the basic analogy."
-- Ugaritic: CAT 1.101 identifies Baal's body with features of his mountain — extending size to cosmic proportions, "relativizing the usual sort of anthropomorphism."
-- Israelite: The Jahwist source contains highly anthropomorphic statements (Yahweh walking in Eden, Gen 3:8-9; Yahweh regretting, Gen 6:6; Yahweh smelling sacrifice, Gen 8:21). Isaiah 6 shows enthroned anthropomorphic god. Exodus 24:9-11: Moses and elders "saw God."
-- Later theological reflection: Exodus 33:18-23 limits vision to Yahweh's "back" — acknowledging anthropomorphism while restricting it. Ezekiel 1 uses heavy qualification: "likeness" (děmût), "like (kě-) the appearance of a human."
-- "Even the priestly and deuteronomic works do not entirely dismiss anthropomorphic language. Instead, these sources offer a minimal anthropomorphism designed to modify people's understanding of God."
+- Ugarit: deities walk, talk, eat, drink, sit on thrones, have sex. El has a supersize penis (1.23). Baal copulates with a heifer "sixty-six, seventy-seven times" (1.5 V 18-21) in theriomorphic form. Anat is a bird. El has horns.
+- De Moor's "crisis of polytheism" thesis (gods became "too human"; Anat disrespects El) is rejected: "Anat is the exception to the divine model of respect shown to El."
+- Mesopotamia: "transcendent anthropomorphism" (Hendel) — Ninurta hymn: "your face is the sun god, your hair, Aya, your eyes... Enlil and Ninlil." Other deities are Marduk's body parts or attributes ("Shamash is the justice of Marduk"). Enuma Elish gives Marduk fifty names belonging to other deities. "In this way anthropomorphism is both affirmed and relativized."
+- Ugaritic CAT 1.101: Baal's body described in terms drawn from nature and mountain topography — similar effect.
+- Israel: J source is highly anthropomorphic — Yahweh walks (Gen 3:8-9), doesn't know everything (Gen 3:9), regrets (Gen 6:6), smells sacrifices (Gen 8:21), weeps (Jer 12:7-13). Isaiah 6: enthroned anthropomorphic god. Eslinger: "train" (šûl) might be divine genitalia — controversial but possible. Pope: Ezekiel 16 describes Yahweh's sexual relations and marriage with Jerusalem — also controversial.
+- Post-exilic anthropomorphism persists: Zechariah 3 (divine council), Daniel 7 (Ancient of Days), Zech 14:4, 1 Enoch 14. "The anthropomorphic language of Yahweh... never disappeared from Israel."
+- But counter-movement: Israel is largely aniconic (relative lack of divine iconography). Psalm 50:8-15 criticizes the idea Yahweh eats sacrifices. Priestly tradition: Numbers 7:89 — God appears as disembodied voice. Genesis 1:26-28 reverses the direction of analogy — humans are in God's image, not God in human image. "Rather than reducing Yahweh to human terms through an anthropomorphic portrait, Genesis 1:26-28 magnifies the human person in divine terms."
+- Genesis 1:27's "male and female he created them" — possibly vestigial from older Yahwistic cult that acknowledged Asherah as consort (male AND female deity), but "the so-called priestly tradition represented in Genesis 1 did not understand its God in such ditheistic terms."
 
-**Confidence:** HIGH. The evidence across three cultures is extensive and Smith's reading of the Exodus 33/Ezekiel 1 passages as "transcendent anthropomorphism" rather than rejection of anthropomorphism is persuasive.
+**Confidence:** HIGH for anthropomorphism's persistence. MEDIUM for Eslinger's genitalia reading and Pope's Ezekiel 16 reading — Smith himself notes these are "highly controversial" and "only two passages."
 
-**What's at stake:** If Israel never abandoned anthropomorphism but refined it, the standard narrative of Israel's theological "advance" over its neighbors collapses. Israel did the same thing as Mesopotamia — used anthropomorphic imagery to express transcendence, not to deny it.
+**What's at stake:** If anthropomorphism persists in Israel, the common claim that Israel "transcended" polytheistic anthropomorphism is false. What Israel did was SELECTIVELY suppress some anthropomorphic elements (divine sexuality, explicit body description) while retaining others (face, hand, arm, eyes). This selective suppression is part of convergence — the deity retains personal traits but loses the traits that would imply peer deities (sex requires a partner; death implies limitation).
 
-**Who disagrees:** Scholars who see a clear trajectory from anthropomorphic to aniconic/abstract in Israel. Those who read Ezekiel 1 and Exodus 33 as rejections of anthropomorphism rather than refinements.
+**Who disagrees:** Scholars who see a sharp break between Israelite "aniconism" and Canaanite "idolatry." De Moor's crisis-of-polytheism school. Those who read Genesis 1's "image of God" as a complete departure from anthropomorphism rather than its inversion.
 
-**Alternative reading:** The "transcendent anthropomorphism" of Mesopotamia (equating body parts with other gods) is fundamentally different from Israel's qualification and restriction of anthropomorphism. Israel may have been doing something genuinely different.
+**Alternative reading:** The priestly/Deuteronomic suppression of anthropomorphism could be a genuine theological revolution, not just selective retention. The disembodied voice of Numbers 7:89 is a fundamentally different conception than the walking Yahweh of Genesis 3.
 
-**My assessment:** Smith is right about the CONTINUITY of anthropomorphism — it never disappeared. But there's a real difference in degree: Israel produced far fewer anthropomorphic descriptions and qualified them more heavily. Smith acknowledges this ("minimal anthropomorphism" in priestly/deuteronomic works) but may understate the distinctiveness.
+**My assessment:** Smith is right that anthropomorphism never disappeared, but he may understate how radical the priestly move was. A disembodied voice IS different from a giant man on a throne. Both are "anthropomorphic" in the broad sense, but the priestly texts are doing something genuinely new — not just reducing anthropomorphism but relocating divine-human analogy from God's body to human nature itself (imago Dei). That's a conceptual shift, not just a rhetorical one.
 
 ---
 
-## Claim 3: Yahweh's maleness conveyed authority and accessibility, not sexuality — divine gender was about power, not reproduction
+## Claim 3: Yahweh is gendered male but not sexual — divine gender expresses authority and personal relationship, not sexuality
 
-**Author's claim:** "Yahweh's maleness does not convey sexuality per se, but personal divine communication, authority, concern, and dedication... Divine fatherhood can be expressed to denote patronage or support (see Psalm 2:7), but the body language of genitalia rarely, if ever, comes into play."
+**Author's claim:** "In sum, the monotheistic picture of Yahweh, the male god without a consort, dominated biblical discourse for the divine... At the same time, male language for Yahweh accompanied less anthropomorphic descriptions for the deity and metaphors occasionally including female imagery or combining it with male imagery."
 
 **Evidence presented:**
-- Pars pro toto survey of divine body parts: eyes = watchfulness (Ps 5:6, 11:4), hand/arm = power (Ps 10:12), nose = anger (Ps 2:11, 18:9), hands/fingers = creation (Ps 8:4,7), ears = receiving prayer (Ps 10:17), face = access/presence (Ps 17:15, 42:3). "Divine genitalia denote no divine action or attitude toward human beings."
-- Contrast with Ugarit: El's penis is explicitly described (CAT 1.23.33-35); Baal copulates with a heifer (1.5 V 18-21). These are absent from Israelite texts.
-- Isaiah 6:1 and Ezekiel 16 possible exceptions: Eslinger reads šûl as divine genitalia; Pope reads Ezek 16 as Yahweh's sexual relations with Jerusalem. But "these explicit interpretations...remain highly controversial" and at most involve two passages.
-- "It is unnecessary and it is not supported by any biblical text to argue that monotheistic Yahweh involved either androgyny or homoeroticism."
-- Frymer-Kensky: "God is not a sexual male, and therefore even the erotic metaphor of passion reveals a lack of physicality."
+- Unlike Ugaritic gods who explicitly have sexual relations, "divine sexual relations or some other explicit marker of sexuality is absent from all of these [biblical visionary] passages, in contrast to the Ugaritic texts on divine sexuality."
+- Yahweh's maleness "does not convey sexuality per se, but personal divine communication, authority, concern, and dedication."
+- Divine body parts in the Bible express attitudes, not physical form: eyes = watchfulness, hand/arm = power, nose = anger, ears = reception of prayer, face = presence/blessing/absence. "Divine genitalia denote no divine action or attitude toward human beings."
+- Female imagery applied to Yahweh: Deut 32:18, Ps 22:9-10, Isa 42:14, 46:3, 49:14-15, 66:9, 13. "Yahweh was not considered female... Rather, these passages treat Yahweh as a male deity to whom female imagery was occasionally attributed on a metaphorical level."
+- This is entirely consistent with ANE practice: Ugaritic 'ttr'um ("Athtar is mother"), Akkadian ummi-šamaš ("Shamash is my mother"), Gudea's prayer to Gatumdug ("I have no mother — you are my mother, I have no father — you are my father"). "A male god could be accorded female imagery without implying that he was considered both male and female."
+- "Monotheism is beyond sexuality yet nonetheless expressed through it." Yahweh "both encompasses the characteristics and values expressed through gendered metaphors and transcends the categories of sexuality."
+- Explicitly rejects androgyny readings (contra Phyllis Trible) and homoeroticism readings (contra Howard Eilberg-Schwartz): "Such views appear eisegetical and seem based on a wooden reading of ancient gender roles."
 
-**Confidence:** MEDIUM-HIGH on the absence of divine sexuality in Israelite texts. MEDIUM on the interpretation that maleness = authority rather than sexuality.
+**Confidence:** HIGH for the descriptive claim (Yahweh is male, female imagery is metaphorical). HIGH for the ANE comparative evidence. Smith's rejection of androgyny/homoeroticism readings is strong.
 
-**What's at stake:** If Yahweh's maleness is about authority not sex, then feminist critiques that monotheism "enshrined male sexuality as divine" may misunderstand the data. But the patriarchal STRUCTURE (male god ruling over male priests) remains intact regardless of whether genitalia are mentioned.
+**What's at stake:** If Yahweh's maleness is about authority and personal relationship rather than biology, then the elimination of the goddess (Asherah) didn't eliminate the "feminine" — those values were absorbed metaphorically into Yahweh. This is convergence at the gender level: the male deity absorbs female roles without becoming female.
 
-**Who disagrees:** Eslinger and Pope on the two potentially sexual passages. Feminist theologians who argue male God-language inherently carries sexual and patriarchal freight regardless of authorial intent.
+**Who disagrees:** Feminist theologians who read female imagery as evidence of a suppressed goddess tradition (rather than metaphor applied to a male god). Trible's androgyny reading. Eilberg-Schwartz's homoeroticism reading. Scholars who see the suppression of Asherah as a loss of genuine female divinity, not its absorption.
 
-**Alternative reading:** The ABSENCE of divine sexuality in Israel could reflect priestly CENSORSHIP of older traditions that had it (Smith suggests this himself in section 3 on holiness). If so, the non-sexual Yahweh is a theological achievement, not a description of what all Israelites believed.
+**Alternative reading:** The female imagery might be survivals of an earlier stage when Asherah WAS worshipped alongside Yahweh — not metaphorical innovations but vestigial language from a ditheistic past. Smith acknowledges this possibility for Genesis 1:27 but rejects it for the prophetic passages.
 
-**My assessment:** Smith's body-part survey is elegant and mostly convincing. But he may be too quick to dismiss the feminist critique — even non-sexual maleness-as-authority IS a gendered claim about power. The question isn't whether Yahweh had a penis; it's whether imaging ultimate authority as male has social consequences.
+**My assessment:** Smith's reading is textually disciplined. The comparative ANE evidence (male gods with female epithets, female gods with male epithets) decisively shows that gender language for deities was flexible across the region. The claim that female imagery implies a goddess is an argument from modern gender assumptions, not ancient textual practice. Smith's rejection of androgyny readings is well-argued and avoids the hermeneutical overreach of some feminist and queer readings.
 
 ---
 
-## Claim 4: Holiness = brilliance/cleanliness, but it also served elite power — it's not just Otto's mysterium tremendum
+## Claim 4: Holiness is a general divine trait involving brilliance, cleanliness, and separation — and Israel's priesthood radicalized the separation aspect
 
-**Author's claim:** Holiness has a double nature. On the experiential level: Akkadian ellu means "clean" and "brilliant" — holiness involves both purity and luminosity (theophanic radiance). On the social level: "Holiness delimits and expresses the power of those who maintain such spaces... Holiness here is ideology, and designed to serve a particular social system" (Guthrie).
+**Author's claim:** Holiness is rooted in "this-worldly" experience of brilliance and cleanliness. The Israelite priesthood developed holiness as "apartness" — separation from sex and death — which had the effect of censoring older mythologies.
 
 **Evidence presented:**
-- Etymological: Akkadian ellu = clean/brilliant; Ugaritic ṭhr = brilliance/luminosity (cf. ṭāhôr in Ex 24:10).
-- Deities are "holy ones" (bn qdš in Ugaritic; qdšm in Phoenician KAI 4:4-5).
-- Theophany induces shaking, dread, fear — Otto's mysterium tremendum et fascinosum (CAT 1.4 VII; Isa 6:4).
-- Jacobsen's Treasures of Darkness explicitly follows Otto.
-- But critique: "Because such experience is mediated by human experience and language, it is not by definition entirely 'Wholly Other.'" Van der Toorn: "the gods dwelled in the same universe as they did."
-- Guthrie: holiness attaches to the elite and monarch. Paden: "Power and order are intertwined and mutually conditioning."
-- Israelite development: priestly tradition made holiness = separation from sex and death. Priests restricted in spouse selection (Lev 21:7), chief priest forbidden contact with dead (Lev 21:11-12). "Holier than the holy of holies, the deity of the priesthood would have epitomized the fullest possibilities of sacredness and separation in terms of sexuality and death."
+- Ugaritic: deities collectively are "sons of qdš" (1.2 I 20-21). Phoenician: deities are "holy ones" (qdšm, KAI 4:4-5). El or Athirat bears title "Holy One" (lṭpn wqdš). Baal's mountain is "holy" and "divine."
+- Akkadian ellu ("holy") also means "clean" in the profane sense of brilliance and luminosity (cf. "sparkling clean"). Ugaritic ṭhr = brilliance/luminosity (cf. ṭāhôr in Ex 24:10).
+- Theophany is experienced as shaking (Isa 6:4) and dread — Otto's mysterium tremendum et fascinosum. Jacobsen and others make this the cornerstone of understanding religion.
+- But Smith qualifies: holiness is also "this-worldly" — it serves elite power (Guthrie: "Holiness here is ideology, designed to serve a particular social system"). Paden: "Power and order are intertwined and mutually conditioning elements of religious world-building."
+- Israelite priesthood developed holiness as separation: priests restricted in spouse selection (Lev 21:7), chief priest forbidden contact with dead (Lev 21:11-12), wife must be childless (bĕtûlâ, Lev 21:13-14). "Holier than the holy of holies, the deity of the priesthood would have epitomized the fullest possibilities of sacredness and separation in terms of sexuality and death."
+- Consequence: "It may be that older mythologies involving divine death and sex did not survive... because such mythologies did not cohere with the priestly tradition's normative understanding of the divine."
 
-**Confidence:** HIGH on the brilliance/cleanliness etymology. MEDIUM-HIGH on the social-power argument. MEDIUM on priestly censorship of older sexual/death mythologies.
+**Confidence:** MEDIUM-HIGH. The connection between holiness, brilliance, and cleanliness is well-established. The claim that priestly separation concepts censored older mythologies is more speculative — we can see what survived, not what was censored.
 
-**What's at stake:** If holiness is both genuine religious experience AND social ideology, neither purely phenomenological nor purely materialist readings capture it. The priesthood's shaping of Yahweh's holiness (separation from sex and death) may explain the ABSENCE of divine sexuality and death in the Bible — it was edited out, not originally absent.
+**What's at stake:** If priestly holiness concepts actively suppressed divine sex and death mythologies, then the Bible's "silence" about divine sexuality and death is not evidence that Israel never had such mythologies — it's evidence of successful censorship. The absence of evidence IS evidence of suppression.
 
-**Who disagrees:** Pure Otto-followers who treat holiness as irreducible religious experience. Materialists who reduce holiness entirely to power ideology.
+**Who disagrees:** Scholars who see Israel's aniconism and anti-mythological stance as original, not as a secondary development. Those who read priestly holiness categories as revealed law, not as sociological development.
 
-**Alternative reading:** The separation-from-sex-and-death could be inherent to the concept of holiness rather than a priestly innovation. Many cultures independently develop purity taboos around sex and death.
+**Alternative reading:** The absence of divine sex/death mythologies in Israelite texts might reflect genuine differences from Ugaritic religion from the beginning. Not all West Semitic peoples had the same mythologies. Israel's silence might be original, not censored.
 
-**My assessment:** Smith's balanced treatment — neither dismissing Otto nor uncritically accepting him — is admirable. The suggestion that priestly holiness norms CENSORED older mythologies of divine sex and death is a crucial insight that sets up chapters 6 and 8-10. This is one of the most important sections in the book.
+**My assessment:** Smith's argument is plausible but the censorship model is always harder to prove than the absence model. We know the priestly texts suppress some things (the MT alteration of Deut 32:8 is a proven case of anti-polytheistic censorship). It's reasonable to infer that other suppressions occurred. But we can't know how much was suppressed versus how much was never there. The strongest data point is the contrast with Ugarit — if Israel shared a West Semitic religious heritage, the absence of divine sexuality texts is anomalous and needs explanation. Priestly suppression is one good explanation.
 
 ---
 
-## Claim 5: Immortality is THE defining divine trait — even gods who "die" in mythology are not permanently dead
+## Claim 5: Immortality is the norm for deities; divine death in narrative is not an exception to this rule but a way of describing the created order
 
-**Author's claim:** "One fundamental property of deities is their continuity in the cosmos." Death "separates humanity from divinity." In Ugarit, "even deities who are said to be dead are not permanently so." In Israel, the notion of "dead gods" (Psalm 82) serves a polemical purpose unique to Israel.
+**Author's claim:** "Deities are free from death." Even when gods die in narratives, these deaths "are fully consistent with the broader conceptualization that death distinguishes deities from humanity." Dead gods lack cult — they are "defunct."
 
 **Evidence presented:**
-- Gilgamesh (OB): "When the gods created humanity, they assigned death to humanity, but life they kept in their own hands." "Only the gods [live] forever under the sun."
-- Ugaritic: Shapshu called "eternal" ('lm, 2.42.7); Rapiu is "eternal king" (mlk 'lm, 1.108.1); El's wisdom is "for eternity" ('d 'lm, 1.3 V 31). Aqhat rejects Anat's promise of eternal life as implausible (1.17 V 28-29).
-- Baal dies but returns — "never in the Ugaritic texts is divine death a permanent condition." Mot, Yamm similarly "dead" but reappear.
-- Mesopotamian exceptions: three types of divine death — (1) older gods in succession myths, (2) divine rebels, (3) divine monsters. These dead gods lack separate cults — they're defunct.
-- Israelite exception: Psalm 82 declares other gods "dead" as polemic. "What separates this Israelite composition...is the polemical purpose to which the concept is put...an inner-cultural polemic aimed at nonindigenous deities."
-- Habakkuk 1:12: "My holy God, You never die."
-- Ecclesiastes 3:11: God put 'ôlām ("eternity"/"hiddenness") in the human heart — a paradox: humanity intuits eternity but can't grasp it.
+- Gilgamesh: "When the gods created humanity, they assigned death to humanity, but life they kept in their own hands." "Only the gods live forever under the sun."
+- Ugarit: Shapshu is "eternal" ('lm, 2.42.7), Rapiu is "eternal king" (mlk 'lm, 1.108.1). Keret's son: gods are not expected to die (1.16 I 14-23). Anat's promise of immortality to Aqhat is rejected as implausible (1.17 V 28-29).
+- Divine deaths in Ugarit: Mot appears dead in 1.6 II but reappears in 1.6 VI. Yamm is said dead (1.2 IV 32, 34) but may reappear (1.4 VII). Baal's death is temporary. "Never in the Ugaritic texts is divine death a permanent condition."
+- Mesopotamia: Lambert — gods can die violent deaths but not of old age. Three categories: (1) older gods killed in succession myths, (2) divine rebels, (3) divine monsters. All lack cult. "Dead gods lack a separate cult... these figures are defunct."
+- The function of divine death: Tiamat's carcass provides the cosmos (Enuma Elish); Qingu's blood provides humanity. "The deaths of these gods make their divine matter usable, and they connect the created order to the gods."
+- J.Z. Smith's critique of "dying and rising gods" category — gods die, disappear, and reappear across many cultures. "Immortality is not a prime characteristic of divinity: gods die."
+- Israel: Psalm 82 is the only text where gods are declared dead — but it's polemic, not narrative. "What separates this Israelite composition about dead gods from their treatment in Ugaritic or Mesopotamian literature is the polemical purpose... an inner-cultural polemic aimed at nonindigenous deities."
+- Ezekiel 28: the prince of Tyre will die to prove he's human, not a god. Habakkuk 1:12: "My holy God, You never die." Psalm 90:2: eternity of God vs. non-eternity of humans.
+- Ecclesiastes 3:11: God set 'ōlām in the human heart. Smith proposes a double-reading: "eternity" AND "that which is hidden" — coalescence of *'lm and *ġlm roots. "We can only intuit that which we cannot experience: eternity."
 
-**Confidence:** VERY HIGH that immortality defined divinity in ANE thought. The Gilgamesh quote is canonical. HIGH on Psalm 82 as uniquely polemical.
+**Confidence:** HIGH for the basic claim (immortality is a divine trait; narrative deaths don't contradict this). MEDIUM for the 'ōlām double-reading — it's philologically creative but speculative.
 
-**What's at stake:** If immortality defines divinity, then Baal's death is genuinely anomalous and needs explanation (the subject of Ch6). Psalm 82's declaration that other gods "die" is a radical move — it's not just demoting them but applying the one criterion that defines them as NOT divine.
+**What's at stake:** If Baal's death-and-return is a narrative about kingship and cosmic order (not about agricultural cycles), then the Frazerian "dying and rising god" framework collapses. This sets up Chapter 6's detailed argument. For Israel, the fact that divine death is used POLEMICALLY (Psalm 82) rather than narratively is another instance of monotheistic rhetoric: the gods aren't just subordinated, they're killed.
 
-**Who disagrees:** J.Z. Smith (cited by Smith): "It is commonplace within the history of religions that immortality is not a prime characteristic of divinity: gods die." Smith acknowledges this but argues the ANE evidence supports death-as-exceptional, not death-as-normal.
+**Who disagrees:** Frazer and the "dying and rising god" school (see Ch 6). Scholars who read Psalm 82's "you will die like men" as metaphor rather than actual divine death.
 
-**Alternative reading:** The Ugaritic data (Baal, Mot, Yamm all die) could suggest death was LESS exceptional for West Semitic deities than Smith claims. He's stacking the deck by treating their deaths as "temporary" and therefore not "real" death.
+**Alternative reading:** The "dead gods" of Psalm 82 might not be literally dead but stripped of divine status — "dead" in the sense of "defunct as gods." This reading aligns with Smith's own Mesopotamian parallel.
 
-**My assessment:** Smith's treatment of the Gilgamesh and Psalm 82 data is solid. But he may be too quick to dismiss J.Z. Smith's point about dying gods being common. If Baal, Mot, AND Yamm all die (even temporarily), that's not a negligible exception — it's a pattern. The "temporary" qualifier does real work here, and not all scholars would accept it.
-
----
-
-## Claim 6: Israelite monotheism converged all divine roles into one figure, creating a deity "more concealed in character, more revealed in function"
-
-**Author's claim:** "Yahweh of Israelite monotheism has no divine peers, fewer divine subordinates, no sex (probably), no death, no family, but this deity maintained all the expected roles of divine protection and blessing. As a result, monotheistic Yahwism perhaps then resulted in a deity more concealed in character, more revealed in function."
-
-**Evidence presented:** (Synthesized from the whole chapter):
-- All the traits surveyed (strength, body, holiness, immortality) were SHARED by Ugaritic and Israelite deities — "the extant Bible exhibits no 'unique' feature in descriptions of the divine."
-- What changed was convergence: where Ugarit distributed divine functions across a family, Israel concentrated them in one figure.
-- "The quest for specific unique traits for Yahweh appears to be theology dressed up as history."
-- The postscript's table: human problems (powerlessness, infertility, unholiness, mortality) map to divine characteristics (strength, sexuality/love, holiness, eternity). Deities address human existential needs.
-- Shulamit story: a four-year-old already understands parents as bigger, stronger, gendered, knowledgeable, and mortal — divine traits are extrapolated from family experience.
-
-**Confidence:** MEDIUM-HIGH on the convergence thesis. MEDIUM on "more concealed in character, more revealed in function" — this is more theological interpretation than historical claim.
-
-**What's at stake:** If monotheism didn't invent new divine traits but merely CONVERGED existing ones, then the theological "advance" is organizational, not conceptual. Yahweh isn't a new kind of being — he's the old family of gods compressed into one person. This has profound implications for theological claims about monotheism's "uniqueness."
-
-**Who disagrees:** Theologians who claim monotheism introduced genuinely new concepts of divinity (transcendence, omnipotence, etc.). Scholars who argue Yahweh's profile was distinctive from the start (Cross's Divine Warrior).
-
-**Alternative reading:** Convergence could be a genuinely innovative theological move, not just compression. A god who IS all the gods is different in kind from a god who is one among many. The "concealed character / revealed function" distinction might be Smith projecting later theological categories.
-
-**My assessment:** The convergence thesis is the logical culmination of Part II and is well-supported by the trait-by-trait survey. But the "concealed/revealed" conclusion feels like Smith reaching for a theological payoff. The data supports convergence; whether that makes Yahweh "more concealed" is a value judgment.
+**My assessment:** Good chapter. The Gilgamesh citations are perfect comparanda. The 'ōlām double-reading is clever but I'm not convinced it's necessary — "eternity" alone makes good sense in Eccl 3:11. The most important move is the distinction between narrative divine death (which serves cosmological functions) and polemical divine death (Psalm 82, which serves theological functions). This will bear fruit in Chapter 6.
 
 ---
 
-## Ch5 Overall Assessment
+## Claim 6: Monotheistic Yahweh represents convergence of valued divine traits, not invention of new ones
+
+**Author's claim:** "The extant Bible exhibits no 'unique' feature in descriptions of the divine... Yahweh of Israelite monotheism has no divine peers, fewer divine subordinates, no sex (probably), no death, no family, but this deity maintained all the expected roles of divine protection and blessing."
+
+**Evidence presented:**
+- Summarizing the chapter: all four traits (strength, body/gender, holiness, immortality) are shared across Ugarit, Mesopotamia, and Israel. Israel's distinctiveness is not in the traits themselves but in their combination and reduction.
+- "The point of a theological tradition... is to come to understand and to know the deity to which it is dedicated."
+- "Monotheistic Yahwism perhaps then resulted in a deity more concealed in character, more revealed in function."
+- The postscript (Shulamit breakfast story): divine traits correspond to human existential problems — strength addresses powerlessness, sexuality addresses absence/infertility, holiness addresses guilt, eternity addresses mortality. These are human universals, not Israelite inventions.
+
+**Confidence:** HIGH for the descriptive claim that Israel shared divine-trait conceptions with neighbors. MEDIUM for the "more concealed in character, more revealed in function" formulation — this is a theological judgment as much as a historical one.
+
+**What's at stake:** If nothing in Yahweh's traits is unique, then Israelite religion's distinctiveness must lie elsewhere — in the STRUCTURE (convergence of traits into one deity), the RHETORIC (monotheistic statements), or the HISTORY (exile as catalyst). This is the pivot from Part II (traits) to Part III (monotheism's emergence).
+
+**Who disagrees:** Anyone claiming Israelite religion was sui generis. The postscript's move from "no unique traits" to "unique combination of traits" is a classic Smith maneuver — acknowledge the continuity, then locate distinctiveness in configuration rather than essence.
+
+**Alternative reading:** The "combination" argument could be a way of preserving Israelite uniqueness while appearing to abandon it. If NO culture has exactly the same combination of traits, then every culture is "unique" in this trivial sense. The real question is whether Israel's specific combination was historically distinctive or theologically motivated.
+
+**My assessment:** Smith's honesty about continuity is the chapter's greatest strength. He doesn't try to smuggle uniqueness in through the back door. The Shulamit postscript is charming and methodologically insightful — divine traits ARE extrapolations from human experience, which makes the differences between pantheons traceable to differences in social experience. This humanistic approach is what distinguishes Smith from both conservative apologists and postmodern skeptics.
+
+---
+
+## Chapter 5 Overall Assessment
 
 | Claim | Confidence | Most Vulnerable To |
 |-------|-----------|-------------------|
-| 1: Deities superhuman in size | HIGH | Architectural evidence disputed as prestige, not theology |
-| 2: Anthropomorphism refined, not abandoned | HIGH | Degree-of-difference vs. kind-of-difference debate |
-| 3: Maleness = authority, not sexuality | MEDIUM-HIGH | Feminist critiques of patriarchal structure |
-| 4: Holiness = brilliance + social power | MEDIUM-HIGH | Pure-phenomenological readings of holiness |
-| 5: Immortality as defining trait | VERY HIGH | J.Z. Smith's dying-gods critique |
-| 6: Convergence created concealed/revealed deity | MEDIUM-HIGH | Is convergence innovation or compression? |
+| 1: Superhuman strength and size | VERY HIGH | Architectural gigantism as royal display |
+| 2: Anthropomorphism persists; Israel develops transcendent forms | HIGH (persistence) / MEDIUM (radicality of priestly shift) | Disembodied voice ≠ anthropomorphism |
+| 3: Yahweh gendered male but not sexual | HIGH | Female imagery as vestigial goddess language |
+| 4: Holiness as brilliance → separation; priesthood suppressed older mythologies | MEDIUM-HIGH | Suppression vs. original absence |
+| 5: Immortality is norm; divine death is narrative device or polemic | HIGH | 'ōlām double-reading speculative |
+| 6: No unique traits; convergence of valued traits | HIGH | Uniqueness-by-combination as a dodge |
 
-**Strongest section:** Section 2 on body and gender — the pars pro toto analysis of divine body parts is elegant, and the "transcendent anthropomorphism" concept (borrowed from Hendel) is genuinely useful for comparing Israel and Mesopotamia.
+**Strongest section:** Section 2 (Body and Gender). The treatment of anthropomorphism across three cultures (Ugarit, Mesopotamia, Israel) with attention to both persistence and transformation is the best synthetic writing in Part II. The rejection of De Moor's crisis thesis and of androgyny/homoeroticism readings is crisp and well-argued.
 
-**Weakest section:** The postscript — the Shulamit anecdote is charming but the table mapping human problems to divine traits is underdeveloped. This needed more space.
+**Weakest section:** Section 4 (Immortality). Too much space on the Ecclesiastes 3:11 digression, which is philologically interesting but not load-bearing for the chapter's argument.
 
-**The editing insight:** The most important argument in this chapter may be the one Smith makes in passing about priestly censorship (end of section 3): that older mythologies of divine sex and death didn't survive because they didn't cohere with priestly holiness norms. This sets up the entire arc from polytheism to monotheism as a process of EDITORIAL EXCLUSION, not just theological innovation. I wish he'd developed this more.
+**Most striking detail:** The four-tiered correspondence between human problems and divine traits (powerlessness → strength, absence → sexuality, guilt → holiness, mortality → eternity). This is Smith's most humanistic moment — a reminder that he's doing history of religions, not just philology.
 
-**Cross-reference:** Smith's claim that anthropomorphism persisted in Israel (Claim 2) contrasts with older scholarly narratives about Israel's theological uniqueness. Cross's work on the Divine Warrior shows how Yahweh absorbed Baal's anthropomorphic storm-god profile. The traits surveyed here map directly onto Cross's portrait of Yahweh as storm-god, Divine Warrior, and heir to El's patriarchal role.
+**Cross-reference:** The chapter's conclusion that monotheism eliminated divine sex and death while retaining blessing/protection functions directly anticipates Ch 6 (Baal's death) and Ch 8-10 (monotheistic rhetoric). The suppression of divine sexuality by priestly holiness categories connects to Ch 4's Asherah discussion — if Asherah WAS a goddess, her elimination may have been driven by priestly holiness concerns as much as by monotheistic theology. Sommer's *The Bodies of God* provides a complementary argument about divine embodiment across ANE and Israelite texts; Smith's approach is more comparative and less theological.
