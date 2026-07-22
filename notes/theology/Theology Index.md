@@ -24,4 +24,5 @@ Theological analysis: what does the evidence mean for belief, doctrine, and prac
 
 ## Notes
 
-- **[[yahweh-monotheism-polytheism-debate|Was Yahweh Always One God? The Monotheism vs. Polytheism Debate]]** — Comprehensive research synthesis covering the three main scholarly positions on Yahweh's origins, with archaeological evidence, textual analysis, and source evaluation.
+- **[[scholarly-directory-yahweh-origins|Scholarly Directory: Yahweh's Origins]]** — Comprehensive PhD-level scholar directory: 35+ named scholars across all positions, with institutional affiliations, key works, core arguments, and sub-debate analysis.
+- **[[yahweh-monotheism-polytheism-debate|Was Yahweh Always One God? The Monotheism vs. Polytheism Debate]]** — Original research synthesis covering the three main scholarly positions with archaeological evidence and textual analysis.
