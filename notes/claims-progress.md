@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 0
-- **Total claims extracted:** 0
-- **Notes with edges added:** 0
-- **Last session:** (none)
+- **Notes with claims extracted:** 3
+- **Total claims extracted:** 12
+- **Notes with edges added:** 3
+- **Last session:** 2026-07-23 (Session 1)
 
 ## By Scholar
 
@@ -26,7 +26,7 @@ related:
 - [ ] Smith Chapter 0 — Introduction
 - [ ] Smith Chapter 1 — Deities in the Period of the Judges
 - [ ] Smith Chapter 2 — Yahweh and Baal
-- [ ] Smith Chapter 3 — Yahweh and Asherah
+- [x] Smith Chapter 3 — Yahweh and Asherah
 - [ ] Smith Chapter 4 — Yahweh and the Sun
 - [ ] Smith Chapters 5-7 — Cult, Monotheism, Portraits
 
@@ -57,7 +57,7 @@ related:
 - [ ] Romer — Chapter 7 — Cult of Yhwh in Judah
 - [ ] Romer — Chapters 6-7 — Cults of Israel and Judah
 - [ ] Romer — Chapter 8 — Statue of Yhwh
-- [ ] Romer — Chapter 9 — Yhwh and His Asherah
+- [x] Romer — Chapter 9 — Yhwh and His Asherah
 - [ ] Romer — Chapters 8-9 — Statue and Asherah
 - [ ] Romer — Chapter 10 — Fall of Samaria
 - [ ] Romer — Chapter 11 — Reform of Josiah
@@ -137,7 +137,7 @@ related:
 
 ### Day, Yahweh and the Gods of Canaan (8 notes)
 - [ ] Day — Chapter 1 — Yahweh and El
-- [ ] Day — Chapter 2 — Yahweh and Asherah
+- [x] Day — Chapter 2 — Yahweh and Asherah
 - [ ] Day — Chapter 3 — Yahweh Versus Baal
 - [ ] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
 - [ ] Day — Chapter 5 — Yahweh and Astarte and Anat
@@ -206,11 +206,10 @@ related:
 
 ## Session Log
 
-<!-- Append-only. Each session adds one entry. Format:
-### YYYY-MM-DD — Session N
-- Notes processed: N
-- Claims extracted: N
-- Edges added: N
-- Commits: N
-- Notes remaining: N
--->
+### 2026-07-23 — Session 1
+- **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)
+- **Claims extracted:** 12 (4 Smith, 4 Römer, 4 Day — Smith Ch3.2 already existed as example file, 11 newly created)
+- **Edges added:** 38+ cross-scholar edges across all 12 claims (contradicts, supports, challenged-by, depends-on)
+- **Commits:** 1
+- **Notes remaining:** 146
+- **Next batch suggestion:** Smith Ch2 (Yahweh and Baal) + Römer Ch8 (Statue of Yhwh) + Day Ch1 (Yahweh and El) — these establish the Baal and El threads that the Asherah debate depends on.
