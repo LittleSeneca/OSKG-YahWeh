@@ -2,6 +2,9 @@
 tags:
   - source/book-notes
   - faith/yahweh
+  - faith/polytheism
+  - archaeology
+  - history/josiah
   - scholars/mark-smith
   - truth-project
 created: 2026-07-22

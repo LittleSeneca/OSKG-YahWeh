@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-embodiment, scholars/francesca-stavrakopoulou, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-warrior, theology/divine-embodiment, scholars/francesca-stavrakopoulou, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Stavrakopoulou — Part III — Torso]]", "[[Cross — Parts II-III — Divine Warrior and League]]"]

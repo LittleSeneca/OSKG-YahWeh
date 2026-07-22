@@ -1,9 +1,13 @@
 ---
 tags:
+  - analysis/meta
   - faith/deconstruction
-  - research/meta-analysis
-  - research/methodology
-  - faith/epistemology
+  - methodology
+  - historiography
+  - scholars/mark-smith
+  - scholars/frank-moore-cross
+  - scholars/william-dever
+  - truth-project
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

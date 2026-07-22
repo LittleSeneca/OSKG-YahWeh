@@ -1,11 +1,14 @@
 ---
 tags:
+  - source/secondary-source
   - faith/monotheism
   - faith/polytheism
   - faith/yahweh
   - faith/deconstruction
-  - research/synthesis
-  - research/scholar-directory
+  - scholars/mark-smith
+  - scholars/thomas-romer
+  - scholars/michael-heiser
+  - truth-project
 created: 2026-07-22
 updated: 2026-07-22
 confidence: high

@@ -1,8 +1,10 @@
 ---
 tags:
-  - notes
-  - theology
-  - index
+  - index/reading-list
+  - faith/monotheism
+  - faith/yahweh
+  - christology
+  - truth-project
 created: 2026-07-22
 related:
   - "[[Notes Index]]"

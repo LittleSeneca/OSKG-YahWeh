@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, scholars/william-dever, truth-project, meta-analysis]
+tags: [source/book-notes, faith/yahweh, historiography, methodology, scholars/william-dever, scholars/mark-smith, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Dever — Chapter I — Defining Religion]]", "[[../../notes/theology/meta-analysis-scholars]]"]

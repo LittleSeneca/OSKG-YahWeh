@@ -1,14 +1,14 @@
 ---
 tags:
+  - analysis/meta
   - faith/monotheism
   - faith/polytheism
   - faith/yahweh
   - faith/deconstruction
-  - research/synthesis
+  - ane-religion
   - scholars/mark-smith
   - scholars/michael-heiser
-  - history/ancient-near-east
-  - history/israelite-religion
+  - truth-project
 created: 2026-07-22
 updated: 2026-07-22
 confidence: high
