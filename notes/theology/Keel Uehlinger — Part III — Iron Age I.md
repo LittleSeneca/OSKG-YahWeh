@@ -19,6 +19,9 @@ source:
   year: 1998
   publisher: "Fortress Press"
 related:
+  - "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]"
+  - "[[Fleming — Ch 4 — The Old Poetry]]"
+  - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
   - "[[Keel Uehlinger — Part II — Late Bronze Age]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"

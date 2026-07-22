@@ -17,6 +17,10 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
+  - "[[Smith Origins — Introduction]]"
   - "[[Theology Index]]"
   - "[[Schmid — §5 — Romantic Devaluation of Theology]]"
   - "[[Schmid — §§2-4 — Concept of Theology from Plato to Gabler]]"

@@ -20,6 +20,9 @@ source:
   publisher: "University of Chicago Press"
   chapter: "VI — The Origins of Israelite Religion"
 related:
+  - "[[Albertz Vol1 — §2.2 — The Exodus Group and Yahweh's Origins]]"
+  - "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Kaufmann — Introduction]]"
   - "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]"
   - "[[Smith Origins — Ch6 — The Life and Death of Baal]]"

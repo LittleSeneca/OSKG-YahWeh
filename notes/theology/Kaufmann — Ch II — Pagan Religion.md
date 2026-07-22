@@ -23,6 +23,9 @@ source:
   chapter: "II — Pagan Religion"
   local_file: "sources/books/_fulltext/Kaufmann_The_Religion_of_Israel_1960.txt"
 related:
+  - "[[Keel Uehlinger — Part I — Middle Bronze Age IIB]]"
+  - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[Kaufmann — Introduction]]"

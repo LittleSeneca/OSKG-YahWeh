@@ -19,6 +19,9 @@ source:
   year: 1998
   publisher: "Fortress Press"
 related:
+  - "[[Day — Chapter 3 — Yahweh Versus Baal]]"
+  - "[[Lewis — Chapter 8 — Warrior and Family God]]"
+  - "[[Cross — Parts II-III — Divine Warrior and League]]"
   - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]"

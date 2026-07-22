@@ -20,6 +20,8 @@ source:
   chapter: "V — The Sources"
   local_file: "sources/books/_fulltext/Kaufmann_The_Religion_of_Israel_1960.txt"
 related:
+  - "[[Schmid — §11 — The Tanakh as the Hebrew Bible]]"
+  - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Theology Index]]"
   - "[[Kaufmann — Introduction]]"
   - "[[Tigay — Introduction]]"

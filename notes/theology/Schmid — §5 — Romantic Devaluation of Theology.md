@@ -17,6 +17,9 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[Smith Origins — Introduction]]"
+  - "[[Schmid — §§6-9 — Jewish Reception to Implicit Theology]]"
   - "[[Theology Index]]"
   - "[[Schmid — §§2-4 — Concept of Theology from Plato to Gabler]]"
   - "[[yahweh-monotheism-polytheism-debate]]"

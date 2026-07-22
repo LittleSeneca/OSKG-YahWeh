@@ -20,6 +20,9 @@ source:
   publisher: "University of Chicago Press"
   local_file: "sources/books/_fulltext/Kaufmann_The_Religion_of_Israel_1960.txt"
 related:
+  - "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"
+  - "[[Lewis — Chapter 1 — Introductory Matters]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[Tigay — Introduction]]"

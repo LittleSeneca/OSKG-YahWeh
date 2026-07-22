@@ -20,6 +20,9 @@ source:
   original_year: 2018
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[yahweh-monotheism-polytheism-debate]]"
+  - "[[Smith Origins — Introduction]]"
+  - "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"
   - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"

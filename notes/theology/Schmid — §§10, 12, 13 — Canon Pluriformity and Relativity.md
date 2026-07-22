@@ -19,6 +19,11 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[scholarly-directory-yahweh-origins]]"
+  - "[[meta-analysis-scholars]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
+  - "[[Smith Origins — Introduction]]"
+  - "[[Romer — Introduction]]"
   - "[[Theology Index]]"
   - "[[Schmid — §11 — The Tanakh as the Hebrew Bible]]"
 note_type: combined

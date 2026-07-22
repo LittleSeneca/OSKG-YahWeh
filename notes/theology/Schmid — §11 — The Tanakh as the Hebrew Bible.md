@@ -19,6 +19,9 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[Smith Origins — Ch8 — Emergence of Monotheistic Rhetoric]]"
+  - "[[Romer — Chapter 12 + Conclusion]]"
+  - "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"
   - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"

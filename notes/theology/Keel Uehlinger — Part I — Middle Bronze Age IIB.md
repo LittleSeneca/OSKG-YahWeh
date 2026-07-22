@@ -19,6 +19,9 @@ source:
   year: 1998
   publisher: "Fortress Press"
 related:
+  - "[[Kaufmann — Ch II — Pagan Religion]]"
+  - "[[Day — Chapter 2 — Yahweh and Asherah]]"
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"
   - "[[Dever — Chapter V — Archaeological Evidence]]"
   - "[[Smith Origins — Introduction]]"

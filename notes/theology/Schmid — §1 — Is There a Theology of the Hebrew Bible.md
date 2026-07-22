@@ -18,6 +18,7 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
+  - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[Theology Index]]"
   - "[[Schmid — Preface]]"
   - "[[scholarly-directory-yahweh-origins]]"

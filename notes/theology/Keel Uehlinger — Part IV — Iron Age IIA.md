@@ -19,6 +19,9 @@ source:
   year: 1998
   publisher: "Fortress Press"
 related:
+  - "[[Albertz Vol1 — §3.1-3.2 — Formation of Monarchy and Legitimation Crisis]]"
+  - "[[Cross — Parts II-III — Divine Warrior and League]]"
+  - "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]"
   - "[[Keel Uehlinger — Part III — Iron Age I]]"
   - "[[Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah]]"
   - "[[Keel Uehlinger — Introduction — Starting Point and Points of Departure]]"

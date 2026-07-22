@@ -28,7 +28,7 @@ related:
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
   - "[[Smith Chapter 2 — Yahweh and Baal]]"
   - "[[Smith Chapter 3 — Yahweh and Asherah]]"
-  - "[[Dever — Ch VI-IX]]"
+  - "[[Dever — Chapters VI-IX — Asherah, Women, Monotheism]]"
   - "[[Day — Chapter 2 — Yahweh and Asherah]]"
   - "[[Romer — Chapters 8-9 — Statue and Asherah]]"
 ---
