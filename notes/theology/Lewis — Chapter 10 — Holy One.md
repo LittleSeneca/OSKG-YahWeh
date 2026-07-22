@@ -11,6 +11,7 @@ source:
 related:
   - "[[Lewis — Chapter 9 — King and Judge]]"
   - "[[Lewis — Chapter 7 — Iconography of Divinity — Yahweh]]"
+  - "[[Lewis — Conclusion]]"
   - "[[Sommer — Chapter 4 — Sacred Space 1]]"
   - "[[Heiser — Part 5 — Conquest and Failure]]"
 ---

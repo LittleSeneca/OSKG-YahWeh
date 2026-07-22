@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/kenite-hypothesis, history/israel-judah, history/jerusalem, history/josiah, history/aniconism, faith/asherah, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Romer — Chapter 11 — Reform of Josiah]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[meta-analysis-scholars]]", "[[scholarly-directory-yahweh-origins]]"]
+related: ["[[Romer — Chapter 11 — Reform of Josiah]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Albertz Vol1 — §3.9 — After Josiah to the Fall of Jerusalem]]", "[[meta-analysis-scholars]]", "[[scholarly-directory-yahweh-origins]]"]
 ---
 
 # Römer, The Invention of God — Chapter 12 + Conclusion

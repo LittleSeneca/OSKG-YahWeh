@@ -13,6 +13,7 @@ related:
   - "[[Romer — Chapter 3 — Moses and the Midianites]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Tigay — Introduction]]"
+  - "[[Fleming — Book Summary]]"
   - "[[scholarly-directory-yahweh-origins]]"
 ---
 

@@ -10,6 +10,7 @@ source:
   local_file: "sources/books/_fulltext/Lewis_Origin_and_Character_of_God_2020.txt"
 related:
   - "[[Lewis — Chapter 1 — Introductory Matters]]"
+  - "[[Lewis — Chapter 3 — Methodology]]"
   - "[[Dever — Chapter II — History of Scholarship]]"
   - "[[Cross — Preface + Part I — Canaanite Religion and El]]"
   - "[[Smith Origins — Introduction]]"
