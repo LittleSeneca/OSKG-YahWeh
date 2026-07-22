@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/divine-council, christology, eschatology, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Heiser — Part 6 — Thus Says the Lord]]", "[[Sommer — Chapters 4-6 + Appendix]]"]
+related: ["[[Heiser — Part 6 — Thus Says the Lord]]", "[[Heiser — Part 8 — The Kingdom Not Yet]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Sommer — The Bodies of God]]", "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"]
 ---
 
 # Heiser — Part 7: The Kingdom Already (Chapters 31-35)

@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/divine-council, prophets, scholars/michael-heiser, faith/baal, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Heiser — Part 5 — Conquest and Failure]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"]
+related: ["[[Heiser — Part 5 — Conquest and Failure]]", "[[Heiser — Part 7 — The Kingdom Already]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]", "[[Smith Chapter 2 — Yahweh and Baal]]"]
 ---
 
 # Heiser — Part 6: Thus Says the Lord (Chapters 26-30)

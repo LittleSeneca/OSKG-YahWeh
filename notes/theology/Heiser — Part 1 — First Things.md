@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/divine-council, methodology, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[../../notes/theology/meta-analysis-scholars]]"]
+related: ["[[Heiser — Part 2 — The Households of God]]", "[[meta-analysis-scholars]]", "[[Smith Chapter 0 — Introduction]]", "[[Fleming — Ch 1 — Introduction]]", "[[Sommer — Introduction]]"]
 ---
 
 # Heiser — Part 1: First Things (Chapters 1-2)

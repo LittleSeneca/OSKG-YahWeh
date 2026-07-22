@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/yahweh, faith/divine-council, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: high
-related: ["[[Heiser — Part 1 — First Things]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]"]
+related: ["[[Heiser — Part 1 — First Things]]", "[[Heiser — Part 3 — Divine Transgressions]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Smith Origins — Ch2 — The Divine Council]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]"]
 ---
 
 # Heiser — Part 2: The Households of God (Chapters 3-9)

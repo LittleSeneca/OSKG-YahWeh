@@ -2,7 +2,7 @@
 tags: [source/book-notes, faith/divine-council, genesis-6, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
-related: ["[[Heiser — Part 2 — The Households of God]]"]
+related: ["[[Heiser — Part 2 — The Households of God]]", "[[Heiser — Part 4 — Yahweh and His Portion]]", "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]", "[[Day — Chapter 7 — Yahweh and the Underworld Deities]]"]
 ---
 # Heiser — Part 3: Divine Transgressions (Chapters 10-15)
 
