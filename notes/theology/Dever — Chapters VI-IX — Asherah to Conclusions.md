@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, philology, methodology, history/israel-judah, history/josiah, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Dever — Chapter V — Archaeological Evidence]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]"]

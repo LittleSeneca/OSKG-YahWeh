@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/holiness, faith/priestly, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/holiness, faith/priestly, scholars/theodore-lewis, philology, history/kenite-hypothesis, truth-project]
 created: 2026-07-22
 confidence: high
 source:

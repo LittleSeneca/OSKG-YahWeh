@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, truth-project]
+tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, faith/asherah, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Dever — Chapter III — Sources and Methods]]"]

@@ -4,6 +4,10 @@ tags:
   - faith/yahweh
   - faith/baal
   - scholars/mark-smith
+  - philology
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/divine-council, prophets, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, prophets, scholars/michael-heiser, faith/baal, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 5 — Conquest and Failure]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"]

@@ -4,6 +4,14 @@ tags:
   - faith/yahweh
   - faith/monotheism
   - scholars/mark-smith
+  - philology
+  - methodology
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - history/exile
+  - faith/asherah
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

@@ -5,6 +5,8 @@ tags:
   - history/merneptah
   - history/israel-origins
   - scholars/thomas-romer
+  - philology
+  - history/kenite-hypothesis
   - truth-project
 created: 2026-07-22
 confidence: medium

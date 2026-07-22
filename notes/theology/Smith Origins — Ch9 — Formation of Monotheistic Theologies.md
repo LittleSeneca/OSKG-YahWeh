@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugarit, priestly-theology, wisdom-literature, apocalyptic, faith/divine-council, genesis-1, daniel-7]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, philology, historiography, methodology, history/merneptah, history/israel-judah, history/jerusalem, history/exile, history/aniconism, faith/asherah, faith/polytheism, truth-project, ugarit, priestly-theology, wisdom-literature, apocalyptic, faith/divine-council, genesis-1, daniel-7]
 created: 2026-07-22
 confidence: medium-high
 source:

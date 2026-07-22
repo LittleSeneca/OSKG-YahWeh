@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/el, scholars/frank-moore-cross, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/el, scholars/frank-moore-cross, philology, historiography, methodology, history/kenite-hypothesis, faith/divine-council, truth-project]
 created: 2026-07-22
 confidence: high
 source:

@@ -5,6 +5,8 @@ tags:
   - faith/polytheism
   - philology
   - scholars/thomas-romer
+  - methodology
+  - history/kenite-hypothesis
   - truth-project
 created: 2026-07-22
 confidence: medium

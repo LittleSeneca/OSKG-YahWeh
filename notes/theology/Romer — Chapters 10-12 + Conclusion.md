@@ -5,6 +5,12 @@ tags:
   - faith/monotheism
   - history/exile
   - scholars/thomas-romer
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - faith/asherah
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 confidence: medium

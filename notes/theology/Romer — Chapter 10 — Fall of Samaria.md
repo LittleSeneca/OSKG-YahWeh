@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/israel-judah, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 9 — Yhwh and His Asherah]]"]

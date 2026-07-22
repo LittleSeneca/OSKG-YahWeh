@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, history/jerusalem, scholars/rainer-albertz, truth-project, jeremiah, ezekiel]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, history/jerusalem, scholars/rainer-albertz, history/israel-judah, history/josiah, truth-project, jeremiah, ezekiel]
 created: 2026-07-22
 confidence: medium
 source:

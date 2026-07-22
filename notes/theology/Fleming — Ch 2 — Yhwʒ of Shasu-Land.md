@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, egyptian-evidence, shasu, soleb, scholars/daniel-fleming, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, egyptian-evidence, shasu, soleb, scholars/daniel-fleming, philology, methodology, history/kenite-hypothesis, history/merneptah, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

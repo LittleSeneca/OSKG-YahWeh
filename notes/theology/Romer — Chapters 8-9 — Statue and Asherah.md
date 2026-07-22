@@ -5,6 +5,14 @@ tags:
   - faith/asherah
   - history/aniconism
   - scholars/thomas-romer
+  - archaeology
+  - philology
+  - historiography
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - history/exile
   - truth-project
 created: 2026-07-22
 confidence: medium

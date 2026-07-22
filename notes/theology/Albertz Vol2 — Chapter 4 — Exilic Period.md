@@ -5,6 +5,14 @@ tags:
   - history/exile
   - old-testament
   - scholars/rainer-albertz
+  - philology
+  - historiography
+  - methodology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - faith/asherah
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, theology/kabbalah, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, theology/kabbalah, scholars/benjamin-sommer, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"]

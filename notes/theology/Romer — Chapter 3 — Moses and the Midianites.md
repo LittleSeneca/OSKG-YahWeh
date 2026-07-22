@@ -4,6 +4,9 @@ tags:
   - faith/yahweh
   - history/moses
   - scholars/thomas-romer
+  - archaeology
+  - methodology
+  - history/kenite-hypothesis
   - truth-project
 created: 2026-07-22
 confidence: medium

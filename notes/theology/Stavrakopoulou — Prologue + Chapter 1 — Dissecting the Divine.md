@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/francesca-stavrakopoulou, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/francesca-stavrakopoulou, methodology, truth-project]
 created: 2026-07-22
 confidence: high
 source:

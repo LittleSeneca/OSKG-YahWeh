@@ -8,6 +8,8 @@ tags:
   - theology/molech
   - theology/rephaim
   - scholars/john-day
+  - philology
+  - history/jerusalem
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

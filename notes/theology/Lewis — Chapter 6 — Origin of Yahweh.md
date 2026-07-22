@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, philology, faith/midianite-hypothesis, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, philology, faith/midianite-hypothesis, scholars/theodore-lewis, historiography, methodology, history/kenite-hypothesis, faith/el, faith/divine-council, truth-project]
 created: 2026-07-22
 confidence: medium
 source:

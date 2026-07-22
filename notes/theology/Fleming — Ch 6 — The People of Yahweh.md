@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, am-yhwh, judges-5, exodus-15, mesha-stele, scholars/daniel-fleming, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, am-yhwh, judges-5, exodus-15, mesha-stele, scholars/daniel-fleming, philology, history/kenite-hypothesis, history/israel-judah, history/jerusalem, history/exile, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

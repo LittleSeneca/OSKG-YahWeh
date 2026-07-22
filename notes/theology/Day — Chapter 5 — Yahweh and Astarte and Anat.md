@@ -6,6 +6,12 @@ tags:
   - theology/anat
   - theology/queen-of-heaven
   - scholars/john-day
+  - philology
+  - historiography
+  - history/israel-judah
+  - history/josiah
+  - history/exile
+  - faith/asherah
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, archaeology, methodology, scholars/william-dever, truth-project]
+tags: [source/book-notes, archaeology, methodology, scholars/william-dever, history/exile, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Dever — Chapter II — History of Scholarship]]"]

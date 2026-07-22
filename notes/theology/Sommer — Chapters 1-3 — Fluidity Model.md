@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Introduction]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]"]

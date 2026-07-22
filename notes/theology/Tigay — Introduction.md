@@ -5,6 +5,8 @@ tags:
   - faith/monotheism
   - faith/polytheism
   - scholars/jeffrey-tigay
+  - philology
+  - historiography
   - truth-project
 created: 2026-07-22
 confidence: high

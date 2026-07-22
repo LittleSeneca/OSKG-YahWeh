@@ -4,6 +4,13 @@ tags:
   - faith/yahweh
   - faith/monotheism
   - scholars/thomas-romer
+  - historiography
+  - methodology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/josiah
+  - history/exile
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

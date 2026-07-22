@@ -5,6 +5,10 @@ tags:
   - faith/asherah
   - archaeology
   - scholars/william-dever
+  - historiography
+  - methodology
+  - history/jerusalem
+  - history/josiah
   - truth-project
 created: 2026-07-22
 confidence: medium

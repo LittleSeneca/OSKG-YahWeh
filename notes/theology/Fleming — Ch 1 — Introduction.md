@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, faith/polytheism, scholars/daniel-fleming, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, faith/polytheism, scholars/daniel-fleming, archaeology, philology, historiography, methodology, history/merneptah, history/israel-judah, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

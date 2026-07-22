@@ -5,6 +5,13 @@ tags:
   - faith/monotheism
   - theology/divine-embodiment
   - scholars/benjamin-sommer
+  - philology
+  - methodology
+  - history/kenite-hypothesis
+  - history/merneptah
+  - history/jerusalem
+  - history/aniconism
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 confidence: medium

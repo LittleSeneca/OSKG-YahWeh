@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugarit, faith/divine-council, four-tier-pantheon, psalm-82, deuteronomy-32]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, philology, methodology, history/israel-judah, history/jerusalem, history/exile, faith/asherah, truth-project, ugarit, faith/divine-council, four-tier-pantheon, psalm-82, deuteronomy-32]
 created: 2026-07-22
 confidence: high
 source:

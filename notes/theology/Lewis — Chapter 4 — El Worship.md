@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/el, ugarit, faith/family-religion, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/el, ugarit, faith/family-religion, scholars/theodore-lewis, archaeology, philology, methodology, history/israel-judah, faith/baal, faith/divine-council, truth-project]
 created: 2026-07-22
 confidence: high
 source:

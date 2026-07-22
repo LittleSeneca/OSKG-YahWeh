@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugarit, baal, dying-and-rising-gods, frazer, royal-mortuary-cult]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, philology, methodology, history/israel-judah, truth-project, ugarit, baal, dying-and-rising-gods, frazer, royal-mortuary-cult]
 created: 2026-07-22
 confidence: high
 source:

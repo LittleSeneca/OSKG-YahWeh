@@ -6,6 +6,9 @@ tags:
   - archaeology
   - history/josiah
   - scholars/mark-smith
+  - philology
+  - history/israel-judah
+  - history/jerusalem
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

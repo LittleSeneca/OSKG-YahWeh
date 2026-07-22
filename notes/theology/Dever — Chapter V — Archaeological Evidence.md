@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]"]

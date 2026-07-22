@@ -5,6 +5,15 @@ tags:
   - faith/monotheism
   - faith/yahweh
   - scholars/john-day
+  - archaeology
+  - philology
+  - historiography
+  - methodology
+  - history/israel-judah
+  - history/josiah
+  - history/exile
+  - faith/asherah
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

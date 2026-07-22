@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-warrior, faith/family-religion, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-warrior, faith/family-religion, scholars/theodore-lewis, philology, history/israel-judah, faith/baal, truth-project]
 created: 2026-07-22
 confidence: high
 source:

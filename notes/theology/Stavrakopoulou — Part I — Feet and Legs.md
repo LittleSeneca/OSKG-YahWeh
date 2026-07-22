@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-embodiment, archaeology, scholars/francesca-stavrakopoulou, truth-project]
+tags: [source/book-notes, theology/divine-embodiment, archaeology, scholars/francesca-stavrakopoulou, methodology, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]", "[[Sommer — Chapter 4 — Sacred Space 1]]"]

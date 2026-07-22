@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, south-arabia, faith/el, faith/divine-council, faith/polytheism, scholars/daniel-fleming, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, south-arabia, faith/el, faith/divine-council, faith/polytheism, scholars/daniel-fleming, archaeology, philology, historiography, methodology, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, faith/baal, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

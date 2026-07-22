@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/family-religion, faith/asherah, theology/molech, scholars/rainer-albertz, truth-project, assyrian-period]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/family-religion, faith/asherah, theology/molech, scholars/rainer-albertz, philology, history/israel-judah, history/josiah, truth-project, assyrian-period]
 created: 2026-07-22
 confidence: medium
 source:

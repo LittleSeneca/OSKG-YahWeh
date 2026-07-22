@@ -5,6 +5,10 @@ tags:
   - faith/baal
   - faith/yahweh
   - scholars/john-day
+  - philology
+  - historiography
+  - history/israel-judah
+  - history/jerusalem
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

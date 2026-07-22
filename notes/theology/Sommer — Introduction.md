@@ -5,6 +5,7 @@ tags:
   - faith/monotheism
   - theology/divine-embodiment
   - scholars/benjamin-sommer
+  - methodology
   - truth-project
 created: 2026-07-22
 confidence: medium

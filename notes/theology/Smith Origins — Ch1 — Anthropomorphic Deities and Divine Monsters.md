@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugarit]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, philology, history/israel-judah, history/jerusalem, history/exile, history/aniconism, faith/polytheism, truth-project, ugarit]
 created: 2026-07-22
 confidence: high
 source:

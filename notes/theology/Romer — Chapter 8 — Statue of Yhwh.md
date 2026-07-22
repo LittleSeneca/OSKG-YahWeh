@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, history/aniconism, scholars/thomas-romer, truth-project]
+tags: [source/book-notes, faith/yahweh, history/aniconism, scholars/thomas-romer, history/kenite-hypothesis, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 7 — Cult of Yhwh in Judah]]", "[[Smith Chapter 3 — Yahweh and Asherah]]"]

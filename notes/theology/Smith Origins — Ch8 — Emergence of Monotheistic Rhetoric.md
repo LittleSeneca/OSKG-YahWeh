@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugarit, history/exile, rhetoric, axial-age]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, philology, historiography, methodology, history/kenite-hypothesis, history/israel-judah, history/jerusalem, history/josiah, faith/el, faith/divine-council, faith/polytheism, truth-project, ugarit, history/exile, rhetoric, axial-age]
 created: 2026-07-22
 confidence: high
 source:

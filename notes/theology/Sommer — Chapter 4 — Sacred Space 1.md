@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, temple, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, temple, scholars/benjamin-sommer, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapter 3 — Rejection of Fluidity]]"]

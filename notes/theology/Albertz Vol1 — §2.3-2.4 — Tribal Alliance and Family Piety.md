@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/el, faith/family-religion, history/merneptah, scholars/rainer-albertz, truth-project, tribal-alliance]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/el, faith/family-religion, history/merneptah, scholars/rainer-albertz, philology, history/israel-judah, truth-project, tribal-alliance]
 created: 2026-07-22
 confidence: medium
 source:

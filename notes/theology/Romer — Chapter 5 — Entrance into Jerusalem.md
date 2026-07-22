@@ -5,6 +5,8 @@ tags:
   - history/jerusalem
   - history/david
   - scholars/thomas-romer
+  - history/kenite-hypothesis
+  - history/israel-judah
   - truth-project
 created: 2026-07-22
 confidence: medium

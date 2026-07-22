@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, scholars/daniel-fleming, truth-project, book-summary]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, scholars/daniel-fleming, philology, methodology, history/kenite-hypothesis, truth-project, book-summary]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

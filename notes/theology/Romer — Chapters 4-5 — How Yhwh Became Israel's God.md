@@ -4,6 +4,10 @@ tags:
   - faith/yahweh
   - history/merneptah
   - scholars/thomas-romer
+  - philology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
   - truth-project
 created: 2026-07-22
 confidence: medium

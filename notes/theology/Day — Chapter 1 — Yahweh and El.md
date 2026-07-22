@@ -6,6 +6,12 @@ tags:
   - faith/el
   - faith/monotheism
   - scholars/john-day
+  - archaeology
+  - philology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - faith/divine-council
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

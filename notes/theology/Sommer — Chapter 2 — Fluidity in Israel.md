@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, methodology, history/kenite-hypothesis, history/israel-judah, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapter 1 — Mesopotamia and Canaan]]"]

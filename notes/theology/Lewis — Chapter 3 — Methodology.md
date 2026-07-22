@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, methodology, philology, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, methodology, philology, scholars/theodore-lewis, archaeology, historiography, history/kenite-hypothesis, history/israel-judah, history/jerusalem, faith/el, truth-project]
 created: 2026-07-22
 confidence: high
 source:

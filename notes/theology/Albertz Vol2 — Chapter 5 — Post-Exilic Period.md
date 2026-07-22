@@ -7,6 +7,13 @@ tags:
   - torah-canonization
   - old-testament
   - scholars/rainer-albertz
+  - historiography
+  - methodology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - history/exile
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

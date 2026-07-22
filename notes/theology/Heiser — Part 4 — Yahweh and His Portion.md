@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-council, deut-32, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-council, deut-32, scholars/michael-heiser, faith/el, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 3 — Divine Transgressions]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[../../sources/primary-sources/key-inscriptions]]"]

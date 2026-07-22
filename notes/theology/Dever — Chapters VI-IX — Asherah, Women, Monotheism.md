@@ -6,6 +6,13 @@ tags:
   - faith/monotheism
   - archaeology
   - scholars/william-dever
+  - philology
+  - methodology
+  - history/kenite-hypothesis
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 confidence: medium

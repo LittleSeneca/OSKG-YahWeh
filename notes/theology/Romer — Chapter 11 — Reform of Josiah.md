@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, scholars/thomas-romer, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, scholars/thomas-romer, history/jerusalem, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 10 — Fall of Samaria]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"]

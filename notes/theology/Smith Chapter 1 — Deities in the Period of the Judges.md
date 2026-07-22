@@ -5,6 +5,13 @@ tags:
   - faith/monotheism
   - faith/polytheism
   - scholars/mark-smith
+  - philology
+  - methodology
+  - history/kenite-hypothesis
+  - history/merneptah
+  - history/israel-judah
+  - faith/asherah
+  - faith/divine-council
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/baal, scholars/rainer-albertz, truth-project, elijah, omrides, jehu]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/baal, scholars/rainer-albertz, history/israel-judah, faith/polytheism, truth-project, elijah, omrides, jehu]
 created: 2026-07-22
 confidence: medium
 source:

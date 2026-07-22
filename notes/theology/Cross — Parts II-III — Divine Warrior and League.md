@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-warrior, scholars/frank-moore-cross, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-warrior, scholars/frank-moore-cross, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Smith Chapter 2 — Yahweh and Baal]]", "[[Romer — Chapter 5 — Entrance into Jerusalem]]"]

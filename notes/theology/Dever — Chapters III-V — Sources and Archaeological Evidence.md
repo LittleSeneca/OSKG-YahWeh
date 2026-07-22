@@ -4,6 +4,12 @@ tags:
   - faith/yahweh
   - archaeology
   - scholars/william-dever
+  - methodology
+  - history/israel-judah
+  - history/jerusalem
+  - history/josiah
+  - history/exile
+  - faith/asherah
   - truth-project
 created: 2026-07-22
 confidence: medium

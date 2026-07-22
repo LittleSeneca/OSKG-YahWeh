@@ -6,6 +6,11 @@ tags:
   - faith/yahweh
   - faith/monotheism
   - scholars/john-day
+  - archaeology
+  - philology
+  - history/josiah
+  - history/exile
+  - faith/polytheism
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
