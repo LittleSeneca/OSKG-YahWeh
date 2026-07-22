@@ -24,5 +24,6 @@ Theological analysis: what does the evidence mean for belief, doctrine, and prac
 
 ## Notes
 
-- **[[scholarly-directory-yahweh-origins|Scholarly Directory: Yahweh's Origins]]** — Comprehensive PhD-level scholar directory: 35+ named scholars across all positions, with institutional affiliations, key works, core arguments, and sub-debate analysis.
-- **[[yahweh-monotheism-polytheism-debate|Was Yahweh Always One God? The Monotheism vs. Polytheism Debate]]** — Original research synthesis covering the three main scholarly positions with archaeological evidence and textual analysis.
+- **[[scholarly-directory-yahweh-origins|Scholarly Directory: Yahweh's Origins]]** — 45+ PhD-level scholars across three positions with institutional affiliations, key works, and core arguments.
+- **[[meta-analysis-scholars|Meta-Analysis: The Scholars Behind the Scholarship]]** — Presuppositions, academic genealogy, methodological tradeoffs, confessional mapping, institutional incentives, and how to read a scholar critically.
+- **[[yahweh-monotheism-polytheism-debate|Was Yahweh Always One God?]]** — Original research synthesis covering the three main positions with archaeological evidence and textual analysis.
