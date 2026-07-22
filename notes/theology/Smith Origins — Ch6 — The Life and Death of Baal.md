@@ -1,7 +1,7 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugaritic-studies, baal, dying-and-rising-gods]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugaritic-studies, baal, dying-and-rising-gods, frazer, royal-mortuary-cult]
 created: 2026-07-22
-confidence: medium-high
+confidence: high
 source:
   title: "The Origins of Biblical Monotheism"
   author: "Mark S. Smith"
@@ -10,181 +10,148 @@ source:
   local_file: "sources/books/_fulltext/Smith_Origins_of_Biblical_Monotheism_2001.txt"
 related:
   - "[[Smith Origins — Ch5 — The Traits of Deities]]"
-  - "[[Smith Origins — Ch7 — El, Yahweh, and the Original God]]"
-  - "[[Smith Origins — Introduction]]"
-  - "[[Cross — Parts II-III — Divine Warrior and League]]"
+  - "[[Smith Origins — Ch4 — Pluralities, Pairings, and Other Divine Relations]]"
+  - "[[Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters]]"
+  - "[[JZ Smith - Drudgery Divine]]"
 ---
 
-# Smith — Ch6: The Life and Death of Baal
+# Smith — Chapter 6: The Life and Death of Baal
 
-Smith demolishes Frazer's category of "dying and rising gods" through detailed case studies (Osiris, Dumuzi, Melqart, Adonis, Baal) and proposes that Baal's death in the Baal Cycle was modeled on Ugaritic royal funerary ritual (CAT 1.161), not seasonal agricultural ritual. The chapter has six aims: review Frazer, identify defects, investigate individual figures, offer an alternative for Baal, reflect on Baal's kingship, and explain the absence of comparable Death mythology in the Bible.
+Smith demolishes Frazer's category of "dying and rising gods" through a detailed critique of its intellectual origins and a case-by-case examination of the figures involved. His constructive argument: Baal's death in the Baal Cycle was modeled not on agricultural cycles but on royal funerary ritual (specifically CAT 1.161). Baal embodies the death of the old king and the life of the new — his kingship is cosmic, not seasonal. Israel's lack of a Yahweh-vs-Death mythology is explained by the fact that the Baal-Mot conflict was a specifically Ugaritic literary innovation, not a pan-West Semitic tradition.
 
 ---
 
-## Claim 1: Frazer's "dying and rising gods" category is methodologically bankrupt — it's patternism driven by classical and Christian interests
+## Claim 1: Frazer's "dying and rising gods" category is a modern myth — derived from classical sources and faulty anthropology, not from primary evidence
 
-**Author's claim:** "Frazer produced categories that otherwise never existed. This approach might be called 'patternism'... Frazer's new mythology was cast in the new idiom of the nascent anthropology... Frazer's further inspiration for the category of 'dying and rising gods' apparently was classical literature, his point of departure for The Golden Bough and 'his first love.'"
+**Author's claim:** "Frazer's new mythology was cast in the new idiom of the nascent anthropology and assumed the mantel of its authority." The category was shaped by Frazer's classical education (which equated foreign deities) and his unstated interest in explaining Jesus' resurrection.
 
 **Evidence presented:**
-- Frazer's four elements: (1) divine status, (2) death and return to life, (3) correspondence to seasonal cycle, (4) rituals as cultic context.
-- Source criticism: Frazer took the "slain god" concept from W. Robertson Smith (1889 Lectures) but systematized it, adding non-Semitic figures (Dionysius). Robertson Smith was more nuanced; Frazer made it a universal category.
-- Frazer explicitly compared Jesus to dying and rising gods starting in the 2nd edition — Christian theological concerns drove the comparative framework.
-- Classical writers (De Dea Syria, etc.) equated Greek and Middle Eastern deities — Frazer took these equations at face value without source criticism.
-- Wittgenstein's critique (1931): "The most noticeable thing seems to me not merely the similarities but also the differences throughout all these rites."
-- Within Frazer's lifetime, anthropologists (Malinowski, Evans-Pritchard) abandoned his comparative method for culture-specific fieldwork.
-- Anthropologists "criticized what Frazer called his 'comparative method'" — the second and third editions "increase in suspect comparisons outraged a number of anthropologists."
-- The category continues in biblical studies despite its demolition elsewhere: Mettinger and Day still use it without discussing "its origins or limits."
+- Frazer's intellectual genealogy: W. Robertson Smith's Lectures on the Religion of the Semites (1889) provided the concept of Baal's "annual death" corresponding to "the annual withering up of nature." Frazer systematized this into the full category, adding Osiris, Adonis, Attis, and Dionysius.
+- Robertson Smith's own discussion was more nuanced; he didn't create the category — Frazer did. And Robertson Smith deleted his comparison of Baal with Jesus from subsequent editions; Frazer ADDED the Jesus comparison in his second edition.
+- Classical authors provided Frazer's model: "Frazer cites classical identifications of various 'dying and rising gods'... In classifying these figures, Frazer perhaps followed the lead of the classical authors whom he read." These classical identifications were made by outsiders who didn't share or understand the religions they described.
+- Frazer's methodology ("patternism") abstracted features from cultural contexts: "In abstracting features of specific motifs from their cultural and historical contexts (sometimes misinterpreted or poorly attested), Frazer produced categories that otherwise never existed."
+- Contemporary critics: William James thought Frazer attributed too much rationality to "savages." Wittgenstein: "The most noticeable thing seems to me not merely the similarities but also the differences throughout all these rites." Cyrus Gordon: the whole theory "misses the point of ancient Near Eastern religion as a reflection of Near Eastern climate."
+- Frazer's comparisons of "primitive" rituals with Jewish and Christian practices sparked outrage from anthropologists and the wider public.
 
-**Confidence:** VERY HIGH. The critique of Frazer is devastating and Smith is channeling a consensus that has existed in anthropology for nearly a century. The persistence of the category in biblical studies is genuinely scandalous.
+**Confidence:** VERY HIGH. The critique of Frazer is well-established in anthropology and history of religions. J.Z. Smith's earlier work made similar arguments. Smith's contribution is tracing the intellectual genealogy (Robertson Smith → Frazer → classical sources) and applying it specifically to Baal.
 
-**What's at stake:** If Baal is NOT a "dying and rising god," then (1) the entire comparativist apparatus linking Baal to Tammuz, Adonis, Osiris, and Jesus collapses, (2) biblical passages read against this background (Hosea 5-6, 13-14) need reinterpretation, and (3) Baal must be understood within HIS cultural context, not a universal type.
+**What's at stake:** If Frazer's category collapses, then interpretations that depend on it (Mettinger's Yahweh as anti-Baal "living god," Day's Hosea 5-6 reading) are built on sand. Baal must be interpreted in Ugaritic context, not through a Frazerian lens.
 
-**Who disagrees:** Mettinger (Baal, Adonis, Melqart ARE dying and rising gods), Day (Hosea uses dying-and-rising imagery), Gaster (Frazer's intellectual heir in ANE studies).
+**Who disagrees:** Mettinger (defends "dying and rising gods" for Baal, Adonis, Melqart). Day (reads Hosea against dying-and-rising background). Those who see ritual drama behind the Baal Cycle (Gaster).
 
-**Alternative reading:** Even if Frazer's specific formulation is flawed, the core observation that ANE mythologies share death-and-return patterns remains valid. The baby shouldn't be thrown out with Frazer's bathwater.
+**Alternative reading:** Even if Frazer's systematization was flawed, the underlying observation — that some ANE deities have narratives involving death and return — remains valid. Critique of Frazer's METHOD doesn't disprove that Baal's narrative involves death and return. The question is what that death-and-return MEANS, not whether it exists.
 
-**My assessment:** Smith is right on the merits. But the question is whether he's fighting a battle already won. The continued use of "dying and rising gods" in biblical studies (Mettinger, Day) suggests the demolition still needs doing — Smith does it thoroughly.
+**My assessment:** Smith's critique is devastating and largely convincing. The genealogy from Robertson Smith through Frazer to classical sources is particularly valuable — it shows the category was constructed from outside, not derived from indigenous evidence. The strongest point: Frazer's classical sources were doing the same thing Frazer was (equating foreign deities) with the same outsider status. Frazer's category is classical syncretism dressed as modern anthropology.
 
 ---
 
-## Claim 2: The individual figures under Frazer's category are fundamentally different — they're not instances of one type
+## Claim 2: The so-called "dying and rising gods" are fundamentally different from each other — their deaths reflect different cultural logics
 
-**Author's claim:** A detailed survey of Osiris, Dumuzi, Melqart, Adonis, and Baal shows "the highly diverse characters of the figures imputed to this category." They differ in divine status, relationship to nature, relationship to royal cult, and presence/absence of resurrection.
-
-**Evidence presented — the five case studies:**
-- **Osiris:** fundamentally a funerary deity. "The 'Osiris myth...grew out of the royal funerary ceremonial'" (Griffiths). Prototype of burial and mummification for the king. Osiris ≠ Baal — "J.C. de Moor compares Osiris not with Baal but with Mot, the Ugaritic god of Death."
-- **Dumuzi/Tammuz:** probably a deified king, not originally a vegetation god (Alster). His "resurrection" is unknown — the crucial line reads "You, half the year! Your sister, half the year!" but no ritual celebrates his return. The verb elû at the end of Ishtar's Descent refers to necromantic ascent of the dead, not resurrection. "Even if 'resurrection' were the proper term...it appears to be a concept without ritual context."
-- **Melqart:** mqm 'lm titles from Phoenician inscriptions ("raiser of the god") are ambiguous — could mean "cult-supervisor" (Honeyman, Müller). Josephus's egersis ("awakening") of Herakles might be a temple dedication, not a resurrection. "No text provides information about the putative death of the god."
-- **Adonis:** De Dea Syria 6 describes mourning and then proclamation "that he lives," but J.Z. Smith: "classical accounts of Adonis neither mention nor describe his rising from death." Adonis is a mortal, young, anti-heroic — "If any of the figures...share any family resemblance with Adonis, it is Dumuzi," not Baal. Detienne: Frazer's treatment was "highly selective."
-- **Baal:** has death and return in the narrative but "the extant Baal Cycle never recounts Baal's return to life." No ritual text among ~70 ritual texts from Ugarit mentions Baal's death or revival. "The burden of demonstration for Baal as a 'dying and rising god'...falls on those who argue for it."
-
-**Confidence:** HIGH. The case-by-case survey is Smith's most original contribution and it's persuasive. Each figure, when examined in its own cultural context, resists Frazer's framework.
-
-**What's at stake:** If these figures aren't instances of one type, comparative generalizations about "dying and rising gods" are invalid. Each must be interpreted within its own cultural and literary context.
-
-**Who disagrees:** Mettinger (2001: The Riddle of Resurrection — defends the category for Baal, Adonis, Melqart). Classicists who treat Adonis through Frazer's lens.
-
-**Alternative reading:** The differences Smith catalogs could be VARIATIONS on a theme rather than evidence against a shared category. Typologies always involve abstraction from particulars.
-
-**My assessment:** The Osiris-Mot comparison is a particularly devastating touch — if Osiris corresponds to Mot (Death personified), not Baal, Frazer's entire alignment collapses. Smith's case-by-case method is precisely what the field needs.
-
----
-
-## Claim 3: Baal's death was modeled on Ugaritic royal funerary ritual — CAT 1.161 is the key
-
-**Author's claim:** "From these comparisons, one may conclude that information drawn from the royal funeral has influenced the presentation of Baal's death and return to life." The Baal-Mot section of the Baal Cycle shares four specific features with the royal funerary liturgy CAT 1.161.
-
-**Evidence presented — four precise parallels between CAT 1.161 and Baal Cycle (1.5-1.6):**
-1. **Mourning and descent from throne:** In the Baal Cycle, El descends from throne to footstool to dust, mourning Baal (1.5 VI 11-25a). In CAT 1.161, royal furniture is invoked to weep for the deceased king (lines 13-17).
-2. **Descent to underworld using identical wording:** 
-   - Liturgy: 'atr b'lk 'arṣ rd, "After your lord(s) to the underworld descend" (1.161.20-21)
-   - Myth: 'atr b'l 'ard b'arṣ, "After Baal I will descend into the underworld" (1.5 VI 24b-25)
-   - The human king is called b'l ("lord") in the ritual — "the ritual calls the human king b'l, whereas myth focuses on b'l, the divine king."
-3. **Sun-goddess Shapshu as guide:** In the myth, Anat and Shapshu descend together to retrieve Baal's corpse (1.6 I 7b-18a). In the ritual, Shapshu is commanded to "burn/go down" and calls the king to descend (1.161.18-26). Same formula introduces her speech in both: 'ln špš tṣḥ, "On high Shapshu cries out" (1.6 VI 22b-23a; 1.161.19).
-4. **Series of offerings concludes both:** The funerary liturgy ends with seven offerings and a bird sacrifice (1.161.27-31); the myth ends the funerary customs with offerings (1.6 I 18b-29).
-
-**Confidence:** HIGH. The verbal parallels (especially 'atr b'l + descent) are too precise to be coincidental. This is Smith's strongest constructive argument in the chapter.
-
-**What's at stake:** If Baal's death narrative encodes ROYAL FUNERARY practice, not agricultural ritual, the entire Frazerian framework (myth = libretto for seasonal ritual) is inverted. The myth doesn't generate the ritual — the ritual (royal burial) informs the myth.
-
-**Who disagrees:** Those who see the Baal Cycle as ritual libretto (Gaster). Those who see the parallels as generic funerary language rather than specific dependence.
-
-**Alternative reading:** The direction of influence could be reversed: the funerary ritual might have been modeled on the myth, not vice versa. Or both could draw independently on common funerary conventions.
-
-**My assessment:** The shared wording (especially the 'atr b'l + 'arṣ + rd formula) makes the dependence hard to deny. The question is whether this is FUNERARY specifically or more broadly royal ideology. Either way, Frazer is wrong.
-
----
-
-## Claim 4: Baal is better understood as a "disappearing god" akin to Hittite Telepinus — not Frazer's dying-and-rising type
-
-**Author's claim:** Baal "shares less with Dumuzi, Tammuz, and Adonis than with the Hittite disappearing gods, the Storm-god and his son, Telepinus." Six similarities with the Telepinus myth; two crucial differences (Baal dies; kingship is central).
-
-**Evidence presented — six similarities:**
-1. Both are major storm-gods responsible for nature, humanity, and gods.
-2. Both gods' absence causes withering of vegetation and suffering of humans and gods.
-3. Both narratives describe a divine search for the absent god (1.6 IV ~ Telepinus).
-4. Both searches involve the sun-deity.
-5. Both searches take place in the steppe/mountains.
-6. Even Baal's descent to the underworld has a Hittite parallel: the Storm-god of Nerik "went down into the pit...the dark four corners."
-
-**Key differences:**
-- Baal dies (burial, funerary offerings by Anat and El); Telepinus only sleeps.
-- Baal's kingship is central; Hittite myths focus on propitiating the angry god.
-
-**Confidence:** MEDIUM-HIGH. The Hittite comparison is illuminating but Smith himself notes the death/sleep distinction is major. The "disappearing god" category (J.Z. Smith) is better than Frazer's but still a category.
-
-**What's at stake:** If Baal is a disappearing god (like Telepinus) whose specific FORM of disappearance is death (modeled on royal funerary practice), then both the Frazerian and the Hittite models are needed. The category is descriptive, not explanatory.
-
-**Who disagrees:** Mettinger and Day who maintain the dying-and-rising category.
-
-**Alternative reading:** The Hittite parallels could reflect common ANE storm-god typology rather than a specific "disappearing god" category. And Baal's DEATH is a significant enough departure from the Hittite pattern to warrant its own analysis.
-
-**My assessment:** The Hittite comparison is productive — it shows Baal belongs to a broader ANE pattern of storm-gods who disappear and return. But Smith's real contribution isn't the category; it's identifying the specific mechanism (royal funerary ritual) that shaped Baal's PARTICULAR form of disappearance.
-
----
-
-## Claim 5: Baal's kingship is precarious — the Baal Cycle maps the fragility of Ugaritic monarchy onto the divine realm
-
-**Author's claim:** "Baal is representative of kingship, both in its strength and its weaknesses, including the moment of weakness of royal succession when the old king has died and the new king is about to begin his reign...Baal is no super-conquering god like Marduk in Enuma Elish or Yahweh in so much Israelite poetry."
+**Author's claim:** A survey of Osiris, Dumuzi, Melqart, and Adonis reveals that "the rituals and mythologies that mention these deities are complex" and Frazer's generalizations cannot be sustained.
 
 **Evidence presented:**
-- Three-level schema: Baal's kingship operates simultaneously on divine (order/conflict), human (life/death), and natural (abundance/desiccation) levels.
-- Baal "needs extensive divine assistance" — he's consistently presented as weak relative to other major ANE gods.
-- The royal funerary ritual encoded in the Cycle signals "historical threats to dynasty from external strains posed by the empires of Egypt and Hatti or from internal difficulties a monarchy faces."
-- Kirta (1.14-1.16) is entirely about dynastic woe — the same concern permeates the Baal Cycle.
-- "Baal displays the 'baal-ship' of the old and new kings, of the dynastic line in life as well as death."
+- **Osiris:** Does NOT rise or resurrect. Griffiths (following Gardiner and Kees): "Osiris, unlike Baal, does not undergo any return to life. Instead, Osiris journeys to the netherworld where he becomes king." His mythology is fundamentally funerary — derived from royal mortuary cult. Pyramid texts present him as prototype of burial and mummification for the king. Osiris = dead king; Horus = living king. De Moor compares Osiris with MOT, not Baal.
+- **Dumuzi/Tammuz:** Closest to Frazer's model — half-year in underworld, half-year returned. But Alster: Dumuzi was originally a deified king, not a vegetation god. His association with seasonal patterns is secondary, derived from conflation with Damu (an independent vegetation deity). "It is absolutely certain that the myths did not originally belong to the rituals, and the rituals did not originally mean the myths" (Livingstone). No cultic drama of death and resurrection is attested.
+- **Melqart:** Evidence for resurrection is late and classical — not indigenous. Funerary associations are with royal cult, not agricultural cycles.
+- **Adonis:** Classical sources only; indigenous evidence is thin. Frazer's interpretation heavily dependent on classical authors' identifications and his own systematization.
+- **Baal:** Key example — the ONLY ritual text connected to him is CAT 1.161, a ROYAL FUNERARY ritual, not a ritual for Baal.
 
-**Confidence:** MEDIUM. The three-level schema is elegant but Smith's reading of Baal's "weakness" could be debated — Baal does defeat Yamm and Mot, after all.
+**Confidence:** HIGH. The case-by-case analysis is well-researched and the differences among the figures are genuine.
 
-**What's at stake:** If Baal's narrative is fundamentally about the fragility of Ugaritic kingship under imperial pressure, then the Baal Cycle is political theology, not just nature mythology. This aligns Smith with socio-political readings of myth.
+**What's at stake:** If each figure needs to be understood in its own cultural context, the comparative category "dying and rising gods" is not just methodologically flawed — it's empirically false. There is no single phenomenon; there are different phenomena that Frazer collapsed into one.
 
-**Who disagrees:** Scholars who read the Baal Cycle primarily as nature mythology (seasonal interpretation). Those who see Baal as triumphant rather than weak.
+**Who disagrees:** Mettinger attempts to defend a modified category. Scholars invested in pan-Mediterranean religious patterns.
 
-**Alternative reading:** Baal's need for help could reflect the cooperative nature of the divine family (Smith's own Part I argument!) rather than weakness per se. Marduk also receives help from other gods in Enuma Elish.
+**Alternative reading:** The differences among the figures don't preclude a valid comparative category. "Kingship" is a different category from "dying and rising," but both could be valid at different levels of abstraction. Smith's critique may prove too much — if we can't compare anything because everything is culturally specific, comparative religion becomes impossible.
 
-**My assessment:** The three-level schema is genuinely useful and the connection to Ugaritic political vulnerability is plausible. But "Baal as weak" may overstate the case — the Baal Cycle IS a victory story, even if the victory is hard-won.
+**My assessment:** Smith is right that the figures differ significantly, but he may overstate the case against comparison. The fact that royal mortuary cult influenced Osiris AND Baal is itself a comparative insight — it just doesn't support FRAZER'S comparison. The real problem is not comparison per se but Frazer's specific theory (seasonal cycle + ritual drama). Smith's alternative framework (kingship + mortuary cult + literary production) is itself comparative.
 
 ---
 
-## Claim 6: Israel never developed a Death-controntation mythology because West Semitic tradition didn't generally contain one — Ugarit's was a local literary production
+## Claim 3: CAT 1.161, the royal funerary liturgy, provides the interpretive key to Baal's death in the Baal Cycle
+
+**Author's claim:** "Information drawn from the royal funeral has influenced the presentation of Baal's death and return to life." Baal is modeled on the Ugaritic king who dies and is succeeded. "The liturgy that made its impact on the Baal Cycle's presentation of Baal's death and return to life was not a ritual devoted to mourning the god's death but a ritual describing the lamentation for deceased human royalty."
+
+**Evidence presented (four specific parallels between 1.161 and 1.5-1.6):**
+1. **Mourning gestures:** El descends from throne to footstool to dust (1.5 VI 11-25); Anat drinks her tears (1.6 I 9-10). In 1.161.14-15, royal furniture (table, footstool) is called to weep. "The appurtenances swallow their tears [1.161.15-16], just as Anath drinks her tears [1.6 I 9-10]."
+2. **Descent formula:** The shared wording is precise. 1.161.20-21: 'atr b'lk 'arṣ rd ("After your lord(s) to the underworld descend"). 1.5 VI 24b-25: 'atr b'l 'ard b'arṣ ("After Baal I will descend into the underworld"). 1.6 I 7b-9a: 'atr b'l nrd b'arṣ ("After Baal we will descend"). Genesis 37:35 preserves the same formula: "For I will descend to my son in mourning to Sheol." The ritual calls the human king b'l ("lord"); the myth focuses on b'l, the divine king.
+3. **Sun-goddess Shapshu's role:** Same formula introduces her speech in both texts: 'ln špš tṣḥ ("On high Shapshu cries out," 1.6 VI 22b-23a; 1.161.19). In the myth, Shapshu and Anat descend together to retrieve Baal's corpse (1.6 I 10b-18a). In the ritual, Shapshu illuminates the descent.
+4. **Offerings sequence:** Both the liturgy (1.161.27, 30) and the myth (1.6 I 18b-29) end funerary customs with a series of offerings.
+
+**Confidence:** VERY HIGH. These are verbatim parallels — not thematic similarities. The shared wording is indisputable evidence of literary dependence.
+
+**What's at stake:** This is the strongest empirical argument in the entire book. If the Baal Cycle borrows its death-and-return language from royal funerary ritual, then Baal's "death and resurrection" is not about agricultural cycles — it's about KINGSHIP. The Frazerian reading collapses at the philological level.
+
+**Who disagrees:** Probably no one disputes the parallels themselves (Levine and de Tarragon first published them). The debate is about direction of influence: does the myth influence the ritual, or does the ritual influence the myth? Smith argues ritual → myth, contra the older "myth as ritual libretto" view. Some may argue myth → ritual or mutual influence.
+
+**Alternative reading:** The parallels could reflect shared cultural idiom (funerary language) used in both ritual and myth without one depending on the other. The direction of influence could be myth → ritual (the king's funeral imitates Baal's death) rather than ritual → myth.
+
+**My assessment:** The shared wording is so precise ('atr b'l + descent verb + 'arṣ) that independent development is unlikely. The question is direction. Smith's argument that ritual → myth is plausible: it's easier to imagine a narrative absorbing ritual language than a ritual being constructed from mythological narrative. But the alternative (myth → ritual, the king imitating the god) is also plausible and has parallels elsewhere in the ANE. The key point — that Baal's death is connected to KINGSHIP, not agriculture — survives either direction.
+
+---
+
+## Claim 4: Baal's kingship operates on three levels — divine, human, and natural — and his death encodes dynastic vulnerability
+
+**Author's claim:** "The central unifying thematic of the cycle is Baal's kingship, which affects the natural, human, and divine levels of reality." Baal's death and return "may represent a theological reflection on reality that incorporates the known conceptualization of Ugarit's monarchy."
+
+**Evidence presented:**
+- Divine level: order and conflict — Baal struggles against Yamm and Mot for kingship. He needs help from other deities. "Baal is no super-conquering god like Marduk in Enuma Elish or Yahweh in so much Israelite poetry."
+- Human level: life and death — the king dies; the dynasty continues through the successor. "Baal's death reflects the demise of Ugaritic kings, but his return to life heralds the role of the living king to provide peace for the world." Kirta (1.14-1.16) shows dynastic woe as central problematic.
+- Natural level: abundance and desiccation — Baal's death means drought; his return means rains. But this is a CONSEQUENCE of kingship, not the primary meaning.
+- "In a sense, Baal displays the 'baal-ship' of the old and new kings, of the dynastic line in life as well as death. Thus, kingship is fragile, in need of help and nurturing from many major deities."
+- Contrast with Hittite storm-gods who "disappear, sleep, and return as they wish" — Baal does NOT choose to disappear. "His inexorable disappearance takes the form of royal death."
+- Contrast with Marduk and Yahweh who are "super-conquering gods" — Baal is WEAK. This coheres with his presentation throughout the cycle.
+
+**Confidence:** HIGH. The three-level reading of the Baal Cycle is persuasive and well-supported by the text.
+
+**What's at stake:** If Baal's death is about kingship vulnerability rather than seasonal cycles, then the Baal Cycle is political theology, not nature mythology. This reframes how we understand the Israelite rejection of Baal — it's not about rejecting a "fertility cult" but about rejecting a model of DIVINE KINGSHIP that is inherently fragile. Yahweh's kingship, by contrast, is absolute.
+
+**Who disagrees:** Scholars who maintain the seasonal-agricultural reading of the Baal Cycle. Those who see Baal's weakness as a literary device rather than a theological statement about divine kingship.
+
+**Alternative reading:** The three levels could be Smith's analytical framework imposed on a text that doesn't distinguish them so neatly. The Baal Cycle may not have a "central unifying thematic" — it might be a compilation with multiple themes.
+
+**My assessment:** The three-level model is elegant and textually grounded. The contrast with Marduk and Yahweh is particularly illuminating — it shows that divine kingship can be portrayed as fragile (Baal) or absolute (Marduk/Yahweh), and the difference is politically significant. Baal's weakness reflects Ugarit's position as a small kingdom between Egypt and Hatti. Yahweh's strength, when it emerges, will reflect a very different political situation.
+
+---
+
+## Claim 5: Israel lacks a conflict mythology between Yahweh and Death because West Semitic tradition probably didn't have one — the Baal-Mot conflict was a Ugaritic innovation
 
 **Author's claim:** "The chief god's conflict with Death may be absent in ancient Israel because West Semitic tradition perhaps did not generally contain and therefore transmit a broad mythology of death into the Iron Age. In other words, the dynasties of Israel and Judah may never have developed a mythology of Death as the Ugaritic monarchy did."
 
 **Evidence presented:**
-- "The Bible contains few references to, much less any substantial mythology about, the conflict between the chief deity of Israel and the god of Death."
-- The Bible HAS Baal's storm-battle imagery (Leviathan, Sea, Tannin) — but not the Death conflict. The disparity is striking.
-- Isaiah 25:8 mentions divine victory over Death, but "there is no mythological presentation of this conflict."
-- The Baal-Mot section of the Baal Cycle may have been modeled on the earlier Baal-Yamm section under the influence of royal mortuary cult — it was a Ugaritic literary innovation, not a widespread tradition.
+- Israel inherited Baal's storm-battle imagery (Leviathan, Sea, Tannin, Mount Sapan = Zion in Psalm 48:3). "The Bible is replete with speculations about the nature of the underworld and the god of Death."
+- BUT: "Unlike the Baal Cycle, the Bible contains few references to, much less any substantial mythology about, the conflict between the chief deity of Israel and the god of Death." Only Isaiah 25:8 (God swallows Death) and Revelation 21:4 — bare mentions, no mythological narrative.
+- "The disparity might be attributed to the idea that the god of Israel has nothing to do with the realm of Death. Yet this is only partially correct."
+- Smith's theory: The Baal-Mot section of the Baal Cycle was modeled on the earlier Baal-Yamm section (1.1-1.2 → 1.4 VIII-1.6), "under the further influence of a royal mortuary cult." The Ugaritic monarchy INNOVATED this form of death mythology. It was not a pan-West Semitic tradition.
+- "As far as the record presently indicates, Late Bronze Age West Semitic did not generally develop this sort of mythology except at Ugarit."
 - "The dominant priestly and deuteronomic theologies in the Iron II period in Judah may have inherited some dissociation between Israel's chief deity and the realm of death."
-- Thus: the absence of Death mythology in the Bible actually CORROBORATES the argument that Ugarit's version was a local literary production.
 
-**Confidence:** LOW-MEDIUM. This is Smith's most speculative claim in the chapter. The argument from silence is always dangerous.
+**Confidence:** MEDIUM. This is a historical reconstruction from silence. The claim that the Baal-Mot conflict was a Ugaritic innovation is plausible but unprovable — we don't have enough Late Bronze Age West Semitic texts from other sites to know.
 
-**What's at stake:** If Smith is right, the absence of Death mythology in the Bible wasn't theological CENSORSHIP (priests removing it) but genuine ABSENCE — it was never there to begin with. This would revise how we understand the Bible's relationship to its West Semitic heritage.
+**What's at stake:** If correct, this explains one of the most striking absences in the Bible — why a culture that absorbed so much of Baal's mythology didn't absorb his conflict with Death. The answer: there was nothing to absorb. The Baal-Mot conflict was local to Ugarit. This also supports Smith's larger argument that monotheism emerged from WITHIN Israelite tradition, not as a reaction against a fully-formed polytheistic mythology.
 
-**Who disagrees:** Anyone who thinks Death mythology WAS present in early Israel but was edited out (the "priestly censorship" model Smith himself suggested in Ch5). Scholars who read Isaiah 25:8 and Hosea 13:14 as reflexes of a fuller mythology now lost.
+**Who disagrees:** Scholars who see Yahweh's conflict with Death as suppressed by priestly/deuteronomic editors (censorship model). Those who find more death-conflict mythology in the Bible than Smith allows (e.g., reading the Exodus plague narrative as Yahweh vs. Mot).
 
-**Alternative reading:** Israel COULD have had Death mythology that was deliberately suppressed. The few surviving references (Isa 25:8, Hos 13:14, Ps 49) might be the tips of a submerged iceberg. The priests may have been very effective censors.
+**Alternative reading:** The absence could be due to active SUPPRESSION rather than original absence. The priestly holiness categories (Ch 5) specifically separated Yahweh from death. What Smith sees as "never developed" might be "successfully censored."
 
-**My assessment:** Smith may be overcorrecting here. Having just argued (in Ch5) that priestly holiness norms censored divine sex and death mythologies, he now argues that Death mythology was never there. These are in tension. I suspect the truth is in between: some Death mythology existed but was marginalized by priestly/deuteronomic editors. The few biblical references are too tantalizing to dismiss entirely.
+**My assessment:** Smith's argument is ingenious but rests on thin evidence. The claim that the Baal-Mot conflict was a Ugaritic innovation is plausible given the text-internal evidence (the Yamm and Mot sections share structural features) but we can't prove West Semitic cultures LACKED death mythology — we just don't have their texts. The strongest point is that Israel inherited other Baal mythology (storm-battle, Sapan) but not the Mot conflict — that asymmetry needs explanation, and Smith's theory provides one.
 
 ---
 
-## Ch6 Overall Assessment
+## Chapter 6 Overall Assessment
 
 | Claim | Confidence | Most Vulnerable To |
 |-------|-----------|-------------------|
-| 1: Frazer's category is bankrupt | VERY HIGH | Persistence of the category despite critique |
-| 2: Individual figures differ fundamentally | HIGH | "Variations on a theme" counter-argument |
-| 3: Baal modeled on royal funerary ritual (1.161) | HIGH | Direction of influence (ritual→myth or vice versa) |
-| 4: Baal as "disappearing god" (Hittite parallel) | MEDIUM-HIGH | Death vs. sleep distinction |
-| 5: Baal's kingship = precarious Ugaritic monarchy | MEDIUM | Baal-as-weak reading |
-| 6: Israel never had Death mythology | LOW-MEDIUM | Argument from silence; tension with Ch5 censorship model |
+| 1: Frazer's category is a modern myth | VERY HIGH | Modified forms of category may survive |
+| 2: The figures are fundamentally different | HIGH | Comparison possible at different level of abstraction |
+| 3: CAT 1.161 provides the interpretive key | VERY HIGH | Direction of influence (ritual→myth vs. myth→ritual) |
+| 4: Baal's kingship on three levels | HIGH | Framework imposed vs. text-internal |
+| 5: Israel lacked Death-conflict because it was Ugaritic innovation | MEDIUM | Silence argument; suppression model alternative |
 
-**Strongest section:** Section 4 — the comparison of CAT 1.161 with the Baal Cycle. The verbal parallels ('atr b'l + 'arṣ + rd) are Smith's single most compelling piece of evidence in the entire book. This is original, careful, and persuasive.
+**Strongest section:** Section 4 (CAT 1.161 comparison). The four verbatim parallels between the ritual and the myth are the strongest empirical argument in the entire book. This is philological detective work at its best.
 
-**Weakest section:** Section 6 on the absence of Death mythology in Israel. It's underdeveloped (only ~2 pages) and sits in tension with Smith's own argument in Ch5 about priestly censorship of divine sex and death. If the priests suppressed divine sexuality, why couldn't they have suppressed divine death mythology?
+**Weakest section:** Section 1 (Frazer's biography/intellectual history). Interesting but overly long — the critique of Frazer has been made before, and Smith spends more time on Frazer's intellectual genealogy than on the constructive argument.
 
-**Tension note:** Smith argues in Ch5 that priestly holiness norms "censored" older mythologies of divine sex and death. But in Ch6, he argues Israel probably never HAD a Death-controntation mythology — it was a Ugaritic literary innovation. These can be reconciled (different kinds of death mythology) but Smith doesn't do the reconciling. This is the weakest link in an otherwise excellent chapter.
+**Most important implication for the book's thesis:** If Baal's death was a specifically Ugaritic literary production tied to royal mortuary cult, then the "dying and rising god" was never part of Israel's West Semitic heritage. Israel didn't REJECT a dying-and-rising Yahweh — it never had one to reject. Monotheism's elimination of divine death was not a break with tradition but an extrapolation from a tradition that had already dissociated the chief god from death.
 
-**Cross-reference:** The Baal-Yahweh connection matters here. If Baal's mythology was incorporated into Yahweh's profile (storm theophany, conflict with Sea/Leviathan), the ABSENCE of the Death conflict in Israel is genuinely puzzling. Cross's Divine Warrior model would predict Israel SHOULD have it. Smith's explanation (it was a local Ugaritic production) is one possibility; deliberate suppression is another.
+**Cross-reference:** This chapter is the pivot from Part II (traits of deities) to Part III (origins of monotheism). The argument that the Baal-Mot narrative was a Ugaritic literary innovation explains why Israel's monotheism could develop without confronting a death-mythology for Yahweh. Ch 5 established that immortality is a divine trait; Ch 6 explains why the EXCEPTION (Baal's death) doesn't apply to Israel's tradition. J.Z. Smith's earlier work on dying and rising gods is the major dialogue partner; Mark Smith (no relation) builds on it constructively.
