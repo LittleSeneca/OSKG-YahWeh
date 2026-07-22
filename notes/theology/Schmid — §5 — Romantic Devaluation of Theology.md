@@ -1,10 +1,11 @@
 ---
 tags:
   - source/book-notes
-  - theology/biblical-theology
-  - theology/history-of-scholarship
-  - theology/religion-theology-distinction
-  - scholars/schmid-konrad
+  - canon-formation
+  - historiography
+  - methodology
+  - faith/monotheism
+  - scholars/konrad-schmid
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -16,7 +17,7 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
-  - "[[../Theology Index]]"
+  - "[[Theology Index]]"
   - "[[Schmid — §§2-4 — Concept of Theology from Plato to Gabler]]"
   - "[[yahweh-monotheism-polytheism-debate]]"
   - "[[meta-analysis-scholars]]"

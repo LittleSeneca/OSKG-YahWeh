@@ -1,10 +1,13 @@
 ---
 tags:
   - source/book-notes
-  - theology/canon
-  - theology/torah-formation
-  - theology/persian-period
-  - scholars/schmid-konrad
+  - canon-formation
+  - history/exile
+  - methodology
+  - historiography
+  - faith/monotheism
+  - philology
+  - scholars/konrad-schmid
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -16,7 +19,7 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
-  - "[[../Theology Index]]"
+  - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
   - "[[yahweh-monotheism-polytheism-debate]]"

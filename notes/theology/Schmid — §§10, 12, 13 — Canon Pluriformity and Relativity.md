@@ -1,10 +1,13 @@
 ---
 tags:
   - source/book-notes
-  - theology/canon
-  - theology/septuagint
-  - theology/old-testament
-  - scholars/schmid-konrad
+  - canon-formation
+  - methodology
+  - historiography
+  - faith/monotheism
+  - philology
+  - history/exile
+  - scholars/konrad-schmid
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -16,7 +19,7 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
-  - "[[../Theology Index]]"
+  - "[[Theology Index]]"
   - "[[Schmid — §11 — The Tanakh as the Hebrew Bible]]"
 note_type: combined
 combined_sections: "§§10, 12, 13"

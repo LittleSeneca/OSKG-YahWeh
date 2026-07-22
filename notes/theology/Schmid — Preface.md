@@ -1,9 +1,12 @@
 ---
 tags:
   - source/book-notes
-  - theology/biblical-theology
-  - theology/methodology
-  - scholars/schmid-konrad
+  - canon-formation
+  - methodology
+  - historiography
+  - faith/monotheism
+  - history/exile
+  - scholars/konrad-schmid
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -17,7 +20,7 @@ source:
   original_year: 2018
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
-  - "[[../Theology Index]]"
+  - "[[Theology Index]]"
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
   - "[[Romer — Introduction]]"

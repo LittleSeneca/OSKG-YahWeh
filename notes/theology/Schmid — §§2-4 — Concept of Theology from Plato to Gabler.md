@@ -1,9 +1,11 @@
 ---
 tags:
   - source/book-notes
-  - theology/biblical-theology
-  - theology/history-of-scholarship
-  - scholars/schmid-konrad
+  - canon-formation
+  - historiography
+  - methodology
+  - faith/monotheism
+  - scholars/konrad-schmid
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
@@ -15,7 +17,7 @@ source:
   publisher: "William B. Eerdmans"
   local_file: "sources/books/_fulltext/Schmid_Historical_Theology_of_the_Hebrew_Bible_2019.txt"
 related:
-  - "[[../Theology Index]]"
+  - "[[Theology Index]]"
   - "[[Schmid — §1 — Is There a Theology of the Hebrew Bible]]"
   - "[[Schmid — Preface]]"
 note_type: combined
