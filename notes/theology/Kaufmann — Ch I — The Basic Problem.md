@@ -1,9 +1,13 @@
 ---
 tags:
   - source/book-notes
-  - theology/yahweh-origins
-  - theology/monotheism
-  - scholars/kaufmann
+  - faith/yahweh
+  - faith/monotheism
+  - faith/polytheism
+  - historiography
+  - methodology
+  - philology
+  - scholars/yehezkel-kaufmann
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
