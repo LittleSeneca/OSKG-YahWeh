@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/rainer-albertz, truth-project, deuteronomy, josiah, reform]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, history/jerusalem, scholars/rainer-albertz, truth-project, deuteronomy, reform]
 created: 2026-07-22
 confidence: medium
 source:

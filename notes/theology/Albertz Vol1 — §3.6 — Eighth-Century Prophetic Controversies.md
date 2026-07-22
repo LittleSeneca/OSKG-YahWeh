@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/rainer-albertz, truth-project, prophets, eighth-century]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, archaeology, scholars/rainer-albertz, truth-project, prophets]
 created: 2026-07-22
 confidence: medium
 source:

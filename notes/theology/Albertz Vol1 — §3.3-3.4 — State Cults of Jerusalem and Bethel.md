@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, scholars/rainer-albertz, truth-project, jerusalem-temple, bethel, state-cult]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, history/jerusalem, scholars/rainer-albertz, truth-project, temple, bethel, state-cult]
 created: 2026-07-22
 confidence: medium
 source:

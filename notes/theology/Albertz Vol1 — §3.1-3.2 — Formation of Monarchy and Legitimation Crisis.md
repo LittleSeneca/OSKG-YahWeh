@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/rainer-albertz, truth-project, monarchy, kingship-theology]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, scholars/rainer-albertz, truth-project, kingship-theology]
 created: 2026-07-22
 confidence: medium
 source:

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, scholars/rainer-albertz, truth-project, family-religion]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/family-religion, scholars/rainer-albertz, truth-project]
 created: 2026-07-22
 confidence: medium
 source:
