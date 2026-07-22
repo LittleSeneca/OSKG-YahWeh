@@ -8,6 +8,7 @@ source:
   year: 1986
 related:
   - "[[Tigay — Introduction]]"
+---
 
 # Tigay — Chapter I: The Onomastic Evidence
 

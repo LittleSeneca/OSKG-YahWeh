@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/origins, faith/epigraphy, faith/midianite-hypothesis, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, philology, faith/midianite-hypothesis, scholars/theodore-lewis, truth-project]
 created: 2026-07-22
 confidence: medium
 source:

@@ -2,7 +2,6 @@
 tags:
   - source/book-notes
   - faith/yahweh
-  - history/kenite-hypothesis
   - history/moses
   - scholars/thomas-romer
   - truth-project

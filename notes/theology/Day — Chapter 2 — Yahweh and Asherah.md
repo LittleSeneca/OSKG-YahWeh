@@ -1,12 +1,12 @@
 ---
 tags:
-  - truth/book-notes
-  - theology/canaanite-religion
-  - theology/asherah
-  - theology/yahweh
-  - theology/monotheism
+  - source/book-notes
+  - ane-religion
+  - faith/asherah
+  - faith/yahweh
+  - faith/monotheism
   - scholars/john-day
-  - project/truth
+  - truth-project
 created: 2026-07-22
 updated: 2026-07-22
 confidence: high

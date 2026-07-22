@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-council, christology, eschatology, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, christology, eschatology, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 6 — Thus Says the Lord]]", "[[Sommer — Chapters 4-6 + Appendix]]"]

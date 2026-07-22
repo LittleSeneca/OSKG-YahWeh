@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugaritic-studies]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugarit]
 created: 2026-07-22
 confidence: high
 source:

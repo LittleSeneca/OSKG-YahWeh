@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/iconography, faith/aniconism, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/iconography, history/aniconism, scholars/theodore-lewis, truth-project]
 created: 2026-07-22
 confidence: medium
 source:

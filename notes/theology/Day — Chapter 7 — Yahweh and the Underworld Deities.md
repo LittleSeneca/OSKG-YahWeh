@@ -1,14 +1,14 @@
 ---
 tags:
-  - truth/book-notes
-  - theology/canaanite-religion
+  - source/book-notes
+  - ane-religion
   - theology/underworld
   - theology/mot
   - theology/resheph
   - theology/molech
   - theology/rephaim
   - scholars/john-day
-  - project/truth
+  - truth-project
 created: 2026-07-22
 updated: 2026-07-22
 confidence: high

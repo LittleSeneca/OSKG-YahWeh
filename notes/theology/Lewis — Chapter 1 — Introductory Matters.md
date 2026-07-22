@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/el, faith/methodology, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/el, methodology, scholars/theodore-lewis, truth-project]
 created: 2026-07-22
 confidence: high
 source:

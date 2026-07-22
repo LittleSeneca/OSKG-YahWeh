@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology, hebrew-bible, yahweh-origins, egyptian-evidence, shasu, soleb, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, egyptian-evidence, shasu, soleb, scholars/daniel-fleming, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

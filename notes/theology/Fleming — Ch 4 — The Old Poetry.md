@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology, hebrew-bible, yahweh-origins, old-poetry, judges-5, deuteronomy-33, habakkuk-3, kuntillet-ajrud, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, old-poetry, judges-5, deuteronomy-33, habakkuk-3, kuntillet-ajrud, scholars/daniel-fleming, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

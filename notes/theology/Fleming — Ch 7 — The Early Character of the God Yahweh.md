@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology, hebrew-bible, yahweh-origins, south-arabia, el, divine-council, polytheism, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, south-arabia, faith/el, faith/divine-council, faith/polytheism, scholars/daniel-fleming, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

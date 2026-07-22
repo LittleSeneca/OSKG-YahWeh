@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugaritic-studies, asherah, divine-retinue]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugarit, asherah, divine-retinue]
 created: 2026-07-22
 confidence: medium-high
 source:

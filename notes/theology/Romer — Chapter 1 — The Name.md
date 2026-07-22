@@ -4,7 +4,6 @@ tags:
   - faith/yahweh
   - faith/polytheism
   - philology
-  - history/kenite-hypothesis
   - scholars/thomas-romer
   - truth-project
 created: 2026-07-22

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/el, faith/iconography, faith/archaeology, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, faith/el, faith/iconography, archaeology, scholars/theodore-lewis, truth-project]
 created: 2026-07-22
 confidence: medium
 source:

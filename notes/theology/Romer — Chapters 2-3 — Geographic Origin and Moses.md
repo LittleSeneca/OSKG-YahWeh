@@ -2,7 +2,10 @@
 tags:
   - source/book-notes
   - faith/yahweh
+  - faith/monotheism
   - history/kenite-hypothesis
+  - history/merneptah
+  - philology
   - scholars/thomas-romer
   - truth-project
 created: 2026-07-22

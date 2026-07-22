@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugaritic-studies, divine-traits, anthropomorphism, holiness, immortality]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugarit, divine-traits, anthropomorphism, holiness, immortality]
 created: 2026-07-22
 confidence: high
 source:

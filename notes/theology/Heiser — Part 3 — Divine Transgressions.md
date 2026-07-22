@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-council, genesis-6, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, genesis-6, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 2 — The Households of God]]"]

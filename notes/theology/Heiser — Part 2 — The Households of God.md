@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-council, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-council, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: high
 related: ["[[Heiser — Part 1 — First Things]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]"]

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, history/israel, scholars/thomas-romer, truth-project]
+tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-romer, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 5 — Entrance into Jerusalem]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]"]

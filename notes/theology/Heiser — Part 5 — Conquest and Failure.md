@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-council, conquest, genesis-6, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, conquest, genesis-6, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 4 — Yahweh and His Portion]]", "[[Cross — Parts II-III — Divine Warrior and League]]"]

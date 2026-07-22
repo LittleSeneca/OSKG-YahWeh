@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugaritic-studies, el, exodus, divine-names, southern-origins]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/mark-smith, truth-project, ugarit, faith/el, exodus, divine-names, southern-origins]
 created: 2026-07-22
 confidence: high
 source:

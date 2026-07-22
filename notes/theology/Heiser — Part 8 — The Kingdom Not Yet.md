@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-council, eschatology, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, eschatology, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 7 — The Kingdom Already]]"]

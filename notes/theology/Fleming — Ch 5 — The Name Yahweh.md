@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology, hebrew-bible, yahweh-origins, onomastics, amorite-names, etymology, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, onomastics, amorite-names, etymology, scholars/daniel-fleming, truth-project]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

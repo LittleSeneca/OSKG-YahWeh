@@ -2,7 +2,7 @@
 tags:
   - source/book-notes
   - faith/yahweh
-  - history/baal
+  - faith/baal
   - scholars/mark-smith
   - truth-project
 created: 2026-07-22

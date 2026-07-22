@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/divine-warrior, history/kenite-hypothesis, scholars/rainer-albertz, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/divine-warrior, scholars/rainer-albertz, truth-project]
 created: 2026-07-22
 confidence: medium
 source:

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugaritic-studies, divine-family, patrimonial-household, astral-deities, baal-outsider]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, truth-project, ugarit, divine-family, patrimonial-household, astral-deities, baal-outsider]
 created: 2026-07-22
 confidence: high
 source:

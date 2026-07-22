@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, history/judah, scholars/thomas-romer, truth-project]
+tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-romer, truth-project]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 6 — Cult of Yhwh in Israel]]"]

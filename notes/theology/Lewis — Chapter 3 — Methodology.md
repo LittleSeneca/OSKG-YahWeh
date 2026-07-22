@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/methodology, faith/epigraphy, faith/textual-criticism, scholars/theodore-lewis, truth-project]
+tags: [source/book-notes, methodology, philology, scholars/theodore-lewis, truth-project]
 created: 2026-07-22
 confidence: high
 source:

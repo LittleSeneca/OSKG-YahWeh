@@ -1,11 +1,10 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - israelite-religion
-  - exilic-period
+  - faith/polytheism
+  - history/exile
   - old-testament
-  - scholars/albertz
+  - scholars/rainer-albertz
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22

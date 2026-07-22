@@ -1,13 +1,12 @@
 ---
 tags:
   - source/book-notes
-  - theology
-  - israelite-religion
+  - faith/polytheism
   - post-exilic-period
   - persian-period
   - torah-canonization
   - old-testament
-  - scholars/albertz
+  - scholars/rainer-albertz
   - truth-project
 created: 2026-07-22
 updated: 2026-07-22
