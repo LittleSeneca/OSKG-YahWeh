@@ -70,6 +70,7 @@ If monotheism is rhetoric, not a new stage, then:
 - [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] — Deuteronomistic retrojection of exclusive Yahwism onto the monarchy is inner-community rhetoric (romer-inv-6.1)
 - [[claim-centralization-worship-jerusalem-late-political-project]] — centralization is the institutional infrastructure of monotheistic rhetoric: one temple enforces one god. The political lever behind the theological claim (romer-inv-7.3)
 - [[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]] — the Deuteronomistic history is a case study: scribal elites crafting an exclusivist identity through selective historiography, exactly what inner-community discourse describes (romer-inv-6-7.1)
+- [[claim-three-divergent-post-exilic-yahwisms-babylonian-monotheism-enforced]] — Keel/Uehlinger's three-trajectories model with enforced Babylonian monotheism is the post-exilic instantiation of Smith's rhetoric thesis: monotheism triumphed as the political victory of one faction (Babylonian returnees) over two others (Egyptian syncretists, Palestinian popular religionists), not as a gradual conceptual evolution
 
 **Contradicts:**
 - Evolutionary models (polytheism → henotheism → monotheism)

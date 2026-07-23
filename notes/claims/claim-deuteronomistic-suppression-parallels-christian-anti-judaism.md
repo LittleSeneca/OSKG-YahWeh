@@ -63,6 +63,8 @@ This is the ethical payoff of the entire book. If the iconographic evidence show
 
 **Contradicts:**
 - [[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — if Israelite religion was absolutely different from paganism from the beginning (Kaufmann), the deuteronomistic suppression of "Canaanite" practices was not self-mutilation but purification from corruption; Keel/Uehlinger's moral charge can only land if the boundary between Israelite and Canaanite religion was fluid, not absolute
+- [[claim-three-divergent-post-exilic-yahwisms-babylonian-monotheism-enforced]] — the three-trajectories model (Babylonian monotheism enforced over Egyptian syncretism and Palestinian popular religion) is the precise mechanism of the suppression Keel/Uehlinger condemn; the Chronicler's erasure of Asherah and Haggai's exclusion of non-exiles are documented acts of what they call self-mutilation
+- [[claim-postexilic-judah-aniconic-solar-yahwism-figurines-vanished]] — the material-culture endpoint of the suppression: figurines vanished from Judah while Phoenicia and Edom continued producing them; the orthodox campaign succeeded in changing what people made, bought, and used
 
 **Challenged by:**
 <!-- Evidence or arguments that weaken this claim -->

@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 90
-- **Total claims extracted:** 480
-- **Notes with edges added:** 90
-- **Last session:** 2026-08-03 (Session 30 / Batch 28)
+- **Notes with claims extracted:** 93
+- **Total claims extracted:** 494
+- **Notes with edges added:** 93
+- **Last session:** 2026-08-03 (Session 31 / Batch 29)
 
 ## By Scholar
 
@@ -121,11 +121,11 @@ related:
 - [x] Keel Uehlinger — Part IV — Iron Age IIA
 - [x] Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah
 - [x] Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction
-- [ ] Keel Uehlinger — Part VII — Iron Age III
+- [x] Keel Uehlinger — Part VII — Iron Age III
 
 ### Dever, Did God Have a Wife? (10 notes)
-- [ ] Dever — Introduction
-- [ ] Dever — Introduction and Chapters I-II — Methodology
+- [x] Dever — Introduction
+- [x] Dever — Introduction and Chapters I-II — Methodology
 - [ ] Dever — Chapter I — Defining Religion
 - [ ] Dever — Chapter II — History of Scholarship
 - [ ] Dever — Chapter III — Sources and Methods
@@ -288,6 +288,25 @@ related:
   - **Keel/Uehlinger now 7 of 11 notes extracted (46 claims):** Ch I (7), Ch III (5), Ch V (8), Ch X (6) + Excursus (5), Part I (8), Part II (7). The full arc now covers: methodology (Ch I) → earliest MB IIB iconography (Part I) → LB Egyptian colonialism and goddess→warrior shift (Part II) → MB temples (Ch III) → Iron I transition (Ch V) → synthesis (Ch X). Remaining: Part IV (Iron IIA), Part V (Iron IIB — the "Yahweh and His Asherah" chapter), Part VI (Iron IIC), Part VII (Iron III).
 - **Commits:** 1 (this session)
 - **Notes remaining:** 62
+- **Next batch suggestion:** See below.
+
+### 2026-08-03 — Session 31 (Batch 29 Finalized)
+- **Notes processed:** 3 — Keel Uehlinger Part VII (Iron Age III), Dever Introduction, Dever Introduction and Chapters I-II (Methodology)
+- **Claims extracted:** 14 (5 Keel VII, 6 Dever Intro, 3 Dever Intro+Ch I-II)
+- **Edges added:** ~35 internal edges already in 14 new claims + 24 cross-scholar edges in finalization pass across 12 claim files (10 within-batch + 2 retrofits to prior-session claims). Key clusters:
+  - **Keel/Uehlinger complete — all 11 notes extracted (73 claims):** With Part VII finalized, the entire Keel/Uehlinger arc is now in the graph. The full 1,700-year narrative runs: methodology (Ch I, 7) → MB IIB iconographic baseline (Part I, 8) → LB Egyptian colonialism (Part II, 7) → MB temples (Ch III, 5) → Iron I transitional period (Ch V, 8) → Excursus: Astarte plaques (5) → Iron IIA aniconic turn (Part IV, 7) → Iron IIB solarization and Asherah-as-symbol (Part V, 8) → Iron IIC astralization and goddess revival (Part VI, 7) → Iron Age III: Phoenician preservation, Edomite sibling tradition, three divergent Yahwisms, enforced monotheism, figurine disappearance (Part VII, 5) → synthesis and moral conclusion (Ch X, 6).
+  - **Part VII — Iron Age III (5 claims) — the archaeological endpoint:** Glyptic aniconic adaptation — Judeans bought imported seals and erased cultic images, replacing them with Hebrew names (7.1). Phoenician economy sustained Canaanite polytheism through Egyptian and Greek channels — Isis nursing mother replaced erotic Astarte, Greek influence introduced sharp gender binary (7.2). Hurvat Qitmit Edomite shrine preserved full god-and-goddess religion with aggressive three-horned goddess, Qaus inscriptions, ostrich and pig figurines — raising the shared-roots question for Qaus, Yahweh, and the Lord of Ostriches (7.3). The exile produced three divergent Yahwisms (Babylonian monotheism, Egyptian syncretism, Palestinian popular religion) — the returning Babylonian elite enforced exclusivity by force, with goddess worship as primary target (7.4). Postexilic Judah consolidated aniconic solar-Yahwism — lion stamp seals, vanished figurines, cultic boundaries coinciding with political borders — the material-culture endpoint of the deuteronomistic program (7.5).
+  - **Dever Introduction (6 claims) — the archaeologist's manifesto:** Dever's personal journey from fundamentalist to secular humanist gives him a unique vantage point (intro.1). Ancient Israel had TWO religions: Book religion (elite, monotheistic, aniconic) vs. folk religion (popular, polytheistic, domestic) — Book religion was a late elite construction (intro.2). Religion was about survival — "the care and feeding of the gods" in a marginal economy with 30-year life expectancy (intro.3). Israel was a marginal backwater — size of New Jersey, 150K population, Jerusalem 5K, literacy <5% (intro.4). Dever directly criticizes Mark Smith for ignoring archaeological evidence — the central scholarly disagreement (intro.5). For folk religion, archaeology is the primary source — Dever reverses the text-primary assumption with an eight-point phenomenological method (intro.6).
+  - **Dever Intro+Ch I-II (3 claims) — the methodological foundation:** Religion was kin-based and domestic — the *bet-'av* was the basic religious unit, women were primary practitioners, and Book religion was a male clerical construction imposed on a women's domain (1-2.1). Theology is apologetics — "prescriptive rather than descriptive" — a dead end for historical inquiry (1-2.2). Zevit and Keel/Uehlinger represent the best methodological models for integrating archaeological and iconographic evidence as primary data (1-2.3).
+  - **Cross-scholar edge pass — 24 new edges across 12 claim files:**
+    - **Keel/Uehlinger → Dever (9 edges):** El-Jib aniconic seal (7.1) supports Dever's archaeology-primary method. Phoenician goddess cult (7.2) supports both women's household religion (1-2.1) and Book-vs-folk — coast preserved what Judah erased. Hurvat Qitmit (7.3) supports Book-vs-folk and archaeology-primary — no text describes this shrine. Three-trajectories model (7.4) supports Book-vs-folk (post-exilic instantiation), survival religion (Palestinian popular religion IS Dever's household cult), AND Dever's Smith critique (Elephantine Anat-Yahu proves goddess consort worship). Figurine disappearance (7.5) supports archaeology-primary (controlled experiment across political borders) and demographic context (tiny elite enforced suppression).
+    - **Dever → Keel/Uehlinger (3 edges):** Dever's two-religions (intro.2) supported by Hurvat Qitmit and three trajectories. Survival religion (intro.3) supported by Palestinian popular trajectory and Phoenician goddess cult. **Dever's Smith critique (intro.5) now contradicts his own methodological heroes** — Keel/Uehlinger's conclusions that "his asherah" is a cultic symbol (5.5), no goddess consort in Solomonic Temple (4.7), and no divine couples in IIC iconography (6.4) all contradict Dever's position. This is the graph's sharpest internal tension: the scholar Dever ranks as best methodological model disagrees with him on the central substantive question.
+    - **Dever → prior Keel claims (3 edges):** Dever's Smith critique now explicitly contradicts keel-ggi-4.7 (no goddess consort in Solomonic Temple) and keel-ggi-6.4 (no divine couples in IIC). Dever praises their method but their results undermine his conclusions.
+    - **Retrofits to prior-session claims (2 edges):** keel-ggi-7.4 (three trajectories, enforced monotheism) retrofitted to claim-deuteronomistic-suppression-parallels-christian-anti-judaism (the mechanism of suppression) and claim-monotheism-rhetoric-inner-community-discourse (Smith's rhetoric thesis confirmed by factional political victory).
+  - **Dever opens in the graph — 9 claims across 2 of 10 notes:** The Introduction and methodological chapters establish Dever's voice: polemical, archaeologist-first, explicitly personal, sharply critical of text-based scholarship. His two-religions thesis, archaeology-primary method, and critique of Smith are now in the graph and edged to the Keel/Uehlinger arc. The tension between Dever's praise for Keel/Uehlinger's method and his disagreement with their Asherah conclusions is explicitly documented as a graph edge.
+  - **Keel/Uehlinger complete at 73 claims across 11 notes:** The entire 1,700-year iconographic arc is now in the graph. Keel/Uehlinger provide the most thorough treatment of iconographic evidence, the most detailed periodization of religious change, and the most explicit moral conclusions. Their Asherah conclusion (symbol, not goddess consort) contradicts Dever but aligns with Smith — an important convergence across textual and iconographic methods that Dever's framework cannot easily explain.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 56
 - **Next batch suggestion:** See below.
 
 ### 2026-08-03 — Session 30 (Batch 28 Finalized)

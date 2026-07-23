@@ -19,6 +19,14 @@ related:
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
   - "[[Dever — Chapter I — Defining Religion]]"
+claims_status: "extracted"
+claims_extracted_date: 2026-08-03
+claims_count: 3
+claims_files:
+  - "[[claim-family-kin-based-domestic-religion-women-primary-practitioners]]"
+  - "[[claim-theology-is-apologetics-not-history-dever-critique]]"
+  - "[[claim-zevit-keel-uehlinger-best-methodological-models-archaeology-integration]]"
+claims_format: "implicit"
 ---
 
 # Dever, Did God Have a Wife? — Introduction + Chapters I-II
@@ -111,6 +119,8 @@ Dever emphasizes that religion was kin-based and domestic, not institutional:
 - Ancestor veneration was central (the *rephaim*, feeding the dead)
 - "Book religion" was a late male clerical construction imposed on a much older family-based religion that was largely women's domain
 
+<!-- Implicit claim extracted to [[claim-family-kin-based-domestic-religion-women-primary-practitioners]] -->
+
 ---
 
 ## Chapter II: The History of the History
@@ -128,6 +138,9 @@ Dever surveys the major approaches to Israelite religion from the 19th century t
 Dever's strongest praise goes to Zevit (*The Religions of Ancient Israel*, 2001) for his openness to archaeological evidence, and to Keel/Uehlinger (*Gods, Goddesses, and Images of God*, 1998) for their iconographic approach.
 
 His sharpest criticism is reserved for theologians: "Theology... remains essentially an enterprise of apologetics, and moreover seems to conceive of religion merely in terms of ideas rather than of practice."
+
+<!-- Implicit claim extracted to [[claim-theology-is-apologetics-not-history-dever-critique]] -->
+<!-- Implicit claim extracted to [[claim-zevit-keel-uehlinger-best-methodological-models-archaeology-integration]] -->
 
 ---
 
