@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 21
-- **Total claims extracted:** 110
-- **Notes with edges added:** 21
-- **Last session:** 2026-07-24 (Session 7)
+- **Notes with claims extracted:** 24
+- **Total claims extracted:** 128
+- **Notes with edges added:** 24
+- **Last session:** 2026-07-25 (Session 8)
 
 ## By Scholar
 
@@ -40,11 +40,11 @@ related:
 - [x] Smith Origins — Ch6 — The Life and Death of Baal
 - [x] Smith Origins — Ch7 — El Yahweh and the Original God of Israel
 - [x] Smith Origins — Ch8 — Emergence of Monotheistic Rhetoric
-- [ ] Smith Origins — Ch9 — Formation of Monotheistic Theologies
-- [ ] Smith Origins — Ch10 — Monotheism in Isaiah 40-55
+- [x] Smith Origins — Ch9 — Formation of Monotheistic Theologies
+- [x] Smith Origins — Ch10 — Monotheism in Isaiah 40-55
 
 ### Römer, The Invention of God (19 notes)
-- [ ] Romer — Introduction
+- [x] Romer — Introduction
 - [ ] Romer — Introduction and Chapter 1
 - [ ] Romer — Chapter 1 — The Name
 - [ ] Romer — Chapter 2 — Geographic Origin
@@ -205,6 +205,20 @@ related:
 ---
 
 ## Session Log
+
+### 2026-07-25 — Session 8
+- **Notes processed:** 3 — Smith Origins Ch9 (Formation of Monotheistic Theologies), Smith Origins Ch10 (Monotheism in Isaiah 40-55), Romer Introduction
+- **Claims extracted:** 18 (8 Smith Ch9, 4 Smith Ch10, 6 Romer Introduction)
+- **Edges added:** ~70 internal edges across 18 claims + 17 cross-scholar edges (Session 8 finalization pass). Key clusters:
+  - **Transformation ↔ Sedimentary convergence:** Smith's "transformation" (smith-obm-9.8) and Romer's "sedimentary invention" (romer-inv-intro.4) are complementary metaphors for the same process. Smith's three strategies (enclosure, absorption, preservation-with-replacement) are the mechanism-level description of Romer's sedimentary model. Cross-edges added in both directions.
+  - **Polytheistic baseline as shared foundation:** Romer's textual evidence for polytheistic traces (romer-inv-intro.1) provides the starting point that Smith's transformation thesis (smith-obm-9.8) and rhetoric thesis (smith-obm-10.4) require. Smith's polemic analysis (10.1, 10.2) shows what the polytheistic baseline was polemicized AGAINST.
+  - **Scribal/textual model convergence:** Smith's text-reuse argument (10.3: Isaiah 44 reuses Deut 32/First Isaiah) aligns with Romer's scroll recopying model (romer-inv-intro.5). Both see biblical texts as layered, continually revised compositions. Agreement on process, disagreement on DH retention (Smith keeps it cautiously, Romer rejects it).
+  - **Documentary Hypothesis as the key divergence:** Smith retains DH; Romer explicitly rejects it. Edges added to smith-obm-9.6 (two-stage reduction), smith-obm-10.3 (textual reuse), and romer-inv-intro.5 (DH obsolete) marking both the agreement on scribal process and the disagreement on source theory. This is the European vs. American divide in biblical scholarship.
+  - **Methodology convergence:** Romer's historical-critical method (romer-inv-intro.3) enables Smith's two-stage reduction detection (smith-obm-9.6). Different scholars, shared methodological assumptions about how to read the biblical text.
+  - **Capstone bridges:** Smith's book thesis (smith-obm-10.4) edges to Romer's programmatic claim (romer-inv-intro.2: Yhwh's desert-to-sole-God journey) and Romer's terminological precision (romer-inv-intro.6: period-specific categories). Smith's exilic rhetoric is the culmination of the process Romer traces.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 125
+- **Next batch suggestion:** Smith Origins Ch2 (Divine Council) + Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Romer Ch1 (The Name). Rationale: Divine Council is the highest-edge-density remaining topic — connects to smith-obm-9.5 (Daniel 7), smith-ehg-1.5 (Judges pantheon), smith-obm-1.1-1.4 (spatial taxonomy), and Heiser/Cross when processed. Day Ch4 directly continues the Baal conflict/convergence thread from Day Ch3 and Smith Ch2 — edges to smith-ehg-2.1, 2.2; day-ygc-3.1-3.6; smith-obm-6.x. Romer Ch1 opens the Yahweh name/origin investigation, edges to romer-inv-intro.2 and smith-obm-7.6. Edge compounding: these three will connect to 15+ existing claims.
 
 ### 2026-07-23 — Session 2
 - **Notes processed:** 3 — Smith Ch2 (Yahweh and Baal), Römer Ch8 (Statue of Yhwh), Day Ch1 (Yahweh and El)

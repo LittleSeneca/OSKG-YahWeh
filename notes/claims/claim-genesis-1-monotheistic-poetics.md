@@ -61,6 +61,7 @@ This is arguably the most important claim in the chapter for Smith's overall the
 
 **Supports:**
 - [[claim-monotheism-was-rhetoric-not-religious-stage]] — Genesis 1 demonstrates monotheism as literary-theological strategy, not philosophical position
+- [[claim-genesis-1-eliminates-conflict-mythology]] — Ch9 provides the fuller treatment: the enclosure strategy, depersonalization of *tehom*/*tanninim*/celestial bodies, and "no middle ground" between Creator and creatures
 
 **Contradicts:**
 <!-- Readings that treat Genesis 1 as straightforward creation account without polemical subtext -->

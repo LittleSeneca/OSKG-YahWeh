@@ -65,8 +65,8 @@ If monotheism is rhetoric, not a new stage, then:
 
 **Supports:**
 - [[claim-monotheistic-convergence-valued-divine-traits]] — convergence at the trait level makes monotheistic rhetoric possible
-<!-- Will edge to smith-obm-8.4 (national theology) — the prior context this rhetoric eventually displaced -->
-<!-- Will edge to smith-obm-8.7 (imperial crisis) — the conditions that made this rhetoric intelligible -->
+- [[claim-isaiah-44-mis-pi-double-audience-judeans]] — Ch10's demonstration: the mis pi inversion shows monotheism as intra-Judean consolidation, not interfaith polemic
+- [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Ch10's capstone: monotheism as rhetoric born from exile, not a new religious stage
 
 **Contradicts:**
 - Evolutionary models (polytheism → henotheism → monotheism)

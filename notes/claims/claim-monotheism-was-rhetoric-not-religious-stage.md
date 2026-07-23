@@ -58,7 +58,8 @@ If monotheism is rhetoric rather than an ontological position, the entire modern
 - [[claim-four-stage-model-monotheism-development]] — the EHG model showing the long development process this rhetoric culminated in
 
 **Supports:**
-<!-- Will edge to Ch8-10 claims when extracted -->
+- [[claim-monotheism-rhetoric-inner-community-discourse]] — Ch8 develops the rhetoric argument for inner-community discourse
+- [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Ch10 caps the argument: monotheism is "not a new stage of religion but a new stage of rhetoric" born from exile
 
 **Contradicts:**
 <!-- Axial Age theories treating monotheism as an evolutionary stage -->
