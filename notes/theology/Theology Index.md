@@ -26,6 +26,7 @@ Theological analysis: what does the evidence mean for belief, doctrine, and prac
 
 ## Notes
 
+- **[[synthesis-who-was-yahweh|Synthesis: Who Was Yahweh?]]** — THE CAPSTONE DOCUMENT. Synthesizes ~68 chapter notes, ~58 claim nodes, primary sources, and 45+ scholars to answer the eight core questions of the Truth Project. Where does the evidence land? What do we actually know? What does it mean for faith?
 - **[[scholarly-directory-yahweh-origins|Scholarly Directory: Yahweh's Origins]]** — 45+ PhD-level scholars across three positions with institutional affiliations, key works, and core arguments.
 - **[[meta-analysis-scholars|Meta-Analysis: The Scholars Behind the Scholarship]]** — Presuppositions, academic genealogy, methodological tradeoffs, confessional mapping, institutional incentives, and how to read a scholar critically.
 - **[[yahweh-monotheism-polytheism-debate|Was Yahweh Always One God?]]** — Original research synthesis covering the three main positions with archaeological evidence and textual analysis.
