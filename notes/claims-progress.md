@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 87
-- **Total claims extracted:** 458
-- **Notes with edges added:** 87
-- **Last session:** 2026-08-02 (Session 29 / Batch 27)
+- **Notes with claims extracted:** 90
+- **Total claims extracted:** 480
+- **Notes with edges added:** 90
+- **Last session:** 2026-08-03 (Session 30 / Batch 28)
 
 ## By Scholar
 
@@ -118,9 +118,9 @@ related:
 - [x] Keel Uehlinger — Excursus — Astarte Plaques
 - [x] Keel Uehlinger — Part I — Middle Bronze Age IIB
 - [x] Keel Uehlinger — Part II — Late Bronze Age
-- [ ] Keel Uehlinger — Part IV — Iron Age IIA
-- [ ] Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah
-- [ ] Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction
+- [x] Keel Uehlinger — Part IV — Iron Age IIA
+- [x] Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah
+- [x] Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction
 - [ ] Keel Uehlinger — Part VII — Iron Age III
 
 ### Dever, Did God Have a Wife? (10 notes)
@@ -288,6 +288,28 @@ related:
   - **Keel/Uehlinger now 7 of 11 notes extracted (46 claims):** Ch I (7), Ch III (5), Ch V (8), Ch X (6) + Excursus (5), Part I (8), Part II (7). The full arc now covers: methodology (Ch I) → earliest MB IIB iconography (Part I) → LB Egyptian colonialism and goddess→warrior shift (Part II) → MB temples (Ch III) → Iron I transition (Ch V) → synthesis (Ch X). Remaining: Part IV (Iron IIA), Part V (Iron IIB — the "Yahweh and His Asherah" chapter), Part VI (Iron IIC), Part VII (Iron III).
 - **Commits:** 1 (this session)
 - **Notes remaining:** 62
+- **Next batch suggestion:** See below.
+
+### 2026-08-03 — Session 30 (Batch 28 Finalized)
+- **Notes processed:** 3 — Keel Uehlinger Part IV (Iron Age IIA), Keel Uehlinger Part V (Iron Age IIB — Baal El Yahweh and His Asherah), Keel Uehlinger Part VI (Iron Age IIC — Astralization and Orthodox Reaction)
+- **Claims extracted:** 22 (7 Part IV, 8 Part V, 7 Part VI)
+- **Edges added:** ~50 internal edges already in 22 new claims + 16 new cross-scholar edges in finalization pass (9 contradicts to Römer, 2 supports to Albertz, 1 contradicts to Kaufmann, 2 challenged_by, 2 additional supports). Key clusters:
+  - **Part IV — Iron IIA aniconic turn (7 claims):** The most concentrated treatment of the aniconic shift. Anthropomorphic deity figurines cease production — every Iron IIA find is an LB heirloom (4.1). The "Lord of the Ostriches" is the dominant indigenous male deity with steppe/desert alignments suggesting early Yahweh (4.2). The goddess is systematically replaced by her attribute symbols — suckling animals, caprids-at-trees, branches — becoming autonomous "icons of blessing" detached from any goddess identity (4.3). The Taanach cultic stands show an empty space between cherubs as the earliest material evidence for aniconic Yahweh worship (4.4). Jerusalem Temple iconography is gender-neutral and royal with the goddess structurally absent from its decorative program (4.5). The Syro-Phoenician cultural reorientation, not Egyptian influence or theological revolution, drove the aniconic turn (4.6). There was no goddess consort in the Solomonic Temple — Asherah was introduced under Manasseh in the 7th century as a late innovation, not an original partner (4.7).
+  - **Part V — Iron IIB Kuntillet Ajrud and Asherah (8 claims):** The book's thesis chapter. Goddess imagery is minimal in IIB, virtually absent from Hebrew glyptic seals (5.1). The Kuntillet Ajrud pithoi paintings are paratactic (juxtaposed independent motifs), not a unified narrative scene (5.2). The Bes figures on Pithos A are apotropaic daemons, not Yahweh and Asherah (5.3). The lyre player is a human woman, not Asherah enthroned — directly contradicting Dever's identification (5.4). "His asherah" (*'šrth*) is a cultic symbol (stylized tree), NOT the goddess Asherah — grammatical, iconographic, and biblical evidence converges on a mediating subordinate entity, not a consort (5.5). Solar imagery dominated IIB — Egyptian royal/prestige iconography absorbed into Yahwism, but primarily as political prestige, not theological solarization (5.6). Bull images at Bethel and Dan were Yahwistic aniconic substitutions, not Baalistic idolatry (5.7). Baal, not Asherah, was Yahweh's primary rival in IIB — the Asherah question has been overemphasized (5.8).
+  - **Part VI — Iron IIC astralization and orthodox reaction (7 claims):** Astralization replaces solarization after the Assyrian conquest — stars, moon, Pleiades displace the sun (6.1). The Moon God of Haran was locally identified with El — Yahweh absorbed lunar characteristics as part of the continuing El-Yahweh convergence (6.2). Judean pillar figurines represent a goddess REVIVAL in IIC, not a continuous tradition — there is a genuine hiatus in IIB (6.3). Despite the goddess revival, there is NO evidence of a consort relationship — divine couples are absent from IIC iconography (6.4). Judahite name seals became image-free in the 7th century — the aniconic turn documented in glyptic from Iron IIA reaches its bureaucratic apex; over 300 bullae from Jerusalem with zero divine images (6.5). Ketef Hinnom silver amulets show text replacing image — wearing inscribed blessings on the body, "early deuteronomistic" character predating Josiah (6.6). The Queen of Heaven cult (Jeremiah 7, 44) was a local Ishtar-Asherah synthesis, not Assyrian imposition — popular piety synthesizing indigenous and imported elements at the family level (6.7).
+  - **Cross-scholar edge pass — 16 new edges across 14 claim files:**
+    - **Keel → Römer on statue/images and consort (9 edges):** The highest-density new contradiction cluster. keel-ggi-4.1 (cessation of anthropomorphic production) and 4.4 (Taanach aniconic) contradict Römer's late-prohibition thesis — aniconic practice predates the exile by 400+ years. keel-ggi-4.7 (no goddess consort in Solomonic Temple), 5.1 (goddess minimal in IIB), 5.2 (paratactic paintings), 5.5 (asherah = cultic symbol, not goddess), and 6.4 (no divine couples) all contradict Römer's Kunttilet Ajrud = consort reading from multiple angles. keel-ggi-6.5 (image-free seals) contradicts Römer's seals-depict-Yahweh argument.
+    - **Keel → Kaufmann (1 edge):** keel-ggi-4.6 (Syro-Phoenician influence drove aniconic turn) contradicts Kaufmann's "absolutely different from paganism from the beginning" — Israel's aniconism was driven by adaptation of foreign cultural conventions, not radical theological distinctiveness.
+    - **Keel → Albertz (3 edges):** keel-ggi-6.3 (IIC goddess revival concentrated in domestic contexts) and 6.7 (Queen of Heaven = local synthesis at family level) both support Albertz's internal religious pluralism model and family-piety-as-substratum. The IIC household religion documented in pillar figurines IS Albertz's "family piety" substratum operating with its own iconographic logic independent of official cult.
+    - **Keel → Smith (3 edges):** keel-ggi-4.6 (Syro-Phoenician influence) supports Smith's convergence-differentiation framework — the mechanism IS external cultural borrowing. keel-ggi-5.6 (solar imagery as prestige) challenges Smith's solarization-as-theology reading — the alternative mechanism matters. keel-ggi-4.2 (Lord of Ostriches) is challenged by the independent southern-origin poetic evidence.
+  - **Keel/Uehlinger now 10 of 11 notes extracted (68 claims):** Ch I (7), Ch III (5), Ch V (8), Ch X (6) + Excursus (5), Part I (8), Part II (7), Part IV (7), Part V (8), Part VI (7). The full arc now covers: methodology (Ch I) → earliest MB IIB iconography (Part I) → LB Egyptian colonialism and goddess→warrior shift (Part II) → MB temples (Ch III) → Iron I transition (Ch V) → Iron IIA aniconic turn (Part IV) → Iron IIB solarization and Asherah-as-symbol (Part V) → Iron IIC astralization and goddess revival (Part VI) → synthesis (Ch X). Remaining: Part VII (Iron Age III).
+  - **Key Keel/Uehlinger contributions to the graph in this batch:**
+    - **Aniconism predates monotheism:** The entire Part IV-VI arc demonstrates that the aniconic turn was a gradual cultural process beginning in Iron I-IIA, centuries before the Deuteronomistic reform. This directly contradicts Römer's late-prohibition thesis and supports Lewis's cumulative aniconic argument.
+    - **Asherah as symbol, not consort:** Part V is the most concentrated treatment of the Kuntillet Ajrud question. The grammatical argument (*'šrth* = common noun, not proper name), the iconographic identification (asherah = stylized tree), and the broader pattern (goddess minimal in IIB → revival in IIC) all converge on "his asherah" as a cultic symbol, not a goddess consort. This vindicates Smith's reading against Dever and Römer.
+    - **The goddess revival was real but late:** Part VI documents the IIC pillar figurine phenomenon as a genuine revival after a hiatus. This chronological argument (IIB absence → IIC return) is devastating to the "continuous folk tradition" model and strengthens the case that the goddess's absence during the early monarchy was real, not just deuteronomistic erasure.
+    - **Baal as primary rival:** The iconographic evidence shows Baal-type imagery dominating IIB, with goddess imagery virtually absent. The Asherah question, while important, has distorted the picture — Yahweh's primary competition was Baal, not Asherah.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 59
 - **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 25 (Batch 23 Finalized)
