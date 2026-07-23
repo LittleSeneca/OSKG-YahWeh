@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 6
-- **Total claims extracted:** 24
-- **Notes with edges added:** 6
-- **Last session:** 2026-07-23 (Session 2)
+- **Notes with claims extracted:** 9
+- **Total claims extracted:** 39
+- **Notes with edges added:** 9
+- **Last session:** 2026-07-24 (Session 3)
 
 ## By Scholar
 
@@ -27,7 +27,7 @@ related:
 - [ ] Smith Chapter 1 — Deities in the Period of the Judges
 - [x] Smith Chapter 2 — Yahweh and Baal
 - [x] Smith Chapter 3 — Yahweh and Asherah
-- [ ] Smith Chapter 4 — Yahweh and the Sun
+- [x] Smith Chapter 4 — Yahweh and the Sun
 - [ ] Smith Chapters 5-7 — Cult, Monotheism, Portraits
 
 ### Smith, Origins of Biblical Monotheism (11 notes)
@@ -38,7 +38,7 @@ related:
 - [ ] Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations
 - [ ] Smith Origins — Ch5 — The Traits of Deities
 - [ ] Smith Origins — Ch6 — The Life and Death of Baal
-- [ ] Smith Origins — Ch7 — El Yahweh and the Original God of Israel
+- [x] Smith Origins — Ch7 — El Yahweh and the Original God of Israel
 - [ ] Smith Origins — Ch8 — Emergence of Monotheistic Rhetoric
 - [ ] Smith Origins — Ch9 — Formation of Monotheistic Theologies
 - [ ] Smith Origins — Ch10 — Monotheism in Isaiah 40-55
@@ -138,7 +138,7 @@ related:
 ### Day, Yahweh and the Gods of Canaan (8 notes)
 - [x] Day — Chapter 1 — Yahweh and El
 - [x] Day — Chapter 2 — Yahweh and Asherah
-- [ ] Day — Chapter 3 — Yahweh Versus Baal
+- [x] Day — Chapter 3 — Yahweh Versus Baal
 - [ ] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
 - [ ] Day — Chapter 5 — Yahweh and Astarte and Anat
 - [ ] Day — Chapter 6 — Yahweh and the Astral Deities
@@ -216,6 +216,18 @@ related:
 - **Commits:** 1 (pending)
 - **Notes remaining:** 143
 - **Next batch suggestion:** Smith Ch4 (Yahweh and the Sun) + Day Ch3 (Yahweh Versus Baal) + Smith Origins Ch7 (El, Yahweh, and the Original God of Israel). The solarization thread (Smith Ch4) is a new deity profile absorption to track; Day Ch3's Baal rivalry chapter provides the counter-narrative to Smith Ch2's convergence model (same data, Day reads it as conflict, Smith reads it as absorption); Smith Origins Ch7 provides the El-Yahweh identification argument from Smith's later perspective (2001 vs. 1990), which edges against Day Ch1 and provides Smith's matured thinking on the question.
+
+### 2026-07-24 — Session 3
+- **Notes processed:** 3 — Smith Ch4 (Yahweh and the Sun), Day Ch3 (Yahweh Versus Baal), Smith Origins Ch7 (El, Yahweh, and the Original God of Israel)
+- **Claims extracted:** 15 (2 Smith Ch4, 6 Day Ch3, 7 Smith Origins Ch7)
+- **Edges added:** 17 cross-scholar + cross-book edges from session + 9 edges retrofitted to 3 existing claims (smith-ehg-2.1, smith-ehg-2.2, day-ygc-1.1) + ~30 internal edges in new claims = ~56 total
+  - **Edge cluster 1 — Convergence trilogy completed:** Smith Ch4 edges to Ch2+Ch3 complete the pattern. Yahweh absorbs Baal (storm, Ch2) → Asherah (fertility, Ch3) → Sun (royal radiance, Ch4). The solar-storm combination (4.2) is a positive theological innovation within Smith's critical framework.
+  - **Edge cluster 2 — Conflict model vs. convergence model:** Day Ch3 edges to Smith Ch2 (smith-ehg-2.1, 2.2). Day reads OT hostility as POLEMICAL NAME-DISTORTION (Baal-zebub, bošet, šiqqûṣ šōmēm); Smith reads same data as CONVERGENCE (absorb Baal's power while rejecting Baal's cult). The two models are complementary, not contradictory: the monarchy absorbs imagery, the Deuteronomists deform names. Same political-religious dynamic, different scribal tactics.
+  - **Edge cluster 3 — Smith's 2001 position on El:** Smith Origins Ch7 edges to Day Ch1 (day-ygc-1.1). Smith's *Origins* (2001) strongly reinforces Day's El-Yahweh distinction — the sanctuary evidence, name "Israel," Deut 32:8-9, and the three-stage convergence model all converge on original distinction. Smith hasn't "shifted toward Day" (he argued distinction in *EHG* 1990 too), but *Origins* Ch7 provides a more systematic, book-length defense.
+  - **Edge cluster 4 — Baal's identity unified:** Day Ch3.1 (one cosmic Baal) links to both Smith Ch2 claims. The storm-warrior imagery Yahweh absorbed came from ONE coherent deity, not a diffuse collection. Day Ch3.6 (Dagon as Baal's father) shows the storm profile was genealogically inherited — the imagery had a West Semitic pedigree deeper than Baal himself.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 140
+- **Next batch suggestion:** Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Smith Origins Ch6 (The Life and Death of Baal) + Cross Parts II-III (Divine Warrior and League). Rationale: Day Ch4 is the DIRECT counterpoint to Smith Ch2 — Day argues Yahweh appropriated Baal imagery (same data, conflict framing), completing the Day-Smith Baal diptych. Smith Origins Ch6 provides the Ugaritic background for Baal's profile that both Day and Smith draw on. Cross provides the divine warrior framework that underlies both. Edge compounding: these three will connect to 9+ existing claims (smith-ehg-2.1, 2.2; day-ygc-3.1-3.6; smith-obm-7.5, 7.6). Four remaining Day chapters to finish the book.
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)

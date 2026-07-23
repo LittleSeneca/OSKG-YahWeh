@@ -68,6 +68,10 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 **Supports:**
 - [[claim-asherah-el-consort-transferred-to-yahweh]] — if Yahweh was originally distinct from El, Asherah didn't transfer automatically; the transfer required deliberate theological work; Day's distinction makes the transfer a real historical process, not an identity
 - [[claim-yahweh-el-identification-foundational]] (Day Ch2 — Day's Ch1 argument that Yahweh and El were distinct is foundational for his Ch2 argument about the Asherah consort question)
+- [[claim-el-israelite-sanctuaries]] (smith-obm-7.2) — Smith's sanctuary evidence (Shiloh, Shechem, Jerusalem) independently demonstrates pre-Yahwistic El worship at major Israelite cult sites; the geographical and cultic evidence converges with Day's philological case
+- [[claim-deut-32-8-9-sons-of-el]] (smith-obm-7.4) — the text-critical smoking gun for the El-Yahweh distinction; Yahweh as subordinate to Elyon is the clearest biblical snapshot of the separation Day argues for
+- [[claim-yahweh-southern-storm-warrior-origin]] (smith-obm-7.6) — Smith's southern origin argument provides the geographical mechanism for the distinction: Yahweh from Edom/Midian, El from Canaan = two gods from different regions converging
+- [[claim-name-israel-el-original]] (smith-obm-7.3) — the name itself is the simplest corroboration of Day's position; the philological argument ("if Yahweh were original, we'd expect *yiśrâ-yāh") matches Day's method
 
 **Contradicts:**
 - [[claim-cross-el-yahweh-identity]] (Cross — when extracted, Day's claim directly contradicts Cross's thesis that Yahweh was originally a form of El)

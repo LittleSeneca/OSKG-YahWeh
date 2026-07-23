@@ -80,12 +80,15 @@ The Psalms you sing in church describing God's majesty, power over storms, and k
 - [[claim-asherah-was-yahwistic-symbol]] (smith-ehg-3.1) — Smith's convergence model operates the same way for Baal (Ch2) and Asherah (Ch3): Yahweh absorbs a deity's profile through the monarchy while the Deuteronomists reject the cult. The Baal case provides the structural template for the Asherah case.
 - [[claim-female-imagery-absorbed-into-yahweh]] (smith-ehg-3.4) — The absorption pattern extends to female deities (Anat, Asherah): Yahweh absorbs gendered imagery from deities whose cults were rejected
 - [[claim-anat-martial-imagery-absorbed-into-yahweh]] (smith-ehg-2.3) — Anat's imagery absorption is a secondary instance of the same convergence model; Baal is the primary case, Anat is the secondary case
+- [[claim-baals-local-manifestations-one-deity]] (day-ygc-3.1) — Day's one-cosmic-Baal framework explains why the storm-warrior imagery was consistently transferable: Yahweh absorbed the profile of ONE coherent deity, not a diffuse collection of local gods
+- [[claim-yahweh-solar-language-royal-development]] (smith-ehg-4.1) — the solar absorption (Ch4) follows the identical convergence pattern: monarchy absorbs a deity's visual/theological vocabulary to exalt Yahweh
+- [[claim-solar-storm-combination-theological-transcendence]] (smith-ehg-4.2) — the combination of storm (Ch2) and solar (Ch4) imagery produced transcendence claims that neither Baal nor the sun god made alone; the convergence pattern compounds across deity profiles
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+- Day's overall framework in Ch3 presents the Baal relationship as CONFLICT (polemical name-distortion) rather than absorption; the distortion claims (day-ygc-3.3, 3.4, 3.5) show scribal hostility operated at the level of NAME-DEFORMATION, a more visceral rejection than Smith's "Yahweh-alone party" framing. However, Smith's convergence model already accounts for this: the monarchy absorbs Baal imagery WHILE the Deuteronomists reject Baal cult — both poles coexist in the same dynamic.
 
 **Primary sources:**
 - Ugaritic Baal Cycle (KTU 1.1-1.6)

@@ -67,6 +67,9 @@ If Baal was always part of Israelite religion, the biblical narrative of a pure 
 **Supports:**
 - [[claim-asherah-was-stylized-tree]] — same model of persistent popular religion resistant to reform
 - [[claim-josiah-reform-removed-asherah]] — Josiah's reform targeted Baal alongside Asherah, same logic
+- [[claim-baals-local-manifestations-one-deity]] (day-ygc-3.1) — Day's framework of Baal as one cosmic deity explains the geographical spread: Baal wasn't twenty local cults but one coherent cult network; persistence across sites makes sense for a unified deity
+- [[claim-jezebel-baal-was-baal-shamem]] (day-ygc-3.2) — Baal-Shamem as a deity already familiar to Canaanite populations explains persistent worship: it wasn't a foreign import repeatedly reintroduced but an indigenous god repeatedly resurging
+- [[claim-boshet-scribal-substitution-for-baal]] (day-ygc-3.4) — scribal erasure of Baal from personal names proves Baal theophoric names were common; the editing was necessary BECAUSE the names were pervasive, supporting Smith's persistence claim
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->
