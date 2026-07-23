@@ -1,0 +1,101 @@
+---
+tags:
+  - type/claim
+  - topic/el
+  - topic/yahweh-origin
+  - topic/divine-council
+  - topic/deut-32-8-9
+  - topic/midianite-hypothesis
+  - topic/onomastics
+  - evidence/biblical-text
+  - evidence/grammatical
+  - evidence/inscriptional
+  - scholar/mark-smith
+  - source/smith-early-history-of-god
+  - truth-project
+claim_id: "smith-ehg-1.1"
+statement: "El was the original god of Israel; Yahweh was imported later from the south."
+confidence: "medium-high"
+confidence_rationale: "HIGH that El and Yahweh were originally distinct; MEDIUM that Yahweh was imported from the south."
+claim_type: "textual"
+source_note: "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
+created: 2026-07-24
+updated: 2026-07-24
+status: active
+---
+
+# smith-ehg-1.1: El was the original god of Israel; Yahweh was imported later from the south.
+
+**Source:** [[Smith Chapter 1 — Deities in the Period of the Judges]] — Mark S. Smith, *The Early History of God* (2nd ed., 2002), Chapter 1
+
+## The Claim
+
+"The original god of Israel was El." Yahweh was a southern warrior-god from Edom/Midian/Teiman who entered Israelite religion secondarily, perhaps through trade routes. Over time, El and Yahweh were identified, and El's characteristics, titles, and cult sites were absorbed into Yahweh.
+
+## Evidence
+
+- **The name "Israel":** Contains *'ēl*, not Yahweh. If Yahweh had been the original god, the group would be named something like *Yiśrâ-yāhû*. This suggests El was the original chief deity.
+- **Genesis 49:24-25:** A series of El epithets ("Bull of Jacob," "Shepherd, Stone of Israel," "El, your Father," "Shadday") separate from the mention of Yahweh in verse 18.
+- **Deuteronomy 32:8-9:** The "smoking gun." Elyon (a title of El) distributes nations to his divine sons; Yahweh receives Israel as HIS portion. This preserves a stage when Yahweh was subordinate to El — one of his sons.
+- **No biblical polemics against El:** Unlike Baal and Asherah, El was never condemned. He wasn't rejected — he was absorbed. This suggests the identification happened early and peacefully.
+- **El's name became generic:** *'ēl* became the common noun for "god." Joshua 22:22 uses *'ēl 'ĕlōhîm yhwh* — "El, God, Yahweh."
+- **Exodus 6:2-3:** Explicitly identifies El Shadday with Yahweh. "I appeared to Abraham, Isaac, and Jacob as El Shadday, but by my name Yahweh I did not make myself known to them." Smith reads this as an honest admission: the patriarchs worshipped El, not Yahweh.
+- **El traits transferred to Yahweh:** Aged bearded figure enthroned amidst divine council → "Ancient of Days" (Daniel 7). "Father of years" → "Eternal God" (Deut 33:27). "Kind El, the Compassionate" → "Merciful and gracious God" (Exod 34:6). Healing god, tent dwelling, dream-visions, cosmic waters — all El traits now applied to Yahweh.
+- **The Shechem example:** The local god was *'ēl bĕrît* ("El of the covenant," Judg 9:46). This title appears in a Late Bronze Age Ugaritic text (KTU 1.128). When Shechem's cult became Yahwistic, Yahweh simply took El's place and El's title. "The old religious lore of a deity such as El was inherited by the Yahwistic priesthood."
+
+## Confidence
+
+**Rating:** medium-high
+
+**Rationale:** HIGH that El and Yahweh were originally distinct. VERY HIGH that Deut 32:8-9 originally read "sons of God" (DSS/LXX), not "sons of Israel" (MT). MEDIUM that Yahweh was imported from the south — the evidence is suggestive (old poetry has him coming from Edom/Seir/Paran) but not conclusive.
+
+## Stakes
+
+This is foundational. If El was the original god and Yahweh was a later import who absorbed El's identity, then Yahweh is not the eternal Creator God of Christian theology — he's a composite figure formed from at least two earlier deities. The "God of Abraham, Isaac, and Jacob" was, historically, El — not Yahweh. Exodus 6:2-3 essentially admits this. Traditional theology treats this as progressive revelation (God revealed his true name Yahweh later). Smith treats it as evidence of distinct deities later merged.
+
+## Disagreement
+
+**Who disagrees:** Heiser argues Yahweh IS Elyon in Deut 32:8-9 — they're the same deity, and the "sons of God" are created divine beings, not rival gods. Kaufmann argued Israelite monotheism was original. Conservatives argue the patriarchs worshiped Yahweh under the name El Shadday (progressive revelation, not distinct deities).
+
+**Alternative reading:** Exodus 6:2-3 can be read as progressive revelation, not evidence of distinct deities. The name Israel with *'ēl* could reflect El as a generic term for "god" rather than the proper name of a distinct Canaanite deity. Smith's reading is plausible but not the only plausible reading.
+
+## Edges
+
+**Supports:**
+- [[claim-name-israel-el-original]] — the name Israel preserves El, not Yahweh (Smith, *Origins*)
+- [[claim-deut-32-8-9-sons-of-el]] — Deut 32:8-9 as evidence for El-Yahweh distinction (Smith, *Origins*)
+- [[claim-el-israelite-sanctuaries]] — El's sanctuary network later absorbed by Yahweh (Smith, *Origins*)
+- [[claim-el-original-god-exodus]] — Exodus 6:2-3 as evidence (Smith, *Origins*)
+- [[claim-three-stage-convergence-el-yahweh]] — the convergence model in detail (Smith, *Origins*)
+- [[claim-yahweh-southern-storm-warrior-origin]] — Yahweh's southern origin (Smith, *Origins*)
+- [[claim-el-cult-persisted-iron-age]] — El's cult persisted alongside Yahwism (Smith, *Origins*)
+- [[claim-yahweh-el-originally-distinct-deities]] — Day's parallel argument for original distinction
+- [[claim-yahweh-originated-south-midian-edom]] — Day on Yahweh's southern origin
+- [[claim-divine-council-seventy-sons-of-el]] — Day on the divine council structure
+- [[claim-eden-derives-from-el-dwelling-place]] — Day on El's dwelling
+- [[claim-el-shaddai-means-el-mountain-one]] — Day on El Shaddai
+- [[claim-jeroboam-golden-calves-yahwistic-el-bull]] — Day on El's bull iconography
+- [[claim-early-poetry-shows-convergence-multiple-deities-to-yahweh]] — the poetry that records the absorption
+- [[claim-asherah-was-yahwistic-symbol]] — Asherah as El's consort, then transferred to Yahweh
+
+**Depends on:**
+- [[claim-israelite-culture-was-canaanite-no-separation]] — Israel's Canaanite heritage makes El the logical original god
+
+**Contradicts:**
+<!-- Will edge to Heiser claims (Yahweh IS Elyon) when extracted -->
+<!-- Will edge to Kaufmann claims (original monotheism) when extracted -->
+
+**Challenged by:**
+<!-- Will edge to Schmid claims (if texts are Persian, this reconstruction collapses) when extracted -->
+
+**Primary sources:**
+- Deut 32:8-9 (DSS/LXX vs. MT)
+- Exodus 6:2-3
+- Genesis 49:24-25
+- Judges 9:46 (El-Berit at Shechem)
+- KTU 1.128 (Ugaritic El-Berit parallel)
+- Old poetry: Deut 33:2-3, Judg 5:4-5, Hab 3:3
+
+## Assessment
+
+The cumulative case is strong. The Israel/El naming, Deut 32:8-9, the lack of El polemic, and the systematic transfer of El's traits to Yahweh form a pattern that's hard to explain as coincidence. The weakest link is the southern import thesis — we have plausible mechanisms (trade, the Kenite hypothesis) but no direct evidence of HOW Yahweh moved from Edom to Israel. If this specific claim is wrong, the larger point (El and Yahweh merged) can still be correct — they could have merged within Canaan rather than through import.

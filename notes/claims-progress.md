@@ -14,17 +14,17 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 9
-- **Total claims extracted:** 39
-- **Notes with edges added:** 9
-- **Last session:** 2026-07-24 (Session 3)
+- **Notes with claims extracted:** 12
+- **Total claims extracted:** 51
+- **Notes with edges added:** 12
+- **Last session:** 2026-07-24 (Session 4)
 
 ## By Scholar
 
 ### Smith, Early History of God (7 notes)
-- [ ] Smith Chapter 0 — Foreword and Preface
-- [ ] Smith Chapter 0 — Introduction
-- [ ] Smith Chapter 1 — Deities in the Period of the Judges
+- [x] Smith Chapter 0 — Foreword and Preface
+- [x] Smith Chapter 0 — Introduction
+- [x] Smith Chapter 1 — Deities in the Period of the Judges
 - [x] Smith Chapter 2 — Yahweh and Baal
 - [x] Smith Chapter 3 — Yahweh and Asherah
 - [x] Smith Chapter 4 — Yahweh and the Sun
@@ -228,6 +228,14 @@ related:
 - **Commits:** 1 (pending)
 - **Notes remaining:** 140
 - **Next batch suggestion:** Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Smith Origins Ch6 (The Life and Death of Baal) + Cross Parts II-III (Divine Warrior and League). Rationale: Day Ch4 is the DIRECT counterpoint to Smith Ch2 — Day argues Yahweh appropriated Baal imagery (same data, conflict framing), completing the Day-Smith Baal diptych. Smith Origins Ch6 provides the Ugaritic background for Baal's profile that both Day and Smith draw on. Cross provides the divine warrior framework that underlies both. Edge compounding: these three will connect to 9+ existing claims (smith-ehg-2.1, 2.2; day-ygc-3.1-3.6; smith-obm-7.5, 7.6). Four remaining Day chapters to finish the book.
+
+### 2026-07-24 — Session 4
+- **Notes processed:** 3 — Smith Ch0 Foreword and Preface, Smith Ch0 Introduction, Smith Ch1 Deities in the Period of the Judges
+- **Claims extracted:** 12 (3 foreword, 4 intro, 5 Ch1 — all Smith *Early History of God*)
+- **Edges added:** ~60 internal edges across 12 claims. Foreword claims (3) establish the convergence/differentiation framework the rest of the book depends on. Introduction claims (4) stake out methodological positions (Canaanite continuity, Baal/Asherah as indigenous, Tigay's onomastics critiqued). Ch1 claims (5) establish the Judges-period pantheon and early poetry as evidence for convergence. All edge wikilinks verified to resolve.
+- **Commits:** 1
+- **Notes remaining:** 137
+- **Next batch suggestion:** Smith Chapters 5-7 (Cult, Monotheism, Portraits) + Smith Origins Introduction + Smith Origins Ch1 (Anthropomorphic Deities). Rationale: Finishes Smith's *Early History of God* and opens *Origins of Biblical Monotheism*. Ch5-7 synthesizes the deity profiles (Baal, Asherah, Sun) into the monotheism argument — edges to all 6 prior Smith notes. Origins Intro and Ch1 establish methodology for the second book. All-Smith batch acceptable here since we're closing out one book and opening another from the same scholar.
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)
