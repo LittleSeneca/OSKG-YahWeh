@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 48
-- **Total claims extracted:** 226
-- **Notes with edges added:** 48
-- **Last session:** 2026-07-28 (Session 16 / Batch 14)
+- **Notes with claims extracted:** 51
+- **Total claims extracted:** 253
+- **Notes with edges added:** 51
+- **Last session:** 2026-07-28 (Session 17 / Batch 15)
 
 ## By Scholar
 
@@ -73,9 +73,9 @@ related:
 - [x] Kaufmann — Ch V — The Sources
 - [x] Kaufmann — Ch VI — The Origins of Israelite Religion
 - [x] Kaufmann — Ch VII — The Conquest and Settlement
-- [ ] Kaufmann — Ch VIII — The Monarchy
-- [ ] Kaufmann — Ch IX — Some Aspects of the Popular Religion
-- [ ] Kaufmann — Ch X — The Literature and the Age
+- [x] Kaufmann — Ch VIII — The Monarchy
+- [x] Kaufmann — Ch IX — Some Aspects of the Popular Religion
+- [x] Kaufmann — Ch X — The Literature and the Age
 - [ ] Kaufmann — Ch XI — Amos and Hosea
 - [ ] Kaufmann — Ch XII — Isaiah Micah Habakkuk
 - [ ] Kaufmann — Ch XIII — The Prophecy of the Fall
@@ -366,6 +366,20 @@ related:
   - **Kaufmann's historical development arc opened:** Introduction-Ch IV (43 claims) established the theoretical framework. Ch V-VII (22 claims) begin applying it: sources (Ch V) → origins (Ch VI) → settlement (Ch VII). The remaining 7 Kaufmann chapters (Ch VIII-XIII + Epilogue) will trace the monarchy through exile.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 101
+- **Next batch suggestion:** See below.
+
+### 2026-07-28 — Session 17 (Batch 15 Finalized)
+- **Notes processed:** 3 — Kaufmann Ch VIII (The Monarchy), Kaufmann Ch IX (Some Aspects of the Popular Religion), Kaufmann Ch X (The Literature and the Age)
+- **Claims extracted:** 27 (10 Ch VIII, 10 Ch IX, 7 Ch X) — completing Kaufmann's historical arc from monarchy through popular religion to classical prophecy
+- **Edges added:** ~75+ cross-scholar edges already in the 27 new claims. Key clusters:
+  - **Ch VIII — The Monarchy (10 claims):** Kaufmann's most distinctive and successful chapter. The golden calves argument (8.4) is his single most important contribution — broadly accepted, textually grounded, independently supported by Römer. The antimonarchic passages argument (8.2) and the Josianic reform interpretation (8.9) are original and deserve more scholarly attention. The Baal-worship-as-foreign-import claim (8.5) is the weakest — contradicted by Hosea's continued polemic, archaeological evidence, and Smith's convergence model. The new eschatology claim (8.10) edges to Römer's fall-of-Samaria and Smith's monotheism-as-rhetoric.
+  - **Ch IX — Popular Religion (10 claims):** The heart of Kaufmann's argument. Evil-explained-through-human-rebellion (9.1), no-ancestor-cult (9.5), and individual-retribution-present-from-beginning (9.8) are his strongest contributions — genuine observations that demand explanation regardless of one's position on his larger thesis. The silent-temple claim (9.3) is his most methodologically problematic — reads P as transparent description, ignoring the possibility of idealization. The national > individual moral hierarchy (9.7) is his most transparently agenda-driven argument. The rift-social-not-religious claim (9.10) is insightful about prophetic social critique but drives an artificial wedge between "religious" and "social" that ancient Israelites wouldn't have recognized.
+  - **Ch X — The Literature and the Age (7 claims):** Kaufmann at his most literary-critical — and where his method works best. The historical horizon analysis (10.3-10.4) is his most empirically rigorous argument: systematic survey of twelve prophetic corpora, each with a unified and limited historical horizon. The claim that classical prophecy inherited monotheism (10.1) is the load-bearing pillar for the entire prophetic section — true that prophets never argue FOR monotheism, but the inference to POPULAR monotheism depends on Ch IV's contested case. The consolation-as-native-to-covenant argument (10.5) is theologically elegant but doesn't prove all consolation oracles are from the named prophet. The universal history schema (10.6) captures real ideological differences between early religion, classical prophecy, and apocalyptic — even if dating of specific texts (Isa 2/Mic 4) is contestable.
+  - **Kaufmann's arc through Ch X is now complete:** Introduction-Ch IV (43 claims: theoretical foundation) → Ch V-VII (22 claims: sources, origins, settlement) → Ch VIII-X (27 claims: monarchy, popular religion, classical prophecy framework). Total: 92 Kaufmann claims extracted across 10 chapters. The remaining 4 Kaufmann chapters (Ch XI Amos/Hosea, Ch XII Isaiah/Micah/Habakkuk, Ch XIII Prophecy of the Fall, Epilogue) will apply this framework to individual prophets and the exile.
+  - **Cross-scholar contradictions densely populated:** The 27 claims contradict ~40 existing Smith/Römer/Day claims. Key vectors: non-sacral kingship → contradicts Smith's royal theology; foreign Baal → contradicts Smith's convergence model and Day's recurring Baal conflict; popular monotheism → contradicts Smith's rhetoric thesis and Römer's sedimentary invention; pre-exilic universalism → contradicts Smith's exilic monotheism and Römer's Persian-period dating. The Kaufmann/Smith-Römer-Day contradiction structure is now comprehensively mapped across 92 Kaufmann claims.
+  - **Kaufmann's strongest and weakest modes both on display:** Ch VIII's golden calves and Ch X's horizon analysis show Kaufmann at his best — close reading, falsifiable claims, arguments that hold up regardless of one's position on the larger thesis. Ch IX's silent temple and national > individual hierarchy show Kaufmann at his most tendentious — reading theological ideals as historical realities, driving conclusions from systematizing needs rather than evidence.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 98
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1
