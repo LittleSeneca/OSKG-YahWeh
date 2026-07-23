@@ -2,6 +2,11 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/israel-judah, truth-project]
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-28
+claims_count: 1
+claims_files:
+  - "[[claim-fall-samaria-catalyst-monotheism]]"
 related: ["[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Romer — Chapter 11 — Reform of Josiah]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Albertz Vol2 — Chapter 4 — Exilic Period]]"]
 ---
 
@@ -12,22 +17,9 @@ related: ["[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Romer — Chapt
 ---
 
 ## Claim 1: The fall of Israel (722 BCE) was the catalyst that transformed Judah and set the stage for monotheism
-
-**Römer's claim:** When Assyria destroyed Samaria in 722, refugees from the north fled to Jerusalem. They brought their texts, their scribes, and their traditions. This transformed Judah from a minor highland chiefdom into a real kingdom with an administrative apparatus. "The fall of Samaria was the condition of possibility for the birth of Judaism."
-
-**Evidence — the historical sequence:**
-
-- **The Syro-Ephraimite War (c. 734):** Israel and Aram attacked Judah to force it into an anti-Assyrian coalition. King Ahaz refused, paid tribute to Assyria, and became a vassal — saving Judah from destruction. Isaiah 7: "If you do not have trust, you shall not survive."
-- **733:** Assyria destroyed Damascus. Israel's territory was reduced. King Peqah was assassinated; Hosea installed as puppet.
-- **724-722:** Three-year siege of Samaria. The city fell. Sargon II deported the elite and turned Israel into Assyrian provinces.
-- **The refugee crisis:** "Northern priests, scribes, and elites fled south to Judah. They brought their texts and their traditions." Jerusalem's population swelled.
-
-**The theological innovation born from catastrophe:**
-- Northern prophets (Hosea, Amos) had already begun moving toward Yhwh-alone theology. Their texts were preserved and edited in Judah after 722.
-- The disaster was interpreted theologically: Israel fell because it worshipped other gods. Yhwh HIMSELF destroyed his people as punishment.
-- This created a template: Yhwh controls ALL history. Defeat isn't evidence of Yhwh's weakness — it's evidence of his justice. This template would later be applied to Judah's own fall in 587.
-
-**Confidence:** HIGH on the historical events (Assyrian records confirm the sequence). MEDIUM-HIGH on the refugee-scribe thesis (Jerusalem did expand dramatically in the late 8th century, but the textual evidence for northern texts being preserved in Judah is indirect). MEDIUM on the theological innovation being born specifically from 722 (the template was applied later, but its origins are hard to date precisely).
+→ [[claim-fall-samaria-catalyst-monotheism]] | **romer-inv-10.1** | Confidence: high
+  The Assyrian destruction of Samaria sent northern refugees to Jerusalem, bringing texts and Yhwh-alone theology. The catastrophe generated the theological template that Yhwh controls all history — defeat is not weakness but justice. This template was later applied to 587.
+  Contradicts: claims of continuous Judean theological development without Assyrian catalyst. Supports: [[claim-deuteronomy-written-josiah-reform]], [[claim-true-monotheism-emerged-babylonian-exile]]
 
 ---
 

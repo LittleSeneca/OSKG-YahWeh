@@ -58,7 +58,7 @@ If monotheism is partly a RESPONSE to imperial crisis, then it's not a natural t
 **Supports:**
 - [[claim-monotheism-was-rhetoric-not-religious-stage]] — monotheism as contingent historical response rather than evolutionary stage
 - [[claim-lineage-erosion-drove-monotheism-individual-accountability]] — Ch4's parallel sociological argument about social-structural drivers
-- <!-- Will edge to Römer Ch10 (Fall of Samaria) when extracted — Römer offers parallel Assyrian-crisis argument -->
+- [[claim-fall-samaria-catalyst-monotheism]] — Römer's detailed account: 722 BCE brought northern refugees with Yhwh-alone theology to Jerusalem, creating the template that Yhwh controls all history. Smith's Assyrian-crisis thesis operates at the macro level; Römer's fall-of-Samaria analysis provides the specific historical mechanism.
 
 **Contradicts:**
 - Kaufmann's view that monotheism was an internal Israelite innovation from the start

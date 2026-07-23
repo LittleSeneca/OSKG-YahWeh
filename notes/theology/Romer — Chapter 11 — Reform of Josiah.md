@@ -2,6 +2,12 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, scholars/thomas-romer, history/jerusalem, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-28
+claims_count: 2
+claims_files:
+  - "[[claim-deuteronomy-written-josiah-reform]]"
+  - "[[claim-josiah-reform-invented-exclusive-yahwism]]"
 related: ["[[Romer — Chapter 10 — Fall of Samaria]]", "[[Romer — Chapter 12 + Conclusion]]", "[[Romer — Chapters 10-12 + Conclusion]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"]
 ---
 
@@ -12,38 +18,16 @@ related: ["[[Romer — Chapter 10 — Fall of Samaria]]", "[[Romer — Chapter 1
 ---
 
 ## Claim 1: The "book of the law" discovered in the temple was Deuteronomy — written to promote Josiah's reform
-
-**Römer's claim:** The scroll "found" during Josiah's temple renovation (2 Kings 22) was Deuteronomy — specifically, an early version of it. The discovery narrative is "a foundation myth produced by the biblical editors." It "cannot therefore be used naively as if it were the report of an eyewitness of events that took place about 620." The scroll was WRITTEN to justify Josiah's centralizing program: one God, one temple, one people.
-
-**Evidence — the "discovered book" as literary motif:**
-- The motif of discovering a hidden ancient book is well-known in ancient literature: Hittite priest Murshili "found" tablets explaining a plague; Philo of Byblos claimed to translate rediscovered Phoenician tablets; the Egyptian Book of the Dead was "found" in a temple
-- "In its present form this text already contains references to the destruction of Jerusalem and the Babylonian exile, and thus must have been redacted after 587"
-- The oracles of Huldah (2 Kings 22:16-17) presuppose the catastrophe — they weren't written before it
-
-**What Josiah's reform did:**
-- Removed "the heavenly army" (astral worship) from the temple
-- Discharged priests of Baal and Asherah
-- Destroyed high places (*bāmôt*) — Yahwistic sanctuaries outside Jerusalem
-- Desacralized the *tōphet* (child sacrifice site)
-- Demolished the altar at Bethel — the ancient northern Yahwistic sanctuary
-- Centralized Passover celebration in Jerusalem
-
-**Confidence:** VERY HIGH that Deuteronomy was connected to Josiah's reform (the consensus since de Wette, 1805). HIGH that the "discovery" is a literary motif (the ANE parallels are clear). MEDIUM on the exact scope of Josiah's reform (the biblical account may exaggerate).
-
-**What's at stake for faith:** The book of Deuteronomy — "Hear O Israel, the Lord our God, the Lord is One" — was written as royal propaganda. The Shema, the theological heart of Judaism, was composed to justify tearing down Yahwistic sanctuaries and concentrating power in Jerusalem. The most monotheistic book of the Torah was a political document.
+→ [[claim-deuteronomy-written-josiah-reform]] | **romer-inv-11.1** | Confidence: very-high
+  The scroll "found" during Josiah's temple renovation was an early version of Deuteronomy. The discovery narrative is a foundation myth — the "discovered book" motif is common in ANE literature, and the Huldah oracle presupposes the catastrophe of 587. Deuteronomy was written to justify Josiah's centralizing program: one God, one temple, one people. The Shema was royal propaganda.
+  Contradicts: Mosaic authorship. Supports: [[claim-josiah-reform-invented-exclusive-yahwism]], [[claim-centralization-worship-jerusalem-late-political-project]]
 
 ---
 
 ## Claim 2: The reform INVENTED exclusive Yahwism — it didn't restore it
-
-**Römer's claim:** "Before Josiah, kings who worshipped Yhwh at multiple sanctuaries with steles and asherah poles were the NORM. After Josiah's reform, this became 'idolatry.' The reform didn't restore an original purity — it INVENTED a new standard and projected it backward."
-
-**Evidence:**
-- The high places had been legitimate. The Deuteronomists themselves admit this with the footnote at 1 Kings 3:2: "the people were sacrificing at the high places, however, because no house had yet been built"
-- The asherah had been acceptable in the Jerusalem temple for generations
-- Josiah's reform was "as much political as religious — an assertion of Judean independence as Assyrian power waned"
-
-**Confidence:** HIGH. The evidence that these practices were originally legitimate is overwhelming.
+→ [[claim-josiah-reform-invented-exclusive-yahwism]] | **romer-inv-11.2** | Confidence: high
+  Multi-sanctuary worship with steles and asherah poles was normative Yahwism before Josiah. The Deuteronomists admit this (1 Kings 3:2). The reform retroactively criminalized standard practice and projected monotheistic exclusivity backward as "restoration." The irony: Josiah is remembered as the restorer, but he was the inventor.
+  Contradicts: Mosaic monotheism. Supports: [[claim-true-monotheism-emerged-babylonian-exile]], [[claim-monotheism-was-rhetoric-not-religious-stage]]
 
 ---
 

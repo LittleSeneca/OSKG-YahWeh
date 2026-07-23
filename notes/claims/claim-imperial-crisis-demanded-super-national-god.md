@@ -76,6 +76,7 @@ If monotheism is a response to imperial crisis (Assyria/Babylon), then it's POLI
 - [[claim-monotheism-was-rhetoric-not-religious-stage]] — the rhetorical function makes sense as crisis response
 - [[claim-monotheistic-statements-exilic-late-monarchy]] — the dating aligns with the Assyrian/Babylonian crisis period
 - [[claim-four-stage-model-monotheism-development]] — the EHG model culminating in exile-era monotheism
+- [[claim-fall-samaria-catalyst-monotheism]] — Römer traces the specific 722 mechanism Smith identifies in general terms: Assyrian destruction → refugee influx → Yhwh-alone theology → Deuteronomistic history. Without 722, no Josianic reform; without Josiah, no exilic monotheism.
 
 **Contradicts:**
 - Persian/Zoroastrian primacy models

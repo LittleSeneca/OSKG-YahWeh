@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 36
-- **Total claims extracted:** 156
-- **Notes with edges added:** 36
-- **Last session:** 2026-07-28 (Session 12 / Batch 10)
+- **Notes with claims extracted:** 39
+- **Total claims extracted:** 161
+- **Notes with edges added:** 39
+- **Last session:** 2026-07-28 (Session 13 / Batch 11)
 
 ## By Scholar
 
@@ -59,9 +59,9 @@ related:
 - [x] Romer — Chapter 8 — Statue of Yhwh
 - [x] Romer — Chapter 9 — Yhwh and His Asherah
 - [x] Romer — Chapters 8-9 — Statue and Asherah
-- [ ] Romer — Chapter 10 — Fall of Samaria
-- [ ] Romer — Chapter 11 — Reform of Josiah
-- [ ] Romer — Chapter 12 + Conclusion
+- [x] Romer — Chapter 10 — Fall of Samaria
+- [x] Romer — Chapter 11 — Reform of Josiah
+- [x] Romer — Chapter 12 + Conclusion
 - [ ] Romer — Chapters 10-12 + Conclusion
 
 ### Kaufmann, The Religion of Israel (15 notes)
@@ -312,6 +312,18 @@ related:
 - **Commits:** 1
 - **Notes remaining:** 134
 - **Next batch suggestion:** Smith Origins Ch2 (Divine Council) + Day Ch5 (Yahweh and Astarte/Anat) + Keel Uehlinger Part V (Iron IIB — Baal El Yahweh and His Asherah). Rationale: Divine Council is the highest-edge-density topic — connects Smith, Day, Heiser, and Cross. Day Ch5 introduces Astarte/Anat (feminine deities barely touched so far). Keel Uehlinger provides iconographic evidence for the "Yahweh and His Asherah" period, grounding textual claims in material culture. Edge compounding: Ch2 will connect to smith-ehg-1.5, smith-obm-1.1-1.4, and claim-divine-council-seventy-sons-of-el.
+
+### 2026-07-28 — Session 13 (Batch 11 Finalized)
+- **Notes processed:** 3 — Römer Ch10 (Fall of Samaria), Römer Ch11 (Reform of Josiah), Römer Ch12 + Conclusion
+- **Claims extracted:** 5 (1 Ch10, 2 Ch11, 2 Ch12)
+- **Edges added:** 11 cross-scholar retrofits to 4 existing Smith claims + 5 within-batch edges on new Römer claims + 5 edges from new Römer claims back to Smith = ~21 total. Key clusters:
+  - **Smith-Römer convergence on Assyrian crisis as monotheism's trigger:** smith-obm-2.5 (neo-Assyrian crisis) now edges to romer-inv-10.1 (fall of Samaria). Smith's macro-level argument and Römer's micro-level mechanism are complementary — Smith identifies the imperial disruption, Römer traces the specific political chain (722 → refugees → Deuteronomists → Josiah → exile).
+  - **Deuteronomy as "monotheism as rhetoric" case study:** romer-inv-11.1 (Deuteronomy written for Josiah) now edges to smith-obm-intro.9 and smith-obm-8.7. Smith's thesis that monotheism is "a rhetoric, not a religious stage" finds its central textual exhibit in Römer's Deuteronomy analysis: a political document ("one God, one temple, one people") composed to serve a political project, presented as an ancient discovery.
+  - **Josiah's reform as institutional infrastructure for exilic monotheism:** romer-inv-11.2 (reform invented exclusive Yahwism) now edges to smith-obm-10.4. The innovation-disguised-as-restoration pattern was operational in 622 BCE; the exile only radicalized it from cultic exclusivity to ontological exclusivity. Smith's exilic rhetoric required Josiah's institutional infrastructure.
+  - **Second Isaiah as convergence point for Smith-Römer:** romer-inv-12.1 (true monotheism in exile) now edges to smith-obm-8.7 (imperial crisis → super-national god). Both scholars agree Second Isaiah is the breakthrough — Smith emphasizes the rhetorical structure, Römer emphasizes the historical-contextual trigger. Two angles on the same text.
+  - **Römer's narrative arc completed:** romer-inv-12.2 (desert god to only God) depends on all 9 major Römer claims across 12 chapters. This is the capstone of Römer's extraction. With Ch10-12 done, the entire Römer narrative from Soleb (c. 1370 BCE) to Second Isaiah (c. 540 BCE) is now in the graph — 12 chapters across 30 claims.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 110
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)
