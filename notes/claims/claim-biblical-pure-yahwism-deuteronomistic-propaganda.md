@@ -59,7 +59,7 @@ The entire biblical history of the monarchy — the good kings and bad kings, th
 - [[claim-bible-must-be-analyzed-historically]] — the method that detects the editorial bias
 
 **Supports:**
-- [[claim-yhwh-worshipped-diverse-local-manifestations]] — diverse worship is the reality the Deuteronomists papered over
+[[claim-omride-religious-policy-diplomatic-ditheism-not-persecution]] — Albertz's Omride ditheism provides the historical reality behind the Deuteronomistic fiction; the North was syncretistic but not anti-Yahwistic
 - [[claim-golden-calves-legitimate-yhwh-symbols]] — the calves were legitimate; the Deuteronomists made them "idolatry"
 - [[claim-israel-judah-jew-terminology-historical]] — the terminology itself is a Judean construction
 - [[claim-monotheism-rhetoric-inner-community-discourse]] — Deuteronomistic retrojection exemplifies monotheism as inner-community discourse (smith-obm-8.3)

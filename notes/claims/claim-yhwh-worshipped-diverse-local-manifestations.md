@@ -63,7 +63,7 @@ The idea of "Yhwh" as a single, unified deity whose worship was identical everyw
 - [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] — the Deuteronomistic bias obscured this diversity
 
 **Supports:**
-- [[claim-bible-preserves-polytheistic-traces]] — the diverse manifestations are one type of polytheistic trace
+[[claim-omride-religious-policy-diplomatic-ditheism-not-persecution]] — Omride state ditheism is a case study of diverse manifestation at the official level, not just the popular level
 - [[claim-invention-means-progressive-construction]] — the diversity was gradually collapsed into unity
 - [[claim-kuntillet-ajrud-symbol-not-goddess]] — local manifestations framework explains "Yhwh of Teman and his Asherah" as one local variant (smith-ehg-3.1)
 - [[claim-kuntillet-ajrud-proves-consort]] — if each local Yhwh had distinct cultic associations, the consort reading for one manifestation doesn't generalize (romer-inv-9.1)

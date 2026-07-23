@@ -63,7 +63,8 @@ The fall of Samaria is the pivotal event in the history of Israelite religion. W
 ## Edges
 
 **Depends on:**
-<!-- Claims this one requires to be true -->
+[[claim-jehu-revolution-first-yahwistic-intolerance-baal-destruction]] — Jehu's revolution isolated the North diplomatically and set it on the path to 722
+[[claim-eighth-century-social-crisis-structural-consequence-monarchy]] — the internal social crisis was the domestic dimension of the Assyrian external crisis
 - [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] — the Deuteronomistic history was the theological-literary response to the catastrophe. Without 722, the Dtr project has no occasion.
 - [[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]] — the "pure Yahwism" narrative was retrojected by Jerusalem scribes after 722 to explain and justify Israel's destruction.
 - [[claim-neo-assyrian-crisis-drove-theological-shift]] — Smith's argument that the Assyrian empire disrupted the "each nation has its god" world order and catalyzed a new theology. Römer's 722 mechanism is the specific historical event within Smith's broader imperial-crisis framework. Two scholars, same thesis, different granularity.

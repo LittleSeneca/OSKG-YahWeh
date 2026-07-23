@@ -62,7 +62,7 @@ Moderate. The sun was a deity throughout the ANE. If Yahweh absorbed solar image
 ## Edges
 
 **Depends on:**
-- [[claim-yahweh-absorbed-baal-storm-warrior-imagery]] (smith-ehg-2.2) — the convergence pattern established in Ch2 (Yahweh absorbs Baal) provides the structural model for Ch4 (Yahweh absorbs the sun)
+[[claim-assyrian-religious-practices-adopted-family-level-roof-cults-astral]] — Assyrian astral worship provides a plausible external mechanism for the solarization of Yahweh's iconography in the late monarchy
 - [[claim-asherah-was-yahwistic-symbol]] (smith-ehg-3.1) — the Asherah convergence (Ch3) is the middle term in the trilogy; solar absorption (Ch4) completes the pattern
 
 **Supports:**

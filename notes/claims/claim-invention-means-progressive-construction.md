@@ -52,7 +52,7 @@ This framing leaves room for divine involvement (God could work through the geol
 - [[claim-bible-preserves-polytheistic-traces]] — the polytheistic starting point that the sedimentary process began from
 
 **Supports:**
-- [[claim-yahweh-southern-desert-war-god-origin]] — the sedimentary process producing Yhwh's transformation from desert god to sole God
+[[claim-eighth-century-prophets-independent-writing-response-to-failure]] — Albertz's "writing as opposition literature" thesis is a case study of the sedimentary, contested construction Römer describes
 - [[claim-documentary-hypothesis-obsolete]] — the rejection of single-author models in favor of gradual, layered composition
 - [[claim-four-stage-model-monotheism-development]] — Smith's four-stage model is a more structured version of the same sedimentary process
 - [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Romer's sedimentary metaphor and Smith's rhetoric thesis are complementary accounts of the same development

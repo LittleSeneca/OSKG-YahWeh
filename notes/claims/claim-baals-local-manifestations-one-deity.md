@@ -65,7 +65,7 @@ The OT wasn't fighting a diffuse polytheism with dozens of unrelated Baals — i
 <!-- Claims that cannot be true if this one is -->
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+[[claim-carmel-narrative-late-theological-construction-not-historical]] — if the Carmel narrative is a late monotheistic construction, the Baal-Yahweh conflict it depicts may be retrojected, not historical
 
 **Primary sources:**
 - KTU² 1.47.5-11 (Ugaritic pantheon list, Baal repeated 7×)

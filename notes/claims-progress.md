@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 72
-- **Total claims extracted:** 369
-- **Notes with edges added:** 72
-- **Last session:** 2026-08-01 (Session 24 / Batch 22)
+- **Notes with claims extracted:** 75
+- **Total claims extracted:** 380
+- **Notes with edges added:** 75
+- **Last session:** 2026-08-01 (Session 25 / Batch 23)
 
 ## By Scholar
 
@@ -101,9 +101,9 @@ related:
 - [x] Albertz Vol1 — §2.3-2.4 — Tribal Alliance and Family Piety
 - [x] Albertz Vol1 — §3.1-3.2 — Formation of Monarchy and Legitimation Crisis
 - [x] Albertz Vol1 — §3.3-3.4 — State Cults of Jerusalem and Bethel
-- [ ] Albertz Vol1 — §3.5 — Ninth-Century Syncretism Dispute
-- [ ] Albertz Vol1 — §3.6 — Eighth-Century Prophetic Controversies
-- [ ] Albertz Vol1 — §3.7 — Family Piety Under the Late Monarchy
+- [x] Albertz Vol1 — §3.5 — Ninth-Century Syncretism Dispute
+- [x] Albertz Vol1 — §3.6 — Eighth-Century Prophetic Controversies
+- [x] Albertz Vol1 — §3.7 — Family Piety Under the Late Monarchy
 - [ ] Albertz Vol1 — §3.8 — The Deuteronomic Reform Movement
 - [ ] Albertz Vol1 — §3.9 — After Josiah to the Fall of Jerusalem
 - [ ] Albertz Vol2 — Chapter 4 — Exilic Period
@@ -205,6 +205,24 @@ related:
 ---
 
 ## Session Log
+
+### 2026-08-01 — Session 25 (Batch 23 Finalized)
+- **Notes processed:** 3 — Albertz Vol1 §3.5 (Ninth-Century Syncretism Dispute), Albertz Vol1 §3.6 (Eighth-Century Prophetic Controversies), Albertz Vol1 §3.7 (Family Piety Under the Late Monarchy)
+- **Claims extracted:** 11 (4 §3.5, 4 §3.6, 3 §3.7)
+- **Edges added:** ~35 internal edges already in 11 new claims + 26 cross-scholar edges in finalization pass (14 on new Albertz claims + 12 retrofits to 10 existing Römer/Smith/Day claims). Key clusters:
+  - **Albertz's narrative arc extended through the monarchy crisis:** §§3.5-3.7 complete the story from the Omride dynasty through the late monarchy. Total Albertz: 42 claims across 9 of 14 notes. The arc now runs: family piety substratum (2.1) → Exodus liberation Yahwism (2.2) → segmentary tribal alliance (2.3-2.4) → monarchy as theological crisis (3.1-3.2) → Jerusalem vs Bethel (3.3-3.4) → ninth-century syncretism dispute (3.5) → eighth-century prophetic response (3.6) → late monarchy family piety under Assyrian pressure (3.7).
+  - **§3.5 — Ninth-century syncretism dispute as monarchy crisis working-out:** Four claims establishing Albertz's counter-reading of the Omride period. The Omrides' religious policy was diplomatic ditheism, not anti-Yahwistic persecution (3.5.1) — the Deuteronomistic depiction of Jezebel as persecutor is exaggerated. Elijah and Elisha were déclassé outsiders whose economic independence enabled systemic critique (3.5.2) — the Naboth incident is the textual anchor. The Carmel narrative (1 Kings 18) is a late theological construction, not a historical event (3.5.3) — Albertz's strongest literary-critical argument in this section; Alt's territorial theory should be abandoned. Jehu's revolution (c. 842 BCE) was the first Yahwistic intolerance (3.5.4) — the black obelisk of Shalmaneser III shows Jehu prostrating before Assyria immediately after his "zeal for Yahweh" purge.
+  - **§3.6 — Eighth-century prophetic controversies:** Four claims establishing the prophets as systemic critics. The social crisis was a structural consequence of the monarchy, driven by debt slavery and land concentration (3.6.1) — Albertz's most historically grounded section. The eighth-century prophets were economically independent, and their message became written "opposition literature" because it was rejected orally (3.6.2) — inverts the standard assumption that prophetic writing reflects authority; for Albertz it reflects failure. The prophets' criterion was "justice and righteousness" (mišpāṭ ûṣědāqâ), recovering pre-state egalitarian values the monarchy destroyed (3.6.3) — elegant but debatable; the prophets may have been deploying royal ideology against the crown. Hezekiah's reform was the first administrative response to prophetic critique, and the Book of the Covenant (Ex 20:23-23:19) was its legal basis, dated to the late 8th century (3.6.4) — revisionist dating; Albertz acknowledges he's in the minority on the Covenant Code.
+  - **§3.7 — Family piety under Assyrian pressure:** Three claims on the late monarchy's contradictory religious developments. Yahweh became the predominant family god (80% of names) while religious pluralism simultaneously intensified (3.7.1) — Albertz's strongest insight: onomastic data and polemical data measure different things. Assyrian religious practices (roof-top cults, astral worship, professional manticism) were enthusiastically adopted at the family level, not imposed (3.7.2) — speculative but powerful; Assyrian practices were *better* at meeting family needs than local Yahwism. Child sacrifice (Molech) and the Queen of Heaven cult were expressions of family piety pushed to extremes by crisis conditions (3.7.3) — the Deuteronomic reform will attempt to suppress precisely these practices.
+  - **Cross-scholar edge pass — Albertz ↔ Römer on the Deuteronomistic fiction and Josiah:** The highest-density new connection cluster. Albertz 3.5.1 (Omride ditheism) now edges to Römer's Deuteronomistic-propaganda claim (romer-inv-6.1) — Albertz provides the historical reality behind Römer's literary analysis. Albertz 3.6.4 (Hezekiah's reform) now edges to Römer's centralization (romer-inv-7.3) and Deuteronomy-Josiah (romer-inv-11.1) claims — Hezekiah is the direct predecessor; the Book of the Covenant is the legal precursor. Albertz 3.7.3 (Molech/Queen of Heaven) now edges to Römer's Josiah claim — Topheth and the Queen of Heaven were primary targets of the reform.
+  - **Albertz ↔ Römer on Jehu and the fall of Samaria:** Albertz 3.5.4 (Jehu's revolution) now edges to Römer's fall-of-Samaria claim (romer-inv-10.1) — Jehu's diplomatic isolation set the North on the path to 722. This closes a causal loop: Omride ditheism (3.5.1) → Jehu's violent purge (3.5.4) → diplomatic isolation → fall of Samaria → refugee crisis → Hezekiah's reform (3.6.4) → Josiah's reform. Albertz provides the political prehistory that Römer's macro-narrative requires.
+  - **Albertz ↔ Smith on solarization and Asherah:** Albertz 3.7.2 (Assyrian astral practices) now edges to Smith's solarization claim (smith-ehg-4.1) — Assyrian astral worship provides a plausible external mechanism for the solarization of Yahweh's iconography. Albertz 3.7.1 (late-monarchy pluralism) now edges to Smith's Asherah-as-symbol claim (smith-ehg-3.1) — if Asherah was merely a symbol, the goddess cults Albertz documents require a different explanation.
+  - **Albertz ↔ Day on the Carmel narrative:** Albertz 3.5.3 (Carmel as late construction) now contradicts Day's unified-Baal framework (day-ygc-3.1) — Day reads Baal-Yahweh conflict as historically real; Albertz reads it as a monotheistic retrojection. This is a direct scholarly disagreement on the same evidence.
+  - **Albertz ↔ Römer on sedimentary construction:** Albertz 3.6.2 (prophetic writing as opposition literature) now edges to Römer's sedimentary-invention claim (romer-inv-intro.4) — Albertz's "writing as response to failure" is a case study of the contested, layered textual construction Römer describes.
+  - **Albertz's Vol1 now 9/14 complete:** §3.8 (Deuteronomic Reform Movement) and §3.9 (After Josiah to the Fall) remain in Vol1, plus three Vol2 chapters (Exile, Post-Exile, Hellenistic). The remaining Vol1 notes (§§3.8-3.9) complete the monarchy-era arc and transition to the exile.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 74
+- **Next batch suggestion:** See below.
 
 ### 2026-08-01 -- Session 24 (Batch 22 Finalized)
 - **Notes processed:** 3 — Albertz Vol1 §2.3-2.4 (Tribal Alliance and Family Piety), Albertz Vol1 §3.1-3.2 (Formation of Monarchy and Legitimation Crisis), Albertz Vol1 §3.3-3.4 (State Cults of Jerusalem and Bethel)

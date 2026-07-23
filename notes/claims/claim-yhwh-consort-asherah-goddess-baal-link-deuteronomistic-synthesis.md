@@ -81,7 +81,7 @@ If Römer is right, the biblical God had a wife. The goddess was worshipped alon
 - [[claim-kuntillet-ajrud-proves-consort]] — the inscriptional evidence directly links Yhwh and Asherah (romer-inv-9.3)
 
 **Supports:**
-- [[claim-yhwh-statues-images-prohibition-late-synthesis]] — image prohibition and Asherah removal are two sides of the same Deuteronomistic suppression project (romer-inv-8-9.1)
+[[claim-yahweh-predominant-family-god-pluralism-intensified-syncretism]] — Albertz's late-monarchy family piety data shows Kuntillet Ajrud's "Yahweh and his Asherah" pattern persisted into the 7th century at the family level
 - [[claim-josiah-reform-removed-asherah]] — Josiah's reform was the enforcement mechanism (romer-inv-9.4)
 - [[claim-el-original-god-israel-yahweh-imported-later]] — Yhwh inherited El's consort when he absorbed El's identity; the goddess transfer is evidence El was Israel's original god (smith-ehg-1.1)
 - [[claim-yahweh-el-originally-distinct-deities]] — the Asherah-as-consort evidence strengthens Day's El-Yhwh distinction: El's consort transferring to Yhwh only makes sense if they were originally distinct (day-ygc-1.1)

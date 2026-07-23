@@ -64,7 +64,9 @@ The book of Deuteronomy — "Hear O Israel, the Lord our God, the Lord is One" �
 ## Edges
 
 **Depends on:**
-<!-- Claims this one requires to be true -->
+[[claim-hezekiah-reform-book-of-covenant-late-eighth-century]] — Hezekiah's reform was the direct predecessor; the Book of the Covenant was the legal precursor
+[[claim-jehu-revolution-first-yahwistic-intolerance-baal-destruction]] — Jehu's "zeal for Yahweh" created the tradition of violent exclusivity Josiah's reform drew on
+[[claim-child-sacrifice-molech-queen-heaven-crisis-family-piety]] — Topheth and Queen of Heaven were primary targets; Josiah's reform was designed to suppress family-level syncretism
 - [[claim-fall-samaria-catalyst-monotheism]] — northern refugees brought texts and traditions to Jerusalem; these became the raw material for Deuteronomy's composition.
 - [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] — Deuteronomy IS the central document of Deuteronomistic propaganda. Without Dtr ideology, Deuteronomy has no purpose.
 

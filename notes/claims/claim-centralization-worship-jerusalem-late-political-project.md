@@ -55,7 +55,7 @@ One capital, one temple, one god — the centralization of worship was the polit
 ## Edges
 
 **Depends on:**
-- [[claim-judah-multiple-yahwistic-sanctuaries-arad-lachish]] — the existence of multiple sanctuaries is what centralization sought to eliminate (romer-inv-7.1)
+[[claim-hezekiah-reform-book-of-covenant-late-eighth-century]] — Hezekiah's reform was the first attempted centralization; Josiah's was the completion
 
 **Supports:**
 - [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] — centralization is the goal of the Deuteronomistic propaganda (romer-inv-6.1)

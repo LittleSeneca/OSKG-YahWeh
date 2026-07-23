@@ -12,6 +12,14 @@ related:
   - "[[Albertz Vol1 — §3.3-3.4 — State Cults of Jerusalem and Bethel]]"
   - "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]"
   - "[[Smith Chapter 2 — Yahweh and Baal]]"
+claims_status: "extracted"
+claims_extracted_date: 2026-08-01
+claims_count: 4
+claims_files:
+  - "[[claim-omride-religious-policy-diplomatic-ditheism-not-persecution]]"
+  - "[[claim-elijah-elisha-declasse-outsiders-systemic-critique]]"
+  - "[[claim-carmel-narrative-late-theological-construction-not-historical]]"
+  - "[[claim-jehu-revolution-first-yahwistic-intolerance-baal-destruction]]"
 ---
 
 # Albertz — §3.5: The Dispute Over Official Syncretism in the Ninth Century
@@ -20,73 +28,31 @@ The Omride dynasty's diplomatic syncretism — a Baal temple in Samaria alongsid
 
 ---
 
-## Claim 1: The Omrides' religious policy was diplomatic syncretism — "Yahweh and Baal" — not aggressive anti-Yahwism, but it would likely have led to polytheistic Yahwism given enough time
-
-**Albertz's claim:** Omri and Ahab's Baal temple in Samaria "was probably dedicated to the Baal of Sidon" and "intended to make it possible above all for his wife Jezebel and her Phoenician entourage to practise their home cult." But it became more than a private chapel — "an official 'ditheism'" that matched state interests. "To maintain the sole worship of Yahweh characteristic of the early period... seemed politically inopportune and outdated." The royal policy was not to replace Yahweh with Baal but to combine them: "if thought through consistently to the end, the religious policy of the Omrids... would probably have ended, given enough time, in a polytheistic version of Israelite religion."
-
-**Evidence:**
-- Ahab built a Baal temple in Samaria (1 Kings 16:32; 2 Kings 10:18ff.)
-- Baal was not a "clearly foreign god" — high proportion of Baal names in the Samaria ostraca shows his worship was still vigorous at the popular level
-- Ahab's children all had Yahweh names — personal piety remained Yahwistic
-- The Deuteronomistic depiction of Jezebel as aggressive persecutor of Yahweh prophets is exaggerated — "it is relatively improbable that the royal house practised an aggressive religious policy against Yahweh religion"
-- No evidence the court theologians attempted a theological fusion — rather "a polytheistic combination"
-
-**Confidence:** MEDIUM. Albertz's reading against the Deuteronomistic polemic is reasonable but the sources are entirely from the winning side. We don't know what the Omride court theologians actually thought.
-
-**What's at stake:** If the Omride policy was pragmatic ditheism rather than anti-Yahwistic persecution, then the prophetic reaction (and especially Jehu's revolution) was a disproportionate response that set a dangerous precedent for religious violence.
+## Claim 1: Omride Religious Policy Was Diplomatic Ditheism, Not Persecution
+→ [[claim-omride-religious-policy-diplomatic-ditheism-not-persecution]] | **albertz-hir-3.5.1** | Confidence: medium
+  The Omrides' Baal temple in Samaria was pragmatic state ditheism, not anti-Yahwistic persecution. Ahab's children had Yahweh names; personal piety remained Yahwistic. The Deuteronomistic depiction of Jezebel as persecutor is exaggerated.
+  Depends on: [[claim-monarchy-not-settlement-decisive-challenge-yahweh-religion]], [[claim-david-syncretism-israelite-jebusite-solomon-tipped-canaanite]]. Supports: [[claim-baal-yahweh-coexisted-judges-period-no-conflict]], [[claim-jerusalem-syncretism-succeeded-bethel-populism-baalization-failed]]. Contradicts: [[claim-no-genuine-syncretism-yhwh-baal]].
 
 ---
 
-## Claim 2: Elijah and Elisha were economically independent prophetic outsiders — their social position as déclassé miracle-workers enabled their critique of the system
-
-**Albertz's claim:** Elijah was one of the "underprivileged" (tôšābîm) with no land (1 Kings 17:1). Elisha's prophetic band included people ruined by debt (2 Kings 4:1). "It was only from such economic independence and the position of social outsider that part of Israelite prophecy took on the function of criticizing the system." Their conflict with the Omrides combined "defence of the traditional farmers' rights against the onslaught of the crown with a battle for traditional Yahweh religion against the syncretism ordered by the state."
-
-**Evidence:**
-- Elijah from Tishbeh (Transjordan), Elisha from Abel-meholah (central Jordan valley) — both provincial, distant from the capital
-- Both were miracle-workers and healers first — Elijah as rainmaker, Elisha for private clients and even Syrians
-- The Naboth incident (1 Kings 21): Ahab wanted Naboth's vineyard to extend his Jezreel residence; Naboth refused on traditional inheritance grounds; Jezebel had him judicially murdered; Elijah announced Yahweh's retribution
-- The legal charge against Naboth — "cursed God and the king" (v.10) — "has not found a place in any of the Old Testament legal corpora," indicating a novel fusion of divine and royal authority
-
-**Confidence:** MEDIUM. The sociological profile of Elijah/Elisha as déclassé outsiders is plausible but depends on reading sparse texts.
+## Claim 2: Elijah and Elisha Were Déclassé Outsiders Enabling Systemic Critique
+→ [[claim-elijah-elisha-declasse-outsiders-systemic-critique]] | **albertz-hir-3.5.2** | Confidence: medium
+  Elijah (landless tôšāb) and Elisha (prophetic band including debt-ruined members) were economically independent outsiders whose distance from the state apparatus enabled combined social and religious criticism. The Naboth incident is paradigmatic.
+  Depends on: [[claim-monarchy-social-transformations-contradicted-pre-state-yahwism]]. Supports: [[claim-rebel-movements-anti-domination-yahwism-against-monarchy]], [[claim-yahweh-solidarity-principle-anti-domination-guarantee]]. Contradicts: [[claim-prophets-inherited-monotheism-did-not-invent]].
 
 ---
 
-## Claim 3: The Carmel narrative (1 Kings 18) is a late theological construction, NOT a historical event — Alt's theory of a political trial of strength on Carmel should be abandoned
-
-**Albertz's claim:** "Alt's theory has been taken up by many scholars... they have simply overlooked that I Kings 18:19ff. does not describe a cult-political controversy but a theological one." The narrative "already extends this trial of strength far beyond the original occasion... it is concerned with the proof that Yahweh alone is the true God and Baal no more than a powerless puppet." It presupposes Jehu's revolution AND exilic monotheism. "The theory should finally be abandoned."
-
-**Evidence:**
-- The narrative is not a cult legend — it doesn't end with cult foundation but with a confession by the people
-- The Yahweh altar Elijah builds is destroyed by Yahweh's fire (v.38) — not preserved as a cult site
-- The king does not appear in the original narrative (vv.21-40) — no "head and state action"
-- The key verse for Alt's theory (v.30b, "he restored the destroyed altar of Yahweh there") is "probably a gloss"
-- The narrative's rationalist polemic against idols (v.27) presupposes exilic monotheism
-
-**Confidence:** MEDIUM-HIGH. Albertz's literary-critical argument against the historicity of the Carmel narrative is strong. Alt's territorial-historical reconstruction is indeed speculative.
-
-**What's at stake:** If the Carmel narrative is fiction, the entire popular image of Elijah as the champion of Yahwistic monotheism against Baal rests on a late literary construct. The real Elijah was a rainmaker who got into a dispute with the king over a drought, not a theologian who proved Yahweh's superiority over Baal.
+## Claim 3: The Carmel Narrative Is a Late Theological Construction, Not Historical
+→ [[claim-carmel-narrative-late-theological-construction-not-historical]] | **albertz-hir-3.5.3** | Confidence: medium-high
+  The Carmel narrative is not a cult legend but a late theological construction. No king appears; the Yahweh altar is destroyed not preserved; the anti-idol polemic presupposes exilic monotheism. Alt's theory should be abandoned. The real Elijah was a rainmaker, not a theologian.
+  Depends on: [[claim-monotheism-was-rhetoric-not-religious-stage]]. The narrative retrojects exilic monotheistic rhetoric into the 9th century.
 
 ---
 
-## Claim 4: Jehu's revolution (c. 842 BCE) was the first time Yahwism showed its "intolerance" — a coalition of prophets, conservatives, and military officers brutally exterminated the Omrides and destroyed Baal worship
-
-**Albertz's claim:** Elisha instigated Jehu's coup. Jehu designated himself a "zealot for Yahweh" (qin'ātî lēYHWH, 2 Kings 10:16) and "completed his action with the destruction of the temple of Baal in Samaria and the murder of its priests and cultic followers." This was "the first time Yahweh religion showed its intolerance. Under the conditions of the state the exclusive relationship to God from the period before the formation of the state took on fanatical features and had cruel consequences."
-
-**Evidence:**
-- Elisha sent a disciple to anoint Jehu as rival king (2 Kings 9:1-13)
-- Jehu murdered Joram, Jezebel, the entire Omride family (70 "sons of Ahab"), and all Baal worshippers
-- The coalition included Rechabites (2 Kings 10:15-17, 23) — conservative Yahwists who rejected agriculture and city life
-- Jehu's self-designation "zealot for Yahweh" (10:16) explicitly frames the coup as religious
-- The black obelisk of Shalmaneser III depicts Jehu prostrating himself before the Assyrian king — "a glaring spotlight on the fundamental political and religious conflict"
-
-**Consequences:**
-- "Baal became the religious enemy" — from Hosea to the Deuteronomists, anything incompatible with "real" Yahwism was denounced as Baalism
-- Political isolation: the North lost its diplomatic network, became vulnerable to Aram
-- Jehu himself became an Assyrian vassal shortly after his "zeal for Yahweh" purge
-
-**Confidence:** HIGH on the basic events (Jehu's coup, Baal temple destruction). MEDIUM on the interpretation as the "first intolerance" — the exclusivity was present from the Exodus group's beginnings (Albertz argued this himself in §2.2).
-
-**What's at stake:** Jehu's revolution marks the moment when Yahwistic exclusivity became violent. This would shape Israelite religion for centuries: the prophetic tradition was forever associated with political violence, and "Baal" became the catch-all category for religious deviance.
+## Claim 4: Jehu's Revolution Was the First Yahwistic Intolerance
+→ [[claim-jehu-revolution-first-yahwistic-intolerance-baal-destruction]] | **albertz-hir-3.5.4** | Confidence: high
+  Elisha instigated Jehu's coup (c. 842 BCE). Jehu murdered the Omride family, destroyed the Baal temple, slaughtered Baal worshippers. The coalition included Rechabite conservatives. The black obelisk shows Jehu prostrating before Assyria after his "zeal for Yahweh" purge.
+  Depends on: [[claim-monarchy-not-settlement-decisive-challenge-yahweh-religion]], [[claim-omride-religious-policy-diplomatic-ditheism-not-persecution]]. Supports: [[claim-jerusalem-syncretism-succeeded-bethel-populism-baalization-failed]], [[claim-jeroboam-bethel-cult-conservative-archaizing-bull-pedestal]]. Contradicts: [[claim-no-genuine-syncretism-yhwh-baal]].
 
 ---
 
