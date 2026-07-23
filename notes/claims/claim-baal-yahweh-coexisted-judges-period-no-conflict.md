@@ -71,7 +71,8 @@ If Smith is right, the biblical picture of Israel constantly "falling into" Baal
 <!-- Day Ch3 reads Baal polemic as evidence of real conflict throughout Israel's history; Smith reads it as retrojected -->
 
 **Challenged by:**
-<!-- Conservative reading: Judges preserves genuine early conflict -->
+- [[claim-no-genuine-syncretism-yhwh-baal]] (kaufmann-ri-4.6) — Kaufmann argues no genuine syncretism ever occurred: YHWH was never meaningfully merged with Baal at any period. If there was always a bright line between Yahwism and Baalism, coexistence-as-acceptance is historically impossible
+- Conservative reading: Judges preserves genuine early conflict between Yahwism and Baalism from the settlement period onward
 
 **Primary sources:**
 - 1 Chronicles 8:33-34; 9:39-40 (original Baal names)

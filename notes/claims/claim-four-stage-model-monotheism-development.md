@@ -94,6 +94,8 @@ This is the core question. If Smith is right, monotheism is a human achievement 
 <!-- Albright/Bright model of early Mosaic monotheism -->
 
 **Challenged by:**
+- [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the evolutionary sequence entirely: monotheistic IDEA present from the beginning, battle was only about cultic consequences
+- [[claim-non-pagan-features-earliest-biblical-strata-not-late-editing]] (kaufmann-ri-3.9) — If non-pagan features are genuinely present in the earliest literary strata, the four-stage evolutionary model is compressing development that was actually early and intuitive
 - Tigay's onomastic data (potential early monolatry)
 - Schmid's late datings (Persian-period texts)
 

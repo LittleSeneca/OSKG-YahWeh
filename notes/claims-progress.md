@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 42
-- **Total claims extracted:** 178
-- **Notes with edges added:** 42
-- **Last session:** 2026-07-28 (Session 14 / Batch 12)
+- **Notes with claims extracted:** 45
+- **Total claims extracted:** 204
+- **Notes with edges added:** 45
+- **Last session:** 2026-07-28 (Session 15 / Batch 13)
 
 ## By Scholar
 
@@ -67,9 +67,9 @@ related:
 ### Kaufmann, The Religion of Israel (15 notes)
 - [x] Kaufmann — Introduction
 - [x] Kaufmann — Ch I — The Basic Problem
-- [ ] Kaufmann — Ch II — Pagan Religion
-- [ ] Kaufmann — Ch III — Israelite Religion
-- [ ] Kaufmann — Ch IV — The Religion of the People
+- [x] Kaufmann — Ch II — Pagan Religion
+- [x] Kaufmann — Ch III — Israelite Religion
+- [x] Kaufmann — Ch IV — The Religion of the People
 - [ ] Kaufmann — Ch V — The Sources
 - [ ] Kaufmann — Ch VI — The Origins of Israelite Religion
 - [ ] Kaufmann — Ch VII — The Conquest and Settlement
@@ -340,6 +340,19 @@ related:
   - **Internal Kaufmann architecture:** The 17 claims form a tight internal structure. Introduction claims (intro.1-7) establish the methodological and programmatic framework; Ch I claims (1.1-1.10) provide the empirical survey that instantiates the framework. kaufmann-ri-1.10 (non-mythological uniqueness) is the capstone, depending on 1.1 (biblical ignorance), 1.2 (fetishism characterization), and 1.5 (no active foreign gods). Each Ch I claim builds the cumulative case that the Bible's silence about pagan mythology reflects genuine categorical difference, not polemical strategy.
 - **Commits:** 1 (pending)
 - **Notes remaining:** 107
+- **Next batch suggestion:** See below.
+
+### 2026-07-28 — Session 15 (Batch 13 Finalized)
+- **Notes processed:** 3 — Kaufmann Ch II (Pagan Religion), Kaufmann Ch III (Israelite Religion), Kaufmann Ch IV (The Religion of the People)
+- **Claims extracted:** 26 (8 Ch II, 10 Ch III, 8 Ch IV) — completing Kaufmann's theoretical foundation (Introduction through Ch IV)
+- **Edges added:** ~75+ cross-scholar edges in the new claims + 15 retrofits to 12 existing Smith/Römer/Day claims. Key clusters:
+  - **Kaufmann Ch II — the metadivine realm definition:** kaufmann-ri-2.1 through 2.8 establish the theoretical foundation. The metadivine realm claim (2.1) directly contradicts Smith's convergence/differentiation framework, Smith's Israel-as-Canaanite thesis, and Römer's biblical-polytheistic-traces claim. The theogony claim (2.2) is Kaufmann's strongest empirical point — supported by the textual datum that YHWH has no birth narrative, contradicted by Smith's three-stage convergence model and Römer's southern-origin alternative.
+  - **Kaufmann Ch III — the positive half:** kaufmann-ri-3.1 through 3.10 describe what makes Israelite religion fundamentally different. The absolute divine supremacy claim (3.1) contradicts convergence, the no-theogony claim (3.2) edges to Deut 32:8-9 and the divine council, the ban on magic claim (3.5) is one of Kaufmann's most original arguments. The popular-religion-non-mythological claim (3.8) is the most falsified by Kuntillet Ajrud.
+  - **Kaufmann Ch IV — the reversal:** kaufmann-ri-4.1 through 4.8 argue that Israel's religious evolution ran monotheism→monolatry, reversing the critical sequence. The evolution-reversal claim (4.7) is Kaufmann's most radical — contradicted by Römer's narrative arc, the four-stage model, and Smith's rhetoric thesis. The exile-extinction claim (4.3) is Kaufmann's most powerful historical argument — the complete disappearance of idolatry after exile has no parallel. The no-genuine-syncretism claim (4.6) is refuted by Smith's Baal convergence model and the Kuntillet Ajrud evidence. The dominion-vs-favor distinction (4.4) is a genuinely clarifying conceptual tool regardless of one's position on Kaufmann's dating.
+  - **Retrofits to existing claims:** 12 claims received Kaufmann edges — claim-four-stage-model (challenged by evolution-reversal and earliest-strata), claim-true-monotheism-emerged (challenged by exile-extinction and evolution-reversal), claim-baal-yahweh-coexisted (challenged by no-genuine-syncretism), claim-asherah-el-consort-transferred (challenged by popular-religion-non-mythological and vestigial-fetishism), claim-kuntillet-ajrud-proves-consort (challenged by vestigial-fetishism and popular-religion-non-mythological), claim-yahweh-absorbed-baal-storm-warrior-imagery (challenged by no-genuine-syncretism and metadivine-realm), claim-genesis-1-monotheistic-poetics (challenged by cosmogony and earliest-strata), claim-three-stage-convergence-el-yahweh (challenged by absolute-supremacy, no-theogony, and evolution-reversal). Also enriched claim-biblical-demonology and claim-elephantine-papyri with cross-scholar edges.
+  - **Kaufmann's theoretical foundation is now complete:** Introduction (7 claims) + Ch I (10 claims) + Ch II (8 claims) + Ch III (10 claims) + Ch IV (8 claims) = 43 claims establishing Kaufmann's framework. The metadivine realm definition (Ch II) and the non-pagan characteristics (Ch III) form the theoretical apparatus; Ch IV applies it to the evidence for popular religion. The rest of Kaufmann (Ch V-XIII + Epilogue) applies this framework to Israel's historical development.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 104
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1

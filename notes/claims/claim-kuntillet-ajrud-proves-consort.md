@@ -66,6 +66,8 @@ This is the single most explosive question in the field — did Yahweh have a wi
 
 **Challenged by:**
 - [[claim-kuntillet-ajrud-cult-object-symbolized-goddess]] (day-ygc-2.3) — Day partially challenges Römer by arguing the suffix indicates a cult object (agreeing with Smith on grammar) but that the object SYMBOLIZED the goddess (agreeing with Römer on consort). This is a hybrid position that disagrees with both polar positions.
+- [[claim-israelite-idolatry-vestigial-fetishism-not-genuine-polytheism]] (kaufmann-ri-4.5) — Kaufmann would reject the consort reading entirely: if Israelite idolatry was vestigial fetishism, the inscriptions were surface-level superstition by people who didn't actually believe in a goddess
+- [[claim-popular-religion-non-mythological-not-genuine-polytheism]] (kaufmann-ri-3.8) — Kaufmann's thesis that popular Israelite religion was also non-mythological contradicts the consort reading at its foundation
 
 **Primary sources:**
 - [[source-kuntillet-ajrud]]

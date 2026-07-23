@@ -67,6 +67,8 @@ Yhwh had a wife. The goddess was worshipped alongside the god in the Jerusalem t
 
 **Challenged by:**
 - [[claim-biblical-evidence-insufficient-for-goddess]] (smith-ehg-3.3) — Smith argues the biblical evidence doesn't prove the goddess survived into the monarchy. If Smith is right, the transfer didn't happen or was incomplete.
+- [[claim-popular-religion-non-mythological-not-genuine-polytheism]] (kaufmann-ri-3.8) — Kaufmann argues Israel's "idolatry" was never genuine mythological polytheism; the goddess transfer model assumes polytheistic belief was real and popular
+- [[claim-israelite-idolatry-vestigial-fetishism-not-genuine-polytheism]] (kaufmann-ri-4.5) — If Israelite idolatry was vestigial fetishism of monotheistic peoples, then the Asherah phenomenon was surface-level superstition, not evidence of a transferred consort goddess
 
 **Primary sources:**
 - Ugaritic texts: Baal cycle (KTU² 1.4), Keret legend (KTU² 1.15)

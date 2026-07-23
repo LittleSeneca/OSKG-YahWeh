@@ -70,6 +70,8 @@ This is arguably the most important claim in the chapter for Smith's overall the
 - Priestly taxonomic concerns vs. conscious subversion of mythic traditions
 - Whether the audience would have recognized the subversion or simply received the text as cosmology
 - The dating question: if Genesis 1 is Persian period, is it really subverting Ugaritic traditions specifically or general ANE chaoskampf motifs?
+- [[claim-biblical-cosmogony-lacks-metadivine-realm-pre-existent-stuff]] (kaufmann-ri-3.4) — Kaufmann argues the non-mythological cosmogony reflects Israel's ORIGINAL theological intuition, not late polemical subversion. If the non-mythological creation account was present from the beginning, Genesis 1's poetics are expression of original conviction, not subversion of inherited myth
+- [[claim-non-pagan-features-earliest-biblical-strata-not-late-editing]] (kaufmann-ri-3.9) — If non-pagan features appear in the earliest biblical strata, Genesis 1's demythologization is not a late literary achievement but an early impulse
 
 **Primary sources:**
 - Genesis 1:2, 14-19, 21

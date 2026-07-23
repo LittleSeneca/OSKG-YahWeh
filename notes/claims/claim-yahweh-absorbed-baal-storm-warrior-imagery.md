@@ -89,6 +89,8 @@ The Psalms you sing in church describing God's majesty, power over storms, and k
 
 **Challenged by:**
 - Day's overall framework in Ch3 presents the Baal relationship as CONFLICT (polemical name-distortion) rather than absorption; the distortion claims (day-ygc-3.3, 3.4, 3.5) show scribal hostility operated at the level of NAME-DEFORMATION, a more visceral rejection than Smith's "Yahweh-alone party" framing. However, Smith's convergence model already accounts for this: the monarchy absorbs Baal imagery WHILE the Deuteronomists reject Baal cult — both poles coexist in the same dynamic.
+- [[claim-no-genuine-syncretism-yhwh-baal]] (kaufmann-ri-4.6) — Kaufmann denies ANY genuine convergence: Baal worship under Ahab was alien Phoenician import, not YHWH-Baal synthesis. If there was never meaningful absorption, the convergence model describes a phenomenon that didn't happen
+- [[claim-metadivine-realm-fundamental-idea-paganism]] (kaufmann-ri-2.1) — Kaufmann's framework: Israelite religion was absolutely different from paganism from the beginning. If so, YHWH never needed to "absorb" Baal's profile because Israelite religion was never pagan in the first place
 
 **Primary sources:**
 - Ugaritic Baal Cycle (KTU 1.1-1.6)

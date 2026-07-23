@@ -89,7 +89,9 @@ The convergence paradigm explains HOW monotheism emerged from within polytheism 
 <!-- Claims that cannot be true if this one is -->
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+- [[claim-god-absolute-supremacy-no-metadivine-realm]] (kaufmann-ri-3.1) — If Israel's God was always conceived as absolutely supreme with no realm above or beside him, then the three-stage convergence model describes something that never needed to happen: YHWH was never a subordinate member of El's pantheon
+- [[claim-biblical-religion-lacks-theogony-mythology-proper]] (kaufmann-ri-3.2) — Stage 2 requires YHWH to be a "son of El" — theogonic framework Kaufmann denies Israel ever had
+- [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the entire evolutionary arrow: monotheistic IDEA → monolatrous PRACTICE → monotheistic PRACTICE. The convergence model (polytheism → convergence → monotheism) is exactly what Kaufmann says never happened
 
 **Primary sources:**
 - Genesis 49; Psalm 82 (El as separate figure)

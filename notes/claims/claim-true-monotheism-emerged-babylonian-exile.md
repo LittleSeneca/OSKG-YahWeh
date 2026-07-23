@@ -90,7 +90,8 @@ Monotheism — the belief that there is only one God — was not revealed to Mos
 - Any claim that Mosaic monotheism existed at the origins of Israelite religion. If true monotheism emerges in the 6th century, it cannot have been revealed in the 13th.
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+- [[claim-exile-extinction-idolatry-proves-popular-monotheism]] (kaufmann-ri-4.3) — Kaufmann's most powerful historical argument: complete disappearance of idolatry after exile has no parallel in religious history, suggesting monotheism was already popular before the exile, not forged by it
+- [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the causal arrow: exile was not the forge but the test that confirmed an already-existing monotheism
 - Deuteronomic passages (Deut 4:35, 4:39) that sound monotheistic, potentially pushing the date earlier.
 - The possibility that monotheistic ideas existed among some circles earlier but are only attested in Second Isaiah because of the accidents of textual preservation.
 - Persian/Zoroastrian influence as an alternative or complementary explanation — if Second Isaiah was influenced by Persian theology, the "invention" may be partly borrowed.
