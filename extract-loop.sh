@@ -154,6 +154,9 @@ $note_list
 
 For each note: read it from notes/theology/, extract every ## Claim N: block into a claim file in notes/claims/, update the chapter note with compact summaries and claims_status frontmatter, add edges between new claims and to any existing claims.
 
+IMPORTANT: Edge wikilink format - When adding edges between claims, wikilinks MUST use the exact file slug (filename), NOT the claim ID. CORRECT: [[claim-golden-calves-yhwh-worship-not-pagan-idolatry]] / WRONG: [[claim-kaufmann-ri-8.4]]. The slug is the filename you just wrote to notes/claims/. After creating all claims, verify every [[claim-...]] wikilink resolves to a real file. Do NOT declare the batch done until you have checked.
+
+
 DO NOT update claims-progress.md. DO NOT git commit. DO NOT ask questions — there is no user.
 
 Print a structured summary using this exact format:
@@ -181,7 +184,7 @@ Check every claim file just created:
 - All required frontmatter fields present (claim_id, statement, confidence, tags)
 - At least one topic tag and one evidence tag
 - Evidence section has structured content (bullet points or tables, not just a paragraph)
-- Edges section has wikilinks to other claims (not just placeholders or HTML comments)
+- Edges section has wikilinks to other claims that resolve to real files (verify with grep + stat or search_files - broken wikilinks = automatic FAIL regardless of content quality)
 - Edge descriptions name scholars and arguments, not just claim slugs
 
 Check every chapter note updated:
