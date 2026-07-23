@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 33
-- **Total claims extracted:** 149
-- **Notes with edges added:** 33
-- **Last session:** 2026-07-28 (Session 11 / Batch 9)
+- **Notes with claims extracted:** 36
+- **Total claims extracted:** 156
+- **Notes with edges added:** 36
+- **Last session:** 2026-07-28 (Session 12 / Batch 10)
 
 ## By Scholar
 
@@ -54,11 +54,11 @@ related:
 - [x] Romer — Chapter 5 — Entrance into Jerusalem
 - [x] Romer — Chapters 4-5 — How Yhwh Became Israel's God
 - [x] Romer — Chapter 6 — Cult of Yhwh in Israel
-- [ ] Romer — Chapter 7 — Cult of Yhwh in Judah
-- [ ] Romer — Chapters 6-7 — Cults of Israel and Judah
+- [x] Romer — Chapter 7 — Cult of Yhwh in Judah
+- [x] Romer — Chapters 6-7 — Cults of Israel and Judah
 - [x] Romer — Chapter 8 — Statue of Yhwh
 - [x] Romer — Chapter 9 — Yhwh and His Asherah
-- [ ] Romer — Chapters 8-9 — Statue and Asherah
+- [x] Romer — Chapters 8-9 — Statue and Asherah
 - [ ] Romer — Chapter 10 — Fall of Samaria
 - [ ] Romer — Chapter 11 — Reform of Josiah
 - [ ] Romer — Chapter 12 + Conclusion
@@ -243,6 +243,21 @@ related:
   - **Tension acknowledged:** romer-inv-3.3 rates the Kenite hypothesis as low-medium confidence — elegant, plausible, underdetermined. Romer's own admission that the Moses narrative is "fashioned with great artifice" creates a methodological tension he can't fully resolve. This tension is not resolved in the later chapters — it's a feature of his approach, not a flaw in its early execution.
 - **Commits:** 1 (pending)
 - **Notes remaining:** 119
+- **Next batch suggestion:** See below.
+
+### 2026-07-28 — Session 12 (Batch 10 Finalized)
+- **Notes processed:** 3 — Römer Ch7 (Cult of Yhwh in Judah), Römer Ch6-7 synthesis (Cults of Israel and Judah), Römer Ch8-9 synthesis (Statue and Asherah)
+- **Claims extracted:** 7 (3 Ch7, 2 Ch6-7 synthesis, 2 Ch8-9 synthesis)
+- **Edges added:** 23 cross-scholar edges (13 on new claims + 10 retrofits to 6 existing claims). Key clusters:
+  - **Jerusalem as El city — three scholars converge:** romer-inv-7.2 (Yhwh not Jerusalem's original god) now edges to smith-ehg-1.1 (El original god of Israel) and day-ygc-1.1 (El-Yhwh distinction). Three scholars, independent evidence lines, same conclusion: Jerusalem was an El city, Yhwh arrived later.
+  - **Centralization as monotheism's institutional infrastructure:** romer-inv-7.3 (centralization was political) now edges to smith-obm-8.3 (inner-community discourse) and smith-obm-10.4 (exilic rhetoric). One temple = one god: the political project that became theological rhetoric.
+  - **Deuteronomistic history as rhetoric case study:** romer-inv-6-7.1 (Deuteronomistic fiction) now edges to smith-obm-8.3 (inner-community discourse) and smith-obm-8.4 (rhetoric not stage). Römer's analysis of Deuteronomistic distortion is exactly what Smith means by monotheism as inner-community rhetoric.
+  - **Two-kingdoms split maps onto El-Yhwh distinction:** romer-inv-6-7.2 (two-kingdoms literary framing) now edges to smith-ehg-1.1 and day-ygc-1.1. Northern bull iconography = El heritage; southern Yhwh centralization = imported storm god.
+  - **Image prohibition as retrojected rhetoric:** romer-inv-8-9.1 (Yhwh had images) now edges to smith-obm-8.4 (rhetoric not stage) and day-ygc-1.1. The invisible God is a late rhetorical construction; the older, visible, anthropomorphic Yhwh fits Day's profile of Yhwh as originally distinct from El.
+  - **Asherah consort strengthens El-first thesis:** romer-inv-8-9.2 (Yhwh had consort) now edges to smith-ehg-1.1 and day-ygc-1.1. Yhwh inherited El's consort — the goddess transfer is evidence El was Israel's original god and Yhwh and El were originally distinct.
+  - **Römer's narrative arc extended:** Ch7-9 synthesis claims bridge Ch6 (cult of Yhwh in Israel) to Ch8-9 (statue, Asherah). The three-level religion framework (romer-inv-6-7.1) provides the sociological scaffolding; the two-kingdoms analysis (romer-inv-6-7.2) provides the political framework; the statue/Asherah synthesis (romer-inv-8-9.1, 8-9.2) provides the material-culture consequences.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 113
 - **Next batch suggestion:** See below.
 
 ### 2026-07-28 — Session 11 (Batch 9 Finalized)

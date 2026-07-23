@@ -85,6 +85,7 @@ If Yahweh is a southern import, the entire "Yahweh as original god of all Israel
 - [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic endorsement (romer-inv-intro.2): desert war god → national god → sole God after 587
 - [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer's detailed evaluation of candidate origins (Ebla/Ugarit/Mari eliminated, Soleb confirmed); the epigraphic evidence Smith cites cursorily, Romer develops systematically
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — Romer's analysis of the same four poems Smith uses (Deut 33, Judg 5, Ps 68, Hab 3), including the Judges 5/Psalm 68 relationship and the dating problem
+- [[claim-judah-multiple-yahwistic-sanctuaries-arad-lachish]] — the diverse regional sanctuaries (Arad, Lachish, Beer-Sheba) show Yhwh was adopted at multiple sites, consistent with a southern import gradually absorbed across different local centers (romer-inv-7.1)
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

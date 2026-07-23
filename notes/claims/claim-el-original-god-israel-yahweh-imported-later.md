@@ -76,6 +76,9 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - [[claim-biblical-texts-acknowledge-yhwh-chose-israel-later]] — Romer's textual argument (romer-inv-4.3): multiple biblical texts (Hosea, Ezekiel, Exodus) independently describe a Yhwh-Israel relationship that had a BEGINNING, corroborating Smith's claim that El preceded Yhwh
 - [[claim-merneptah-stele-first-mention-israel-ethnic-group]] — Romer's Merneptah analysis (romer-inv-4.2): by 1200 BCE, an ethnic group called "Israel" existed in Ephraim with no indication of Yhwh worship. This provides a chronological anchor for El-first, Yhwh-later
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — Romer's analysis of Exodus 6:2-3 as the Bible's own admission of Yhwh's foreignness to the patriarchs
+- [[claim-yhwh-not-jerusalem-original-god-solar-competition]] — Romer's Jerusalem case (romer-inv-7.2): Jerusalem was an El city; Yhwh was a latecomer competing with the solar deity. The Jerusalem micro-study is the local instantiation of Smith's macro-thesis
+- [[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]] — Romer's two-kingdoms synthesis (romer-inv-6-7.2): the north retained older El traditions (bulls); the south gradually centralized a southern Yhwh
+- [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]] — Romer's consort argument (romer-inv-8-9.2): Yhwh inherited El's consort Asherah, further evidence that El was Israel's original god
 - [[claim-divine-council-seventy-sons-of-el]] — Day on the divine council structure
 - [[claim-eden-derives-from-el-dwelling-place]] — Day on El's dwelling
 - [[claim-el-shaddai-means-el-mountain-one]] — Day on El Shaddai

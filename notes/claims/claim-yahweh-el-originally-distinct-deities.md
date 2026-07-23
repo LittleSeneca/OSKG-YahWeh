@@ -77,6 +77,10 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-yhwh-became-israel-god-two-stage-political-process]] (romer-inv-4-5.1) — the two-stage framework requires original El-Yhwh distinction
 - [[claim-israel-name-el-originally-el-worshippers]] — Romer's onomastic argument (romer-inv-4.1): "Israel" is unambiguously an El name; if Yhwh were original, the group would be *Yisra-yahu*. The Masoretic revision at Hos 12:5 (concealing the El meaning) adds documentary evidence for deliberate theological retrojection
 - [[claim-biblical-texts-acknowledge-yhwh-chose-israel-later]] — Romer's textual argument (romer-inv-4.3): Hosea 9:10, Ezekiel 20, and Exodus 6:2-3 all describe the Yhwh-Israel relationship as having a BEGINNING. The Bible's own narrative corroborates Day's thesis that Yahweh and El were distinct
+- [[claim-yhwh-not-jerusalem-original-god-solar-competition]] — Romer's Jerusalem evidence (romer-inv-7.2): Jerusalem as an El city where Yhwh arrived later, displacing both El Elyon and the solar deity. The case study strengthens Day's general thesis
+- [[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]] — Romer's two-kingdoms analysis (romer-inv-6-7.2): northern bull iconography reflects older El traditions; southern Yhwh centralization was gradual. The north-south split maps onto the El-Yhwh distinction
+- [[claim-yhwh-statues-images-prohibition-late-synthesis]] — Romer's iconographic evidence (romer-inv-8-9.1): Yhwh was visibly represented (steles, seals, coins). The anthropomorphic Yahweh fits Day's profile of a distinct, originally non-El deity with a concrete form
+- [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]] — Romer's consort argument (romer-inv-8-9.2): Yhwh inherited El's consort Asherah. The goddess transfer only makes sense if Yhwh and El were originally distinct — otherwise there's nothing to transfer
 
 **Contradicts:**
 - [[claim-cross-el-yahweh-identity]] (Cross — when extracted, Day's claim directly contradicts Cross's thesis that Yahweh was originally a form of El)

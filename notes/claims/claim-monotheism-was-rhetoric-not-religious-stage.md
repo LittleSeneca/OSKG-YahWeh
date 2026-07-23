@@ -60,6 +60,8 @@ If monotheism is rhetoric rather than an ontological position, the entire modern
 **Supports:**
 - [[claim-monotheism-rhetoric-inner-community-discourse]] — Ch8 develops the rhetoric argument for inner-community discourse
 - [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Ch10 caps the argument: monotheism is "not a new stage of religion but a new stage of rhetoric" born from exile
+- [[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]] — the Deuteronomistic history IS monotheism as rhetoric: the biblical portrayal of pure pre-exilic Yahwism is a 6th-century scribal construction projected backward (romer-inv-6-7.1)
+- [[claim-yhwh-statues-images-prohibition-late-synthesis]] — the image prohibition was a late rhetorical innovation projected backward as primordial law; the second commandment is monotheism as rhetoric in legal form (romer-inv-8-9.1)
 
 **Contradicts:**
 <!-- Axial Age theories treating monotheism as an evolutionary stage -->

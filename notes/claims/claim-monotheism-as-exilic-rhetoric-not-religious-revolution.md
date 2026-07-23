@@ -68,6 +68,7 @@ Everything. If monotheism is a rhetoric born from exile rather than a revelation
 **Supports:**
 - [[claim-yahweh-southern-desert-war-god-origin]] — the exilic rhetoric Smith describes is the culmination of the desert-god-to-sole-God journey Romer traces; Second Isaiah's monotheistic polemic is what the sedimentary process produced
 - [[claim-israel-judah-jew-terminology-historical]] — Romer's terminological precision (pre-exilic "Israelites" are not "Jews") provides the vocabulary for Smith's argument that monotheism is an EXILIC development, not a pre-exilic one
+- [[claim-centralization-worship-jerusalem-late-political-project]] — centralization under Hezekiah and Josiah was the pre-exilic institutional precursor to Second Isaiah's exilic monotheism. The political project that became theological rhetoric (romer-inv-7.3)
 <!-- This is the book's capstone claim — it supports no further claims within the book but provides the framework for the entire project -->
 
 **Contradicts:**

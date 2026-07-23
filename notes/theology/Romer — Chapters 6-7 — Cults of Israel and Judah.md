@@ -10,6 +10,12 @@ tags:
   - truth-project
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-28
+claims_count: 2
+claims_files:
+  - "[[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]]"
+  - "[[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]]"
 related:
   - "[[Romer — Chapters 4-5 — How Yhwh Became Israel's God]]"
   - "[[Smith Chapter 1 — Deities in the Period of the Judges]]"
@@ -21,75 +27,19 @@ related:
 
 ## Chapter 6: The Cult of Yhwh in Israel
 
-### Claim: The biblical picture of pure Yahwism in Israel is a Deuteronomistic fiction. The real cult was diverse, regional, and included bull iconography — legitimate Yhwh worship, not idolatry.
-
-**Römer's claim:** The editors of Kings created a theological framework where good kings centralized worship at Jerusalem and bad kings tolerated other sanctuaries. This vision "does not correspond to historical reality." It was a 6th-century retrojection. The actual cult of Yhwh in Israel (930-722 BCE) was diverse, decentralized, and incorporated bull imagery that was NOT foreign idolatry but indigenous Yahwistic tradition.
-
-**Evidence presented — the Deuteronomistic distortion:**
-
-- Manasseh, presented as the worst king of Judah, reigned 55 prosperous years under Assyrian protection. Hezekiah, praised as the best, pursued a suicidal anti-Assyrian policy that reduced Judah's territory. The Deuteronomists judged by theology, not results.
-- Israel was the geopolitically dominant kingdom — not the apostate backwater the Bible portrays. "Israel contained fertile land... Judah was a tiny monarchy."
-- "The idea of a great kingdom, united under David and Solomon, comes more from the imagination of the authors... than from any historical reality."
-
-**Evidence — the diversity of Yhwh worship:**
-
-- Yhwh was worshipped in multiple local manifestations, each with its own epithet:
-  - "Yhwh of Samaria" and "Yhwh of Teman" (Kuntillet Ajrud)
-  - "Yhwh, god of Jerusalem" (Khirbet Beit Lei)
-  - "Yhwh at Hebron" (2 Samuel 15:7)
-  - "Yhwh in Zion" (Psalm 99:2)
-  - Yhwh at Bethel (Genesis 28:10-22)
-- This was normal ANE practice — local manifestations of a national god. "Shared gods existed elsewhere in the Levant."
-
-**Three levels of religion (critical framework):**
-1. **Family/clan:** Personal gods, deified ancestors, pater familias as ritual mediator. No sanctuary needed.
-2. **Local:** Open-air sanctuaries, stele (*maṣṣēbôt*), sacred pole (*'ăšērāh*). These are what the Bible polemicizes against as "on every hill and under every green tree."
-3. **National/royal:** The king mediates, organized around the national god and associated deities.
-
-**The bull iconography — the golden calves:**
-
-- The Bible presents Jeroboam's bulls at Dan and Bethel (1 Kings 12:28-31) as the great apostasy of the north
-- Römer argues they were **legitimate Yhwh symbols** — bull imagery for El (the original god) transferred to Yhwh
-- "These calves" were probably a Yahwistic innovation that incorporated El's bull iconography into Yhwh's cult. The biblical polemic against them is a LATE Judean perspective after the north had fallen
-- The story in Exodus 32 (golden calf) was written to delegitimize northern bull worship retroactively
-- "The golden calf story is probably a big shade on the Northerners — like you guys did this, like you worship these bulls" (this is Smith's language, which Römer echoes)
-
-**Confidence:** HIGH on the diversity of Yhwh worship (inscriptional evidence is clear). HIGH on the Deuteronomistic distortion (well-established scholarly consensus). MEDIUM on the golden calves as legitimate Yhwh symbols (plausible but depends on dating the Exodus 32 polemic).
-
-**What's at stake for faith:** The "golden calf" — the paradigmatic biblical story of idolatry — was probably a polemic against legitimate Yahwistic worship in the north. The sin wasn't worshipping a false god; it was worshipping Yhwh with the wrong symbols in the wrong places. This inverts the Bible's own moral framing.
-
-**Who disagrees:** Conservatives read the golden calf story as historical. Some scholars argue the bulls really did represent foreign gods (a Baal or Egyptian import). The dating of Exodus 32 is contested.
+### Claim: The biblical picture of pure Yahwism in Israel is a Deuteronomistic fiction
+→ [[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]] | **romer-inv-6-7.1** | Confidence: high
+  The Deuteronomists retrojected 6th-century theology onto the 9th-8th century north. The real cult was diverse and regional, operating on three socio-religious levels (family, local, national). The golden calves at Dan and Bethel were legitimate Yhwh symbols — El's bull iconography transferred to Yhwh. Exodus 32 was written to delegitimize northern worship retroactively.
+  Depends on: [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]], [[claim-yhwh-worshipped-diverse-local-manifestations]], [[claim-golden-calves-legitimate-yhwh-symbols]].
 
 ---
 
 ## Chapter 7: The Cult of Yhwh in Judah
 
-### Claim: Jerusalem was not originally Yhwh's exclusive home. Yhwh rose to supremacy in Jerusalem gradually, competing with a solar god and absorbing El.
-
-**Römer's claim:** Yhwh was not the only god of Jerusalem, and Jerusalem was not the only sanctuary of Yhwh. Multiple Yahwistic temples existed in Judah (Arad, Lachish, Beer-Sheba). In Jerusalem itself, Yhwh initially shared the temple with a solar deity and was identified with El Elyon gradually. The centralization of worship in Jerusalem was a late political project — probably Josiah's reform in the 7th century.
-
-**Evidence — multiple Yahwistic sanctuaries in Judah:**
-
-- **Arad:** A Yahwistic temple with one or two *maṣṣēbôt* (standing stones, possibly representing Yhwh and Asherah). The temple was a royal garrison sanctuary. The stones were deliberately hidden to protect them from the Assyrians.
-- **Lachish:** An Assyrian relief depicts soldiers carrying away an extremely large incense burner from Lachish — too big for private use, almost certainly from a Yahwistic temple.
-- **Beer-Sheba:** Remains of an impressive four-horned altar — probably a Yahwistic sanctuary.
-- **"High places" (*bāmôt*):** These were Yahwistic sanctuaries, NOT pagan sites. The editors of Kings confirm this: while praising certain kings, they note "and yet the high places did not disappear." Only two kings (Hezekiah and Josiah) attempted to destroy them — proving they were the NORM, not the exception.
-- "These high places were probably typically 'Israelite' or 'Judean,' but they had finally to cede their places to the Temple of Jerusalem."
-
-**Evidence — Yhwh's rise in Jerusalem:**
-
-1. **Competition with the sun god:** Jerusalem had a solar deity before Yhwh. Joshua 10:12-13 ("Sun, stand still over Gibeon") may preserve a memory of Yhwh's competition with the city's older solar and lunar gods.
-2. **The El-Yhwh identification:** Genesis 14 has Abraham meeting Melchizedek, "priest of El Elyon," at Salem (= Jerusalem). The Masoretic text identifies El Elyon with Yhwh, but the original tradition had them as separate deities. The identification was a Judean theological project.
-3. **Yhwh as national god:** "Yhwh's rise in Jerusalem" was part of a broader regional trend — Moab, Ammon, and other kingdoms all had national gods who gradually absorbed the older pantheon.
-
-**The centralization project:**
-- Hezekiah attempted to centralize worship at Jerusalem (late 8th century) — his reform was partial and probably politically motivated (consolidating control after the fall of Israel)
-- Josiah's reform (late 7th century) was more thorough — destroying high places, removing solar worship from the temple, centralizing sacrifice
-- The centralization was a POLITICAL project as much as a religious one: one capital, one temple, one god
-
-**Confidence:** HIGH on multiple sanctuaries (archaeology confirms Arad, Lachish, Beer-Sheba). HIGH on Yhwh not being Jerusalem's original god. MEDIUM on the solar competition (depends on interpretation of Joshua 10).
-
-**What's at stake for faith:** The Jerusalem temple — the center of biblical religion, the house of God, the place where God's name dwells — was a political construction. Yhwh wasn't always there. He wasn't the only god there. And the claim that Jerusalem was God's chosen city from the beginning is a theological retrojection that overwrites a more complex history.
+### Claim: Jerusalem was not originally Yhwh's exclusive home
+→ [[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]] | **romer-inv-6-7.2** | Confidence: high
+  Multiple Yahwistic sanctuaries existed in Judah (Arad, Lachish, Beer-Sheba). Yhwh competed with Jerusalem's solar deity and gradually absorbed El Elyon. The south won the theological war by literary survival — after 722, Judean scribes wrote the north as apostasy. One capital, one temple, one god was a political project, not original religion.
+  Depends on: [[claim-judah-multiple-yahwistic-sanctuaries-arad-lachish]], [[claim-yhwh-not-jerusalem-original-god-solar-competition]], [[claim-centralization-worship-jerusalem-late-political-project]]. Supports: [[claim-israel-pure-yahwism-deuteronomistic-fiction-synthesis]].
 
 ---
 
