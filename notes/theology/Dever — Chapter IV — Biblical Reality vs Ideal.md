@@ -2,9 +2,16 @@
 tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, faith/asherah, truth-project]
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-08-03
+claims_count: 4
+claims_files:
+  - "[[claim-bible-ideal-religion-never-existed-israelites]]"
+  - "[[claim-high-places-legitimate-yahwistic-pre-temple]]"
+  - "[[claim-jerusalem-temple-royal-chapel-not-national-center]]"
+  - "[[claim-asherah-ambiguity-deliberate-symbol-goddess-editorial]]"
 related: ["[[Dever — Chapter III — Sources and Methods]]", "[[Dever — Chapter V — Archaeological Evidence]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Day — Chapter 2 — Yahweh and Asherah]]"]
 ---
-
 # Dever, Did God Have a Wife? — Chapter IV
 
 ## The Hebrew Bible: Religious Reality or Theological Ideal?
@@ -12,47 +19,24 @@ related: ["[[Dever — Chapter III — Sources and Methods]]", "[[Dever — Chap
 ---
 
 ## Claim 1: The Hebrew Bible describes an ideal religion that never existed for most Israelites
-
-**Dever's claim:** The Bible's portrait of Israelite religion is "idealistic" — it describes what SHOULD have been, not what WAS. For most Israelites, "Book religion" was unknown and irrelevant. The evidence for this is the Bible's own admissions, read critically.
-
----
+→ [[claim-bible-ideal-religion-never-existed-israelites]] | **dever-dghw-4.1** | Confidence: high
+  The Bible's portrait of Israelite religion is "idealistic" — it describes what SHOULD have been, not what WAS. For most Israelites, "Book religion" was unknown and irrelevant.
+  Supports: [[claim-two-religions-book-vs-folk-israelite-religion]], [[claim-archaeology-primary-source-folk-religion-descriptive-method]]. Contradicted by: [[claim-israel-monotheistic-desert-period-idolatry-deviance]].
 
 ## Claim 2: High places (bāmôt) were legitimate Yahwistic sanctuaries — not pagan sites
-
-**Evidence presented:**
-- Saul visited a high place looking for a "seer" with no hint of disapproval (1 Sam 9:5-14)
-- David's priest Zadok went to Gibeon's high place "according to all that is written in the law of the Lord" (1 Chron 16:37-42)
-- Solomon and "the whole assembly" worshipped at Gibeon's high place (1 Kings 3:3-15)
-- **The Deuteronomists' revealing footnote:** "The people were sacrificing at the high places, however, because no house had yet been built for the name of the Lord" (1 Kings 3:2)
-- "Curiously, polemics against the high places among the idealistic reformers of the late monarchy are conspicuously absent in descriptions of religious life in the United Monarchy"
-
-**Confidence:** HIGH (the biblical texts themselves document the shift from legitimacy to condemnation).
-
----
+→ [[claim-high-places-legitimate-yahwistic-pre-temple]] | **dever-dghw-4.2** | Confidence: high
+  Before the Temple, high places were legitimate Yahwistic sanctuaries — their condemnation as pagan was a late Deuteronomistic retrojection. The Bible's own narratives (Saul, David, Solomon at high places) document their original legitimacy.
+  Supports: [[claim-centralization-worship-jerusalem-late-political-project]], [[claim-josiah-reform-invented-exclusive-yahwism]].
 
 ## Claim 3: The Jerusalem Temple was a royal chapel — not the center of national religion
-
-**Evidence:**
-- "For most people in ancient Israel, the Temple liturgy and the official Temple theology... were unknown, and they would have been irrelevant in any case"
-- "Many people in ancient Israel had probably never been to Jerusalem in their whole lives"
-- The Temple was an elite institution — "whatever actually went on in the Jerusalem Temple... the activities were conducted by and for a small priestly class"
-- The Deuteronomists' requirement of three annual pilgrimages to Jerusalem was "the ideal, not the reality for most people"
-
-**Confidence:** HIGH.
-
----
+→ [[claim-jerusalem-temple-royal-chapel-not-national-center]] | **dever-dghw-4.3** | Confidence: high
+  The Temple served the court and priestly elite — most Israelites had never been to Jerusalem and Temple theology was unknown and irrelevant to them. Local shrines and domestic worship were the real religious centers.
+  Supports: [[claim-family-kin-based-domestic-religion-women-primary-practitioners]], [[claim-archaeology-primary-source-folk-religion-descriptive-method]].
 
 ## Claim 4: The Hebrew word 'asherah' can refer either to the symbol or the goddess — the ambiguity is deliberate
-
-**Evidence:**
-- "The original consonantal text can be read either 'the asherah' (the symbol) or as 'Asherah' (the proper name of the Goddess herself)"
-- In at least several passages, the term MUST refer to a goddess: 1 Kings 15:13 ("an abominable image made for Asherah"); 1 Kings 18:19 ("the 400 prophets of Asherah" — if Baal is a deity, so is Asherah)
-- "I would argue that the apparent ambiguity of the biblical texts... is due to the authors' and editors' ambivalences... Originally the biblical writers were embarrassed by the notion of a 'Hebrew Goddess,' but they could not condemn her... without tacitly, but covertly, acknowledging her existence"
-- "The final redactors of the Hebrew Bible did not know who 'Asherah' had been, or whether she had existed at all. But the consonantal text — now Scripture — could not be altered."
-
-**Dever's diagnosis:** "By the time the literary process had produced the final canonical texts, the old Mother Goddess had been driven underground and all but forgotten... she would come back to life in modern times, resuscitated by archaeology."
-
-**Confidence:** HIGH on the grammatical ambiguity. MEDIUM-HIGH on Dever's claim that the ambiguity is deliberate (plausible but unprovable).
+→ [[claim-asherah-ambiguity-deliberate-symbol-goddess-editorial]] | **dever-dghw-4.4** | Confidence: medium-high
+  The biblical writers were embarrassed by a Hebrew goddess but couldn't condemn her without acknowledging her existence. By the time of final redaction, the old Mother Goddess had been all but forgotten — the consonantal text preserved what later theology suppressed.
+  Contradicted by: [[claim-asherah-cult-symbol-not-goddess-monarchic-israel]]. Supports: [[claim-asherah-goddess-in-ot-passages]].
 
 ---
 

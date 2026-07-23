@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 96
-- **Total claims extracted:** 498
-- **Notes with edges added:** 96
-- **Last session:** 2026-08-03 (Session 32 / Batch 30)
+- **Notes with claims extracted:** 99
+- **Total claims extracted:** 507
+- **Notes with edges added:** 99
+- **Last session:** 2026-08-03 (Session 33 / Batch 31)
 
 ## By Scholar
 
@@ -129,9 +129,9 @@ related:
 - [x] Dever — Chapter I — Defining Religion
 - [x] Dever — Chapter II — History of Scholarship
 - [x] Dever — Chapter III — Sources and Methods
-- [ ] Dever — Chapter IV — Biblical Reality vs Ideal
-- [ ] Dever — Chapter V — Archaeological Evidence
-- [ ] Dever — Chapters III-V — Sources and Archaeological Evidence
+- [x] Dever — Chapter IV — Biblical Reality vs Ideal
+- [x] Dever — Chapter V — Archaeological Evidence
+- [x] Dever — Chapters III-V — Sources and Archaeological Evidence
 - [ ] Dever — Chapters VI-IX — Asherah to Conclusions
 - [ ] Dever — Chapters VI-IX — Asherah, Women, Monotheism
 
@@ -205,6 +205,26 @@ related:
 ---
 
 ## Session Log
+
+### 2026-08-03 — Session 33 (Batch 31 Finalized)
+- **Notes processed:** 3 — Dever Chapter IV (Biblical Reality vs Ideal), Dever Chapter V (Archaeological Evidence), Dever Chapters III-V (Sources and Archaeological Evidence)
+- **Claims extracted:** 9 (4 Ch IV, 4 Ch V, 1 Ch III-V)
+- **Edges added:** ~25 internal + cross-scholar edges already in 9 new claims + 7 new cross-scholar edges in finalization pass. Key clusters:
+  - **Dever's folk religion case now established:** Ch IV (4 claims) establishes the biblical text gap — the Bible describes an ideal religion that never existed (4.1), high places were originally legitimate Yahwistic sanctuaries condemned by late Deuteronomistic retrojection (4.2), the Jerusalem Temple was a royal chapel not a national center for most Israelites (4.3), and the Asherah ambiguity (symbol vs goddess) is deliberate editorial embarrassment by biblical writers who could neither fully erase nor fully acknowledge a Hebrew goddess (4.4). Ch V (4 claims) presents the archaeological evidence — 3,000+ Judean Pillar Figurines in domestic contexts as strongest material evidence for popular goddess worship (5.1), eight converging categories of archaeological evidence that collectively demonstrate widespread folk religion centered on Asherah alongside Yhwh (5.2), the Arad temple's two standing stones in the holy of holies representing Yhwh and Asherah as a divine couple in an official Yahwistic sanctuary (5.3), and Kuntillet Ajrud + Khirbet el-Qom inscriptions as unambiguous evidence that Asherah was Yhwh's consort goddess, not merely a cult symbol (5.4). Ch III-V (1 claim) provides the six-argument methodological foundation for archaeology's equality or superiority over biblical texts for reconstructing folk religion.
+  - **Cross-scholar edge pass — 7 new edges across 7 claim files:**
+    - **Dever 4.1 → Smith:** Bible-ideal-never-existed now supports Smith's claim-israelite-culture-was-canaanite-no-separation — converging arguments from archaeology and text criticism that "Book religion" was not the lived reality of most Israelites.
+    - **Dever 4.3 → Römer:** Temple-as-royal-chapel now supports Römer's claim-judah-multiple-yahwistic-sanctuaries-arad-lachish — the archaeological evidence for sanctuaries at Arad, Lachish, and Beer-Sheba independently confirms the Temple's limited reach as a national religious center.
+    - **Dever 5.1 → Keel/Uehlinger:** JPFs now challenged by Keel's claim-judean-pillar-figurines-goddess-revival-iic-not-continuous-tradition — the figurines may represent a late 7th-century revival rather than continuous centuries-long tradition, which partially undermines Dever's implicit persistence narrative.
+    - **Dever 5.2 → Albertz:** Eight categories now supports Albertz's claim-internal-religious-pluralism-official-vs-personal-piety — Dever's archaeological demonstration IS Albertz's sociological model of stratified religious symbolic worlds rendered in material culture.
+    - **Dever 5.3 → Römer:** Arad massebot now depends on Römer's claim-yhwh-represented-by-standing-stones-massebot — the premise that one standing stone represents a deity is what enables Dever's inference that two stones represent two deities.
+    - **Dever 3-5.1 → Albertz + Dever:** Six-arguments now supports Albertz's claim-history-of-religion-superior-to-ot-theology (independent convergence from a text scholar that history of religion is the more meaningful comprehensive discipline) and Dever's own claim-theology-is-apologetics-not-history-dever-critique (theology is prescriptive, not descriptive).
+    - **Dever 4.4 → Römer:** Asherah ambiguity now supports Römer's claim-bible-deliberately-obscures-yhwh-asherah-link — the same editorial strategy identified through different evidence streams: grammatical ambiguity (Dever) and Deuteronomistic redaction associating Asherah with Baal (Römer).
+  - **Dever now 8 of 10 notes extracted (22 claims):** Introduction (6), Intro+Ch I-II (3), Ch I (2), Ch II (1), Ch III (1), Ch IV (4), Ch V (4), Ch III-V (1). Remaining: Ch VI-IX combined (2 versions). The methodological framework and the core archaeological evidence for folk religion are now in the graph. What remains is Dever's treatment of Asherah in the monarchy, women's cults, and the monotheism question.
+  - **The Asherah debate in the graph now has Dever's full weight:** Dever's 9 new claims represent the strongest archaeological case for Asherah as goddess consort. They contradict Smith's symbol-only reading, Keel/Uehlinger's "his asherah" = cultic symbol, and Kaufmann's monotheism-from-the-beginning. The productive tension documented in Sessions 31-32 — Dever praises Keel/Uehlinger's method but disagrees with their Asherah conclusions — is now fully populated with the evidence Dever thinks they got wrong. The graph captures this as a genuine unresolved debate, not a resolved contradiction.
+  - **The Temple and high-places cluster strengthened:** Dever 4.2 (high places originally legitimate) supports the centralization-as-late-political-project thread. Dever 4.3 (Temple as royal chapel) and Römer's multiple-sanctuaries claim converge on the same picture: Jerusalem was not what the Deuteronomists claimed it was. This cluster now edges to the Albertz reform claims and Römer's Josiah reform claims.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 50
+- **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 26 (Batch 24)
 - **Notes processed:** 3 — Albertz Vol1 §3.8 (The Deuteronomic Reform Movement), Albertz Vol1 §3.9 (After Josiah to the Fall of Jerusalem), Albertz Vol2 Chapter 4 (Exilic Period)

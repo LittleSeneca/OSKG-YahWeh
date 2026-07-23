@@ -13,6 +13,11 @@ tags:
   - truth-project
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-08-03
+claims_count: 1
+claims_files:
+  - "[[claim-six-arguments-archaeology-superior-texts-folk-religion]]"
 related:
   - "[[Dever — Introduction and Chapters I-II — Methodology]]"
   - "[[Dever — Chapter III — Sources and Methods]]"
@@ -31,6 +36,8 @@ related:
 ## Chapter III: Sources and Methods
 
 ### Claim: Archaeology is a primary source — equal or superior to the biblical texts for reconstructing Israelite religion
+
+<!-- Extracted: [[claim-six-arguments-archaeology-superior-texts-folk-religion]] | dever-dghw-3-5.1 | Confidence: high -->
 
 **Dever's claim:** The biblical texts are late, elitist, and theologically biased. Archaeology provides data that is contemporary, populist, and unedited. For the study of folk religion (what ordinary people actually practiced), archaeology is not just supplementary — it's often superior.
 

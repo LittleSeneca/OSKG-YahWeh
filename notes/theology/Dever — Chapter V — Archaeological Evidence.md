@@ -2,6 +2,14 @@
 tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, history/israel-judah, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-08-03
+claims_count: 4
+claims_files:
+  - "[[claim-judean-pillar-figurines-asherah-goddess-worship-domestic]]"
+  - "[[claim-eight-categories-archaeology-folk-religion-asherah-cumulative]]"
+  - "[[claim-arad-temple-massebot-yhwh-asherah-divine-couple]]"
+  - "[[claim-kuntillet-ajrud-khirbet-el-qom-asherah-consort-not-symbol]]"
 related: ["[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Dever — Chapters VI-IX — Asherah to Conclusions]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Romer — Chapter 9 — Yhwh and His Asherah]]", "[[Day — Chapter 2 — Yahweh and Asherah]]", "[[Stavrakopoulou — Part I — Feet and Legs]]"]
 ---
 
@@ -13,7 +21,7 @@ related: ["[[Dever — Chapter IV — Biblical Reality vs Ideal]]", "[[Dever —
 
 ## Overview: Dever's Eight Categories of Evidence
 
-This is the core of Dever's book. He presents eight categories of archaeological evidence for folk religion, organized from public to private.
+This is the core of Dever's book. He presents eight categories of archaeological evidence for folk religion, organized from public to private. The cumulative claim: [[claim-eight-categories-archaeology-folk-religion-asherah-cumulative]] | **dever-dghw-5.2** | Confidence: high.
 
 ---
 
@@ -47,6 +55,8 @@ This is the core of Dever's book. He presents eight categories of archaeological
 - At Gezer: ten massive standing stones
 - Functions: divine representations, memorials, covenant witnesses
 
+<!-- Implicit claim: [[claim-arad-temple-massebot-yhwh-asherah-divine-couple]] | dever-dghw-5.3 | Confidence: medium-high -->
+
 **Confidence:** HIGH.
 
 ---
@@ -65,6 +75,8 @@ This is the core of Dever's book. He presents eight categories of archaeological
 ## 4. Figurines — The Key Evidence
 
 **Dever's claim:** This is the strongest archaeological evidence for folk religion — and the evidence Smith ignores.
+
+<!-- Implicit claim: [[claim-judean-pillar-figurines-asherah-goddess-worship-domestic]] | dever-dghw-5.1 | Confidence: very-high -->
 
 **Judean Pillar Figurines (JPFs):**
 - Over 3,000 found, overwhelmingly in DOMESTIC contexts (houses, not temples)
@@ -100,6 +112,9 @@ This is the core of Dever's book. He presents eight categories of archaeological
 - **Khirbet el-Qom** (c. 700 BCE): Burial inscription invoking "Yhwh and his Asherah"
 
 Dever reads these as unambiguous evidence that Asherah was Yhwh's consort.
+
+<!-- Implicit claim: [[claim-kuntillet-ajrud-khirbet-el-qom-asherah-consort-not-symbol]] | dever-dghw-5.4 | Confidence: medium-high -->
+Contradicts: [[claim-kuntillet-ajrud-symbol-not-goddess]], [[claim-his-asherah-cultic-symbol-stylized-tree-not-goddess-consort]].
 
 **Confidence:** HIGH on the inscriptions themselves. MEDIUM-HIGH on the goddess-vs-symbol interpretation.
 
