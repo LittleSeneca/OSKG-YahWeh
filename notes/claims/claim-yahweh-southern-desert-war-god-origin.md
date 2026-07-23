@@ -55,7 +55,9 @@ If Yhwh's journey went: desert war god -> national god of Israel -> the only God
 - [[claim-yahweh-southern-storm-warrior-origin]] — Smith's version of the southern origin (smith obm-7.6), which Romer endorses and will develop
 - [[claim-yahweh-originated-south-midian-edom]] — the southern origin thesis shared across multiple scholars
 - [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Yhwh's journey from desert war god to sole God is the long development that Smith argues culminated in exilic monotheistic rhetoric
-<!-- Will edge to Romer Ch2-3 (Geographic Origin and Moses) when extracted -->
+- [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer Ch2 delivers the evidence for the southern origin previewed in the Introduction: Soleb inscription (14th c. BCE), elimination of Ebla/Ugarit/Mari candidates, Shasu copper-mining context
+- [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — Romer Ch2 identifies four poems (Deut 33:2, Judg 5:4-5, Ps 68:8-9, Hab 3:3) preserving the southern origin tradition
+<!-- Will edge to Romer Ch3 (Moses and the Midianites) when extracted -->
 
 **Contradicts:**
 <!-- Northern/Canaanite origin theories for Yhwh -->
@@ -67,7 +69,9 @@ If Yhwh's journey went: desert war god -> national god of Israel -> the only God
 - The evidence chapters must deliver on this programmatic claim
 
 **Primary sources:**
-<!-- Specific evidence promised in later chapters (Deut 33:2, Judg 5:4-5, Hab 3:3, Egyptian topographical lists) -->
+- Egyptian Soleb inscription (Amenophis III, c. 1370 BCE): "Shasu of Yhw(h)" — earliest extrabiblical Yhwh attestation
+- Deut 33:2; Judg 5:4-5; Hab 3:3 — southern march poetry
+- Kuntillet Ajrud: "Yahweh of Teman"
 
 ## Assessment
 

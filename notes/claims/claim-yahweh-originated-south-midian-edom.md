@@ -72,7 +72,9 @@ If Yahweh came from the south, then Israel's god was NOT indigenous to Canaan. T
 
 **Supports:**
 - [[claim-yahweh-el-originally-distinct-deities]] — if Yahweh originated in the south, he was a foreign import, which makes the distinction from El necessary
-- [[claim-yahweh-midianite-origin]] (Römer Ch2-3 — the Midianite hypothesis is supported by Day's evidence, approaching from a different angle)
+- [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer Ch2 provides the most detailed evaluation of candidate origins (Ebla/Ugarit/Mari eliminated, Soleb confirmed) for the same southern origin thesis
+- [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — Romer Ch2's analysis of the same four southern-origin poems (Deut 33:2, Judg 5:4-5, Ps 68:8-9, Hab 3:3) that Day cites as evidence
+<!-- [[claim-yahweh-midianite-origin]] — forward reference to Römer Ch3 (Moses and the Midianites), to be extracted -->
 
 **Contradicts:**
 - [[claim-cross-el-yahweh-identity]] (Cross — if Yahweh was from Midian, he can't have been a form of the Canaanite El from the beginning)

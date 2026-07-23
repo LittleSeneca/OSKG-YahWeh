@@ -15,6 +15,8 @@ tags:
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium
+claims_status: "covered-by-individual-notes"
+claims_notes: "Introduction claims extracted to romer-inv-intro.1-6 (Session 8); Chapter 1 claims extracted to romer-inv-1.1-4 (Session 9). No unique claims beyond individual notes."
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"
