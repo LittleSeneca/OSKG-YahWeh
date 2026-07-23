@@ -79,7 +79,9 @@ This single passage provides a snapshot of an early Israelite theology in which 
 - [[claim-yahweh-el-originally-distinct-deities]] (day-ygc-1.1) — Deut 32:8-9 is the single strongest textual evidence for the Day position; it provides the clearest biblical snapshot of El and Yahweh as separate entities
 - [[claim-divine-council-seventy-sons-of-el]] — the "sons of El" framework in Deut 32:8-9 is the conceptual background for the seventy sons of El in the divine council tradition
 - [[claim-name-israel-el-original]] (smith-obm-7.3) — the name "Israel" and Deut 32:8-9 form a triangulation: the name says El was original, Deut 32:8-9 shows the functional relationship (Elyon/Yahweh as superior/subordinate)
-- [[claim-three-stage-convergence-el-yahweh]] (smith-obm-7.5) — Deut 32:8-9 provides the textual anchor for Stage 2 of the convergence model: Yahweh as member of El's pantheon before identification
+- [[claim-three-stage-convergence-el-yahweh]] (smith-obm-7.5) -- Deut 32:8-9 provides the textual anchor for Stage 2 of the convergence model: Yahweh as member of El's pantheon before identification
+- [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] (lewis-ocg-4.5) -- Lewis provides the most thorough current treatment, with Qumran evidence and Psalm 82 complement
+- [[claim-el-was-original-god-israel-name-and-absence-yahweh]] (lewis-ocg-4.1) -- Lewis's El-original thesis provides the larger framework: Deut 32:8-9 is the textual smoking gun within the broader case for El's priority
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

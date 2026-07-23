@@ -82,7 +82,9 @@ This directly connects Israel's worldview to Canaanite mythology. The divine cou
 **Supports:**
 - [[claim-ot-asherah-equals-ugaritic-athirat]] — the divine council connects El and Asherah as the divine parents; if the council is El's, Asherah is part of the same conceptual furniture
 - [[claim-asherah-el-consort-transferred-to-yahweh]] — the seventy sons belong to El AND Asherah; if the council transfers to Yahweh, the consort's role comes with it
-- [[claim-divine-council-monotheism-late-development]] (Smith Origins — the council's Canaanite origin underscores that monotheism was a later development)
+- [[claim-divine-council-monotheism-late-development]] (Smith Origins -- the council's Canaanite origin underscores that monotheism was a later development)
+- [[claim-ugaritic-ilu-fullest-el-portrait-not-deposed-baal]] (lewis-ocg-4.3) -- Lewis's treatment of Ugaritic Ilu as head of the divine council, NOT deposed by Baal, provides the fullest current portrait of El's council presidency
+- [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] (lewis-ocg-4.5) -- Lewis's Deut 32:8-9 analysis shows the divine sons receiving national allocations under El Elyon's authority
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

@@ -63,6 +63,7 @@ The nature of Israelite "apostasy." If Kaufmann is right, when Israelites "worsh
 **Challenged by:**
 [[claim-golden-calves-legitimate-yhwh-symbols]]
 [[claim-jeroboam-golden-calves-yahwistic-el-bull]]
+[[claim-jeroboam-bulls-bethel-dan-el-images-out-archaize]] (lewis-ocg-5.4) -- Lewis reads Jeroboam's bulls as El images, not Yhwh images; if correct, Kaufmann's reading of Exodus 32 as depicting a fetishistic Yhwh cult misidentifies the target
 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->

@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 57
-- **Total claims extracted:** 296
-- **Notes with edges added:** 57
-- **Last session:** 2026-07-29 (Session 19 / Batch 17)
+- **Notes with claims extracted:** 60
+- **Total claims extracted:** 316
+- **Notes with edges added:** 60
+- **Last session:** 2026-07-30 (Session 20 / Batch 18)
 
 ## By Scholar
 
@@ -84,9 +84,9 @@ related:
 ### Lewis, The Origin and Character of God (11 notes)
 - [x] Lewis — Chapter 1 — Introductory Matters
 - [x] Lewis — Chapter 2 — History of Scholarship
-- [ ] Lewis — Chapter 3 — Methodology
-- [ ] Lewis — Chapter 4 — El Worship
-- [ ] Lewis — Chapter 5 — Iconography of Divinity — El
+- [x] Lewis -- Chapter 3 -- Methodology
+- [x] Lewis -- Chapter 4 -- El Worship
+- [x] Lewis -- Chapter 5 -- Iconography of Divinity -- El
 - [ ] Lewis — Chapter 6 — Origin of Yahweh
 - [ ] Lewis — Chapter 7 — Iconography of Divinity — Yahweh
 - [ ] Lewis — Chapter 8 — Warrior and Family God
@@ -206,7 +206,21 @@ related:
 
 ## Session Log
 
-### 2026-07-25 — Session 8
+### 2026-07-30 -- Session 20 (Batch 18 Finalized)
+- **Notes processed:** 3 -- Lewis Ch3 (Methodology), Lewis Ch4 (El Worship), Lewis Ch5 (Iconography of Divinity -- El)
+- **Claims extracted:** 20 (7 Ch3, 8 Ch4, 5 Ch5)
+- **Edges added:** ~45+ internal edges already in 20 new claims + 8 cross-scholar retrofits to 6 existing claims (finalization pass). Key clusters:
+  - **Lewis's methodological framework now fully in the graph:** Ch3 (7 claims) establishes Lewis's approach: religion definition is impossible (3.1), "Israelite" is a heuristic umbrella (3.2), epigraphy has rewritten the field (3.3), Albertz's onomastics revolution (3.4), the Propp Principle of radical open-mindedness (3.5), the HB is an ANE text (3.6), and the modern comparative method studies configurations not traits (3.7). These 7 claims provide the methodological scaffolding for Lewis's entire project.
+  - **El as original god -- Lewis provides the most thorough current treatment:** lewis-ocg-4.1 through 4.8 constitute the most comprehensive single treatment of El in the claims graph. Lewis's cumulative case: Israel's name contains El (4.1), Amarna shows no El preeminence but is the wrong source (4.2), Ugaritic Ilu was fully functional and NOT deposed by Baal (4.3), El persisted through the Iron Age onomastically and epigraphically (4.4), Deut 32:8-9 is the textual smoking gun (4.5), El Shadday is genuinely archaic not a Priestly invention (4.6), Israelite El was a family/clan deity not a national deity (4.7), and El may have been the original Exodus god but the evidence is "tantalizing" not decisive (4.8).
+  - **Lewis's El portrait vs. the existing consensus:** Lewis's strongest contributions: the family/clan profile (4.7) provides the functional contrast with Yahweh that explains why the merger was absorption not fusion. The "not deposed by Baal" argument (4.3) corrects an older scholarly error. The El Shadday antiquity argument (4.6) with Deir Alla Shaddayyin is the strongest extra-biblical evidence for Shadday's pre-Yahwistic status. Lewis's cautious refusal to claim El-Exodus connection (4.8) is methodologically honest.
+  - **Iconography -- Israel's aniconic exceptionalism documented:** Ch5 (5 claims) provides the archaeological evidence: Iron Age Israel lacks male divine images (5.1), the Ugaritic Ilu template was known but NOT continued (5.2), masseboth are the likeliest El representations but no inscription identifies any with El (5.3), Jeroboam's bulls were likely El images in an "out-archaize" strategy (5.4), and the Beth Shean cylinder seal does NOT show El and his asherah (5.5). Lewis's aniconism argument (5.1) is his strongest archaeological contribution: female figurines ARE abundant, male ones are absent -- something was different about how Israel represented its male deity.
+  - **Cross-scholar retrofits:** 8 edges added across 6 existing claims. Lewis's Deut 32:8-9 treatment (4.5) retrofitted to claim-deut-32-8-9-sons-of-el and claim-divine-council-seventy-sons-of-el. Lewis's El family/clan profile (4.7) retrofitted to claim-three-stage-convergence-el-yahweh and claim-yahweh-el-originally-distinct-deities. Lewis's Jeroboam-bulls-as-El (5.4) retrofitted to claim-jeroboam-golden-calves-yahwistic-el-bull (Day reads them as Yhwh; Lewis reads them as El) and claim-golden-calf-story-depicts-fetishism (Kaufmann). Lewis's methodological framework (3.6, 3.7) retrofitted to claim-convergence-differentiation-framework-israelite-religion (Smith). El-original thesis (4.1) retrofitted to claim-el-original-god-israel-yahweh-imported-later.
+  - **Lewis's Ch3-5 arc completed:** Methodology (Ch3) → El textual/epigraphic evidence (Ch4) → El iconographic/archaeological evidence (Ch5). The two pillars of Lewis's approach (textual/epigraphic + iconographic/archaeological) are now established. Ch6-10 will apply this dual method to Yahweh's origin and character.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 89
+- **Next batch suggestion:** See below.
+
+### 2026-07-25 -- Session 8
 - **Notes processed:** 3 — Smith Origins Ch9 (Formation of Monotheistic Theologies), Smith Origins Ch10 (Monotheism in Isaiah 40-55), Romer Introduction
 - **Claims extracted:** 18 (8 Smith Ch9, 4 Smith Ch10, 6 Romer Introduction)
 - **Edges added:** ~70 internal edges across 18 claims + 17 cross-scholar edges (Session 8 finalization pass). Key clusters:

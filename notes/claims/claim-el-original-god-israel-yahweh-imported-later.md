@@ -62,6 +62,8 @@ This is foundational. If El was the original god and Yahweh was a later import w
 ## Edges
 
 **Supports:**
+- [[claim-el-was-original-god-israel-name-and-absence-yahweh]] (lewis-ocg-4.1) -- Lewis provides the most thorough current treatment, showing that the name "Israel," the Shechemite El formula (Gen 33:20), Exodus 6:3, and onomastics all converge on El's priority
+- [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] (lewis-ocg-4.5) -- Lewis's Deut 32:8-9 analysis is the textual keystone: Yahweh begins as one of El Elyon's divine sons
 - [[claim-name-israel-el-original]] — the name Israel preserves El, not Yahweh (Smith, *Origins*)
 - [[claim-deut-32-8-9-sons-of-el]] — Deut 32:8-9 as evidence for El-Yahweh distinction (Smith, *Origins*)
 - [[claim-el-israelite-sanctuaries]] — El's sanctuary network later absorbed by Yahweh (Smith, *Origins*)

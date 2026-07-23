@@ -83,7 +83,9 @@ The convergence paradigm explains HOW monotheism emerged from within polytheism 
 
 **Supports:**
 - [[claim-yahweh-absorbed-baal-storm-warrior-imagery]] (smith-ehg-2.2) — convergence with Baal (storm imagery absorption) is the second major convergence axis alongside El; the El convergence explains identity, the Baal convergence explains character/function
-- [[claim-yahweh-solar-language-royal-development]] (smith-ehg-4.1) — solar absorption (Ch4) follows the same convergence logic as El and Baal; the model generalizes across deity profiles
+- [[claim-yahweh-solar-language-royal-development]] (smith-ehg-4.1) -- solar absorption (Ch4) follows the same convergence logic as El and Baal; the model generalizes across deity profiles
+- [[claim-el-was-original-god-israel-name-and-absence-yahweh]] (lewis-ocg-4.1) -- Lewis's El-original thesis provides the most comprehensive current defense of the premise the convergence model requires: El worship predates Yhwh worship
+- [[claim-israelite-el-family-clan-deity-not-national]] (lewis-ocg-4.7) -- Lewis's family/clan profile of El explains WHY the merger took the form it did: a clan deity was absorbed by a national deity, not a fusion of equals
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

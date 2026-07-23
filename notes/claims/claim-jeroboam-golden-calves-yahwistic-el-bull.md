@@ -83,7 +83,8 @@ This establishes that ancient Israelites worshipped Yahweh in the form of a bull
 - [[claim-golden-calves-represented-baal]] (disputed — Day argues they were Yahwistic)
 
 **Challenged by:**
-- [[claim-pedestal-theory-calves]] (Obbink/Albright — the calves were thrones, not images)
+- [[claim-pedestal-theory-calves]] (Obbink/Albright -- the calves were thrones, not images)
+- [[claim-jeroboam-bulls-bethel-dan-el-images-out-archaize]] (lewis-ocg-5.4) -- Lewis argues the bulls were El images (not Yhwh images using El imagery), part of Jeroboam's strategy to "out-archaize" David by appealing to northern El traditions. Same evidence (Exod 32, Bethel sanctuary, bull iconography), different conclusion: El worship vs. Yhwh worship
 
 **Primary sources:**
 - 1 Kgs 12:28-30 (Jeroboam's calves at Bethel and Dan)

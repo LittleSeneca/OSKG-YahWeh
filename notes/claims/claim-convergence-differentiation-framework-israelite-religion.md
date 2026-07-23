@@ -62,7 +62,9 @@ This framework, if accepted, reframes the entire Bible's religious polemic. The 
 - [[claim-biblical-evidence-insufficient-for-goddess]] — differentiation: the goddess was written out
 - [[claim-yahweh-solar-language-royal-development]] — convergence of solar imagery
 - [[claim-solar-storm-combination-theological-transcendence]] — convergence of solar + storm profiles
-- [[claim-female-imagery-absorbed-into-yahweh]] — convergence of feminine imagery
+- [[claim-female-imagery-absorbed-into-yahweh]] -- convergence of feminine imagery
+- [[claim-modern-comparative-method-configurations-not-traits]] (lewis-ocg-3.7) -- Lewis's methodological framework (configurations, not traits) is the theoretical articulation of what Smith practices: Israel configured shared ANE traits distinctively
+- [[claim-hebrew-bible-is-ancient-near-eastern-text]] (lewis-ocg-3.6) -- Lewis's premise that the HB IS an ANE text is the foundation the convergence/differentiation framework requires
 
 **Contradicts:**
 [[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann argues Israelite religion was an original creation, not the product of convergence with Canaanite culture. Smith's framework requires continuity; Kaufmann's thesis requires categorical difference.
