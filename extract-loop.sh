@@ -206,9 +206,11 @@ PROMPT
     # Check for failures in quality review
     if ! $DRY_RUN; then
         # Only check FAIL between the quality review markers — the prompt
-        # template itself contains "FAIL" as a format example, so we must
-        # scope the grep to the model's actual output, not the prompt.
-        log_failures=$(awk '/=== QUALITY REVIEW ===/{found=1; next} /=== END QUALITY REVIEW ===/{found=0} found && /FAIL/' "$TMPDIR/hermes-extract-phase2-review.log")
+        # template itself contains "TITLE: FAIL" as a format example, and
+        # hermes echoes the prompt into the log. Exclude the template line
+        # (starts with literal "TITLE:") from matching — real failures start
+        # with actual note names like "Smith Origins — Ch5: FAIL".
+        log_failures=$(awk '/=== QUALITY REVIEW ===/{found=1; next} /=== END QUALITY REVIEW ===/{found=0} found && /FAIL/ && $0 !~ /^TITLE: FAIL/' "$TMPDIR/hermes-extract-phase2-review.log")
         if [[ -n "$log_failures" ]]; then
             log "QUALITY GATE FAILED — stopping loop"
             echo "$log_failures"
