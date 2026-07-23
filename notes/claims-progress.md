@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 54
-- **Total claims extracted:** 279
-- **Notes with edges added:** 54
-- **Last session:** 2026-07-29 (Session 18 / Batch 16)
+- **Notes with claims extracted:** 57
+- **Total claims extracted:** 296
+- **Notes with edges added:** 57
+- **Last session:** 2026-07-29 (Session 19 / Batch 17)
 
 ## By Scholar
 
@@ -79,11 +79,11 @@ related:
 - [x] Kaufmann — Ch XI — Amos and Hosea
 - [x] Kaufmann — Ch XII — Isaiah Micah Habakkuk
 - [x] Kaufmann — Ch XIII — The Prophecy of the Fall
-- [ ] Kaufmann — Epilogue and Prospect
+- [x] Kaufmann — Epilogue and Prospect
 
 ### Lewis, The Origin and Character of God (11 notes)
-- [ ] Lewis — Chapter 1 — Introductory Matters
-- [ ] Lewis — Chapter 2 — History of Scholarship
+- [x] Lewis — Chapter 1 — Introductory Matters
+- [x] Lewis — Chapter 2 — History of Scholarship
 - [ ] Lewis — Chapter 3 — Methodology
 - [ ] Lewis — Chapter 4 — El Worship
 - [ ] Lewis — Chapter 5 — Iconography of Divinity — El
@@ -396,6 +396,20 @@ related:
   - **Kaufmann's arc now complete:** Introduction-Ch IV (43 claims: theoretical foundation) → Ch V-VII (22 claims: sources, origins, settlement) → Ch VIII-X (27 claims: monarchy, popular religion, classical prophecy framework) → Ch XI-XIII (26 claims: individual prophets, the fall, exile). Total: 118 Kaufmann claims across 13 of 15 chapters. Only the Epilogue remains.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 95
+- **Next batch suggestion:** See below.
+
+### 2026-07-29 — Session 19 (Batch 17 Finalized)
+- **Notes processed:** 3 — Kaufmann Epilogue and Prospect, Lewis Ch1 (Introductory Matters), Lewis Ch2 (History of Scholarship)
+- **Claims extracted:** 17 (5 Kaufmann Epilogue, 5 Lewis Ch1, 7 Lewis Ch2)
+- **Edges added:** ~35 internal edges already in 17 new claims + 8 cross-scholar edges in finalization pass (Kaufmann Epilogue ↔ Lewis historiographical framework). Key clusters:
+  - **Kaufmann's Epilogue as capstone:** Five claims completing Kaufmann's argument: fall transformed Israel from nation to religious community (Ep.1), Torah's contradictions prove antiquity (Ep.2), Torah liberated religion from ethnic-territorial bounds (Ep.3), pre-exilic religion universal in essence but national in form (Ep.4), monotheism defeated paganism through inner strength (Ep.5). These are Kaufmann's concluding synthesis — summarizing 118 prior claims across 13 chapters.
+  - **Lewis Ch1 — methodological positioning:** Five claims establishing Lewis's approach: historian-of-religion vs theologian distinction (1.1), comprehensive volume impossible (1.2), divinity as organizing lens (1.3), Hebrew Bible preserves opposing voices (1.4), seven tastings as defensible selection (1.5). Lewis openly admits what he excludes — a methodological honesty that contrasts with Kaufmann's totalizing ambition.
+  - **Lewis Ch2 — historiography of the field:** Seven claims tracing the discipline from Enlightenment through feminism: schematizing falsifies but is necessary (2.1), Wellhausen was philosophically loaded with anti-Judaism and social Darwinism (2.2), Ugaritic discoveries most profound 20th-century impact (2.3), Albright/Kaufmann distinctiveness untenable — Cross offered better synthesis (2.4), Fribourg iconographic school transformed the field (2.5), 1970s paradigm shift to personal piety (2.6), feminist criticism reshaped the field (2.7). Lewis writes as a Cross student, favors text+archaeology+iconography integration, skeptical of minimalism.
+  - **Cross-scholar edges — Lewis's historiographical critique meets Kaufmann's conclusions:** Lewis's Albright-Kaufmann claim (2.4: "radical distinctiveness was untenable") directly challenges the premise underlying Kaufmann's entire Epilogue. The "inner strength" argument (Ep.5) and "transformation from nation to religious community" (Ep.1) both depend on Israel's unique trajectory. Lewis's Wellhausen claim (2.2) exposes the philosophical context Kaufmann was reacting against — Kaufmann's positive view of post-exilic Judaism as creative adaptation is the mirror opposite of Wellhausen's decline narrative. Lewis's observation that the Hebrew Bible preserves opposing voices (1.4) aligns with Kaufmann's picture of a national form containing universal content (Ep.4).
+  - **Lewis's methodological framework now in the graph:** The history-of-religion stance (1.1) contradicts Kaufmann's theological commitments (kaufmann-ri-intro.3). The divinity-as-lens approach (1.3) edges to Smith's Ugaritic background claims and Cross's methodology. The opposing-voices claim (1.4) aligns with Smith and Römer against Kaufmann's ideological-constants approach.
+  - **Kaufmann complete:** All 15 Kaufmann notes now extracted (Introduction through Epilogue). Total: 123 Kaufmann claims. The entire Kaufmannian counter-position — monotheism predates prophets, Torah predates prophecy, Israel was fundamentally non-pagan from the beginning, exile tested but didn't forge monotheism — is now fully mapped in the claims graph.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 92
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1
