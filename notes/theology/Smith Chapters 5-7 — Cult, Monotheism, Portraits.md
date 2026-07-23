@@ -14,8 +14,15 @@ tags:
   - faith/polytheism
   - truth-project
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-24
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-24
+claims_count: 3
+claims_files:
+  - "[[claim-canaanite-practices-originally-yahwistic]]"
+  - "[[claim-four-stage-model-monotheism-development]]"
+  - "[[claim-yahweh-composite-deity-product-of-convergence]]"
 related:
   - "[[Smith Chapter 4 — Yahweh and the Sun]]"
   - "[[Smith Chapter 6 — Monotheism]]"
@@ -29,58 +36,21 @@ related:
 
 ## Chapter 5: Yahwistic Cultic Practices
 
-### Claim: Practices later condemned as "Canaanite idolatry" were originally acceptable Yahwistic practices
-
-**Smith's claim:** Three categories of practice — high places, veneration of the dead, and child sacrifice (*mlk*) — were all part of Israel's Canaanite heritage and initially functioned within Yahwism without objection. They were condemned only later, as part of the differentiation process.
-
-**Evidence — High Places (*bāmôt*):**
-
-- Samuel conducted worship at a high place (1 Sam 9-10). Solomon went to the high place at Gibeon where Yahweh appeared to him (1 Kings 3:4-5).
-- The Deuteronomistic apology in 1 Kings 3:2 ("the people were sacrificing at the high places because no house had yet been built") reveals the tension: the practice was old and legitimate, but later theology needed to explain it away.
-- High places functioned down to Josiah's reign (2 Kings 23:8). Amos 7:9 refers to them in the northern kingdom.
-- They were staffed with priests (1 Kings 13:2, 33; 2 Kings 23:8-9) who conducted sacrifice.
-- Present in rural AND urban settings — this was clan religion, distinct from the state temples.
-- NOT uniquely Israelite — Moabite religion had high places too (Mesha Stele, Isa 15:2, 16:12, Jer 48:35).
-
-**Evidence — Practices Pertaining to the Dead:**
-
-- Feeding the dead, consulting the dead, and mourning the dead were all part of Canaanite religion (documented at Ugarit: KTU 1.20-22, 1.142, 1.124, 1.161).
-- Necromancy was the ONLY practice possibly forbidden before the 7th century — and even that may be a later editorial addition (1 Sam 28:3).
-- Isaiah, Hosea, Amos, and Micah describe funerary mourning customs without criticism (Isa 7:20, 15:3, 22:12; Hos 7:14; Amos 8:10; Mic 1:16).
-- Feeding the dead was condemned only in the 7th century (Deut 26:14).
-- Manasseh permitted necromancy (2 Kings 21:6); Josiah attempted to eliminate it (2 Kings 23:24).
-- The practices persisted for CENTURIES after biblical condemnation. Talmudic passages discuss communication with the dead. A 10th-century CE Karaite scholar complained about Jews "sitting at graves, sleeping there at night, appealing to the dead: 'Heal me! Grant me children!'"
-
-> **Smith's most striking point:** "Interacting with deceased ancestors was a practice that occurred among Aramaean and Israelite royalty." The line between "orthodox Yahwism" and "pagan necromancy" was not drawn until late, and even then it was porous.
-
-**Evidence — The *mlk* Sacrifice (Child Sacrifice):**
-
-- Jeremiah 7:31, 19:5, and 32:35 DENY that *mlk* sacrifice was offered in Yahweh's name — which implies some people WERE offering it to Yahweh.
-- Ezekiel 20:25-26 has Yahweh explicitly claiming responsibility: "I gave them statutes that were not good... I defiled them through their very gifts in making them offer by fire all their first-born."
-- Isaiah 30:27-33 (8th-7th c.) uses child sacrifice imagery without taking offense — it "serves as a way to describe Yahweh's coming destruction."
-- Leviticus 20:2-5 prohibits child sacrifice specifically in Yahweh's temple — suggesting it was happening there.
-- Phoenician and Punic evidence confirms child sacrifice was a West Semitic practice, performed primarily in times of national crisis (siege warfare). Egyptian reliefs depict Canaanites sacrificing children during sieges.
-- Philo of Byblos: "Among ancient peoples in critically dangerous situations it was customary for the rulers... to provide the dearest of children as a propitiatory sacrifice."
-
-> **The implication is devastating:** Child sacrifice was probably offered TO YAHWEH by Judeans who saw no contradiction between this practice and Yahwism. The biblical denials ("Yahweh never commanded this") are later theology overwriting historical reality.
-
-**Smith's conclusion on Chapter 5:** "The religious practices of the high places were fundamentally conservative, preserving Israel's ancient religious heritage. Perhaps for this reason, many of these practices belonged also to the royal cult of Jerusalem. Yet... legal and prophetic condemnations rejected these traditional practices of Israel. In the name of the deity to whom the religion of high places was devoted, its legal and prophetic critics condemned this part of Israel's ancient religious inheritance."
-
-**Confidence:** HIGH on high places (multiple independent sources). MEDIUM-HIGH on dead practices (Ugaritic parallels + biblical evidence converge). MEDIUM on child sacrifice as Yahwistic (Jeremiah's denials imply it; Ezekiel's attribution to Yahweh is explicit, but these are polemical texts).
-
-**What's at stake for faith:** If child sacrifice was offered to Yahweh, then the God of the Bible was once understood by his own worshipers as a deity who accepted — even demanded — the burning of children. The biblical texts that deny this are later theological corrections, not original prohibitions. This is the darkest implication of Smith's book.
-
-**Who disagrees:** Conservatives argue the biblical condemnations represent the original norm from which Israelites apostatized. The practices were always forbidden; their presence proves depravity, not legitimate Yahwism. Child sacrifice was to Molech/Baal, never to Yahweh — the Jeremiah denials are genuine, not protesting too much.
-
-**Alternative reading:** The *mlk* sacrifice might not have been literal child sacrifice but a dedicatory ritual. Some scholars argue the Carthaginian evidence has been overstated. The biblical polemic might reflect genuine foreign importation, not indigenous practice.
-
-**My assessment:** The high places evidence is rock-solid — these were legitimate Yahwistic sites later condemned. The dead practices evidence is strong. The child sacrifice evidence is the most disturbing but also the most contested. Ezekiel 20:25-26 is the hardest text for the "never to Yahweh" position — Yahweh explicitly says "I gave them statutes that were not good... I defiled them through child sacrifice." Whether this describes historical reality or theological rationalization, it's in the Bible.
+### Claim 1: Practices later condemned as "Canaanite idolatry" were originally acceptable Yahwistic
+→ [[claim-canaanite-practices-originally-yahwistic]] | **smith-ehg-5.1** | Confidence: medium
+  High places, veneration of the dead, and child sacrifice (mlk) were all part of Israel's Canaanite heritage and initially functioned within Yahwism without objection. Condemned only later during the differentiation process.
+  Depends on: [[claim-israelite-culture-was-canaanite-no-separation]], [[claim-baal-asherah-indigenous-israelite-not-foreign-syncretism]]. Supports: [[claim-convergence-differentiation-framework-israelite-religion]], [[claim-field-development-strengthened-convergence-model-since-1990]].
 
 ---
 
 ## Chapter 6: The Origins and Development of Israelite Monotheism
 
 This is the capstone. Smith synthesizes everything into a historical narrative.
+
+### Implicit Claim: The Four-Stage Model of Monotheism Development
+→ [[claim-four-stage-model-monotheism-development]] | **smith-ehg-6.1** | Confidence: medium-high
+  Monotheism developed through four stages (Judges → Early Monarchy → Late Monarchy → Exile), driven by monarchy, writing, covenant theology, international crisis, and social change. It was both "evolution" (from polytheism) and "revolution" (rejection of all other deities).
+  Depends on: [[claim-convergence-differentiation-framework-israelite-religion]], [[claim-yahweh-absorbed-baal-storm-warrior-imagery]], [[claim-asherah-was-yahwistic-symbol]], [[claim-yahweh-solar-language-royal-development]]. Supports: [[claim-monotheism-was-rhetoric-not-religious-stage]], [[claim-canaanite-practices-originally-yahwistic]].
 
 ### The Four-Stage Model
 
@@ -123,7 +93,10 @@ Smith is honest: "The development lying behind Israelite monotheism becomes impo
 
 ## Chapter 7: Postscript — Portraits of Yahweh
 
-### Claim: Yahweh became a composite deity whose complexity is the product of the very processes the Bible condemns
+### Claim 2: Yahweh became a composite deity
+→ [[claim-yahweh-composite-deity-product-of-convergence]] | **smith-ehg-7.1** | Confidence: medium
+  The biblical Yahweh is a composite built from El's wisdom, Baal's storm, Asherah's nurturing, the sun's radiance, and Anat's ferocity — the product of the same convergence processes the Bible condemns. Priesthood shaped the final form by removing divine sex and death.
+  Depends on: [[claim-yahweh-absorbed-baal-storm-warrior-imagery]], [[claim-asherah-was-yahwistic-symbol]], [[claim-yahweh-solar-language-royal-development]], [[claim-female-imagery-absorbed-into-yahweh]], [[claim-anat-martial-imagery-absorbed-into-yahweh]], [[claim-three-stage-convergence-el-yahweh]]. Supports: [[claim-four-stage-model-monotheism-development]].
 
 **Smith's argument:** The Yahweh of the Bible is not a simple, consistent character. He's a composite — built from El's wisdom, Baal's storm, Asherah's nurturing, the sun's radiance, and Anat's ferocity. This wasn't an accident. It was the product of deliberate theological work over centuries.
 

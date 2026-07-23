@@ -208,11 +208,11 @@ PROMPT
         # Only check FAIL between the quality review markers — the prompt
         # template itself contains "FAIL" as a format example, so we must
         # scope the grep to the model's actual output, not the prompt.
-        local failures
-        failures=$(awk '/=== QUALITY REVIEW ===/{found=1; next} /=== END QUALITY REVIEW ===/{found=0} found && /FAIL/' "$TMPDIR/hermes-extract-phase2-review.log")
-        if [[ -n "$failures" ]]; then
+        local log_failures
+        log_failures=$(awk '/=== QUALITY REVIEW ===/{found=1; next} /=== END QUALITY REVIEW ===/{found=0} found && /FAIL/' "$TMPDIR/hermes-extract-phase2-review.log")
+        if [[ -n "$log_failures" ]]; then
             log "QUALITY GATE FAILED — stopping loop"
-            echo "$failures"
+            echo "$log_failures"
             die "Quality review failed. Review output above and fix before continuing."
         fi
         log "Phase 2: All notes PASS"

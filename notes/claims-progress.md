@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 12
-- **Total claims extracted:** 51
-- **Notes with edges added:** 12
-- **Last session:** 2026-07-24 (Session 4)
+- **Notes with claims extracted:** 15
+- **Total claims extracted:** 72
+- **Notes with edges added:** 15
+- **Last session:** 2026-07-24 (Session 5)
 
 ## By Scholar
 
@@ -28,11 +28,11 @@ related:
 - [x] Smith Chapter 2 — Yahweh and Baal
 - [x] Smith Chapter 3 — Yahweh and Asherah
 - [x] Smith Chapter 4 — Yahweh and the Sun
-- [ ] Smith Chapters 5-7 — Cult, Monotheism, Portraits
+- [x] Smith Chapters 5-7 — Cult, Monotheism, Portraits
 
 ### Smith, Origins of Biblical Monotheism (11 notes)
-- [ ] Smith Origins — Introduction
-- [ ] Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters
+- [x] Smith Origins — Introduction
+- [x] Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters
 - [ ] Smith Origins — Ch2 — The Divine Council
 - [ ] Smith Origins — Ch3 — The Divine Family
 - [ ] Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations
@@ -236,6 +236,14 @@ related:
 - **Commits:** 1
 - **Notes remaining:** 137
 - **Next batch suggestion:** Smith Chapters 5-7 (Cult, Monotheism, Portraits) + Smith Origins Introduction + Smith Origins Ch1 (Anthropomorphic Deities). Rationale: Finishes Smith's *Early History of God* and opens *Origins of Biblical Monotheism*. Ch5-7 synthesizes the deity profiles (Baal, Asherah, Sun) into the monotheism argument — edges to all 6 prior Smith notes. Origins Intro and Ch1 establish methodology for the second book. All-Smith batch acceptable here since we're closing out one book and opening another from the same scholar.
+
+### 2026-07-24 — Session 5
+- **Notes processed:** 3 — Smith Ch5-7 (Cult, Monotheism, Portraits), Smith Origins Introduction, Smith Origins Ch1 (Anthropomorphic Deities)
+- **Claims extracted:** 21 (3 EHG synthesis, 9 Origins Intro methodological, 9 Origins Ch1 Ugaritic spatial/divine taxonomy — all Smith)
+- **Edges added:** ~50 internal + cross-scholar. Key clusters: EHG synthesis (5.1/6.1/7.1) cross-reference all 6 prior EHG notes; 7.1 (Yahweh as composite) is the capstone, depending on Baal, Asherah, Sun, female imagery, Anat, and El convergence claims. Origins Intro.1-9 establish the OBM methodological framework — West Semitic conceptual unity, Ugaritic background, monotheism as rhetoric. Intro.4 (Israel broadly West Semitic) bridges to EHG intro.1. Origins Ch1.1-9 instantiate the spatial scheme (center-periphery, benevolent/monstrous, mountain exclusivity) and trace through to Genesis 1's "monotheistic poetics" (1.8).
+- **Commits:** 1
+- **Notes remaining:** 134
+- **Next batch suggestion:** Smith Origins Ch2 (Divine Council) + Day Ch5 (Yahweh and Astarte/Anat) + Keel Uehlinger Part V (Iron IIB — Baal El Yahweh and His Asherah). Rationale: Divine Council is the highest-edge-density topic — connects Smith, Day, Heiser, and Cross. Day Ch5 introduces Astarte/Anat (feminine deities barely touched so far). Keel Uehlinger provides iconographic evidence for the "Yahweh and His Asherah" period, grounding textual claims in material culture. Edge compounding: Ch2 will connect to smith-ehg-1.5, smith-obm-1.1-1.4, and claim-divine-council-seventy-sons-of-el.
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)
