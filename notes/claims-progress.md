@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 63
-- **Total claims extracted:** 329
-- **Notes with edges added:** 63
-- **Last session:** 2026-07-31 (Session 21 / Batch 19)
+- **Notes with claims extracted:** 66
+- **Total claims extracted:** 338
+- **Notes with edges added:** 66
+- **Last session:** 2026-07-31 (Session 22 / Batch 20)
 
 ## By Scholar
 
@@ -90,9 +90,9 @@ related:
 - [x] Lewis — Chapter 6 — Origin of Yahweh
 - [x] Lewis — Chapter 7 — Iconography of Divinity — Yahweh
 - [x] Lewis — Chapter 8 — Warrior and Family God
-- [ ] Lewis — Chapter 9 — King and Judge
-- [ ] Lewis — Chapter 10 — Holy One
-- [ ] Lewis — Conclusion
+- [x] Lewis — Chapter 9 — King and Judge
+- [x] Lewis — Chapter 10 — Holy One
+- [x] Lewis — Conclusion
 
 ### Albertz, A History of Israelite Religion (14 notes)
 - [ ] Albertz Vol1 — Introduction — History, Method, Dividing Lines
@@ -205,6 +205,23 @@ related:
 ---
 
 ## Session Log
+
+### 2026-07-31 -- Session 22 (Batch 20 Finalized)
+- **Notes processed:** 3 — Lewis Ch9 (King and Judge), Lewis Ch10 (Holy One), Lewis Conclusion
+- **Claims extracted:** 9 (4 Ch9, 3 Ch10, 2 Conclusion)
+- **Edges added:** ~30 internal edges already in 9 new claims + 12 cross-scholar edges in finalization pass (3 on new Lewis claims, 9 retrofits to 6 existing Smith/Römer/Kaufmann/Day claims). Key clusters:
+  - **Lewis's full volume now extracted — all 10 chapters + conclusion:** 54 claims across 11 notes (Ch1-10 + Conclusion). Lewis's arc: Methodology (Ch1-2: 12 claims) → El textual/epigraphic (Ch3-4: 15 claims) → El iconographic (Ch5: 5 claims) → Yahweh origin (Ch6: 6 claims) → Yahweh iconography (Ch7: 4 claims) → Yahweh character: warrior + family god (Ch8: 3 claims) → Yahweh as king and judge (Ch9: 4 claims) → Yahweh as holy one (Ch10: 3 claims) → Conclusion (2 claims).
+  - **Ch9 — King and Judge completes the divine profile tetralogy:** Warrior (Ch8) → King (Ch9) → Judge (Ch9) → Holy One (Ch10). The king/judge chapter provides the institutional anchoring: the earthly king models the divine king, and the divine judge prosecutes cosmic injustice. Four claims: kings as cultic actors but never priests (9.1), kings infused with divinity but never deified (9.2), Psalm 82 as Yahweh prosecuting the gods (9.3), wisdom as genuine counter-discourse questioning divine justice (9.4).
+  - **Ch10 — Holiness chapter is Lewis's most original contribution:** The early holiness-as-power claim (10.1) is one of the most important insights in the entire book — holiness was originally about military might and theophanic danger, not cultic purity. P's graded holiness was ideological (10.2), and H's democratization was a counter-tradition (10.3). This three-part structure (power → hierarchy → democratization) is a microcosm of Lewis's method: trace the development, identify the internal debates, show that the Hebrew Bible preserves competing voices.
+  - **Conclusion — Lewis's self-critical honesty:** Two claims acknowledging the book's limitations: goddess/polytheism omissions (conc.1) and the partiality of the divinity lens (conc.2). Lewis's admission that his book is really about El and Yahweh — not "ancient Israelite religion" comprehensively — is refreshingly honest.
+  - **Cross-scholar edge pass (finalization):** 12 edges added across 9 files:
+    - **New edges on Lewis claims (3):** 9.3 (Psalm 82) now contradicts Smith's four-stage model — the divine council is still operative in a text that postdates the supposed convergence stages. 10.1 (holiness as power) now supports Day's southern origin thesis and Day's unified Baal framework — the holy warrior profile is the earliest expression of Yahweh's holiness and the theology of the southern desert deity. 10.2 (P's holiness as ideology) now supports Smith's monotheism-as-rhetoric thesis — P's holiness hierarchy and Deuteronomy's centralization are parallel ideological strategies.
+    - **Retrofits to existing claims (9):** god-absolute-supremacy (Kaufmann) now challenged by Psalm 82 and Deut 32:8-9 (Lewis); priestly-cult-non-pagan (Kaufmann) now challenged by all three Lewis Ch10 claims (holiness as power, ideological hierarchy, democratization by H); israelite-kingship-non-sacral (Kaufmann) now nuanced by Lewis's "infused but not deified" model and cultic-actor-but-not-priest claims — Lewis provides the middle ground Kaufmann's absolute framing misses; deut-32-8-9-sons-of-el (Day/Smith) now supported by Psalm 82 as its judicial counterpart; monotheism-was-rhetoric (Smith) now challenged by wisdom counter-discourse — Job and Qoheleth represent a different mode of discourse that isn't "inner-community rhetoric"; four-stage-model (Smith) now challenged by Psalm 82 preserving operative divine council post-convergence.
+    - **The holiness cluster is now the most densely populated theological thread:** Lewis Ch10 (holiness as power → P's ideological hierarchy → H's democratization) plus Kaufmann's holiness-as-awe creates a four-position debate spanning 7 claims. No single scholar holds all the data; the graph now lets us see the full debate structure.
+  - **Lewis complete:** All 11 Lewis notes now extracted (Ch1-10 + Conclusion). Total: 54 Lewis claims. Lewis provides the most thorough current treatment of El (Ch3-5, 20 claims), the most balanced treatment of Yahweh's origin (Ch6, 6 claims), the most systematic defense of aniconism (Ch7, 4 claims), and the most original treatment of holiness (Ch10, 3 claims). His methodological framework (Ch1-2, 12 claims) emphasizes epigraphy + iconography + archaeology + text, skeptical of minimalism, committed to the Cross school's integration. Lewis is the claims graph's most reliable methodological anchor.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 83
+- **Next batch suggestion:** See below.
 
 ### 2026-07-31 -- Session 21 (Batch 19 Finalized)
 - **Notes processed:** 3 — Lewis Ch6 (Origin of Yahweh), Lewis Ch7 (Iconography of Divinity — Yahweh), Lewis Ch8 (Warrior and Family God)

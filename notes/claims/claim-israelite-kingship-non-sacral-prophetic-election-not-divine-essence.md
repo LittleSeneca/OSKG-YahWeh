@@ -64,6 +64,10 @@ If Kaufmann is right that Israelite kingship was categorically non-sacral, this 
 **Challenged by:**
 <!-- Will edge to Stavrakopoulou (royal body theology) when extracted -->
 
+**Nuanced by:**
+- [[claim-judean-kings-infused-divinity-not-deified]] — Lewis 9.2: Lewis's "infused with divinity but never deified" model occupies the precise middle ground. Kaufmann is right that Israelite kings were never deified and never received cult; Lewis shows they were nonetheless described with divine language (ʾĕlōhîm, divine sonship) that Kaufmann's non-sacral framing understates.
+- [[claim-kings-cultic-actors-not-priests-israel-judah]] — Lewis 9.1: kings were primary cultic actors who built sanctuaries, offered sacrifices, and performed ritual functions — though they were not priests. Kaufmann's absolute non-sacral claim flattens a more complex reality where kings had significant but bounded cultic authority.
+
 **Primary sources:**
 - Ps 2:7; 89:27 f. (divine sonship language)
 - II Sam 7:18 (David's self-abasement)

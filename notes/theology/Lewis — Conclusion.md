@@ -11,6 +11,12 @@ source:
 related:
   - "[[Lewis — Chapter 1 — Introductory Matters]]"
   - "[[Lewis — Chapter 10 — Holy One]]"
+claims_status: "extracted"
+claims_extracted_date: 2026-07-31
+claims_count: 2
+claims_files:
+  - "[[claim-goddess-polytheism-omissions-deserve-full-treatments]]"
+  - "[[claim-divinity-organizing-principle-productive-partial-limitation]]"
 ---
 
 # Lewis — Conclusion
@@ -19,35 +25,17 @@ The conclusion is brief — essentially a recap of the seven "tastings" and an h
 
 ---
 
-## Claim 1: The omissions — especially goddess religion and polytheism — are not slights but acknowledgments that these topics deserve full-length treatments in their own right
-
-**Lewis's claim:** "Let me be clear: The omission of this material should not be read as a slight to female divinity or to polytheism or to the fascinating world of the preternatural, all of which are subjects I have explored elsewhere. The exact opposite is true. These weighty topics are of such substance for understanding ancient Israel and its cultural world that they deserve full-length treatments in their own right."
-
-**Evidence:** Lewis walks through what a proper treatment of just ONE goddess (Astarte) would require: clearing away decades of misinterpretation, analyzing the paltry biblical data (only 3 singular + 6 plural references), situating it within Emar, Ugarit, Egyptian, and Phoenician comparanda, wrestling with orthographic/pejorative issues in the MT, and dealing with the "Queen of Heaven" material in Jeremiah. The Astarte excursus demonstrates convincingly that even a single goddess requires a monograph.
-
-**Confidence:** VERY HIGH that goddess religion deserves fuller treatment. MEDIUM on whether a single-volume reference work should have included it anyway — some readers will feel the exclusion is a structural weakness of the "lens of divinity" approach that privileges El and Yahweh.
-
-**What's at stake:** The comprehensiveness of the volume. Lewis chose depth over breadth, but the depth is almost entirely on MALE divinity. Feminist critics would say this perpetuates the androcentrism of the sources.
-
-**Who disagrees:** Dever, Stavrakopoulou, and Ackerman would argue goddess religion is CENTRAL to Israelite religion, not a side topic. A book on "ancient Israelite religion through the lens of divinity" that barely mentions Asherah (except as "Yahweh's asherah" at Kuntillet ʿAjrud) is structurally incomplete.
-
-**My assessment:** Lewis's honesty about the omissions is refreshing, but the omissions are real. This book is ultimately about El and Yahweh — and the goddesses, the demons, the angels, and the ancestors remain in the shadows. That's a legitimate choice for a reference work, but it means the book's title ("Ancient Israelite Religion") is slightly misleading. A more accurate title would be "El and Yahweh in Ancient Israelite Religion."
+## Claim 1: Goddess/polytheism omissions deserve full-length treatments
+→ [[claim-goddess-polytheism-omissions-deserve-full-treatments]] | **lewis-ocg-conc.1** | Confidence: high
+  The Astarte excursus demonstrates that even a single goddess requires a monograph. Lewis's choice of depth over breadth is defensible but the near-total neglect of goddess religion makes the book less "ancient Israelite religion" than "the masculine divine in ancient Israel."
+  Challenged by: [[claim-kuntillet-ajrud-proves-consort]], [[claim-asherah-el-consort-transferred-to-yahweh]]
 
 ---
 
-## Claim 2: Using divinity as an organizing principle was productive but necessarily partial — Israelite religion was more holistic and pluralistic than any single lens can capture
-
-**Lewis's claim:** "Using divinity as an organizing principle runs a certain risk. Obviously, Israelite divinity and religious culture were more holistic and pluralistic than what is presented here." He lists the divine attributes he couldn't cover in depth: Yahweh as creator, agrarian deity, transcendent god, eternal god, lord, storm god, "living God," solar deity, forgiving/merciful god, shepherd, rock, healer, strengthener of the weak, jealous god, source of wisdom, teacher, patient god, divine lover. "The list of divine features is unending."
-
-**Evidence:** The list itself is the evidence. Lewis's seven chapters cover 5 major aspects of Yahweh (warrior, family god, king, judge, holy one) — leaving at least 15+ attributes underexplored. This is honest but also reveals the limitation of the "distillate" metaphor: seven tastings are better than one, but they're still only seven.
-
-**Confidence:** VERY HIGH. This self-assessment is accurate.
-
-**What's at stake:** The book's status as a "reference work." It's an excellent reference for what it covers; it's not a reference for what it doesn't.
-
-**Who disagrees:** No one. Lewis is critiquing his own book here.
-
-**My assessment:** This conclusion is admirably honest. Most academic books end by claiming to have solved their problem. Lewis ends by listing everything he couldn't solve. The Astarte excursus is a particularly effective rhetorical move — "here's what doing justice to just ONE goddess would require" — and it makes the point more powerfully than any abstract acknowledgment could.
+## Claim 2: Divinity as organizing principle was productive but partial
+→ [[claim-divinity-organizing-principle-productive-partial-limitation]] | **lewis-ocg-conc.2** | Confidence: very-high
+  Seven chapters cover 5 major aspects of Yahweh — leaving 15+ attributes underexplored. Lewis lists everything he couldn't cover. "Most academic books end by claiming to have solved their problem. Lewis ends by listing everything he couldn't solve."
+  Depends on: [[claim-divinity-best-organizing-lens-israelite-religion]], [[claim-comprehensive-volume-israelite-religion-impossible-selectivity-required]], [[claim-religion-definition-impossible-pluralism-non-elite-key]]
 
 ---
 

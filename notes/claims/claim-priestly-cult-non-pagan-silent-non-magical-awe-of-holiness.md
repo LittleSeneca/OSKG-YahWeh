@@ -63,10 +63,12 @@ Whether the evidence for Israelite cult (standing stones, figurines, high places
 - [[claim-israelite-religion-non-mythological-fundamentally-unique]] — the silent temple is evidence for Israel's non-mythological uniqueness
 
 **Contradicts:**
-<!-- Will edge to Lewis Ch10 (holiness as priestly power) when extracted -->
 <!-- Will edge to Stavrakopoulou (temple as divine body) when extracted -->
 
 **Challenged by:**
+- [[claim-earliest-holiness-power-military-not-cultic-purity]] — Lewis 10.1: the earliest understanding of divine holiness was about power and military might, not cultic purity or silent awe. Kaufmann's reading of holiness as reverent silence is chronologically reversed — the power meaning came first, the priestly management came later.
+- [[claim-priestly-holiness-ideological-tool-hierarchy-power]] — Lewis 10.2: P's graded holiness was not a description of divine nature but an ideological tool for constructing and reinforcing priestly hierarchy. Kaufmann's "genuine awe" reading misses the power dynamics that generate the holiness gradations.
+- [[claim-holiness-code-democratized-holiness-entire-community]] — Lewis 10.3: H's democratization of holiness to the entire community shows that P's priestly monopoly on holiness was CONTESTED within the biblical tradition itself. Kaufmann's unified reading of priestly religion flattens the P vs. H debate.
 - [[claim-cult-places-objects-considered-divine]] — Smith's evidence that Israelite cult places and objects were considered divine
 
 **Primary sources:**
