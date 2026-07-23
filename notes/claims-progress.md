@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 84
-- **Total claims extracted:** 438
-- **Notes with edges added:** 84
-- **Last session:** 2026-08-02 (Session 28 / Batch 26)
+- **Notes with claims extracted:** 87
+- **Total claims extracted:** 458
+- **Notes with edges added:** 87
+- **Last session:** 2026-08-02 (Session 29 / Batch 27)
 
 ## By Scholar
 
@@ -115,9 +115,9 @@ related:
 - [x] Keel Uehlinger — Ch III — MB Temples Tel Kitan and Megiddo
 - [x] Keel Uehlinger — Ch V — The Hidden God Victorious Gods Fertility Iron I
 - [x] Keel Uehlinger — Ch X — Summary and Conclusion
-- [ ] Keel Uehlinger — Excursus — Astarte Plaques
-- [ ] Keel Uehlinger — Part I — Middle Bronze Age IIB
-- [ ] Keel Uehlinger — Part II — Late Bronze Age
+- [x] Keel Uehlinger — Excursus — Astarte Plaques
+- [x] Keel Uehlinger — Part I — Middle Bronze Age IIB
+- [x] Keel Uehlinger — Part II — Late Bronze Age
 - [ ] Keel Uehlinger — Part IV — Iron Age IIA
 - [ ] Keel Uehlinger — Part V — Iron Age IIB — Baal El Yahweh and His Asherah
 - [ ] Keel Uehlinger — Part VI — Iron Age IIC — Astralization and Orthodox Reaction
@@ -269,6 +269,25 @@ related:
     - **Moral dimension:** 10.6 gives the iconographic project an ethical payoff: if Canaanite religion was Israel's root system, the deuteronomistic polemic was self-mutilation.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 65
+- **Next batch suggestion:** See below.
+
+### 2026-08-02 — Session 29 (Batch 27 Finalized)
+- **Notes processed:** 3 — Keel Uehlinger Excursus (Astarte Plaques), Keel Uehlinger Part I (Middle Bronze Age IIB), Keel Uehlinger Part II (Late Bronze Age)
+- **Claims extracted:** 20 (5 Excursus, 8 Part I, 7 Part II)
+- **Edges added:** ~45 internal edges in 20 new claims + 28 cross-scholar edges in finalization pass across 18 claim files. Key clusters:
+  - **Astarte Plaques Excursus (5 claims):** Settles the "goddess or concubine?" debate decisively in favor of goddesses (excursus.1). The goddess is a non-royal everyday protectress (excursus.2), primarily a figure for women's piety around pregnancy and childbirth (excursus.3). The modern "goddess or woman?" question is a false binary — they're both (excursus.4). Critical for the Truth Project: the plaques are a CITY phenomenon absent from early Israelite hill country settlements (excursus.5) — breaks Dever's continuity argument.
+  - **Part I — MB IIB (8 claims):** Establishes the iconographic baseline for everything that follows. Caprids and lions are gender-ambiguous (p1.1) — pre-monotheistic divine domains weren't rigidly gendered. The Naked Goddess transforms from Syrian cylinder-seal consort to uniquely Canaanite "Branch Goddess" for mass-market scarabs (p1.2) — democratization of goddess religion. Q-symbol and Hippopotamus Goddess reveal 1,200-year continuity of female apotropaic religion (p1.3). Nahariyah and Gezer cult installations dedicated to a goddess — massebot could be female (p1.4) — forces reinterpretation of Arad. MB IIB weather god is primarily vegetation/fertility (branch-holding), not warrior (p1.5) — complicates the standard projection of Ugaritic Baal backward. Falcon-headed figure = deliberate Horus-Canaanite weather god merger — ideological groundwork for Hyksos rule (p1.6). Ruler in fringed garment = deified Canaanite kingship mediating between divine and human (p1.7). Erotic couples on seals mirror divine intimacy — sexuality integrated into religion (p1.8).
+  - **Part II — Late Bronze Age (7 claims):** The MB→LB transition was gradual and regionally variable — no single "Canaanite religion" (p2.1). Hazor maintained northern Syrian/Anatolian traditions with male heavenly deities eclipsing the goddess — first evidence of piety toward heavenly beings in Palestine (p2.2). Megiddo saw decisive shift from vegetation goddess to warrior deities, directly attributed to Egyptian colonialism (p2.3). Lachish shows most intense Egyptian-Canaanite syncretism — qudshu goddess, Baal-Seth as serpent-conqueror, Hathor, inscribed pitcher to "my lady Elat" (p2.4). Beth-Shean shows extreme Egyptian state religion — Amun dominance, pharaoh ideology, goddesses excluded from monuments but surviving in cheap terra-cotta (p2.5). Astarte Plaques represent survival of indigenous goddess worship in domestic piety (p2.6). The LB witnessed radical split between "official" male warrior religion (costly media) and "private" goddess piety (cheap terra-cotta) — driven by Egyptian colonialism (p2.7).
+  - **Cross-scholar edge pass — 28 new edges across 18 files connecting Keel/Uehlinger MB-LB arc to existing graph:**
+    - **Keel → Albertz on family piety and pluralism (8 edges):** The Astarte plaques' female-centered piety (excursus.3-4) now edges to Albertz's family piety substratum and Queen of Heaven crisis claim. The MB IIB Branch Goddess mass-market tradition (p1.2) and 1,200-year female apotropaic continuity (p1.3) are the material infrastructure for Albertz's family piety model. The LB official/private split (p2.7) IS Albertz's internal religious pluralism in material form, documented 500 years earlier. The city/hill-country gap (excursus.5) and four-city regional diversity (p2.1) provide geographic validation. Beth-Shean (p2.5) is the proof case — monumental (male, Egyptian) vs. terra-cotta (goddess, indigenous).
+    - **Keel → Smith on Baal convergence and Asherah (7 edges):** The MB IIB weather god's vegetation profile (p1.5) explains peaceful Baal-Yahweh coexistence in Judges. The Megiddo goddess→warrior shift (p2.3) creates the vacancy Yahweh fills via absorbing Baal's storm imagery. The Lachish Baal-Seth serpent-conqueror (p2.4) is the direct LB precedent for Chaoskampf. The unnamed everyday goddess (excursus.2) contradicts Smith's Asherah-as-symbol reading. The Branch Goddess tradition (p1.2) is the archaeological prehistory for asherim. The gender-ambiguous caprids/lions (p1.1) and Canaanite-Egyptian falcon-headed syncretism (p1.6) show the pre-Yahwistic fluidity Smith's convergence model works from.
+    - **Keel → Kaufmann (3 edges):** The MB erotic couples (p1.8) integrating sexuality into religion contradict Kaufmann's "absolutely different from paganism." The LB official/private split (p2.7) shows Israel inherited structural conditions, not an absolute break. The fringed-garment deified ruler (p1.7) contradicts Kaufmann's non-sacral Israelite kingship — and Smith's constructive monarchy thesis.
+    - **Keel → Southern origin thesis (3 edges):** Hazor's northern male heavenly deities (p2.2) contrast sharply with Lachish's southern Egyptian-Canaanite syncretism — Yahweh emerged from a different subsystem. The Lachish region (p2.4) was already dominated by Baal-Seth syncretism before Yahweh. The LB transition's regional diversity (p2.1) supports multiple origin points.
+    - **Keel → Monarchy debate (5 edges):** The MB deified ruler (p1.7) now contradicts Smith's constructive monarchy thesis and supports Albertz's monarchy-as-crisis. The Megiddo goddess→warrior shift (p2.3) contradicts Smith — Egyptian colonialism, not Israelite monarchy, drove the shift. The LB split (p2.5) proves the structural conditions predated Israel by centuries.
+    - **Keel → Keel internal (prior chapters):** Heavy density of internal edges connecting the Excursus, Part I, and Part II claims to the earlier-extracted Ch I (methodology), Ch III (MB temples), Ch V (Iron I), and Ch X (conclusion). The MB IIB Branch Goddess (p1.2) → LB Astarte Plaques (p2.6) → Iron I goddess disappearance (Ch V) → Iron I depersonalized fertility (Ch V) chain is now fully linked.
+  - **Keel/Uehlinger now 7 of 11 notes extracted (46 claims):** Ch I (7), Ch III (5), Ch V (8), Ch X (6) + Excursus (5), Part I (8), Part II (7). The full arc now covers: methodology (Ch I) → earliest MB IIB iconography (Part I) → LB Egyptian colonialism and goddess→warrior shift (Part II) → MB temples (Ch III) → Iron I transition (Ch V) → synthesis (Ch X). Remaining: Part IV (Iron IIA), Part V (Iron IIB — the "Yahweh and His Asherah" chapter), Part VI (Iron IIC), Part VII (Iron III).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 62
 - **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 25 (Batch 23 Finalized)
