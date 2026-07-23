@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "pipeline",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 480,
+      "color": "4",
+      "text": "# Truth Project Pipeline\n\n**Phase 0:** Source Acquisition\n17 books → plaintext (19MB)\n\n**Phase 1:** Chapter Notes\n`obsidian-book-notes` skill\n149 notes, ~466KB\nClaim → Evidence → Confidence\n\n**Phase 2:** Claims Extraction\n`extract-loop.sh` + `claims-extraction`\nLLM + human-in-the-loop\n380+ claims, typed edges\n\n**Phase 3:** Knowledge Graph\nObsidian graph view\nQueryable by topic, scholar,\nevidence, confidence\n\n**Phase 4:** Synthesis (pending)\nArgument dependency maps\nConvergence scoring\nFault-line detection\n\n---\n**Notes:** [[notes/pipeline-overview]]\n**Claims:** [[notes/claims-architecture]]"
+    },
+    {
+      "id": "orkg",
+      "type": "text",
+      "x": 420,
+      "y": 0,
+      "width": 320,
+      "height": 480,
+      "color": "5",
+      "text": "# ORKG\nOpen Research Knowledge Graph\n\n**(Auer, D'Souza, Farfar et al.)**\nLeibniz University Hannover\nSince ~2019\n\n## Same Pipeline Architecture\n\n**Ingestion:** LLM + human-in-loop\npapers → structured claims\n\n**Structuring:** Semantic\nfrontmatter on claim nodes\n\n**Enrichment:** Typed edges\nbetween claims (cross-paper)\n\n**Synthesis:** Evidence synthesis\nfrom graph structure\n\n## Key References\n\nAuer et al. (2025) — flagship\n20+ citations\n\nTan & D'Souza (2026) — LLM\nextraction for meta-analysis\n\nAggarwal (2026) — human-in-\nloop extraction model\n\n---\n**Full analysis:** [[methodology-alignment]]"
+    },
+    {
+      "id": "convergence",
+      "type": "text",
+      "x": 210,
+      "y": 540,
+      "width": 320,
+      "height": 200,
+      "color": "2",
+      "text": "# Independent Convergence\n\nBoth pipelines developed organically\n— no prior knowledge of each other.\n\n**Same pattern:**\nstructured claims → typed edges →\ngraph querying → synthesis\n\n**Key difference:**\nORKG = millions of papers, shallow\nTruth = 17 books, deep per-chapter\n\n**Implication:** The pattern is robust.\nIndependent arrival = methodological\nvalidity, not coincidence.\n\n[[methodology-alignment]]"
+    },
+    {
+      "id": "claims-node",
+      "type": "text",
+      "x": -280,
+      "y": 300,
+      "width": 240,
+      "height": 160,
+      "color": "3",
+      "text": "# notes/claims/\n\n380+ claim files\nTyped edges:\n- supports\n- contradicts\n- depends on\n- challenged by\n\nFilter by: topic, scholar,\nevidence, confidence\n\n[[notes/claims-architecture]]"
+    },
+    {
+      "id": "theology-notes",
+      "type": "text",
+      "x": -280,
+      "y": 60,
+      "width": 240,
+      "height": 180,
+      "color": "1",
+      "text": "# notes/theology/\n\n149 chapter notes\n11+ scholars covered\n\nFormat:\n## Claim N → Evidence\n→ Confidence → Stakes\n→ Disagreement\n→ Assessment\n\n[[notes/Theology Index]]"
+    },
+    {
+      "id": "progress",
+      "type": "text",
+      "x": 620,
+      "y": 520,
+      "width": 240,
+      "height": 160,
+      "color": "6",
+      "text": "# Current State\n\n75/149 notes processed\n380 claims extracted\n25 extraction sessions\n\n**Next:** Finish extraction\n→ Tag audit\n→ Argument dependency map\n→ Weighted consensus\n\n[[notes/claims-progress]]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "theology-notes",
+      "fromSide": "right",
+      "toNode": "pipeline",
+      "toSide": "left",
+      "label": "Phase 1 → Phase 2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "pipeline",
+      "fromSide": "bottom",
+      "toNode": "claims-node",
+      "toSide": "top",
+      "label": "output → claims/"
+    },
+    {
+      "id": "e3",
+      "fromNode": "pipeline",
+      "fromSide": "right",
+      "toNode": "orkg",
+      "toSide": "left",
+      "label": "Same architecture"
+    },
+    {
+      "id": "e4",
+      "fromNode": "pipeline",
+      "fromSide": "bottom",
+      "toNode": "convergence",
+      "toSide": "top",
+      "label": "validated by"
+    },
+    {
+      "id": "e5",
+      "fromNode": "orkg",
+      "fromSide": "bottom",
+      "toNode": "convergence",
+      "toSide": "top",
+      "label": "independently"
+    },
+    {
+      "id": "e6",
+      "fromNode": "claims-node",
+      "fromSide": "right",
+      "toNode": "progress",
+      "toSide": "left",
+      "label": "380 extracted"
+    }
+  ]
+}
