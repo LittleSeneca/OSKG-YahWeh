@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 81
-- **Total claims extracted:** 419
-- **Notes with edges added:** 81
-- **Last session:** 2026-08-02 (Session 27 / Batch 25)
+- **Notes with claims extracted:** 84
+- **Total claims extracted:** 438
+- **Notes with edges added:** 84
+- **Last session:** 2026-08-02 (Session 28 / Batch 26)
 
 ## By Scholar
 
@@ -112,9 +112,9 @@ related:
 
 ### Keel & Uehlinger, Gods, Goddesses, and Images (11 notes)
 - [x] Keel Uehlinger — Ch I — Starting Point and Points of Departure
-- [ ] Keel Uehlinger — Ch III — MB Temples Tel Kitan and Megiddo
-- [ ] Keel Uehlinger — Ch V — The Hidden God Victorious Gods Fertility Iron I
-- [ ] Keel Uehlinger — Ch X — Summary and Conclusion
+- [x] Keel Uehlinger — Ch III — MB Temples Tel Kitan and Megiddo
+- [x] Keel Uehlinger — Ch V — The Hidden God Victorious Gods Fertility Iron I
+- [x] Keel Uehlinger — Ch X — Summary and Conclusion
 - [ ] Keel Uehlinger — Excursus — Astarte Plaques
 - [ ] Keel Uehlinger — Part I — Middle Bronze Age IIB
 - [ ] Keel Uehlinger — Part II — Late Bronze Age
@@ -243,6 +243,32 @@ related:
   - **Albertz complete at 94 claims across 14 notes:** The most thorough social-scientific treatment of Israelite religion's full chronological sweep. Albertz provides the sociological mechanism, political history, and class analysis that textual/iconographic approaches lack. His narrative arc contradicts Kaufmann at every stage, enriches Smith/Römer with social stratification, and provides independent converging evidence for the southern origin of Yahweh, the El-first thesis, the monarchy as theological crisis, and the exile as transformative watershed.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 68
+- **Next batch suggestion:** See below.
+
+### 2026-08-02 — Session 28 (Batch 26 Finalized)
+- **Notes processed:** 3 — Keel Uehlinger Ch III (MB Temples Tel Kitan and Megiddo), Keel Uehlinger Ch V (Hidden God Victorious Gods Fertility Iron I), Keel Uehlinger Ch X (Summary and Conclusion)
+- **Claims extracted:** 19 (5 Ch III, 8 Ch V, 6 Ch X)
+- **Edges added:** ~40+ internal edges already in 19 new claims + 5 new cross-scholar edges in finalization pass + 2 broken wikilinks repaired. Key clusters:
+  - **Keel/Uehlinger partial arc now in the graph:** Ch I (7 claims, methodology) + Ch III (5 claims, MB IIB temple iconography) + Ch V (8 claims, Iron I transition) + Ch X (6 claims, synthesis and conclusion). Total: 26 Keel/Uehlinger claims across 4 of 11 notes. The arc runs: methodological manifesto (Ch I) → earliest Palestinian temple iconography showing goddess prominence (Ch III) → Iron I transition with goddess disappearance, Amun hidden-god theology, and Seth-Baal combat-to-command shift (Ch V) → synthesis: no distinctive Yahweh iconography, absorptive identity, and deuteronomistic suppression as self-mutilation (Ch X).
+  - **Ch III — MB IIB temple iconography (5 claims):** Tel Kitan female stele disproves all-male massebah assumption (3.1). Megiddo 16:6 female-to-male figurine ratio establishes goddess-prominent MB IIB baseline (3.2). Falcon-headed figure on jasper-group scarabs = earliest documented Canaanite-Egyptian divine syncretism, prefiguring later solar Yahwism (3.3). Fringed-garment ruler provides evidence for ruler cult in Canaan BEFORE Israelite monarchy (3.4). Erotic couple imagery and entire MB IIB "sexual" religious system is period-specific, not eternal "Canaanite religion" (3.5).
+  - **Ch V — Iron I as genuine transitional period (8 claims):** The period has its own coherent iconographic system combining Egyptian continuity with radical innovation (5.1). Amun temple at Gaza propagated "hidden god" theology via mass-produced seals — precursor to Israelite aniconism (5.2). Anthropomorphic goddess virtually disappears from glyptic art — the repertoire becomes exclusively masculine, domineering, triumphant (5.3). Seth-Baal and Reshef shift from combat to command — standing ON animals rather than fighting them (5.4). Fertility becomes depersonalized "numinous power" rather than personal divine force — goddess attributes survive detached from personhood (5.5). Amun cryptography reveals sophisticated theology of divine hiddenness predating Israelite aniconism (5.6). Ben-Anat warrior class shows goddess traditions survived in military aristocratic niches, not public cult (5.7). Two dominant themes — aggression/domination and agricultural/herd fertility — correspond to the dual concerns of the Judges era (5.8).
+  - **Ch X — Synthesis and theological conclusion (6 claims):** Pictures are better than words at capturing religious "constellations" (10.1). Standard reconstruction relying on Ugaritic texts + Hebrew Bible is structurally flawed — both corpora are geographically and chronologically distant from Iron Age Palestine (10.2). There was never a distinctive "Yahweh iconography" — he was depicted through the imagery of other deities with borrowed visual vocabulary (10.3). External evidence rejects both Mosaic monotheism and extreme late-dating minimalism — a middle path (10.4). Yahweh's identity was "open at the back" (Thomas Mann metaphor) — his absorptiveness IS his distinctiveness (10.5). Deuteronomistic suppression of Canaanite religion is structurally parallel to Christian anti-Judaism — the book's moral conclusion (10.6).
+  - **Cross-scholar edge pass — 5 new edges added in finalization:**
+    - **10.6 → Kaufmann:** Deuteronomistic suppression as self-mutilation now contradicts claim-israelite-religion-absolutely-different-paganism-from-beginning — Keel/Uehlinger's moral charge can only land if the boundary between Israelite and Canaanite religion was fluid, not absolute.
+    - **10.5 → Smith composite:** Open-ego metaphor now edges to claim-yahweh-composite-deity-product-of-convergence — the iconographic counterpart to Smith's textual argument.
+    - **5.8 → Smith's Baal indigenous:** Baal-X toponyms now edge to claim-baal-asherah-indigenous-israelite-not-foreign-syncretism — archaeological confirmation that Baal was native, not foreign import.
+    - **5.4 → Day's unified Baal:** Combat-to-command shift now edges to claim-baals-local-manifestations-one-deity — the systematic nature of the shift implies a unified theological concept, not local variants.
+    - **10.2 → Smith's Canaanite construct:** Ugarit-to-Bible pipeline critique now edges to claim-canaanite-modern-scholarly-construct-west-semitic-preferable — both reject a timeless "Canaanite religion" projected from distant texts.
+  - **Broken wikilinks repaired (2):** claim-abstract-traits-fire-kabod-name-emptiness-dominant-yahweh-mode → replaced with HTML comments in 5.2 and 10.5. The target claim (Lewis Ch7 abstract modes) doesn't exist yet — will edge when extracted.
+  - **Keel/Uehlinger now 4 of 11 notes extracted (26 claims):** Ch I (methodology), Ch III (MB IIB temples), Ch V (Iron I transition), Ch X (conclusion). Remaining: Ch II (LB), Ch IV (LB cont.), Ch VI (Iron IIA), Ch VII (Iron IIB), Ch VIII (Iron IIC), Ch IX (Iron III), and Excursus (Astarte Plaques). The extracted chapters establish the methodological framework and bookend the full arc — the middle chapters (IV, VI-IX) will populate the diachronic sequence.
+  - **Key Keel/Uehlinger contributions to the graph:**
+    - **Iconographic methodology as challenge to text-priority:** 10.2 and 10.1 directly challenge the Smith/Cross/Day/Römer methodology of Ugaritic-to-HB textual reconstruction. Not a rejection of texts, but a re-centering on local, datable iconographic evidence.
+    - **Goddess disappearance BEFORE Israel:** 5.3 and 5.5 are the book's most important findings for the Asherah debate. If the anthropomorphic goddess was already in decline during Iron I — before Israel emerged as a state — then the absence of a divine consort for Yahweh may not be a product of "Yahweh-alone" suppression but of a prior, broader cultural shift.
+    - **Hidden-god theology as aniconism precursor:** 5.2 and 5.6 provide an Egyptian-Canaanite genealogy for Israelite aniconism — Amun's hiddenness theology was circulating in Palestine via mass-produced seals centuries before the Deuteronomistic reform.
+    - **Absorptive identity as convergence mechanism:** 10.5 captures Smith's convergence model in a single metaphor — Yahweh's distinctiveness IS his absorptiveness.
+    - **Moral dimension:** 10.6 gives the iconographic project an ethical payoff: if Canaanite religion was Israel's root system, the deuteronomistic polemic was self-mutilation.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 65
 - **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 25 (Batch 23 Finalized)
