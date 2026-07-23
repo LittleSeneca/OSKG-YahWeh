@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 45
-- **Total claims extracted:** 204
-- **Notes with edges added:** 45
-- **Last session:** 2026-07-28 (Session 15 / Batch 13)
+- **Notes with claims extracted:** 48
+- **Total claims extracted:** 226
+- **Notes with edges added:** 48
+- **Last session:** 2026-07-28 (Session 16 / Batch 14)
 
 ## By Scholar
 
@@ -70,9 +70,9 @@ related:
 - [x] Kaufmann — Ch II — Pagan Religion
 - [x] Kaufmann — Ch III — Israelite Religion
 - [x] Kaufmann — Ch IV — The Religion of the People
-- [ ] Kaufmann — Ch V — The Sources
-- [ ] Kaufmann — Ch VI — The Origins of Israelite Religion
-- [ ] Kaufmann — Ch VII — The Conquest and Settlement
+- [x] Kaufmann — Ch V — The Sources
+- [x] Kaufmann — Ch VI — The Origins of Israelite Religion
+- [x] Kaufmann — Ch VII — The Conquest and Settlement
 - [ ] Kaufmann — Ch VIII — The Monarchy
 - [ ] Kaufmann — Ch IX — Some Aspects of the Popular Religion
 - [ ] Kaufmann — Ch X — The Literature and the Age
@@ -353,6 +353,19 @@ related:
   - **Kaufmann's theoretical foundation is now complete:** Introduction (7 claims) + Ch I (10 claims) + Ch II (8 claims) + Ch III (10 claims) + Ch IV (8 claims) = 43 claims establishing Kaufmann's framework. The metadivine realm definition (Ch II) and the non-pagan characteristics (Ch III) form the theoretical apparatus; Ch IV applies it to the evidence for popular religion. The rest of Kaufmann (Ch V-XIII + Epilogue) applies this framework to Israel's historical development.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 104
+- **Next batch suggestion:** See below.
+
+### 2026-07-28 — Session 16 (Batch 14 Finalized)
+- **Notes processed:** 3 — Kaufmann Ch V (The Sources), Kaufmann Ch VI (The Origins of Israelite Religion), Kaufmann Ch VII (The Conquest and Settlement)
+- **Claims extracted:** 22 (8 Ch V, 8 Ch VI, 6 Ch VII) — Kaufmann's source-critical and historical foundation
+- **Edges added:** ~60+ cross-scholar edges already in the 22 new claims. Key clusters:
+  - **Ch V — Kaufmann's source-critical reversal:** The strongest set of arguments Kaufmann brings to the table. Eight claims establishing that Torah-priority, P's non-centralized worldview, and the independence of the three law corpora invert the Wellhausen sequence. The tithe argument (5.5) is Kaufmann's most textually sophisticated work in the chapter — the data is genuinely hard to explain on the assumption that P was composed by post-exilic priests for their own benefit.
+  - **Ch VI — The monotheistic revolution's origin:** Eight claims on how Israelite religion began. Moses as creative genius (6.3) is Kaufmann's weakest claim — "creative genius" is functionally equivalent to "divine revelation." The "new divine drama" (6.5) is descriptively strong but historically compressed. The Kenite hypothesis rejection (6.6) is where theological commitments most clearly distort historical judgment. The Exodus historical kernel (6.8) is reasonably sober but the covenant ceremony reconstruction depends on a text composed centuries later.
+  - **Ch VII — Conquest as unified national-religious project:** Six claims on the settlement period. The unified conquest (7.1) and ḥerem (7.2) contradict the archaeological consensus — cultural continuity between LB and Iron I. The "kingdom of God" tribal league (7.3) is Kaufmann at his best descriptively (the non-consecutive, spirit-empowered judges pattern is accurate to the text) but overstated in uniqueness claims. The indigenous cult argument (7.4) understates material continuity in cultic furniture. The eschatological quality claim (7.6) is underargued.
+  - **Cross-scholar contradictions densely populated:** The 22 claims contradict ~35 existing Smith/Römer/Day claims. Key vectors: Torah priority → contradicts monotheism-as-rhetoric thesis, four-stage model, Deuteronomistic fiction. Moses as origin → contradicts Kenite hypothesis, southern origin, Römer's Midianite mediation. Conquest/Herm → contradicts Canaanite continuity, convergence framework, Baal coexistence. The Kaufmann/Smith-Römer contradiction structure is now comprehensively mapped across 65 Kaufmann claims (43 theoretical + 22 historical).
+  - **Kaufmann's historical development arc opened:** Introduction-Ch IV (43 claims) established the theoretical framework. Ch V-VII (22 claims) begin applying it: sources (Ch V) → origins (Ch VI) → settlement (Ch VII). The remaining 7 Kaufmann chapters (Ch VIII-XIII + Epilogue) will trace the monarchy through exile.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 101
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1
