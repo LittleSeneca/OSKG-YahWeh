@@ -59,6 +59,7 @@ This is the same claim Smith and Romer both make: the Bible's own narrative admi
 - [[claim-el-original-god-exodus]] — Smith's parallel treatment of Exodus 6:2-3 in *Origins* (smith-obm-7.4): the patriarchs knew El, not Yhwh.
 - [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic claim (romer-inv-intro.2): Yhwh's journey from desert war god to sole God begins with his introduction as a new deity to Israel.
 - [[claim-yhwh-originated-southern-deserts-edom-seir]] — the foreign origin claim is the logical prerequisite for the southern origin thesis
+- [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — the four southern-march poems (Deut 33, Judg 5, Ps 68, Hab 3) are the poetic evidence for the foreign origin that Exodus 6:2-3 acknowledges in narrative; same biblical memory, two literary forms
 - [[claim-yahweh-el-originally-distinct-deities]] — Day's parallel argument that El and Yhwh were originally separate deities
 
 **Contradicts:**

@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 24
-- **Total claims extracted:** 128
-- **Notes with edges added:** 24
-- **Last session:** 2026-07-25 (Session 8)
+- **Notes with claims extracted:** 27
+- **Total claims extracted:** 134
+- **Notes with edges added:** 27
+- **Last session:** 2026-07-26 (Session 9)
 
 ## By Scholar
 
@@ -45,9 +45,9 @@ related:
 
 ### Römer, The Invention of God (19 notes)
 - [x] Romer — Introduction
-- [ ] Romer — Introduction and Chapter 1
-- [ ] Romer — Chapter 1 — The Name
-- [ ] Romer — Chapter 2 — Geographic Origin
+- [x] Romer — Introduction and Chapter 1
+- [x] Romer — Chapter 1 — The Name
+- [x] Romer — Chapter 2 — Geographic Origin
 - [ ] Romer — Chapter 3 — Moses and the Midianites
 - [ ] Romer — Chapters 2-3 — Geographic Origin and Moses
 - [ ] Romer — Chapter 4 — How Yhwh Became Israel's God
@@ -219,6 +219,18 @@ related:
 - **Commits:** 1 (pending)
 - **Notes remaining:** 125
 - **Next batch suggestion:** Smith Origins Ch2 (Divine Council) + Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Romer Ch1 (The Name). Rationale: Divine Council is the highest-edge-density remaining topic — connects to smith-obm-9.5 (Daniel 7), smith-ehg-1.5 (Judges pantheon), smith-obm-1.1-1.4 (spatial taxonomy), and Heiser/Cross when processed. Day Ch4 directly continues the Baal conflict/convergence thread from Day Ch3 and Smith Ch2 — edges to smith-ehg-2.1, 2.2; day-ygc-3.1-3.6; smith-obm-6.x. Romer Ch1 opens the Yahweh name/origin investigation, edges to romer-inv-intro.2 and smith-obm-7.6. Edge compounding: these three will connect to 15+ existing claims.
+
+### 2026-07-26 — Session 9
+- **Notes processed:** 3 — Romer Introduction and Chapter 1 (covered by individual notes), Romer Chapter 1 (The Name), Romer Chapter 2 (Geographic Origin)
+- **Claims extracted:** 6 (4 Ch1: pronunciation Yahô/Yahû, name prohibition as monotheistic consequence, "he blows" storm-god etymology, Bible acknowledges Yhwh's foreign origin; 2 Ch2: southern origin via Soleb, four biblical poems preserve southern tradition)
+- **Edges added:** 5 cross-scholar retrofits to existing Session 1-8 claims (smith-ehg-1.1, smith-obm-7.6, day-ygc-1.2, romer-inv-1.4 ↔ romer-inv-2.2 bidirectional) + ~20 internal edges already in the new claims. Key clusters:
+  - **Southern origin evidence consolidation:** romer-inv-2.1 (Soleb) and romer-inv-2.2 (four poems) now edge to smith-ehg-1.1 (El original god), smith-obm-7.6 (southern storm warrior), and day-ygc-1.2 (southern origin) — three scholars, same thesis, independent evidence. Romer's Soleb evaluation is the most detailed treatment; Smith and Day both benefit from it.
+  - **Exodus 6:2-3 as convergence point:** romer-inv-1.4 (Bible acknowledges Yhwh's foreign origin) now edges to romer-inv-2.2 (four poems) — narrative acknowledgment in Exodus ↔ poetic enactment in Judges/Deut/Hab. Same biblical memory, two literary forms. Also added to smith-ehg-1.1's edges.
+  - **Storm-god etymology cross-link:** romer-inv-1.3 ("he blows") added to day-ygc-1.2's edges — philological dimension to the geographic argument.
+  - **Romer's Ch1-Ch2 internal coherence:** Four claims in Ch1 (name, prohibition, etymology, foreign origin) all point forward to Ch2's southern origin evidence. The book is building its case sequentially; each chapter depends on the prior.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 122
+- **Next batch suggestion:** Romer Ch3 (Moses and the Midianites) + Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Smith Origins Ch2 (Divine Council). Rationale: Romer Ch3 completes the southern origin trilogy (Name → Geography → Moses/Midian) — edges directly to romer-inv-1.4, 2.1, 2.2 and smith-obm-7.6. Day Ch4 is the counterpoint to Smith Ch2's Baal convergence model (same data, conflict reading) — continues the Baal diptych from Day Ch3. Smith Origins Ch2 (Divine Council) is the highest-edge-density remaining topic — connects to smith-ehg-1.5 (Judges pantheon), smith-obm-1.1-1.4 (spatial taxonomy), day-ygc-1.1/1.3 (El distinction, seventy sons), and romer-inv-1.3/2.1 (southern deity within council context). Edge compounding: these three will connect to 20+ existing claims.
 
 ### 2026-07-23 — Session 2
 - **Notes processed:** 3 — Smith Ch2 (Yahweh and Baal), Römer Ch8 (Statue of Yhwh), Day Ch1 (Yahweh and El)

@@ -71,6 +71,8 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - [[claim-el-cult-persisted-iron-age]] — El's cult persisted alongside Yahwism (Smith, *Origins*)
 - [[claim-yahweh-el-originally-distinct-deities]] — Day's parallel argument for original distinction
 - [[claim-yahweh-originated-south-midian-edom]] — Day on Yahweh's southern origin
+- [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer's Soleb evidence (14th c. BCE) is the strongest epigraphic case for southern origin
+- [[claim-bible-acknowledges-yhwh-foreign-origin]] — Romer's analysis of Exodus 6:2-3 as the Bible's own admission of Yhwh's foreignness to the patriarchs
 - [[claim-divine-council-seventy-sons-of-el]] — Day on the divine council structure
 - [[claim-eden-derives-from-el-dwelling-place]] — Day on El's dwelling
 - [[claim-el-shaddai-means-el-mountain-one]] — Day on El Shaddai
