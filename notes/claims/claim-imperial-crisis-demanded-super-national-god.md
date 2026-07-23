@@ -83,6 +83,7 @@ If monotheism is a response to imperial crisis (Assyria/Babylon), then it's POLI
 - Purely internal Israelite development models
 
 **Challenged by:**
+- [[claim-exiles-monotheists-never-considered-babylonian-gods]] (kaufmann-ri-13.8) — if the exiles never considered Babylonian gods as genuine competitors, the imperial crisis didn't drive theological innovation in the way Smith's inverse correlation requires; the problem was covenantal (why did YHWH abandon us?), not theological (is Marduk stronger?)
 - Persian-period dating of key monotheistic texts
 - The Mesopotamian imitation model (Israel copying imperial theology rather than reacting against it)
 

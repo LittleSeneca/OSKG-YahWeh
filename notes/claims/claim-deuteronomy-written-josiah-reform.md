@@ -81,6 +81,8 @@ The book of Deuteronomy — "Hear O Israel, the Lord our God, the Lord is One" �
 
 **Challenged by:**
 <!-- Evidence or arguments that weaken this claim -->
+- [[claim-jeremiah-prophet-of-deuteronomy-torah-derived]] (kaufmann-ri-13.4) — Kaufmann argues Jeremiah's inaugural vision (Jer 1) predates the "discovery" of D (Jer 11), which means D already existed and Jeremiah had studied it BEFORE Josiah's reform. The "discovery" is a reintroduction, not a composition.
+- [[claim-josiah-reforms-endured-no-pagan-revival]] (kaufmann-ri-13.3) — if the reforms genuinely endured and there was no pagan revival, D's influence was deeper and more organic than a royal PR campaign could achieve
 - Arguments for an exilic (post-587) date for Deuteronomy's core, which would disconnect it from Josiah entirely.
 - The possibility that the discovery narrative, while clearly stylized, may still preserve a historical memory of an actual document find.
 

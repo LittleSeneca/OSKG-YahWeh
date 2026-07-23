@@ -90,6 +90,11 @@ The narrative arc IS the book's argument. Römer doesn't just assert that monoth
 [[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann's foundational thesis is the mirror image of Römer's arc. Where Römer traces a millennium-long sedimentary construction from polytheism to monotheism, Kaufmann argues Israelite religion was monotheistic and non-mythological from the beginning. These are incompatible frameworks.
 [[claim-torah-pre-prophetic-earliest-stage-israelite-religion]] — Kaufmann reverses the Documentary Hypothesis sequence (P earliest, not latest). Römer accepts the critical dating where monotheism is late; Kaufmann argues monotheism is earliest. If Kaufmann is right, Römer's entire arc is backwards.
 [[claim-bible-utterly-ignorant-nature-meaning-pagan-religion]] — Kaufmann's observation that the Bible shows no awareness of pagan mythology would, if explained as genuine ignorance rather than polemical strategy, undermine Römer's claim that Israel emerged FROM and transformed pagan categories. You can't transform what you never knew.
+[[claim-amos-inherited-monotheism-not-innovator]] (kaufmann-ri-11.1) — if Amos inherited full monotheism in the 8th century, Römer's millennium-long arc is several centuries too long
+[[claim-prophets-inherited-monotheism-did-not-invent]] (kaufmann-ri-12.7) — Isaiah, Micah, and Habakkuk all assume monotheism; they are not building toward it
+[[claim-jeremiah-ezekiel-inherited-monotheism-not-innovators]] (kaufmann-ri-13.5) — the exile's prophets were not forging monotheism but applying inherited monotheistic categories to catastrophe
+[[claim-exiles-monotheists-never-considered-babylonian-gods]] (kaufmann-ri-13.8) — if the exiles were already monotheists, the exile was not the forge but the test
+[[claim-josiah-reforms-endured-no-pagan-revival]] (kaufmann-ri-13.3) — if reforms endured, the exile found a monotheistic population, not one still weaning off polytheism
 
 **Challenged by:**
 <!-- Evidence or arguments that weaken this claim -->

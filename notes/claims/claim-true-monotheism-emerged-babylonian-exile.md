@@ -92,6 +92,9 @@ Monotheism — the belief that there is only one God — was not revealed to Mos
 **Challenged by:**
 - [[claim-exile-extinction-idolatry-proves-popular-monotheism]] (kaufmann-ri-4.3) — Kaufmann's most powerful historical argument: complete disappearance of idolatry after exile has no parallel in religious history, suggesting monotheism was already popular before the exile, not forged by it
 - [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the causal arrow: exile was not the forge but the test that confirmed an already-existing monotheism
+- [[claim-jeremiah-ezekiel-inherited-monotheism-not-innovators]] (kaufmann-ri-13.5) — if Jeremiah and Ezekiel inherited monotheism rather than creating it, the exile was not where monotheism was born
+- [[claim-exiles-monotheists-never-considered-babylonian-gods]] (kaufmann-ri-13.8) — Ezekiel 20:32 shows exiles contemplating apostasy as "serving wood and stone," not accepting Marduk; the crisis was covenantal, not theological
+- [[claim-prophets-inherited-monotheism-did-not-invent]] (kaufmann-ri-12.7) — the 8th-century prophets already assume monotheism is the starting point; Second Isaiah radicalizes, but doesn't originate
 - Deuteronomic passages (Deut 4:35, 4:39) that sound monotheistic, potentially pushing the date earlier.
 - The possibility that monotheistic ideas existed among some circles earlier but are only attested in Second Isaiah because of the accidents of textual preservation.
 - Persian/Zoroastrian influence as an alternative or complementary explanation — if Second Isaiah was influenced by Persian theology, the "invention" may be partly borrowed.

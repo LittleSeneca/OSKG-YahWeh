@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 51
-- **Total claims extracted:** 253
-- **Notes with edges added:** 51
-- **Last session:** 2026-07-28 (Session 17 / Batch 15)
+- **Notes with claims extracted:** 54
+- **Total claims extracted:** 279
+- **Notes with edges added:** 54
+- **Last session:** 2026-07-29 (Session 18 / Batch 16)
 
 ## By Scholar
 
@@ -76,9 +76,9 @@ related:
 - [x] Kaufmann — Ch VIII — The Monarchy
 - [x] Kaufmann — Ch IX — Some Aspects of the Popular Religion
 - [x] Kaufmann — Ch X — The Literature and the Age
-- [ ] Kaufmann — Ch XI — Amos and Hosea
-- [ ] Kaufmann — Ch XII — Isaiah Micah Habakkuk
-- [ ] Kaufmann — Ch XIII — The Prophecy of the Fall
+- [x] Kaufmann — Ch XI — Amos and Hosea
+- [x] Kaufmann — Ch XII — Isaiah Micah Habakkuk
+- [x] Kaufmann — Ch XIII — The Prophecy of the Fall
 - [ ] Kaufmann — Epilogue and Prospect
 
 ### Lewis, The Origin and Character of God (11 notes)
@@ -380,6 +380,22 @@ related:
   - **Kaufmann's strongest and weakest modes both on display:** Ch VIII's golden calves and Ch X's horizon analysis show Kaufmann at his best — close reading, falsifiable claims, arguments that hold up regardless of one's position on the larger thesis. Ch IX's silent temple and national > individual hierarchy show Kaufmann at his most tendentious — reading theological ideals as historical realities, driving conclusions from systematizing needs rather than evidence.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 98
+- **Next batch suggestion:** See below.
+
+### 2026-07-29 — Session 18 (Batch 16 Finalized)
+- **Notes processed:** 3 — Kaufmann Ch XI (Amos and Hosea), Kaufmann Ch XII (Isaiah Micah Habakkuk), Kaufmann Ch XIII (The Prophecy of the Fall)
+- **Claims extracted:** 26 (10 Ch XI, 8 Ch XII, 8 Ch XIII) — Kaufmann's prophetic section complete
+- **Edges added:** ~60+ internal edges already in 26 new claims + 9 cross-scholar retrofits to 4 existing Smith/Römer claims. Key clusters:
+  - **Kaufmann's prophetic section now complete:** Ch XI (10 claims: Amos and Hosea), Ch XII (8 claims: Isaiah, Micah, Habakkuk), Ch XIII (8 claims: Jeremiah, Ezekiel, the exile). Total Kaufmann claims: 118 across 13 chapters.
+  - **The monotheism-inheritance thesis — the single most important edge thread:** 11.1 (Amos inherited monotheism), 12.7 (Isaiah/Micah/Habakkuk inherited monotheism), and 13.5 (Jeremiah/Ezekiel inherited monotheism) all contradict Smith's rhetoric thesis, Römer's sedimentary invention, and the four-stage development model. These three claims form a coherent counter-narrative: every classical prophet, from the 8th century through the exile, operated within an already-monotheistic framework. Monotheism was assumed, not argued for.
+  - **Römer's narrative arc now faces 8 Kaufmann contradictions:** The existing three (intro Ch I-IV framework claims) plus five new prophetic claims (11.1, 12.7, 13.3, 13.5, 13.8). Kaufmann's counter-arc — monotheism predates the prophets, the exile tested but didn't forge it — now has comprehensive textual coverage from Amos through Ezekiel.
+  - **Josiah's reform cluster strengthened:** 13.3 (reforms endured) and 13.4 (Jeremiah was educated in D before Josiah's "discovery") now retrofitted to Römer's Deuteronomy claim and Josiah's-invention claim. The endurance argument is Kaufmann's strongest historical contribution in this batch — if Jeremiah's silence about temple idolatry is taken seriously alongside Ezekiel's visions being fantasy, the evidence for post-Josiah pagan revival collapses.
+  - **The exile-as-covenantal-crisis claim (13.8):** Kaufmann's reading of Ezekiel 20:32 — the exiles didn't say "let's accept Marduk," they said "let's serve wood and stone" — now retrofitted to Smith's imperial-crisis model and Römer's true-monotheism-emerged claim. If the crisis was covenantal rather than theological, neither Smith's inverse correlation nor Römer's exilic cradle of monotheism works as described.
+  - **Ezekiel as priest, not prophet (13.7):** Distinguishes Ezekiel from the classical prophetic stream — his ideology is pre-prophetic Torah religion (P). This complicates Kaufmann's own prophets-inherited-monotheism thesis because Ezekiel represents a different mode of inheritance (priestly-cultic rather than moral-prophetic).
+  - **Isaiah's uniqueness arguments:** 12.1 (no national revenge) and 12.3 (Zion theology is covenant-based, not pagan ideology) are Kaufmann's most textually original contributions in the prophetic section. The absence-of-revenge argument is genuinely puzzling for critical scholarship — if Isaiah 1-33 is a composite anthology spanning centuries, the complete absence of the revenge motif is statistically improbable.
+  - **Kaufmann's arc now complete:** Introduction-Ch IV (43 claims: theoretical foundation) → Ch V-VII (22 claims: sources, origins, settlement) → Ch VIII-X (27 claims: monarchy, popular religion, classical prophecy framework) → Ch XI-XIII (26 claims: individual prophets, the fall, exile). Total: 118 Kaufmann claims across 13 of 15 chapters. Only the Epilogue remains.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 95
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1
