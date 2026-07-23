@@ -60,6 +60,7 @@ This is the theoretical justification for the entire book. If pictures are inher
 - [[claim-ugaritic-texts-cannot-primary-evidence-palestinian-israelite-religion]] — the text-priority methodology is flawed at its root; pictures are primary, texts are supplementary
 - [[claim-propp-principle-five-percent-data-radical-open-mindedness]] — methodological parallel: Keel/Uehlinger's iconographic priority and Lewis's Propp Principle both demand radical open-mindedness about what evidence counts; both reject the text-priority that has dominated the field
 - [[claim-internal-religious-pluralism-official-vs-personal-piety]] — both methods demand specificity beyond textual generalizations: Keel/Uehlinger demand iconographic specificity by period and region; Albertz demands sociological stratification by class and context
+- [[claim-religion-defined-by-practice-not-belief]] — Dever's argument that religion must be defined by what people DO rather than what texts prescribe is the definitional counterpart to Keel/Uehlinger's claim that pictures capture religious constellations better than words: both invert the standard hierarchy of evidence
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

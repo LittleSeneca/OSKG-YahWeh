@@ -71,6 +71,7 @@ Everything. If monotheism is a rhetoric born from exile rather than a revelation
 - [[claim-centralization-worship-jerusalem-late-political-project]] — centralization under Hezekiah and Josiah was the pre-exilic institutional precursor to Second Isaiah's exilic monotheism. The political project that became theological rhetoric (romer-inv-7.3)
 - [[claim-deuteronomy-written-josiah-reform]] — Deuteronomy as Josianic propaganda is the textual mechanism of Smith's thesis: a political document ("one God, one temple, one people"), composed to justify centralization, presented as ancient law. Innovation-disguised-as-restoration is monotheism as rhetoric at the textual level.
 - [[claim-josiah-reform-invented-exclusive-yahwism]] — Josiah's reform criminalized multi-sanctuary Yahwism and projected exclusivity backward as "restoration." This is the political-institutional case study of what Smith means by "a new stage of rhetoric" — not a religious evolution but a re-formulation of religious reality for political purposes.
+- [[claim-biblical-texts-late-elitist-theologically-biased]] — Dever's dating of all biblical sources to the 8th century or later, with final editing in the post-exilic period, provides the chronological framework Smith's 'monotheism as exilic rhetoric' requires: the texts are late enough to BE rhetoric rather than historical record
 <!-- This is the book's capstone claim — it supports no further claims within the book but provides the framework for the entire project -->
 
 **Contradicts:**

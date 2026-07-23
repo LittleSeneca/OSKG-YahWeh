@@ -57,6 +57,7 @@ If seals are as representative as they claim, then shifts in seal iconography AR
 **Supports:**
 - [[claim-iron-age-israel-lacks-male-divine-images-aniconic]] — Lewis's aniconism argument based on absence of male divine figurines is the kind of claim seal data could confirm or complicate
 - [[claim-no-iron-age-male-divine-figurines-demonstrates-aniconism]] — same point; seal amulets are a different medium from figurines and may tell a different story
+- [[claim-daily-life-material-context-essential-for-religion]] — Dever's demographic and domestic reconstruction (four-room house, 30-year life expectancy, women's domestic labor) provides the human context for the 8,500 seal amulets: the people who wore these seals were the women with carpal tunnel praying for healthy children in a world with no sanitation
 
 **Contradicts:**
 - <!-- Dever's emphasis on figurines over seals as representative of popular religion -->

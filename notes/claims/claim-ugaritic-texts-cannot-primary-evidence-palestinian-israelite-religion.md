@@ -53,6 +53,7 @@ If accepted, this would fundamentally challenge Smith's and Cross's methodologic
 
 **Supports:**
 <!-- Justifies the entire iconographic approach over Ugaritic-text-first approaches -->
+- [[claim-archaeology-systematically-ignored-by-text-scholars]] — Dever's survey of the entire history of scholarship on Israelite religion independently arrives at the same conclusion: the field has systematically privileged texts over material evidence. Keel/Uehlinger target one specific methodological error (Ugaritic texts as primary); Dever documents the same pattern across the entire discipline
 
 **Contradicts:**
 - [[claim-ugaritic-texts-best-available-background]] — Smith's foundational methodological claim that Ugaritic texts provide the "best available background" for Israelite religion is directly challenged by Keel/Uehlinger's insistence on local Palestinian primacy

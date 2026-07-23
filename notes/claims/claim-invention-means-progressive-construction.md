@@ -58,6 +58,7 @@ This framing leaves room for divine involvement (God could work through the geol
 - [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]] — Romer's sedimentary metaphor and Smith's rhetoric thesis are complementary accounts of the same development
 - [[claim-monotheism-as-transformed-canaanite-myth]] — Smith's transformation thesis (Ch9) is the mechanism-level description of what Romer calls sedimentary invention: enclosure = one stratum, absorption = another, preservation-with-replacement = a third
 - [[claim-priestly-creation-transforms-royal-theology]] — the replacement of royal theology with priestly creation theology is a specific example of a sedimentary stratum being laid down
+- [[claim-biblical-texts-late-elitist-theologically-biased]] — Dever's characterization of the Bible as 'historicized fiction' produced by a tiny literate elite is the textual counterpart to Romer's 'invention as progressive construction': same process of late, layered, ideologically-shaped composition, different vocabulary and disciplinary vantage point
 
 **Contradicts:**
 <!-- Single-event models of monotheism's origin (Sinai revelation) -->

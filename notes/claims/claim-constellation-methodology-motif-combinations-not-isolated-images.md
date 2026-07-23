@@ -56,6 +56,7 @@ This is the theoretical heart of the book. Without the constellation method, the
 
 **Supports:**
 - [[claim-convergence-differentiation-framework-israelite-religion]] — Smith's convergence/differentiation framework can be read as a text-based version of the constellation method: recurring divine profiles (Baal storm-warrior, Asherah fertility, El benevolence) as stable complexes that can be transferred between deities
+- [[claim-religion-defined-by-practice-not-belief]] — Dever's practice-based definition of religion is the archaeological complement to Keel/Uehlinger's constellation method: both reject belief-first definitions in favor of observable patterns of material practice; the archaeologist's functionalism and the iconographer's motif analysis are methodologically convergent
 
 **Contradicts:**
 - <!-- Text-focused scholars who would argue iconography is too ambiguous to bear theological weight -->

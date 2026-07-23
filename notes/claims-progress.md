@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 93
-- **Total claims extracted:** 494
-- **Notes with edges added:** 93
-- **Last session:** 2026-08-03 (Session 31 / Batch 29)
+- **Notes with claims extracted:** 96
+- **Total claims extracted:** 498
+- **Notes with edges added:** 96
+- **Last session:** 2026-08-03 (Session 32 / Batch 30)
 
 ## By Scholar
 
@@ -126,9 +126,9 @@ related:
 ### Dever, Did God Have a Wife? (10 notes)
 - [x] Dever — Introduction
 - [x] Dever — Introduction and Chapters I-II — Methodology
-- [ ] Dever — Chapter I — Defining Religion
-- [ ] Dever — Chapter II — History of Scholarship
-- [ ] Dever — Chapter III — Sources and Methods
+- [x] Dever — Chapter I — Defining Religion
+- [x] Dever — Chapter II — History of Scholarship
+- [x] Dever — Chapter III — Sources and Methods
 - [ ] Dever — Chapter IV — Biblical Reality vs Ideal
 - [ ] Dever — Chapter V — Archaeological Evidence
 - [ ] Dever — Chapters III-V — Sources and Archaeological Evidence
@@ -288,6 +288,22 @@ related:
   - **Keel/Uehlinger now 7 of 11 notes extracted (46 claims):** Ch I (7), Ch III (5), Ch V (8), Ch X (6) + Excursus (5), Part I (8), Part II (7). The full arc now covers: methodology (Ch I) → earliest MB IIB iconography (Part I) → LB Egyptian colonialism and goddess→warrior shift (Part II) → MB temples (Ch III) → Iron I transition (Ch V) → synthesis (Ch X). Remaining: Part IV (Iron IIA), Part V (Iron IIB — the "Yahweh and His Asherah" chapter), Part VI (Iron IIC), Part VII (Iron III).
 - **Commits:** 1 (this session)
 - **Notes remaining:** 62
+- **Next batch suggestion:** See below.
+
+### 2026-08-03 — Session 32 (Batch 30 Finalized)
+- **Notes processed:** 3 — Dever Chapter I (Defining Religion), Dever Chapter II (History of Scholarship), Dever Chapter III (Sources and Methods)
+- **Claims extracted:** 4 (2 Ch I, 1 Ch II, 1 Ch III) — Note: Ch I Claim 3 (women as primary practitioners) and Ch III Claim 1 (archaeology as primary source) were covered by claims from the combined Introduction + Ch I-II note extracted in Session 31
+- **Edges added:** 26 cross-scholar edges in finalization pass (13 on 4 new Dever claims + 13 retrofits to 11 prior claims across Keel/Uehlinger, Albertz, Römer, and Smith). Key clusters:
+  - **Dever → Keel/Uehlinger on methodology (5 edges):** Dever's practice-based definition of religion (1.1) is the archaeological counterpart to Keel/Uehlinger's constellation method — both reject belief-first/text-first approaches in favor of observable material practice. Dever's critique of the text-first scholarly tradition (2.1) independently identifies the same structural flaw Keel/Uehlinger target with their Ugaritic-texts critique. The convergence strengthens both: an archaeologist and an iconographer, working from different evidence, arrive at the same methodological diagnosis.
+  - **Dever → Albertz on stratification and material context (5 edges):** Dever's material reconstruction of daily life (four-room house, 30-year lifespan, women's domestic labor) provides the archaeological grounding for Albertz's sociological claims about family piety continuing uninfluenced by official religion. Dever's 'historicized fiction' (3.1) is the literary form of Albertz's 'official religion': biblical texts represent one stratum of a religiously pluralistic society. Dever's survey of the discipline (2.1) proves Albertz's point about OT theology's failure.
+  - **Dever → Römer on sedimentary construction (3 edges):** Dever's characterization of the Bible as late, elite 'historicized fiction' (3.1) aligns with Romer's 'invention as progressive construction' — same process, different vocabulary. The Deuteronomistic History is the exhibit-A example for both scholars. Dever provides the archaeological critique that Romer's text-based model lacks.
+  - **Dever → Smith on rhetoric and chronology (2 edges):** Dever's dating of all biblical sources to 8th century or later (3.1) provides the chronological framework Smith's 'monotheism as exilic rhetoric' requires: the texts are late enough to BE rhetoric rather than historical record.
+  - **Dever → Keel/Uehlinger on women's domestic piety (2 edges):** Dever's portrait of women's harsh daily life (1.2) explains why the Astarte plaques and seal amulets mattered existentially — pregnancy was a life-or-death event. Keel/Uehlinger provide the artifacts; Dever provides the human context for why those artifacts were worn.
+  - **Dever → Kaufmann as contradiction (already edged in Phase 1):** dever-dghw-3.1 already contradicts Kaufmann's early Torah dating and single-author prophetic composition — the sharpest Dever-Kaufmann methodological clash in the graph.
+  - **Dever now 5 of 10 notes extracted (13 claims):** Introduction (6), Intro+Ch I-II (3), Ch I (2), Ch II (1), Ch III (1). The early chapters establish Dever's methodological framework: archaeology-primary, two-religions model, practice-based definition of religion, and a scorched-earth critique of text-based scholarship. Remaining: Ch IV (Biblical Reality vs Ideal), Ch V (Archaeological Evidence), Ch III-V combined, Ch VI-IX combined (two versions), and two additional notes (Chapters VI-IX — Asherah to Conclusions; Chapters VI-IX — Asherah, Women, Monotheism).
+  - **Dever's methodological voice now fully established in the graph:** Dever is the graph's most aggressive methodological critic of text-first scholarship. His archaeology-primary approach converges with Keel/Uehlinger's iconographic methodology and Albertz's history-of-religion program, while his conclusions about Asherah-as-goddess contradict Keel/Uehlinger's symbol reading — a productive tension already documented in the graph from Session 31.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 53
 - **Next batch suggestion:** See below.
 
 ### 2026-08-03 — Session 31 (Batch 29 Finalized)

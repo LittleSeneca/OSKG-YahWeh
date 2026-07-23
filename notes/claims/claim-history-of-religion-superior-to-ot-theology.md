@@ -57,6 +57,8 @@ If Albertz is right, the entire OT theology enterprise is a category mistake —
 
 **Supports:**
 - [[claim-internal-religious-pluralism-official-vs-personal-piety]] — the dialogical, non-abstracting character of Albertz's method is instantiated in the sociological stratification model
+- [[claim-religion-defined-by-practice-not-belief]] — Dever's functionalist definition of religion operationalizes Albertz's history-of-religion program: both reject theological definitions of the subject matter in favor of historical/functional ones
+- [[claim-archaeology-systematically-ignored-by-text-scholars]] — Dever's survey of six scholarly traditions provides the disciplinary history that proves Albertz's point: OT theology's failure is not theoretical but demonstrated across the entire history of the field
 
 **Contradicts:**
 - [[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann's project IS the OT theology enterprise that Albertz argues history-of-religion should replace; if Israelite religion was elementally different from paganism from the beginning, history-of-religion methods miss what makes it significant

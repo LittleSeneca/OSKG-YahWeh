@@ -61,6 +61,7 @@ This radically reframes the figurine discussion. The "Astarte plaques" aren't ev
 **Supports:**
 - [[claim-patriarchal-religion-family-piety-substratum-not-pre-yahwistic]] — the female-centered domestic piety of the Astarte plaques is the material manifestation of Albertz's family piety substratum, showing it existed in MB IIB through Iron I
 - [[claim-child-sacrifice-molech-queen-heaven-crisis-family-piety]] — the Queen of Heaven cult of Iron II is the latest phase of the same female-centered domestic piety, driven to extremes by Assyrian crisis
+- [[claim-daily-life-material-context-essential-for-religion]] — Dever's portrait of women's harsh daily life (no sanitation, 30-year life expectancy, malnutrition) explains why the Astarte plaques mattered existentially: pregnancy and childbirth were life-or-death events, not abstract theological concerns
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

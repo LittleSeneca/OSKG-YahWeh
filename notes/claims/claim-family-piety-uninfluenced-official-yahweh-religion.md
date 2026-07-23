@@ -61,6 +61,7 @@ If family piety was genuinely uninfluenced by official Yahweh religion, then (a)
 **Supports:**
 - [[claim-internal-religious-pluralism-official-vs-personal-piety]] — this claim is the strongest empirical demonstration of Albertz's signature methodological innovation
 - [[claim-albertz-onomastics-revolution-personal-piety-not-state]] — Albertz's own onomastic argument (as summarized by Lewis) is directly instantiated here
+- [[claim-daily-life-material-context-essential-for-religion]] — Dever's material reconstruction of the four-room house, women's domestic labor, and 30-year life expectancy provides the archaeological grounding for Albertz's sociological claim: the onomastic data (94% YHWH names) measures personal piety, while the four-room house is WHERE that piety was practiced
 
 **Contradicts:**
 <!-- Claims that see early Israel as religiously unified from top to bottom -->

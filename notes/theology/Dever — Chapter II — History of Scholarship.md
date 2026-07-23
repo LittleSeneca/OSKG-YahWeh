@@ -1,8 +1,14 @@
 ---
 tags: [source/book-notes, faith/yahweh, historiography, methodology, scholars/william-dever, scholars/mark-smith, truth-project]
 created: 2026-07-22
+updated: 2026-08-03
 confidence: high
 related: ["[[Dever — Chapter I — Defining Religion]]", "[[Dever — Chapter III — Sources and Methods]]", "[[meta-analysis-scholars]]", "[[Smith Chapter 0 — Introduction]]", "[[scholarly-directory-yahweh-origins]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-08-03
+claims_count: 1
+claims_files:
+  - "[[claim-archaeology-systematically-ignored-by-text-scholars]]"
 ---
 
 # Dever, Did God Have a Wife? — Chapter II
@@ -77,6 +83,16 @@ Dever's ten-point critique of biblical theology:
 **Ackerman** (1992): *Under Every Green Tree.* Praised for recognizing that "popular religion is... about losers. But ironically, perhaps these losers probably held the majority and represented the mainstream." Ackerman defines popular religion as "everything that those who wrote the Bible condemned."
 
 **Other scholars Dever cites:** van der Toorn ("Book religion"), Berlinerblau (terminological precision), Keel/Uehlinger (iconography).
+
+---
+
+### Implicit Claim: Archaeology has been systematically ignored in the study of Israelite religion
+→ [[claim-archaeology-systematically-ignored-by-text-scholars]] | **dever-dghw-2.1** | Confidence: high | claim_format: implicit
+  Dever surveys six scholarly traditions and demonstrates that at every stage the field has produced text-about-text rather than religion itself.
+  Supports: [[claim-dever-criticizes-smith-ignoring-archaeological-evidence]], [[claim-archaeology-primary-source-folk-religion-descriptive-method]]
+  Contradicts: [[claim-theology-is-apologetics-not-history-dever-critique]] — Old Testament Theology is the most egregious case
+
+> **Note:** Most of the evaluative claims in this chapter (biblical theology as useless, Zevit as best model) are covered by the combined Introduction + Chapters I-II note: [[claim-theology-is-apologetics-not-history-dever-critique]] (dever-dghw-1-2.2) and [[claim-zevit-keel-uehlinger-best-methodological-models-archaeology-integration]] (dever-dghw-1-2.3).
 
 ---
 

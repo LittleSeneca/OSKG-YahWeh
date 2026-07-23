@@ -76,6 +76,7 @@ The "golden calf" — the paradigmatic biblical story of idolatry — was probab
 **Supports:**
 - [[claim-monotheism-rhetoric-inner-community-discourse]] — the Deuteronomistic history is a case study in Smith's "inner-community discourse": scribal elites crafting an exclusivist identity through selective historiography (smith-obm-8.3)
 - [[claim-monotheism-was-rhetoric-not-religious-stage]] — Römer's analysis of Deuteronomistic distortion demonstrates exactly what Smith means by monotheism as "rhetoric, not a religious stage" (smith-obm-8.4)
+- [[claim-biblical-texts-late-elitist-theologically-biased]] — Dever's characterization of the Bible as 'historicized fiction' is the archaeological counterpart to Romer's deuteronomistic fiction: the Deuteronomistic History is the exhibit-A example of a late, elite, ideologically-driven text that cannot be read as direct evidence for popular practice
 
 **Contradicts:**
 <!-- The Deuteronomistic history's own framing of the northern kingdom -->

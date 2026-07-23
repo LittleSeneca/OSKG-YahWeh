@@ -60,6 +60,7 @@ If accepted, this critique undermines the methodology of Smith, Cross, Day, and 
 - [[claim-modern-comparative-method-configurations-not-traits]] — the structural critique of the Ugarit-to-Bible method aligns with Lewis's call for configuration-based comparison
 - [[claim-regional-differentiation-structural-distinctiveness-israel]] — Keel/Uehlinger's critique of the Ugaritic-to-HB methodology and Albertz's demand for regional specificity are the same argument from different disciplines: both reject the projection of a distant textual corpus onto local Palestinian religion
 - [[claim-hebrew-bible-is-ancient-near-eastern-text]] — Lewis's insistence that the HB must be studied as an ANE text shares Keel/Uehlinger's skepticism of the Ugarit-to-Bible pipeline: both demand local, contextual evidence rather than textual projection
+- [[claim-archaeology-systematically-ignored-by-text-scholars]] — Dever's survey of the scholarly field independently identifies the same structural flaw: the discipline has produced histories of texts about religion rather than histories of religion itself, precisely because it relies on the geographically and chronologically distant textual corpora Keel/Uehlinger critique
 
 **Contradicts:**
 - [[claim-three-stage-convergence-el-yahweh]] — Smith's convergence model is built precisely on the Ugaritic-to-Bible textual pipeline that Keel/Uehlinger challenge

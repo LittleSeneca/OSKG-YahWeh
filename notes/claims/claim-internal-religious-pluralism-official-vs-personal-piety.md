@@ -63,6 +63,7 @@ This is the load-bearing beam of Albertz's entire project. The book's structure 
 - [[claim-patriarchal-religion-family-piety-substratum-not-pre-yahwistic]] — the family/official distinction enables Albertz to recast patriarchal religion as a sociological substratum rather than a chronological predecessor
 - [[claim-family-piety-pre-cultic-pre-political-pre-moral-unconditional]] — the characterization of family piety's content depends on distinguishing it analytically from official religion
 - [[claim-yahweh-liberation-origin-structural-contrast-family-piety]] — the structural contrast between Yahweh religion and family piety depends on the two-strata model
+- [[claim-biblical-texts-late-elitist-theologically-biased]] — Dever's 'historicized fiction' is the literary form of Albertz's 'official religion': the biblical texts represent one stratum of a religiously pluralistic society, produced by and for the literate elite, and cannot be read as evidence for what ordinary people practiced
 
 **Contradicts:**
 - [[claim-israelite-religion-non-mythological-fundamentally-unique]] — Kaufmann treats Israelite religion as a unified ideological system; Albertz's stratification model argues different social levels produced fundamentally different religious symbolic worlds, which means no single characterization of "Israelite religion" is possible
