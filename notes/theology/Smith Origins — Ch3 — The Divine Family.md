@@ -62,13 +62,13 @@ This is Smith's most original chapter — the one where he makes the argument pr
 
 ## Chapter 3 Overall Assessment
 
-| Claim | Confidence | Most Vulnerable To |
-|-------|-----------|-------------------|
-| 1: Four tiers map to household levels | HIGH | Alternative models (bureaucratic) fitting some data |
-| 2: CAT 4.360 provides direct social parallel | VERY HIGH | Scribal convention vs. structural homology |
-| 3: El's family is astral; Baal is an outsider | MEDIUM (astral) / HIGH (outsider) | Astral evidence is thin; bn dgn might not imply outsider status |
-| 4: Astral worship was indigenous Israelite, not foreign | MEDIUM-HIGH | "Host of heaven" as metaphor vs. cultic reality |
-| 5: Family model provided polytheism's conceptual unity | MEDIUM-HIGH | Teleological reading; family as one model among several |
+| Claim                                                   | Confidence                        | Most Vulnerable To                                              |
+| ------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------- |
+| 1: Four tiers map to household levels                   | HIGH                              | Alternative models (bureaucratic) fitting some data             |
+| 2: CAT 4.360 provides direct social parallel            | VERY HIGH                         | Scribal convention vs. structural homology                      |
+| 3: El's family is astral; Baal is an outsider           | MEDIUM (astral) / HIGH (outsider) | Astral evidence is thin; bn dgn might not imply outsider status |
+| 4: Astral worship was indigenous Israelite, not foreign | MEDIUM-HIGH                       | "Host of heaven" as metaphor vs. cultic reality                 |
+| 5: Family model provided polytheism's conceptual unity  | MEDIUM-HIGH                       | Teleological reading; family as one model among several         |
 
 **Strongest section:** Section 2 (The Royal Patriarchal Household as Model). The CAT 4.360 comparison is the best empirical evidence in the entire chapter. The systematic mapping of administrative terminology onto mythological terminology is genuinely new and important.
 

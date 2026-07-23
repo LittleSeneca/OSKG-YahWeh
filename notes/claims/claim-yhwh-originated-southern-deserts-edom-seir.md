@@ -78,6 +78,26 @@ The God of Israel is geographically foreign to Israel. He came from Edom — the
 ## Edges
 
 **Depends on:**
+<!-- Claims this one requires to be true -->
+
+**Supports:**
+- [[claim-yahweh-originated-south-midian-edom]] — Day's southern origin argument (day-ygc-1.2): the Soleb evidence is the strongest single piece of epigraphic data Day cites
+- [[claim-yahweh-southern-storm-warrior-origin]] — Smith's southern storm warrior thesis (smith-obm-7.6): the Soleb inscriptions provide the 14th-century BCE epigraphic anchor for Smith's reconstruction
+- [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — the four poems provide the INTERNAL biblical memory that Soleb EXTERNALLY confirms; the convergence of epigraphic + biblical evidence is what makes the southern origin thesis so strong
+- [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic thesis (romer-inv-intro.2): Yhwh's origin as a southern desert war god
+- [[claim-bible-acknowledges-yhwh-foreign-origin]] — the foreign origin that Exodus 6:2-3 acknowledges in narrative requires a geographic origin; Soleb provides it
+- [[claim-el-original-god-israel-yahweh-imported-later]] — Smith's foundational claim (smith-ehg-1.1): Soleb's southern fix corroborates the import model
+- [[claim-midianites-historical-people-northwest-arabia]] — Romer's archaeological treatment of Midian (romer-inv-3.2): the Midianites may have been a Shasu subgroup; the Soleb evidence for "Shasu of Yhw" therefore potentially applies to the Midianite/Kenite bridge population
+- [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1) incorporates this Soleb evidence into a broader argument that evaluates and eliminates all competing origin hypotheses
+
+**Contradicts:**
+<!-- Indigenous Canaanite origin theories -->
+
+**Challenged by:**
+<!-- Astour's reading of Seir as Sarara in Syria -->
+<!-- Fleming (2021): Yhwh's name reflects Israel's own diverse origins -->
+
+**Depends on:**
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — the four biblical poems are the internal evidence for the southern origin; they provide the biblical memory that Soleb externally confirms
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — Exodus 6:2-3 and the Exodus narrative establish that Yhwh was foreign to Israel; Ch2 identifies WHERE he was foreign from
 

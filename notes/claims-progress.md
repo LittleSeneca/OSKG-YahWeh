@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 27
-- **Total claims extracted:** 134
-- **Notes with edges added:** 27
-- **Last session:** 2026-07-26 (Session 9)
+- **Notes with claims extracted:** 30
+- **Total claims extracted:** 142
+- **Notes with edges added:** 30
+- **Last session:** 2026-07-27 (Session 10)
 
 ## By Scholar
 
@@ -48,9 +48,9 @@ related:
 - [x] Romer — Introduction and Chapter 1
 - [x] Romer — Chapter 1 — The Name
 - [x] Romer — Chapter 2 — Geographic Origin
-- [ ] Romer — Chapter 3 — Moses and the Midianites
-- [ ] Romer — Chapters 2-3 — Geographic Origin and Moses
-- [ ] Romer — Chapter 4 — How Yhwh Became Israel's God
+- [x] Romer — Chapter 3 — Moses and the Midianites
+- [x] Romer — Chapters 2-3 — Geographic Origin and Moses
+- [x] Romer — Chapter 4 — How Yhwh Became Israel's God
 - [ ] Romer — Chapter 5 — Entrance into Jerusalem
 - [ ] Romer — Chapters 4-5 — How Yhwh Became Israel's God
 - [ ] Romer — Chapter 6 — Cult of Yhwh in Israel
@@ -231,6 +231,19 @@ related:
 - **Commits:** 1 (pending)
 - **Notes remaining:** 122
 - **Next batch suggestion:** Romer Ch3 (Moses and the Midianites) + Day Ch4 (Yahweh's Appropriation of Baal Imagery) + Smith Origins Ch2 (Divine Council). Rationale: Romer Ch3 completes the southern origin trilogy (Name → Geography → Moses/Midian) — edges directly to romer-inv-1.4, 2.1, 2.2 and smith-obm-7.6. Day Ch4 is the counterpoint to Smith Ch2's Baal convergence model (same data, conflict reading) — continues the Baal diptych from Day Ch3. Smith Origins Ch2 (Divine Council) is the highest-edge-density remaining topic — connects to smith-ehg-1.5 (Judges pantheon), smith-obm-1.1-1.4 (spatial taxonomy), day-ygc-1.1/1.3 (El distinction, seventy sons), and romer-inv-1.3/2.1 (southern deity within council context). Edge compounding: these three will connect to 20+ existing claims.
+
+### 2026-07-27 — Session 10 (Batch 8 Finalized)
+- **Notes processed:** 3 — Romer Ch3 (Moses and the Midianites), Romer Ch2-3 synthesis (Geographic Origin and Moses), Romer Ch4 (How Yhwh Became Israel's God)
+- **Claims extracted:** 8 (3 Ch3, 2 Ch2-3 synthesis, 3 Ch4)
+- **Edges added:** 9 cross-scholar retrofits to 6 existing claims + 3 within-batch cross-connections + ~30 internal edges already in new claims. Key clusters:
+  - **Romer's narrative arc completed (Ch1→Ch2→Ch3→Ch4):** The southern origin trilogy is now fully extracted. Romer builds a cumulative argument: Yhwh's name/pronunciation (Ch1) → geographic origin in the south via Soleb (Ch2) → Midianite mediation via the Kenite hypothesis (Ch3) → Israel was originally El's people, Yhwh adopted later (Ch4). Each chapter depends on the prior; the four chapters together form one integrated argument.
+  - **El-to-Yhwh transition now has three independent Romer evidence lines:** romer-inv-4.1 (onomastic: "Israel" is El name), romer-inv-4.3 (textual: Bible acknowledges relationship began), romer-inv-2-3.1 (geographic: Yhwh came from south, Israel was El's people in Canaan by 1200 BCE). These three converge on the El-first, Yhwh-later thesis — now retrofitted to day-ygc-1.1 and smith-ehg-1.1.
+  - **Merneptah Stele as chronological anchor:** romer-inv-4.2 (Israel as named ethnic group by 1200 BCE, no Yhwh detectable) provides a fixed point. Every claim about Yhwh's adoption depends on Israel existing BEFORE Yhwh — Merneptah proves it did. Now retrofitted to smith-ehg-1.1 and romer-inv-1.4.
+  - **Midianite archaeology anchors the Kenite hypothesis:** romer-inv-3.2 (Midianite pottery, trade routes, Timna copper) provides the material foundation that romer-inv-3.3 (Kenite hypothesis) requires. Now retrofitted to day-ygc-1.2 (Day's southern origin argument benefits from Romer's more detailed Midianite archaeology).
+  - **Tension acknowledged:** romer-inv-3.3 rates the Kenite hypothesis as low-medium confidence — elegant, plausible, underdetermined. Romer's own admission that the Moses narrative is "fashioned with great artifice" creates a methodological tension he can't fully resolve. This tension is not resolved in the later chapters — it's a feature of his approach, not a flaw in its early execution.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 119
+- **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 2
 - **Notes processed:** 3 — Smith Ch2 (Yahweh and Baal), Römer Ch8 (Statue of Yhwh), Day Ch1 (Yahweh and El)

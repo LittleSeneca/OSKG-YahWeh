@@ -60,6 +60,8 @@ This is the same claim Smith and Romer both make: the Bible's own narrative admi
 - [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic claim (romer-inv-intro.2): Yhwh's journey from desert war god to sole God begins with his introduction as a new deity to Israel.
 - [[claim-yhwh-originated-southern-deserts-edom-seir]] — the foreign origin claim is the logical prerequisite for the southern origin thesis
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — the four southern-march poems (Deut 33, Judg 5, Ps 68, Hab 3) are the poetic evidence for the foreign origin that Exodus 6:2-3 acknowledges in narrative; same biblical memory, two literary forms
+- [[claim-biblical-texts-acknowledge-yhwh-chose-israel-later]] — Romer's Ch4 expansion (romer-inv-4.3): Hosea 9:10 ("I FOUND Israel"), Ezekiel 20 ("I CHOSE Israel"), and Exodus 6:2-3 all independently converge on the same point — the Yhwh-Israel relationship had a beginning. Romer's Ch1 claim from a single text is now reinforced by his Ch4 claim from multiple texts
+- [[claim-merneptah-stele-first-mention-israel-ethnic-group]] — Romer's Merneptah analysis (romer-inv-4.2): the earliest historical mention of Israel (c. 1200 BCE) shows them as an ethnic group with no Yhwh worship detectable. The stele corroborates the biblical "beginning" by providing the historical window BEFORE Yhwh
 - [[claim-yahweh-el-originally-distinct-deities]] — Day's parallel argument that El and Yhwh were originally separate deities
 
 **Contradicts:**

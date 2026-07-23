@@ -77,6 +77,8 @@ If these are among the oldest texts in the Bible, they preserve Israel's own mem
 - [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic claim (romer-inv-intro.2): this chapter provides the biblical poetry evidence for Yhwh's southern origin
 - [[claim-yahweh-originated-south-midian-edom]] — Day's parallel use of the same four poems as evidence for southern origin (day-ygc-1.2)
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — the narrative counterpart to the poetic tradition; Exodus 6:2-3 tells the same story (Yhwh was foreign to the patriarchs) that the poems enact (Yhwh came marching from Edom/Seir)
+- [[claim-kenite-midianite-hypothesis-best-explanation]] — Romer's Ch3 evaluation (romer-inv-3.3): the four poems provide the biblical memory that the Kenite hypothesis attempts to explain HISTORICALLY (WHO mediated Yhwh, not just WHERE he came from)
+- [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1): the most comprehensive treatment of the four poems alongside the Soleb epigraphic evidence; this synthesis elevates the poems from isolated data points to components of a coherent historical argument
 
 **Contradicts:**
 <!-- Late-dating scholars who see the poems as Persian/Hellenistic constructions -->

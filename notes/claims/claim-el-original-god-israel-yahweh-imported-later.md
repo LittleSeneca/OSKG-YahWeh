@@ -72,6 +72,9 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - [[claim-yahweh-el-originally-distinct-deities]] — Day's parallel argument for original distinction
 - [[claim-yahweh-originated-south-midian-edom]] — Day on Yahweh's southern origin
 - [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer's Soleb evidence (14th c. BCE) is the strongest epigraphic case for southern origin
+- [[claim-israel-name-el-originally-el-worshippers]] — Romer's onomastic argument (romer-inv-4.1): "Israel" is an El name. Smith's "if Yahweh were original, we'd expect *Yiśrâ-yāhû*" is independently argued by Romer with the same philological conclusion
+- [[claim-biblical-texts-acknowledge-yhwh-chose-israel-later]] — Romer's textual argument (romer-inv-4.3): multiple biblical texts (Hosea, Ezekiel, Exodus) independently describe a Yhwh-Israel relationship that had a BEGINNING, corroborating Smith's claim that El preceded Yhwh
+- [[claim-merneptah-stele-first-mention-israel-ethnic-group]] — Romer's Merneptah analysis (romer-inv-4.2): by 1200 BCE, an ethnic group called "Israel" existed in Ephraim with no indication of Yhwh worship. This provides a chronological anchor for El-first, Yhwh-later
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — Romer's analysis of Exodus 6:2-3 as the Bible's own admission of Yhwh's foreignness to the patriarchs
 - [[claim-divine-council-seventy-sons-of-el]] — Day on the divine council structure
 - [[claim-eden-derives-from-el-dwelling-place]] — Day on El's dwelling

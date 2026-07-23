@@ -75,6 +75,8 @@ If Yahweh came from the south, then Israel's god was NOT indigenous to Canaan. T
 - [[claim-yhwh-originated-southern-deserts-edom-seir]] — Romer Ch2 provides the most detailed evaluation of candidate origins (Ebla/Ugarit/Mari eliminated, Soleb confirmed) for the same southern origin thesis
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — Romer Ch2's analysis of the same four southern-origin poems (Deut 33:2, Judg 5:4-5, Ps 68:8-9, Hab 3:3) that Day cites as evidence
 - [[claim-yhwh-name-means-he-blows-storm-god]] — Romer's "he blows" etymology strengthens the storm-god character of the southern deity; if Yhwh's name encodes storm theology, the southern origin thesis gains a philological dimension beyond geography alone
+- [[claim-midianites-historical-people-northwest-arabia]] — Romer's archaeological treatment of Midian (romer-inv-3.2): distinctive pottery, trade routes, Timna copper mining — the material evidence that Day's "general lack of civilization in Sinai" argument requires for N.W. Arabia
+- [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1): the most detailed single treatment of the southern origin evidence, evaluating all four candidate locations (Ebla/Ugarit/Mari/Soleb) and confirming Day's conclusion through systematic elimination
 <!-- [[claim-yahweh-midianite-origin]] — forward reference to Römer Ch3 (Moses and the Midianites), to be extracted -->
 
 **Contradicts:**
