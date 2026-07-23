@@ -77,6 +77,8 @@ If Yahweh came from the south, then Israel's god was NOT indigenous to Canaan. T
 - [[claim-yhwh-name-means-he-blows-storm-god]] — Romer's "he blows" etymology strengthens the storm-god character of the southern deity; if Yhwh's name encodes storm theology, the southern origin thesis gains a philological dimension beyond geography alone
 - [[claim-midianites-historical-people-northwest-arabia]] — Romer's archaeological treatment of Midian (romer-inv-3.2): distinctive pottery, trade routes, Timna copper mining — the material evidence that Day's "general lack of civilization in Sinai" argument requires for N.W. Arabia
 - [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1): the most detailed single treatment of the southern origin evidence, evaluating all four candidate locations (Ebla/Ugarit/Mari/Soleb) and confirming Day's conclusion through systematic elimination
+- [[claim-shasu-yhw-texts-earliest-yahweh-attestation-seir-toponym]] (lewis-ocg-6.4) — Lewis's detailed treatment of the Egyptian Shasu texts: the Seir connection ties them to the same archaic poetry Day cites; convergence of Egyptian epigraphy and biblical poetry strengthens the southern case
+- [[claim-yahweh-southern-warrior-clothed-northern-canaanite-garments]] (lewis-ocg-6.6) — Lewis's Ch6 synthesis: the southern origin evidence (Shasu, poetry, Kuntillet Ajrud) combined with the northern cultural clothing is the most comprehensive current treatment of the evidence Day's thesis requires
 <!-- [[claim-yahweh-midianite-origin]] — forward reference to Römer Ch3 (Moses and the Midianites), to be extracted -->
 
 **Contradicts:**

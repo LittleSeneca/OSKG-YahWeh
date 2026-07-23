@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 60
-- **Total claims extracted:** 316
-- **Notes with edges added:** 60
-- **Last session:** 2026-07-30 (Session 20 / Batch 18)
+- **Notes with claims extracted:** 63
+- **Total claims extracted:** 329
+- **Notes with edges added:** 63
+- **Last session:** 2026-07-31 (Session 21 / Batch 19)
 
 ## By Scholar
 
@@ -87,9 +87,9 @@ related:
 - [x] Lewis -- Chapter 3 -- Methodology
 - [x] Lewis -- Chapter 4 -- El Worship
 - [x] Lewis -- Chapter 5 -- Iconography of Divinity -- El
-- [ ] Lewis — Chapter 6 — Origin of Yahweh
-- [ ] Lewis — Chapter 7 — Iconography of Divinity — Yahweh
-- [ ] Lewis — Chapter 8 — Warrior and Family God
+- [x] Lewis — Chapter 6 — Origin of Yahweh
+- [x] Lewis — Chapter 7 — Iconography of Divinity — Yahweh
+- [x] Lewis — Chapter 8 — Warrior and Family God
 - [ ] Lewis — Chapter 9 — King and Judge
 - [ ] Lewis — Chapter 10 — Holy One
 - [ ] Lewis — Conclusion
@@ -205,6 +205,31 @@ related:
 ---
 
 ## Session Log
+
+### 2026-07-31 -- Session 21 (Batch 19 Finalized)
+- **Notes processed:** 3 — Lewis Ch6 (Origin of Yahweh), Lewis Ch7 (Iconography of Divinity — Yahweh), Lewis Ch8 (Warrior and Family God)
+- **Claims extracted:** 13 (6 Ch6, 4 Ch7, 3 Ch8)
+- **Edges added:** ~30+ internal edges already in 13 new claims + 10 cross-scholar edges in finalization pass (7 on new Lewis claims, 3 retrofits to existing Smith/Römer/Day claims). Key clusters:
+  - **Lewis's Yahweh investigation now fully extracted (Ch6-8):** Ch6 (Origin, 6 claims) establishes the name, geography, and synthesis. Ch7 (Iconography, 4 claims) establishes the aniconic/abstract mode as Israel's genuine distinctive. Ch8 (Warrior and Family God, 3 claims) establishes the two complementary divine profiles. Together with Ch3-5 (methodology + El), Lewis's first eight chapters are now in the graph — 33 claims total.
+  - **Ch6 — the origin investigation delivers Lewis's synthetic conclusion:** Yahweh's pronunciation is philologically settled (6.1), the name's meaning relates to active presence not creation (6.2), P's Mosaic-revelation chronology is more reliable than J's antediluvian Yahwism (6.3), the Shasu-Seir connection is the strongest extra-biblical evidence (6.4), the Midianite/Kenite hypothesis has strengths but the biblical texts don't support it as claimed (6.5), and the synthesis — southern warrior clothed in northern Canaanite garments (6.6) — is Lewis's most important contribution. The non-causative etymology (6.2) is a notable departure from the Cross school. The Shasu treatment (6.4) is the most balanced in the literature.
+  - **Ch7 — aniconism defended with cumulative force:** Lewis systematically rebuts the "statue in the Temple" thesis with nine arguments (7.1) — the vessel inventory argument is the strongest. Dever's observation that no provenanced Iron Age male divine figurines exist still stands (7.2) — the contrast with abundant female figurines eliminates preservation bias. Theriomorphic candidates (bulls, Bes figures) are possible but none definitive (7.3). The four abstract modes (fire, kābôd, Name, sacred emptiness) represent Israel's genuine distinctive contribution (7.4). Lewis's aniconism argument directly contradicts Römer's statue/images thesis and Day's late-prohibition claim.
+  - **Ch8 — warrior and family god as complementary profiles:** The warrior profile (8.1) is the fundamental distinctive of Yahwism vs. El — El was pacific, Yahweh was militaristic. The Chaoskampf traditions (8.2) — Yahweh vs. Sea, Leviathan, Death — are best understood through Ugaritic Baal parallels; the names and plot structure are too exact to be coincidence. The family-god profile (8.3) — father, mother, intimate provider — is not a late development but deeply rooted, representing El's benevolent character integrated into Yahwism. Lewis's chapter structure (warrior + family god in one chapter) IS the argument: these are not contradictory but complementary aspects of the same deity.
+  - **Cross-scholar edge pass (finalization):** 7 new edges added to Lewis Ch6-8 claims:
+    - 6.3 (P chronology) → claim-deut-32-8-9-sons-of-el: Lewis's P chronology is the narrative equivalent of Deut 32:8-9's textual evidence — both preserve El-first, Yahweh-later memory
+    - 6.6 (synthesis) → claim-yahweh-originated-south-midian-edom (Day 1.2) and claim-baals-local-manifestations-one-deity (Day 3.1): Lewis's southern synthesis strengthens Day's geographic and Baal arguments
+    - 7.1 (no statue) → claim-jeroboam-golden-calves-yahwistic-el-bull: the absence of any Yahweh statue in Jerusalem strengthens Lewis's reading of Jeroboam's bulls as El images
+    - 7.4 (abstract traditions) → claim-chaoskampf-yahweh-sea-leviathan-death-ugaritic-parallels: fire/kābôd traditions are the visual language of warrior theophanies
+    - 8.1 (warrior distinctive) → claim-yahweh-el-originally-distinct-deities (Day 1.1) and claim-yahweh-originated-south-midian-edom (Day 1.2): the warrior/pacific contrast is the sharpest edge of the El-Yahweh distinction; southern origin + warrior profile are a natural pair
+    - 8.2 (Chaoskampf) → claim-baals-local-manifestations-one-deity (Day 3.1): Day's unified Baal framework is the prerequisite — Yahweh fights THE Baal's specific mythic foes, not local variants
+    - 8.3 (family god) → claim-yahweh-el-originally-distinct-deities (Day 1.1): the family-god profile is El's contribution; if El=Yahweh from the start, no integration was needed
+  - **Retrofits to existing claims (3):**
+    - claim-deut-32-8-9-sons-of-el ← Lewis 6.3 (P chronology): Lewis's El→Yahweh transition chronology strengthens the Deut 32:8-9 reading
+    - claim-yahweh-el-originally-distinct-deities ← Lewis 8.1 (warrior distinctive): the functional distinction (pacific El vs. militaristic Yahweh) is the strongest argument for original separation
+    - claim-yahweh-originated-south-midian-edom ← Lewis 6.4 (Shasu) and 6.6 (synthesis): Lewis provides the most comprehensive current treatment of evidence Day sketches
+  - **Lewis's Ch1-8 arc is now complete:** Methodology (Ch1-2: 12 claims) → El textual/epigraphic (Ch3-4: 15 claims) → El iconographic (Ch5: 5 claims) → Yahweh origin (Ch6: 6 claims) → Yahweh iconography (Ch7: 4 claims) → Yahweh character: warrior + family god (Ch8: 3 claims). Total: 45 Lewis claims extracted across 8 chapters. Remaining: Ch9 (King and Judge), Ch10 (Holy One), Conclusion — 3 notes.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 86
+- **Next batch suggestion:** See below.
 
 ### 2026-07-30 -- Session 20 (Batch 18 Finalized)
 - **Notes processed:** 3 -- Lewis Ch3 (Methodology), Lewis Ch4 (El Worship), Lewis Ch5 (Iconography of Divinity -- El)

@@ -83,6 +83,7 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]] — Romer's two-kingdoms analysis (romer-inv-6-7.2): northern bull iconography reflects older El traditions; southern Yhwh centralization was gradual. The north-south split maps onto the El-Yhwh distinction
 - [[claim-yhwh-statues-images-prohibition-late-synthesis]] — Romer's iconographic evidence (romer-inv-8-9.1): Yhwh was visibly represented (steles, seals, coins). The anthropomorphic Yahweh fits Day's profile of a distinct, originally non-El deity with a concrete form
 - [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]] — Romer's consort argument (romer-inv-8-9.2): Yhwh inherited El's consort Asherah. The goddess transfer only makes sense if Yhwh and El were originally distinct — otherwise there's nothing to transfer
+- [[claim-yahweh-divine-warrior-fundamental-distinctive-vs-el]] (lewis-ocg-8.1) — Lewis's argument that the warrior profile is THE fundamental distinctive of Yahwism vs. El: El was pacific, Yahweh was militaristic; they cannot have been the same deity with such different functional profiles
 
 **Contradicts:**
 - [[claim-cross-el-yahweh-identity]] (Cross — when extracted, Day's claim directly contradicts Cross's thesis that Yahweh was originally a form of El)

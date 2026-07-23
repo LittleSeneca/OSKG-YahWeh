@@ -82,6 +82,7 @@ This single passage provides a snapshot of an early Israelite theology in which 
 - [[claim-three-stage-convergence-el-yahweh]] (smith-obm-7.5) -- Deut 32:8-9 provides the textual anchor for Stage 2 of the convergence model: Yahweh as member of El's pantheon before identification
 - [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] (lewis-ocg-4.5) -- Lewis provides the most thorough current treatment, with Qumran evidence and Psalm 82 complement
 - [[claim-el-was-original-god-israel-name-and-absence-yahweh]] (lewis-ocg-4.1) -- Lewis's El-original thesis provides the larger framework: Deut 32:8-9 is the textual smoking gun within the broader case for El's priority
+- [[claim-name-yahweh-revealed-moses-time-p-chronology-reliable]] (lewis-ocg-6.3) -- Lewis's argument that P preserves genuine historical memory of El→Yahweh transition; Deut 32:8-9 is the textual snapshot of the same transition P narrates as chronology
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->
