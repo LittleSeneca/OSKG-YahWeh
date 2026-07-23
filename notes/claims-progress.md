@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 99
-- **Total claims extracted:** 507
-- **Notes with edges added:** 99
-- **Last session:** 2026-08-03 (Session 33 / Batch 31)
+- **Notes with claims extracted:** 102
+- **Total claims extracted:** 520
+- **Notes with edges added:** 102
+- **Last session:** 2026-08-03 (Session 34 / Batch 32)
 
 ## By Scholar
 
@@ -132,14 +132,14 @@ related:
 - [x] Dever — Chapter IV — Biblical Reality vs Ideal
 - [x] Dever — Chapter V — Archaeological Evidence
 - [x] Dever — Chapters III-V — Sources and Archaeological Evidence
-- [ ] Dever — Chapters VI-IX — Asherah to Conclusions
-- [ ] Dever — Chapters VI-IX — Asherah, Women, Monotheism
+- [x] Dever — Chapters VI-IX — Asherah to Conclusions
+- [x] Dever — Chapters VI-IX — Asherah, Women, Monotheism
 
 ### Day, Yahweh and the Gods of Canaan (8 notes)
 - [x] Day — Chapter 1 — Yahweh and El
 - [x] Day — Chapter 2 — Yahweh and Asherah
 - [x] Day — Chapter 3 — Yahweh Versus Baal
-- [ ] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
+- [x] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
 - [ ] Day — Chapter 5 — Yahweh and Astarte and Anat
 - [ ] Day — Chapter 6 — Yahweh and the Astral Deities
 - [ ] Day — Chapter 7 — Yahweh and the Underworld Deities
@@ -224,6 +224,26 @@ related:
   - **The Temple and high-places cluster strengthened:** Dever 4.2 (high places originally legitimate) supports the centralization-as-late-political-project thread. Dever 4.3 (Temple as royal chapel) and Römer's multiple-sanctuaries claim converge on the same picture: Jerusalem was not what the Deuteronomists claimed it was. This cluster now edges to the Albertz reform claims and Römer's Josiah reform claims.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 50
+- **Next batch suggestion:** See below.
+
+### 2026-08-03 — Session 34 (Batch 32 Finalized)
+- **Notes processed:** 3 — Dever Chapters VI-IX (Asherah to Conclusions), Dever Chapters VI-IX (Asherah, Women, Monotheism), Day Chapter 4 (Yahweh's Appropriation of Baal Imagery)
+- **Claims extracted:** 13 (8 Dever VI-IX: 6-9.1 through 6-9.8; 5 Day Ch4: 4.1 through 4.5)
+- **Edges added:** ~50 internal edges in 13 new claims + 19 cross-scholar edges in finalization pass (10 Day → Dever, 7 Dever → Day, 2 Dever → prior-session). Key clusters:
+  - **Dever complete — all 10 notes extracted (35 claims):** Introduction (6) + Intro+Ch I-II (3) + Ch I (2) + Ch II (1) + Ch III (1) + Ch IV (4) + Ch V (4) + Ch III-V (1) + Ch VI-IX combined-A (4: Asherah as consort, women's suppression, monotheism as elite, Bible as minority report) + Ch VI-IX combined-B (4: cumulative archaeology, women practitioners, folk polytheism persistence, three-book synthesis). Dever's arc is now fully in the graph: methodology → text/archaeology gap → archaeological evidence → Asherah as goddess consort → women's cults suppressed → monotheism as late elite book religion → three-book synthesis.
+  - **Dever's strongest contribution — the Asherah-as-consort case:** Claims 6-9.1 and 6-9.5 make the cumulative archaeological case from seven converging data categories (Ugaritic background, biblical text, Kuntillet Ajrud, Khirbet el-Qom, 3,000+ JPFs, Taanach cult stand, Arad massebot). The seven-category convergence makes Dever's goddess reading more parsimonious than Smith's symbol-only reading, though Keel/Uehlinger's paratactic-composition counter-argument remains the strongest challenge Dever does not fully engage.
+  - **Dever's most distinctive contribution — the gendered argument:** Claims 6-9.2 and 6-9.6 argue that the Deuteronomistic reform was a male clerical coup against women's traditional religious authority. No other scholar in the Truth Project corpus makes this argument as forcefully. The domestic locus of Asherah worship is well-established; the inference that the reform was anti-women is more speculative but powerfully argued.
+  - **Dever's monotheism synthesis — the consensus position:** Claims 6-9.3 and 6-9.7 articulate the position shared by Smith, Römer, and Dever: Israelite religion was polytheistic in practice until the very end of the monarchy, monotheism was a late elite "book religion," and Josiah's reform left no archaeological trace. The observation that Josiah's reform is archaeologically invisible is particularly damaging to the Deuteronomistic narrative.
+  - **Day Ch4 — Baal appropriation (5 claims):** Psalm 29 is a Yahwistic Baal hymn with seven thunders matching Ugaritic KTU² 1.101 (4.1). The Chaoskampf derives from Baal-Yam, not Marduk-Tiamat — Gunkel superseded (4.2). Mt Zaphon transferred to Yahweh's dwelling at heaven and Jerusalem (4.3). Baal as dying/rising god → Hosea national death/resurrection → Isaiah 26 metaphorical resurrection → Daniel 12 literal resurrection — Jewish resurrection has Canaanite genealogy, not Zoroastrian (4.4). Yahweh-as-cloud-rider derives from Baal's rkb ʻrpt, though Ps 68:5's rōkēb bāʻărābôt probably means "rider through the deserts" (4.5).
+  - **Day's most important chain — the resurrection genealogy (4.4):** If correct, the doctrine of bodily resurrection originated in Canaanite Baal mythology, was demythologized by Hosea into political metaphor, and was remythologized by Daniel into literal afterlife hope. Day's eight-parallel argument for Isaiah's dependence on Hosea (his own JTS 1980 discovery) is airtight. The Baal-as-dying-god link is the most contested but Mettinger's subsequent work provides the strongest defense.
+  - **Cross-scholar edge pass — 19 new edges across 8 claim files:**
+    - **Day → Dever on Baal appropriation as evidence for composite God and folk polytheism (10 edges):** All five Day Ch4 claims (Psalm 29 Baal hymn, Chaoskampf, Mt Zaphon transfer, resurrection chain, cloud-rider) now edge to Dever's Bible-minority-report and folk-polytheism claims. Day's textual evidence that Israel's worship language IS Baal's worship language is the textual counterpart to Dever's archaeological evidence that Israel was polytheistic in practice. The canonical Psalter itself preserves a Baal hymn with Yahweh's name — archaeological-level evidence of polytheistic practice within the Bible's own pages.
+    - **Dever → Day on book religion and composite God (7 edges):** Dever's monotheism-as-late-elite-construction now edges to Day's resurrection chain — demythologization → remythologization is exactly the elite literary transformation pattern Dever describes. Dever's Bible-minority-report claim now edges to four Day claims (Psalm 29, Chaoskampf, Mt Zaphon, cloud-rider) — Yahweh absorbing Baal's epithets, mythology, sacred geography, and theophany proves God is composite.
+    - **Dever → prior-session (2 edges):** Dever's monotheism-as-elite claims now edge to Smith's monotheism-as-exilic-rhetoric — independent convergence from archaeology and rhetoric analysis.
+  - **The God-as-composite thread now has Day's full textual weight:** Day's five Baal-appropriation claims provide the detailed textual mechanism for what Dever calls "God is composite." Yahweh absorbed Baal's storm theophany (4.1, 4.5), Baal's victory over chaos (4.2), Baal's sacred mountain (4.3), and Baal's death/resurrection pattern (4.4). This is the most comprehensive documentation in the graph of the specific Canaanite traits Yahweh absorbed — the textual counterpart to Smith's convergence model and Keel/Uehlinger's absorptive-identity metaphor.
+  - **Day now 4 of 8 notes extracted (16 claims):** Ch1 (Yahweh and El, 3 claims), Ch2 (Yahweh and Asherah, 4 claims), Ch3 (Yahweh vs Baal, 4 claims), Ch4 (Baal appropriation, 5 claims). The Yahweh-and-the-gods survey is halfway complete. Remaining: Ch5 (Astarte/Anat), Ch6 (Astral Deities), Ch7 (Underworld Deities), Ch8 (Conclusion — Rise of Monotheism).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 47
 - **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 26 (Batch 24)
