@@ -27,6 +27,8 @@ status: active
 
 "The loss of statehood led to a dissolution of the state alliance which was part compulsory, part voluntary. The Israel of the exilic period consisted of at least three major groups in separate territories which were exposed to different historical developments, had different interests, and in part came into conflict over them."
 
+## Evidence
+
 **Those who remained:** The majority of the population; small landowners and landless lower classes. They benefited from the redistribution of abandoned large estates (Jer 39.10; 40.10; Ezek 11.15; 33.24). They developed limited self-government through elders (Lam 5.12). They interpreted the exile as Yahweh's judgment on the exploiting upper class — in some cases as liberation from debt. However, they suffered territorial encroachment from Edomites, Phoenicians, Philistines, and Ammonites.
 
 **Babylonian Gola:** Deported upper class, settled as closed groups on crown land in the Nippur region. The Murashu archive (455-403 BCE) attests to their legal and economic integration. They retained ethnic and religious identity while prospering materially. Their intellectual potential (former upper class) plus orientation toward the homeland explains their disproportionate influence on religious renewal.

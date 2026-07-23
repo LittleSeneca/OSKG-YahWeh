@@ -26,6 +26,8 @@ status: active
 
 "Nothing makes clearer the prominent religious role which the family came to occupy after the exile than the fact that in the rather later priestly conception of history the covenant between Yahweh and Israel is not made with the people on Sinai, but with the family of Abraham (Gen 17)." Each practice was transformed:
 
+## Evidence
+
 **Circumcision:**
 - Originally an apotropaic puberty/marriage rite (cf. Ex 4.25; Gen 34), not a distinctive Israelite marker (Egyptians, Arabs, Edomites also practiced it)
 - Became a confessional sign during the exile because the Babylonians did NOT practice it, making it a differentiating mark

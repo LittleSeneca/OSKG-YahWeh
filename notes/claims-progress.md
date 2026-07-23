@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 75
-- **Total claims extracted:** 380
-- **Notes with edges added:** 75
-- **Last session:** 2026-08-01 (Session 25 / Batch 23)
+- **Notes with claims extracted:** 81
+- **Total claims extracted:** 419
+- **Notes with edges added:** 81
+- **Last session:** 2026-08-02 (Session 27 / Batch 25)
 
 ## By Scholar
 
@@ -104,14 +104,14 @@ related:
 - [x] Albertz Vol1 — §3.5 — Ninth-Century Syncretism Dispute
 - [x] Albertz Vol1 — §3.6 — Eighth-Century Prophetic Controversies
 - [x] Albertz Vol1 — §3.7 — Family Piety Under the Late Monarchy
-- [ ] Albertz Vol1 — §3.8 — The Deuteronomic Reform Movement
-- [ ] Albertz Vol1 — §3.9 — After Josiah to the Fall of Jerusalem
-- [ ] Albertz Vol2 — Chapter 4 — Exilic Period
-- [ ] Albertz Vol2 — Chapter 5 — Post-Exilic Period
-- [ ] Albertz Vol2 — Chapter 6 — Hellenistic Period
+- [x] Albertz Vol1 — §3.8 — The Deuteronomic Reform Movement
+- [x] Albertz Vol1 — §3.9 — After Josiah to the Fall of Jerusalem
+- [x] Albertz Vol2 — Chapter 4 — Exilic Period
+- [x] Albertz Vol2 — Chapter 5 — Post-Exilic Period
+- [x] Albertz Vol2 — Chapter 6 — Hellenistic Period
 
 ### Keel & Uehlinger, Gods, Goddesses, and Images (11 notes)
-- [ ] Keel Uehlinger — Ch I — Starting Point and Points of Departure
+- [x] Keel Uehlinger — Ch I — Starting Point and Points of Departure
 - [ ] Keel Uehlinger — Ch III — MB Temples Tel Kitan and Megiddo
 - [ ] Keel Uehlinger — Ch V — The Hidden God Victorious Gods Fertility Iron I
 - [ ] Keel Uehlinger — Ch X — Summary and Conclusion
@@ -205,6 +205,45 @@ related:
 ---
 
 ## Session Log
+
+### 2026-08-01 — Session 26 (Batch 24)
+- **Notes processed:** 3 — Albertz Vol1 §3.8 (The Deuteronomic Reform Movement), Albertz Vol1 §3.9 (After Josiah to the Fall of Jerusalem), Albertz Vol2 Chapter 4 (Exilic Period)
+- **Claims extracted:** 19 (4 §3.8, 3 §3.9, 12 Ch4)
+- **Edges added:** ~57 internal edges in 19 new claims. Cross-scholar finalization pass not yet run. Key clusters:
+  - **Albertz Volume I complete:** With §§3.8-3.9 extracted, all 11 Albertz Vol1 notes are now in the graph (Introduction through §3.9). The full narrative arc runs: methodology (Intro) → family piety substratum (§2.1) → Exodus liberation Yahwism (§2.2) → segmentary tribal alliance (§2.3-2.4) → monarchy as theological crisis (§3.1-3.2) → Jerusalem vs Bethel (§3.3-3.4) → ninth-century syncretism dispute (§3.5) → eighth-century prophetic response (§3.6) → late monarchy family piety (§3.7) → Deuteronomic reform synthesis (§3.8) → reform collapse and fall of Jerusalem (§3.9).
+  - **§3.8 — The Deuteronomic reform as theological synthesis:** Four claims establishing Albertz's portrait of the Josianic reform as the first systematic synthesis of Yahweh religion. The reform was a broad coalition with the 'am hā'āreṣ landed middle class as its social base (3.8.1). Deuteronomic theology was a "mediating theology" that synthesized pre-state liberation traditions with state institutions but decisively subordinated the latter — king subjected to law, temple housing only Yahweh's "name" not his presence (3.8.2). The reform fought on three fronts: official polytheism, private syncretism, and social abuses (3.8.3). The covenant concept itself was a Deuteronomic innovation, not a Mosaic original — modeled on ANE vassal treaties and created to bind Israel directly to Yahweh, bypassing king and temple as mediators (3.8.4).
+  - **§3.9 — Reform collapse and theological parties:** Three claims on the 22 years between Josiah's death and Jerusalem's destruction. Josiah's death at Megiddo (609) shattered the coalition — the reform collapsed "after only a few months" under Jehoiakim (3.9.1). Two rival theological parties fought over foreign policy: nationalists trusting Zion theology's unconditional guarantees, vs. the reform party advocating submission to Babylon (3.9.2). Gedaliah's brief governorship (587) was the Deuteronomic movement's last chance — a social experiment in land redistribution that ended with his murder after two months (3.9.3).
+  - **Chapter 4 — Exilic transformation of Yahwism into Judaism:** Twelve claims spanning Albertz's entire exilic-period analysis. The exile affected official and family religion unequally: temple/kingship theology collapsed, personal piety survived and became the scaffolding for rebuilding (4.1). Three distinct communities emerged with divergent interests: those who remained, the Babylonian Gola, and the Egyptian Gola at Elephantine (4.2). Israel transformed from a state people to a "community with a religious constitution" — membership became elective, not automatic (4.3). Exilic worship was predominantly lamentation, which became the forum for theological reorientation (4.4). Prophetic opposition theology was deliberately incorporated into official religion through cultic and non-cultic channels (4.5). The Jeremiah Deuteronomists conducted "popular missionary work" synthesizing Deuteronomy and Jeremiah (4.6). The Deuteronomistic History was a theological compromise — a "historiography from above" by Jerusalemite circles that learned from prophets but preserved kingship and temple hope (4.7). Family piety provided the experiential and conceptual resources for rebuilding official religion — maternal imagery for Yahweh, patriarchal unconditional promises (4.8). Circumcision, sabbath, and passover were transformed from family customs into confessional identity markers creating a portable religious rhythm (4.9). Deutero-Isaiah was the first to formulate consistent monotheism, arising from the logic of proclaiming Yahweh's universal power in history, explicitly rejecting Persian/Babylonian stimulus theories (4.10). Deutero-Isaiah simultaneously dissolved the fusion of divine and political power that characterized pre-exilic kingship theology — monotheism formulated from political powerlessness (4.11). The Ezekiel school's reform program created the separation of cult from state, the priest-Levite distinction, and a radically sacralized temple — the blueprint for post-exilic theocracy (4.12).
+  - **Albertz now 12/14 notes extracted:** Vol1 complete (11 notes). Vol2 opened with Chapter 4 (1 of 3). Remaining: Vol2 Chapters 5 (Post-Exilic Period) and 6 (Hellenistic Period). Total Albertz claims: 61 across 12 notes.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 71
+- **Next batch suggestion:** Albertz Vol2 Chapters 5-6 (completing Albertz) + Dever Introduction or Keel Uehlinger Part I to open a new scholar. Or: cross-scholar finalization pass on the 61 Albertz claims to connect the full Albertz arc to Smith, Römer, Day, and Kaufmann claims already in the graph.
+
+### 2026-08-02 — Session 27 (Batch 25 Finalized)
+- **Notes processed:** 3 — Albertz Vol2 Chapter 5 (Post-Exilic Period), Albertz Vol2 Chapter 6 (Hellenistic Period), Keel Uehlinger Chapter I (Starting Point and Points of Departure)
+- **Claims extracted:** 20 (8 Ch5, 5 Ch6, 7 Keel Ch I)
+- **Edges added:** ~40+ internal edges already in 20 new claims + 24 cross-scholar edges in finalization pass (12 on Albertz claims + 8 on Keel claims + 4 on Keel contradicting existing Smith/Lewis). Key clusters:
+  - **Albertz complete — all 14 notes extracted (94 claims):** With Ch5-6 finalized, Albertz's entire two-volume work is now in the graph. The full 1,200-year narrative arc runs: Introduction (methodology) → family piety substratum (§2.1) → Exodus liberation Yahwism (§2.2) → tribal alliance (§2.3-2.4) → monarchy crisis (§3.1-3.2) → Jerusalem vs Bethel (§3.3-3.4) → ninth-century syncretism (§3.5) → eighth-century prophecy (§3.6) → late monarchy family piety (§3.7) → Deuteronomic reform (§3.8) → fall of Jerusalem (§3.9) → exilic transformation (Ch4, 12 claims) → post-exilic splintering/integration (Ch5, 8 claims) → Hellenistic crisis and apocalyptic (Ch6, 5 claims). Albertz's arc directly contradicts Kaufmann's reverse-evolution thesis (monotheism→monolatry) at every stage and provides the most detailed social-scientific alternative to Smith's theological-convergence model.
+  - **Chapter 5 — Post-Exilic Period (8 claims):** The post-exilic period as productive dialectic of splintering and integration, not "late Judaism" decline (5.1). Judah was NOT a theocracy but a Persian province with dual governance of elders and priests (5.2). Zerubbabel's temple rebuilding (520-515) sparked eschatological-nationalist hopes crushed by Persian intervention, marginalizing prophecy and creating conditions for apocalyptic (5.3). Torah canonization was a Persian-backed compromise between Deuteronomistic (lay) and Priestly parties — a deliberately unresolved dialogue (5.4). The Pentateuch's central theological decision was to center identity on the pre-state period (Moses, covenant, liberation), not David/Zion/monarchy — making Judaism portable (5.5). The social crisis split the community into class-specific forms of piety: "theologized wisdom" for the pious upper class vs. "piety of the poor" for the lower class (5.6). The Samaritan schism was a gradual political/cultic split, not an early theological break; 2 Kings 17.24-41 does NOT refer to Samaritans (5.7). The post-exilic priesthood transformed the sacrificial cult — expanding the tamid, creating the Day of Atonement, and making atonement theology central — as a response to the trauma of 587 when the cult failed despite functioning (5.8).
+  - **Chapter 6 — Hellenistic Period (5 claims):** Only in the Hellenistic period did a genuine hierocracy form with the high priest as political leader — correcting Albertz's own Ch5 argument that the Persian period was NOT a theocracy (6.1). Ptolemaic tax-leasing deepened the social crisis and added a cultural split (Hellenizers vs. traditionalists) to the class conflict — creating preconditions for the Maccabean revolt as both religious and class war (6.2). The Chronistic history was a response to the Samaritan schism — an attempt to re-legitimate the Davidic monarchy and Jerusalem temple within the Torah's framework, since the Pentateuch's pre-state focus gave Samaritans theological ammunition (6.3). Torah piety (Psalms 1, 19, 119) transformed personal piety into a distinctively Jewish theology centered on scripture — transferring prayer language from God to Torah and creating "Bible piety" (6.4). Apocalyptic emerged from marginalized groups as a "theology of resistance" through three stages: Deutero-Zechariah (late 4th c.), Isaiah Apocalypse (early 3rd c.), and Daniel (Maccabean) (6.5).
+  - **Keel Uehlinger Ch I — Methodology (7 claims):** Establishes the entire book's approach. The Yahweh-consort debate cannot be resolved from texts alone — iconographic evidence from seal amulets is the missing piece (1.1). Preexilic Israel was polytheistic but that tells us almost nothing — the real question is WHICH gods, WHERE, WHEN, and in WHAT RELATION to Yahweh (1.2). Seal amulets are the single best source for religious history — 8,500 from the Fribourg corpus function as a "seismograph" for detecting subtle shifts in religious mentality (1.3). Iconographic interpretation must analyze "constellations" of recurring motif combinations, not hunt for specific myths behind isolated images — Assmann's iconicity theory adapted to Levantine material (1.4). The standard archaeological periodization is wrong — Iron IIB/C break must be dated to the late 8th century (Assyrian conquest), not c. 850 (1.5). The survey begins with MB IIB (1750 BCE) because that's when a continuous cultural and iconographic tradition begins in Palestine (1.6). Using Ugaritic texts to interpret Palestinian/Israelite religion is methodologically unsound without first establishing local correlates (1.7).
+  - **Cross-scholar edge pass (finalization) — 24 edges added across 12 files:**
+    - **Albertz → Römer on post-exilic productivity:** 5.1 (post-exilic productivity) now edges to Römer's true-monotheism-in-exile (romer-inv-12.1) — the creative breakthrough happened in exile but the institution-building (canon, temple, cult) happened post-exilically.
+    - **Albertz → Smith on Torah as rhetorical infrastructure:** 5.4 (Torah canonization) now edges to Smith's inner-community-discourse (smith-obm-8.3) and imperial-crisis thesis (smith-obm-8.7) — Torah canonization IS the institutional infrastructure for what Smith calls rhetoric.
+    - **Albertz → Smith on Pentateuch's political theology:** 5.5 (Pentateuch pre-state focus) now edges to Smith's exilic-rhetoric thesis (smith-obm-10.4) — the Torah is what a people write when they can't write themselves a king.
+    - **Albertz → Albertz on cultic atonement and DtrG:** 5.8 (atonement theology) now edges to DtrG historiography (albertz-hir-4.7) — the cultic atonement system is the liturgical counterpart to DtrG's historiographical "confession of sin"; both are institutionalized guilt-processing.
+    - **Albertz → Albertz on Deuteronomic synthesis to Chronicles:** 6.3 (Chronicles anti-Samaritan) now edges to Deuteronomic mediating synthesis (albertz-hir-3.8.2) and Deuteronomy-for-Josiah (romer-inv-11.1) — the Deuteronomic reform was the first synthesis of liberation traditions with state institutions; Chronicles is the second, responding to a different crisis with the same strategy.
+    - **Albertz → Kaufmann on Torah piety as popular phenomenon:** 6.4 (Torah piety) now edges to Kaufmann's popular-monotheism claim (kaufmann-ri-intro.5) — Torah piety, originating in scribal circles, became the democratization of theological reflection.
+    - **Albertz → Smith/Römer on apocalyptic:** 6.5 (apocalyptic emergence) now edges to Smith's imperial-crisis thesis (smith-obm-8.7) and Römer's narrative arc (romer-inv-12.2) — apocalyptic radicalizes Smith's thesis and extends Römer's arc beyond monotheism to cosmic dualism.
+    - **Keel → Albertz on pluralism specificity:** 1.2 (polytheism insufficient) now edges to Albertz's late-monarchy pluralism (albertz-hir-3.7.1) and internal religious pluralism framework (albertz-hir-intro.4) — Albertz's stratified model is precisely the kind of specification Keel/Uehlinger demand.
+    - **Keel → Albertz on Assyrian periodization:** 1.5 (IIB/C break) now edges to Albertz's Assyrian religious practices claim (albertz-hir-3.7.2) — Albertz's data on Assyrian practices adopted at the family level in the late 8th century is the kind of cultural transformation Keel's iconographic periodization predicts.
+    - **Keel → Smith on cultural continuum:** 1.6 (MB IIB continuum) now edges to Smith's El-original-god claim (smith-ehg-1.1) — the cultural continuum justifies the El-first thesis: if Israel emerged from Canaanite culture, El was likely Israel's original god.
+    - **Keel → Smith methodology critique deepened:** 1.7 (Ugaritic texts not primary) now edges to Smith's three-stage-convergence (smith-ehg-1.1) and convergence-differentiation framework (smith-ehg-intro.1) — Smith's entire model is built on the Ugaritic-text-priority that Keel/Uehlinger challenge.
+  - **Keel/Uehlinger opens in the graph:** Ch I (7 claims) establishes the methodological framework for the entire Keel/Uehlinger project. The iconographic approach directly challenges the text-first methodology of Smith, Römer, Day, and Lewis while converging with Albertz's call for sociological and regional specificity. The book's 11 remaining chapters will populate the diachronic framework Ch I sketches.
+  - **Albertz complete at 94 claims across 14 notes:** The most thorough social-scientific treatment of Israelite religion's full chronological sweep. Albertz provides the sociological mechanism, political history, and class analysis that textual/iconographic approaches lack. His narrative arc contradicts Kaufmann at every stage, enriches Smith/Römer with social stratification, and provides independent converging evidence for the southern origin of Yahweh, the El-first thesis, the monarchy as theological crisis, and the exile as transformative watershed.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 68
+- **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 25 (Batch 23 Finalized)
 - **Notes processed:** 3 — Albertz Vol1 §3.5 (Ninth-Century Syncretism Dispute), Albertz Vol1 §3.6 (Eighth-Century Prophetic Controversies), Albertz Vol1 §3.7 (Family Piety Under the Late Monarchy)
