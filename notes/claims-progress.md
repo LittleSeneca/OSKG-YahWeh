@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 102
-- **Total claims extracted:** 520
-- **Notes with edges added:** 102
-- **Last session:** 2026-08-03 (Session 34 / Batch 32)
+- **Notes with claims extracted:** 105
+- **Total claims extracted:** 533
+- **Notes with edges added:** 105
+- **Last session:** 2026-08-03 (Session 35 / Batch 33)
 
 ## By Scholar
 
@@ -140,9 +140,9 @@ related:
 - [x] Day — Chapter 2 — Yahweh and Asherah
 - [x] Day — Chapter 3 — Yahweh Versus Baal
 - [x] Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery
-- [ ] Day — Chapter 5 — Yahweh and Astarte and Anat
-- [ ] Day — Chapter 6 — Yahweh and the Astral Deities
-- [ ] Day — Chapter 7 — Yahweh and the Underworld Deities
+- [x] Day — Chapter 5 — Yahweh and Astarte and Anat
+- [x] Day — Chapter 6 — Yahweh and the Astral Deities
+- [x] Day — Chapter 7 — Yahweh and the Underworld Deities
 - [ ] Day — Chapter 8 — Conclusion — Rise of Monotheism
 
 ### Fleming, Yahweh Before Israel (8 notes)
@@ -244,6 +244,32 @@ related:
   - **Day now 4 of 8 notes extracted (16 claims):** Ch1 (Yahweh and El, 3 claims), Ch2 (Yahweh and Asherah, 4 claims), Ch3 (Yahweh vs Baal, 4 claims), Ch4 (Baal appropriation, 5 claims). The Yahweh-and-the-gods survey is halfway complete. Remaining: Ch5 (Astarte/Anat), Ch6 (Astral Deities), Ch7 (Underworld Deities), Ch8 (Conclusion — Rise of Monotheism).
 - **Commits:** 1 (this session)
 - **Notes remaining:** 47
+- **Next batch suggestion:** See below.
+
+### 2026-08-03 — Session 35 (Batch 33 Finalized)
+- **Notes processed:** 3 — Day Chapter 5 (Yahweh and Astarte and Anat), Day Chapter 6 (Yahweh and the Astral Deities), Day Chapter 7 (Yahweh and the Underworld Deities)
+- **Claims extracted:** 13 (4 Ch5, 5 Ch6, 4 Ch7)
+- **Edges added:** ~30 internal edges in 13 new claims + 10 cross-scholar edges in finalization pass (8 Day claims receiving new edges, 2 Day→other edges). Key clusters:
+  - **Day Ch5 — Astarte, Anat, and the Queen of Heaven (4 claims):** Astarte's OT vocalization is a deliberate *bošet* distortion (5.1) — same scribal polemic applied to Baal. Shamgar ben Anat is a military honorific title, not a Beth-Anat geographic reference — the El-Khadr arrowhead evidence tips the balance (5.2). Anat-Yahu at Elephantine confirms Anat functioned as Yahweh's consort among 5th c. BCE diaspora Jews, probably reflecting pre-exilic Northern Kingdom syncretism (5.3). The Queen of Heaven in Jeremiah is Astarte (not Asherah, Anat, Ishtar, or Shapash) — Day's elimination-of-alternatives method converges on Astarte via Aphrodite Ourania, Eshmunazar inscription, and Deuteronomistic polemic against Astarte specifically (5.4).
+  - **Day Ch6 — Astral deities: sun, moon, and Lucifer (5 claims):** The sun cult was native Canaanite, not Assyrian import — Taanach cult stand (10th c.) and Hazor horse's head (c. 925) decisively predate Assyrian influence (6.1). Yahweh was NOT equated with the sun — the sun was subordinate entourage (host of heaven = divine council); Ps 84:12 should be read as "rampart" not "sun" (6.2). Samson is a solar hero demythologized into an Israelite judge — the etymology (*šimšôn* = "sunny"), Beth-Shemesh geography, and seven-locks motif are suggestive but thin (6.3). Sheger is a demythologized Canaanite moon god parallel to Astarte/Astartes-of-sheep — the Emar calendar (full moon = Shaggar's day) and Hittite d30 = *ša-ga-ra/i* clinch the identification (6.4). Isaiah 14:12-15 ("Lucifer") reflects a Canaanite myth of Athtar/Venus attempting to usurp Baal's throne on Mt Zaphon, applied polemically to Nebuchadnezzar's destruction of Jerusalem in 586 BCE — Day's original proposal, distinct from Ugaritic Athtar, Ezek 28, and Psalm 82 (6.5).
+  - **Day Ch7 — Underworld deities: Mot, Resheph, Molech, and the Rephaim (4 claims):** Sheol language derives from Canaanite Mot imagery (swallowing throat, insatiable appetite, death-as-shepherd) but is demythologized — Sheol is a place, not a fully personified rival to Yahweh like Mot is to Baal (7.1). Resheph is a Canaanite underworld plague god whose arrows bring pestilence — preserved as a demonic personification in the OT (Hab 3:5, Job 5:7, Cant 8:6), the clearest case of a Canaanite demon surviving with identity intact in biblical literature (7.2). Molech was a genuine Canaanite underworld deity who received child sacrifice and was NOT equated with Yahweh — Day's grammatical refutation of Eissfeldt's *mlk*-sacrifice theory is definitive (7.3). The OT Rephaim (underworld shades + ethnic giants) derive from Ugaritic *rpʼum* (deified royal dead) — the Ashtaroth/Edrei parallel between KTU² 1.108 and Josh 12:4 is the smoking gun (7.4).
+  - **Cross-scholar edge pass — 10 new edges across 8 Day claim files:**
+    - **Day → Keel/Uehlinger on Queen of Heaven identification (2 edges):** Day 5.4 (Queen of Heaven = Astarte) contradicts Keel's local Ishtar-Asherah synthesis — Day systematically eliminates Asherah (no first-millennium heavenly associations) and Anat (Deuteronomist never polemicizes against her) in favor of Astarte. Day 5.4 supports Albertz's Molech-Queen of Heaven crisis-family-piety claim — Day's Astarte identification adds specificity to Albertz's broader sociological framework.
+    - **Day → Keel/Uehlinger on ben Anat warrior class (1 edge):** Day 5.2 (Shamgar ben Anat = military title) supported by Keel's independent confirmation of the ben Anat warrior class from 11th c. arrowhead inscriptions — the arrowhead evidence both scholars cite converges on the same interpretation.
+    - **Day → Smith on Anat cult existence (1 edge):** Day 5.3 (Anat-Yahu consort) contradicts Smith's claim that Anat's cult never existed in Israel and only her martial *imagery* was absorbed — Elephantine Anat-Yahu proves Anat was actually worshipped as consort, not just an imagery source.
+    - **Day → Keel/Uehlinger on solar Yahwism (3 edges):** Day 6.1 (native sun cult) supports Keel's solar-imagery-dominant-IIB claim — both agree sun cult was indigenous, though they diverge on whether Yahweh absorbed solar identity. Day 6.2 (Yahweh NOT sun) contradicts Keel's claim that solar imagery was absorbed into Yahwism — Day reads Ps 84:11 as "rampart" not "sun," and argues Yahweh transcended the sun as entourage, never equated with it. Day 6.3 (Samson solar hero) supports the astral-deities-indigenous claim — Samson fits the pattern of indigenous astral mythology in Israel.
+    - **Day → Albertz on child sacrifice context (1 edge):** Day 7.3 (Molech as deity + child sacrifice real) supports Albertz's Molech-Queen of Heaven crisis-family-piety claim — Day's philological case provides the foundation Albertz's sociological interpretation requires.
+    - **Day → Smith on Rephaim identity markers (1 edge):** Day 7.4 (Rephaim derivation from Ugaritic *rpʼum*) supports Smith's Rephaim-as-cultural-identity-markers claim — Day's Ashtaroth/Edrei geography provides the missing link Smith's broader theory of Ugaritic identification → deuteronomic disidentification requires.
+    - **Day → Keel/Uehlinger on daemonic survival (1 edge):** Day 7.2 (Resheph as Canaanite demon) supports Keel's Bes-apotropaic-daemons claim — Resheph and Bes represent parallel cases of apotropaic daemonic figures from the broader ANE world surviving in Israelite religion with identities intact.
+  - **Day now 7 of 8 notes extracted (29 claims):** Ch1 (Yahweh and El, 3 claims), Ch2 (Yahweh and Asherah, 4 claims), Ch3 (Yahweh vs Baal, 4 claims), Ch4 (Baal appropriation, 5 claims), Ch5 (Astarte/Anat, 4 claims), Ch6 (Astral Deities, 5 claims), Ch7 (Underworld Deities, 4 claims). Remaining: Ch8 (Conclusion — Rise of Monotheism).
+  - **Day's gods-and-goddesses survey nearly complete:** Day has now documented Yahweh's relationship with El (Ch1), Asherah (Ch2), Baal (Ch3, Ch4), Astarte/Anat (Ch5), sun/moon/Venus/astral deities (Ch6), and underworld deities Mot/Resheph/Molech/Rephaim (Ch7). One chapter remains — the conclusion on monotheism's rise, which should provide a synthetic argument tying all seven preceding chapters together.
+  - **Day's strongest contributions to the graph:**
+    - **Resurrection genealogy (4.4, Session 34):** Baal dying/rising → Hosea political metaphor → Isaiah 26 metaphorical resurrection → Daniel 12 literal resurrection — Jewish resurrection has Canaanite genealogy.
+    - **Lucifer as Canaanite astral myth (6.5):** The "Lucifer" passage foundational for Christian demonology was originally a Canaanite astral myth about Venus/Athtar, applied polemically to Nebuchadnezzar.
+    - **Molech as genuine deity (7.3):** Day's grammatical refutation of Eissfeldt (verbs with *lĕ* + divine name, harlotry after a god) is definitive — Molech was a real Canaanite underworld god, not a sacrifice-term.
+    - **Ashtoreth as scribal insult (5.1):** The same *bošet* distortion applied to Baal names extends to Astarte — every OT occurrence of "Ashtoreth" is a theological insult.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 44
 - **Next batch suggestion:** See below.
 
 ### 2026-08-01 — Session 26 (Batch 24)
