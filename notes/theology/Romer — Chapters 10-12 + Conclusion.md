@@ -13,7 +13,18 @@ tags:
   - faith/polytheism
   - truth-project
 created: 2026-07-22
+updated: 2026-07-28
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-28
+claims_count: 0
+claims_note: "All claims in this combined note are covered by individual chapter extractions: romer-inv-10.1, 11.1, 11.2, 12.1, 12.2"
+claims_files:
+  - "[[claim-fall-samaria-catalyst-monotheism]]"
+  - "[[claim-deuteronomy-written-josiah-reform]]"
+  - "[[claim-josiah-reform-invented-exclusive-yahwism]]"
+  - "[[claim-true-monotheism-emerged-babylonian-exile]]"
+  - "[[claim-romer-narrative-arc-desert-god-to-only-god]]"
 related:
   - "[[Romer — Chapters 8-9 — Statue and Asherah]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"

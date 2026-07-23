@@ -65,7 +65,7 @@ This framework, if accepted, reframes the entire Bible's religious polemic. The 
 - [[claim-female-imagery-absorbed-into-yahweh]] — convergence of feminine imagery
 
 **Contradicts:**
-<!-- Will edge to Kaufmann claims (original monotheism) when extracted -->
+[[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann argues Israelite religion was an original creation, not the product of convergence with Canaanite culture. Smith's framework requires continuity; Kaufmann's thesis requires categorical difference.
 <!-- Will edge to Tigay claims (onomastic evidence for monolatry) when extracted -->
 
 **Challenged by:**

@@ -68,6 +68,8 @@ This is the foundation Romer lays for the entire book. If the Bible itself admit
 - Divine council interpretation: other gods are created beings, not rivals
 - Rhetorical accommodation: biblical authors speaking in terms audiences understand without endorsing
 - Jephthah as character, not narrator's voice
+[[claim-bible-utterly-ignorant-nature-meaning-pagan-religion]] — Kaufmann argues the Bible does not preserve polytheistic traces in any meaningful sense; what looks like polytheism to modern scholars is actually the Bible's consistent characterization of paganism as fetishism. The "traces" Romer identifies are misreadings.
+[[claim-henotheism-monolatry-framework-wrong-question]] — Kaufmann rejects the critical framework that reads these passages as evidence of henotheism/monolatry. He argues the Bible never acknowledges other gods as living deities — only as idols.
 
 **Primary sources:**
 - Judges 11:24 (Jephthah and Chemosh)

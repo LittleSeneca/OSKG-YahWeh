@@ -59,6 +59,9 @@ THIS is Smith's answer to "why monotheism?" — the very question his book's tit
 - [[claim-el-family-astral-baal-outsider-storm-god]] — Baal's outsider-to-insider trajectory demonstrates the flexibility
 - [[claim-family-model-better-than-bureaucratic-pantheon]] — the argument that family, not bureaucracy, is the root model
 
+**Contradicts:**
+[[claim-israelite-religion-non-mythological-fundamentally-unique]] — Kaufmann argues Israelite religion avoids the family model of divinity entirely: no theogonies, no divine biographies, no divine families. The family model Smith identifies as the conceptual unity of West Semitic polytheism is precisely what Kaufmann says Israelite religion never participated in.
+
 **Supports:**
 - [[claim-convergence-differentiation-framework-israelite-religion]] — the convergence mechanism operates through the family's flexibility
 - [[claim-divine-family-polytheism-oneness]] — the Introduction's preview of this argument

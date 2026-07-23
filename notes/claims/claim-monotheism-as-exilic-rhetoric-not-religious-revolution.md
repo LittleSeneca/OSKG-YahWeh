@@ -76,6 +76,9 @@ Everything. If monotheism is a rhetoric born from exile rather than a revelation
 **Contradicts:**
 <!-- Sinai revelation models of monotheism -->
 <!-- Axial Age evolutionary stage models -->
+[[claim-israelite-monotheism-popular-national-creation-not-elite]] — Kaufmann claims monotheism was popular and original, not a late rhetorical development born from exile. Smith argues monotheism IS a new kind of rhetoric emerging from the exilic crisis; Kaufmann would say this gets the chronology backwards.
+[[claim-torah-pre-prophetic-earliest-stage-israelite-religion]] — If Torah is pre-prophetic (Kaufmann), then the monotheistic rhetoric Smith places in the exile (Second Isaiah) was already present centuries earlier in P. The entire exilic-concentration argument fails.
+[[claim-israelite-religion-non-mythological-fundamentally-unique]] — Kaufmann's ultimate thesis: Israelite religion is non-mythological in a categorically different way. Smith treats Israelite religion as one more example of West Semitic polytheism gradually transformed; Kaufmann would say this misses what makes Israelite religion genuinely distinctive.
 
 **Challenged by:**
 - Rhetoric/ontology distinction may be a distinction without a difference

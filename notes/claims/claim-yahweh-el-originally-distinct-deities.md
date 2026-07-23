@@ -86,7 +86,8 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-cross-el-yahweh-identity]] (Cross — when extracted, Day's claim directly contradicts Cross's thesis that Yahweh was originally a form of El)
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+[[claim-henotheism-monolatry-framework-wrong-question]] — Kaufmann argues the entire framework that reads biblical texts as evidence of El-Yahweh distinction is misguided. If the Bible never acknowledges living foreign gods (only idols), then Day's argument that Yahweh and El were originally distinct deities rests on misreading biblical evidence through a pagan lens.
+[[claim-bible-consistently-characterizes-paganism-as-fetishism]] — Kaufmann's empirical observation: the Bible really does treat all non-YHWH gods as "wood and stone." Day's reading depends on the Bible preserving genuine polytheistic memory; Kaufmann argues it preserves only the fetishism polemic.
 
 **Primary sources:**
 - Kuntillet Ajrud: "Yahweh of Teman" and "Yahweh of Samaria" (proper name in construct)

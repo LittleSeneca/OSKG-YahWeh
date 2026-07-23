@@ -65,7 +65,7 @@ This is the foundation under everything else. If Israelite culture IS Canaanite 
 - [[claim-israel-pantheon-typical-for-region]] — Israel's religious profile was regionally unremarkable
 
 **Contradicts:**
-<!-- Will edge to Kaufmann claims (Israel distinct from paganism) when extracted -->
+[[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann argues Israelite religion was fundamentally different from paganism from the beginning. Smith's Canaanite continuity thesis and Kaufmann's radical uniqueness thesis are mutually exclusive.
 
 **Challenged by:**
 <!-- The "shared culture ≠ shared religion" rebuttal from conservatives -->

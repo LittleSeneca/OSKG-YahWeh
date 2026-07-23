@@ -85,7 +85,8 @@ This single passage provides a snapshot of an early Israelite theology in which 
 <!-- Claims that cannot be true if this one is -->
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+[[claim-henotheism-monolatry-framework-wrong-question]] — Kaufmann would reject the polytheistic reading of Deut 32:8-9 entirely. If the Bible never acknowledges other gods as living deities (only as idols), then the "sons of El" must be understood differently — perhaps as angels, not gods. The critical reading assumes the very framework Kaufmann argues against.
+[[claim-no-foreign-god-active-living-character-biblical-narrative]] — Kaufmann's observation: no god other than YHWH ever acts as a living character in biblical narrative. Deut 32:8-9 describes a past allocation, not ongoing divine activity. The "sons of El" are passive recipients, not active deities.
 
 **Primary sources:**
 - MT: Deut 32:8-9 (bĕnê yiśrā'ēl)

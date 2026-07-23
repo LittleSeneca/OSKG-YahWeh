@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 39
-- **Total claims extracted:** 161
-- **Notes with edges added:** 39
-- **Last session:** 2026-07-28 (Session 13 / Batch 11)
+- **Notes with claims extracted:** 42
+- **Total claims extracted:** 178
+- **Notes with edges added:** 42
+- **Last session:** 2026-07-28 (Session 14 / Batch 12)
 
 ## By Scholar
 
@@ -62,11 +62,11 @@ related:
 - [x] Romer — Chapter 10 — Fall of Samaria
 - [x] Romer — Chapter 11 — Reform of Josiah
 - [x] Romer — Chapter 12 + Conclusion
-- [ ] Romer — Chapters 10-12 + Conclusion
+- [x] Romer — Chapters 10-12 + Conclusion
 
 ### Kaufmann, The Religion of Israel (15 notes)
-- [ ] Kaufmann — Introduction
-- [ ] Kaufmann — Ch I — The Basic Problem
+- [x] Kaufmann — Introduction
+- [x] Kaufmann — Ch I — The Basic Problem
 - [ ] Kaufmann — Ch II — Pagan Religion
 - [ ] Kaufmann — Ch III — Israelite Religion
 - [ ] Kaufmann — Ch IV — The Religion of the People
@@ -324,6 +324,23 @@ related:
   - **Römer's narrative arc completed:** romer-inv-12.2 (desert god to only God) depends on all 9 major Römer claims across 12 chapters. This is the capstone of Römer's extraction. With Ch10-12 done, the entire Römer narrative from Soleb (c. 1370 BCE) to Second Isaiah (c. 540 BCE) is now in the graph — 12 chapters across 30 claims.
 - **Commits:** 1 (pending)
 - **Notes remaining:** 110
+
+### 2026-07-28 — Session 14 (Batch 12 Finalized)
+- **Notes processed:** 3 — Römer Ch10-12 + Conclusion (combined note, covered by individual extractions), Kaufmann Introduction, Kaufmann Ch I (The Basic Problem)
+- **Claims extracted:** 17 (0 Römer, 7 Kaufmann Introduction, 10 Kaufmann Ch I)
+- **Edges added:** ~35+ cross-scholar edges already in the 17 new Kaufmann claims + 11 retrofits to 8 existing Smith/Römer/Day claims (finalization pass). Key clusters:
+  - **Kaufmann as the anti-critical counter-position:** Kaufmann's framework directly contradicts the entire Smith/Römer/Day consensus. Where Smith traces convergence of Canaanite deities into Yahweh, Kaufmann argues Israelite religion was absolutely different from paganism from the beginning (kaufmann-ri-intro.3). Where Römer traces a millennium-long sedimentary invention, Kaufmann maintains the Torah is pre-prophetic (kaufmann-ri-intro.2). Where Day argues for original El-Yahweh distinction, Kaufmann argues the henotheism/monolatry framework is the wrong question (kaufmann-ri-1.4).
+  - **The fetishism pattern — Kaufmann's strongest descriptive contribution:** kaufmann-ri-1.2 (Bible consistently characterizes paganism as fetishism) is Kaufmann's most empirically solid claim. The pattern is real, pervasive, and requires explanation — regardless of whether you accept Kaufmann's explanation (genuine ignorance) or the critical alternative (polemical strategy / editorial selection). High confidence on the observation; debate over the interpretation.
+  - **Kaufmann vs. Smith's "monotheism as rhetoric":** kaufmann-ri-intro.5 (monotheism was popular, not elite rhetoric) directly contradicts Smith's central thesis (smith-obm-intro.9). If Kaufmann is right, monotheism was original and popular; if Smith is right, it was a late rhetorical development of an elite scribal class. Retrofits added to claim-monotheism-was-rhetoric-not-religious-stage, claim-monotheism-as-exilic-rhetoric-not-religious-revolution, and claim-israelite-monotheism-popular-national-creation-not-elite.
+  - **Kaufmann vs. the evolutionary consensus on biblical evidence:** kaufmann-ri-1.1 (Bible displays genuine ignorance of paganism) directly challenges claim-bible-preserves-polytheistic-traces (Römer's foundational methodological claim). What Römer reads as "polytheistic traces" Kaufmann reads as the Bible's consistent characterization of paganism as fetishism. Same data, opposite interpretations. Retrofits added to claim-bible-preserves-polytheistic-traces.
+  - **Kaufmann vs. Deut 32:8-9 and the divine council:** kaufmann-ri-1.4 and 1.5 challenge the polytheistic reading of Deut 32:8-9 and the divine council. Kaufmann argues: if the Bible never acknowledges living foreign gods, then the "sons of El" must be understood differently — the critical reading assumes the very framework Kaufmann argues against. Retrofits added to claim-deut-32-8-9-sons-of-el and claim-divine-council-seventy-sons-of-el.
+  - **Kaufmann vs. Smith's Canaanite continuity and convergence model:** kaufmann-ri-intro.3 (Israelite religion absolutely different from paganism from the beginning) contradicts both claim-israelite-culture-was-canaanite-no-separation (Smith's cultural continuity thesis) and claim-convergence-differentiation-framework-israelite-religion (Smith's methodological framework). Retrofits added to both.
+  - **Kaufmann vs. Römer's narrative arc:** kaufmann-ri-intro.3 and kaufmann-ri-1.10 (non-mythological uniqueness) directly contradict claim-romer-narrative-arc-desert-god-to-only-god. Kaufmann says the arc runs the opposite direction: from monotheism through corruption to restoration, not from polytheism to monotheism via political contingency. Retrofit added.
+  - **Kaufmann's methodological critique of the critical tradition:** kaufmann-ri-intro.7 (scholarship reads evidence backwards "in the light of paganism") identifies a genuine circularity in critical methodology. His critique is strongest when he points to the tendency to dismiss monotheistic-sounding passages as late insertions — but his own mirror circularity (dismissing polytheistic evidence as popular deviance) is equally problematic.
+  - **Internal Kaufmann architecture:** The 17 claims form a tight internal structure. Introduction claims (intro.1-7) establish the methodological and programmatic framework; Ch I claims (1.1-1.10) provide the empirical survey that instantiates the framework. kaufmann-ri-1.10 (non-mythological uniqueness) is the capstone, depending on 1.1 (biblical ignorance), 1.2 (fetishism characterization), and 1.5 (no active foreign gods). Each Ch I claim builds the cumulative case that the Bible's silence about pagan mythology reflects genuine categorical difference, not polemical strategy.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 107
+- **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 1
 - **Notes processed:** 3 — Smith Ch3 (Yahweh and Asherah), Römer Ch9 (Yhwh and His Asherah), Day Ch2 (Yahweh and Asherah)

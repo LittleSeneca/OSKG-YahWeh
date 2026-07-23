@@ -65,6 +65,8 @@ If monotheism is rhetoric rather than an ontological position, the entire modern
 
 **Contradicts:**
 <!-- Axial Age theories treating monotheism as an evolutionary stage -->
+[[claim-israelite-monotheism-popular-national-creation-not-elite]] — Kaufmann claims monotheism was popular and original, not elite rhetoric. Smith's "rhetoric not stage" thesis is exactly what Kaufmann's framework would reject: if monotheism was original and popular, it can't be a late rhetorical development.
+[[claim-torah-pre-prophetic-earliest-stage-israelite-religion]] — Kaufmann's dating of P as pre-prophetic (not exilic) contradicts Smith's model where monotheistic rhetoric emerges from the exile.
 
 **Challenged by:**
 - The rhetoric/ontology false dichotomy: "there is no god besides me" is both rhetoric and truth claim

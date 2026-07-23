@@ -95,7 +95,8 @@ This is foundational. If El was the original god and Yahweh was a later import w
 
 **Contradicts:**
 <!-- Will edge to Heiser claims (Yahweh IS Elyon) when extracted -->
-<!-- Will edge to Kaufmann claims (original monotheism) when extracted -->
+[[claim-israelite-religion-absolutely-different-paganism-from-beginning]] — Kaufmann's foundational thesis: Israelite religion was monotheistic and non-mythological from the very beginning, with the Torah pre-prophetic. If correct, Smith's claim that El was Israel's original god and Yahweh was imported later is impossible.
+[[claim-torah-pre-prophetic-earliest-stage-israelite-religion]] — If Kaufmann is right that P is pre-prophetic, then the entire evolutionary framework (El→Yahweh→monotheism) collapses: the priestly monotheism Smith places at the END of the process was actually at the BEGINNING.
 
 **Challenged by:**
 <!-- Will edge to Schmid claims (if texts are Persian, this reconstruction collapses) when extracted -->

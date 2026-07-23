@@ -89,6 +89,8 @@ This directly connects Israel's worldview to Canaanite mythology. The divine cou
 
 **Challenged by:**
 - [[claim-heiser-subordinate-created-beings]] (Heiser — accepts the "sons of God" reading and the number 70 but rejects the polytheistic implications)
+[[claim-no-foreign-god-active-living-character-biblical-narrative]] — Kaufmann argues that even the divine council imagery does not depict genuine polytheism: the "sons of God" are never active, named, mythological beings with independent divine agency; they are always subordinate to YHWH's sole activity.
+[[claim-israelite-religion-non-mythological-fundamentally-unique]] — Kaufmann's capstone claim: Israelite religion is non-mythological in a way that distinguishes it categorically from Ugaritic/pagan religion. If Kaufmann is right, the Ugaritic parallel (seventy sons of Asherah) cannot be evidence of religious continuity — the conceptual frameworks are fundamentally different.
 
 **Primary sources:**
 - KTU² 1.4.VI.46 (seventy sons of Asherah)
