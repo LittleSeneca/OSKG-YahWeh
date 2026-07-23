@@ -88,6 +88,7 @@ The God of Israel is geographically foreign to Israel. He came from Edom — the
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — the foreign origin that Exodus 6:2-3 acknowledges in narrative requires a geographic origin; Soleb provides it
 - [[claim-el-original-god-israel-yahweh-imported-later]] — Smith's foundational claim (smith-ehg-1.1): Soleb's southern fix corroborates the import model
 - [[claim-midianites-historical-people-northwest-arabia]] — Romer's archaeological treatment of Midian (romer-inv-3.2): the Midianites may have been a Shasu subgroup; the Soleb evidence for "Shasu of Yhw" therefore potentially applies to the Midianite/Kenite bridge population
+- [[claim-yahweh-southern-mountain-storm-god-midianite-origin]] — Albertz provides the most thorough triangulation of the same evidence (Soleb + old poetry + Moses-Midian) that Römer uses; Albertz's argument that the Shasu lists make Yahweh older than Israel converges with Römer's reading
 - [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1) incorporates this Soleb evidence into a broader argument that evaluates and eliminates all competing origin hypotheses
 
 **Contradicts:**

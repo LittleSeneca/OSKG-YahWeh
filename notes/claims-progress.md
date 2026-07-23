@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 66
-- **Total claims extracted:** 338
-- **Notes with edges added:** 66
-- **Last session:** 2026-07-31 (Session 22 / Batch 20)
+- **Notes with claims extracted:** 69
+- **Total claims extracted:** 353
+- **Notes with edges added:** 69
+- **Last session:** 2026-07-31 (Session 23 / Batch 21)
 
 ## By Scholar
 
@@ -95,9 +95,9 @@ related:
 - [x] Lewis — Conclusion
 
 ### Albertz, A History of Israelite Religion (14 notes)
-- [ ] Albertz Vol1 — Introduction — History, Method, Dividing Lines
-- [ ] Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety
-- [ ] Albertz Vol1 — §2.2 — The Exodus Group and Yahweh's Origins
+- [x] Albertz Vol1 — Introduction — History, Method, Dividing Lines
+- [x] Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety
+- [x] Albertz Vol1 — §2.2 — The Exodus Group and Yahweh's Origins
 - [ ] Albertz Vol1 — §2.3-2.4 — Tribal Alliance and Family Piety
 - [ ] Albertz Vol1 — §3.1-3.2 — Formation of Monarchy and Legitimation Crisis
 - [ ] Albertz Vol1 — §3.3-3.4 — State Cults of Jerusalem and Bethel
@@ -221,6 +221,23 @@ related:
   - **Lewis complete:** All 11 Lewis notes now extracted (Ch1-10 + Conclusion). Total: 54 Lewis claims. Lewis provides the most thorough current treatment of El (Ch3-5, 20 claims), the most balanced treatment of Yahweh's origin (Ch6, 6 claims), the most systematic defense of aniconism (Ch7, 4 claims), and the most original treatment of holiness (Ch10, 3 claims). His methodological framework (Ch1-2, 12 claims) emphasizes epigraphy + iconography + archaeology + text, skeptical of minimalism, committed to the Cross school's integration. Lewis is the claims graph's most reliable methodological anchor.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 83
+- **Next batch suggestion:** See below.
+
+### 2026-07-31 — Session 23 (Batch 21 Finalized)
+- **Notes processed:** 3 — Albertz Vol1 Introduction (§1.1–1.3), Albertz Vol1 §2.1 (Patriarchal Religion as Family Piety), Albertz Vol1 §2.2 (The Exodus Group and Yahweh's Origins)
+- **Claims extracted:** 15 (5 Intro, 5 §2.1, 5 §2.2)
+- **Edges added:** ~45 internal edges already in 15 new claims + 17 cross-scholar edges in finalization pass (10 on new Albertz claims, 2 retrofits to existing Römer claims). Key clusters:
+  - **Albertz's methodological and historical foundation now in the graph:** Introduction (5 claims: disciplinary history, seven demands, history-of-religion as superior discipline, internal religious pluralism, regional differentiation) → §2.1 Family Piety (5 claims: patriarchal substratum, El family worship, pre-moral character, no nomadic/sedentary opposition, ancestor cult suppression) → §2.2 Exodus and Yahweh Origins (5 claims: small Exodus group, Yahweh as southern mountain/storm god, liberation-origin structural contrasts, Edom/Midian Sinai, late covenant and image prohibition).
+  - **Introduction — Albertz's manifesto:** Five claims establishing Albertz's program. The discipline was crippled by dialectical theology after WWI (intro.1), seven demands derived from past failures (intro.2), history-of-religion is superior to OT theology (intro.3), sociological stratification via internal religious pluralism is Albertz's signature innovation (intro.4), and regional differentiation plus structural distinctiveness round out the method (intro.5). intro.3 newly edges to Kaufmann's radical distinctiveness claims — Albertz's history-of-religion project and Kaufmann's theological approach are fundamentally incompatible.
+  - **§2.1 — Family piety as substratum:** Albertz's most creative move. Patriarchal religion is not a pre-Yahwistic chronological stage but a sociological substratum of family piety that existed alongside official Yahweh religion (2.1.1). Early families worshipped regional El forms in practical monolatry (2.1.2), family piety was pre-cultic/pre-political/pre-moral (2.1.3), there was no nomadic/sedentary opposition (2.1.4), and ancestor cult was present but progressively suppressed (2.1.5). 2.1.2 newly edges to Römer's onomastic argument — Albertz provides the sociological mechanism for why "Israel" contains El.
+  - **§2.2 — Yahweh's origins as liberation deity:** The single most important section for the Yahweh-origin debate. The Exodus group was small, declassed, and mixed — not "all Israel" (2.2.1). Yahweh was a southern mountain/storm god worshipped by Midianites before Moses — Yahweh is older than Israel (2.2.2). Yahweh religion originated in political liberation, giving it structural contrasts with family piety: historical/political orientation, mediated revelation, conditional relationship (2.2.3). Sinai was in Edom/Midian, not the peninsula, and was later deliberately obscured (2.2.4). The covenant and image prohibition are late Deuteronomistic retrojections (2.2.5).
+  - **Cross-scholar edge pass — Albertz ↔ Römer convergence on southern origin:** The highest-density edge cluster. Albertz 2.2.2 (southern origin triangulation) now edges to all four Römer origin claims: Soleb Shasu lists (romer-inv-2.1), four biblical poems (romer-inv-2.2), Midianite archaeology (romer-inv-3.2), and the Soleb-poetry synthesis (romer-inv-2-3.1). Albertz and Römer independently converge on the same conclusion from the same evidence — this is the strongest consensus in the claims graph. Albertz 2.2.4 (Sinai in Edom) now edges to Römer's Soleb, four poems, and Kenite transmission bridge claims. The geographic triangulation (inscriptional + poetic + archaeological) is now dense across 3 scholars (Albertz, Römer, Day) and 8 claims.
+  - **Albertz ↔ Römer convergence on El-first, Yahweh-later:** Albertz 2.1.2 (El family worship) now edges to Römer's onomastic claim (romer-inv-4.1: Israel name derives from El). Albertz 2.2.1 (small Exodus group) now edges to Römer's Merneptah claim (romer-inv-4.2: Israel existed before Yahweh). The two-stage model (El family god → Yahweh imported at tribal level) is now supported by Albertz (sociological mechanism), Römer (onomastic + historical evidence), Smith (convergence model), Day (El-Yahweh distinction), and Lewis (El as family/clan deity) — five scholars converging.
+  - **Albertz ↔ Kaufmann on methodology:** Albertz intro.3 (history-of-religion superior to OT theology) and intro.4 (internal religious pluralism) now both edge to Kaufmann's radical distinctiveness claims (kaufmann-ri-intro.3, kaufmann-ri-1.10). Albertz's project and Kaufmann's are fundamentally incompatible: Albertz sees Israelite religion as a contested, socially stratified process; Kaufmann sees it as a unified ideological system elementally different from paganism.
+  - **Retrofit edges:** Römer's Soleb claim (romer-inv-2.1) now receives Albertz 2.2.2 as support — Albertz's triangulation is the most thorough treatment of the same evidence. Römer's four-poems claim (romer-inv-2.2) now receives Albertz 2.2.2 and 2.2.4 as support — the poetic evidence converges across both scholars.
+  - **Albertz's arc through §2.2 complete:** Introduction (methodology) → §2.1 (family piety as substratum) → §2.2 (Yahweh's origin in liberation). The three-stage theoretical and historical foundation is now in the graph. Albertz's key methodological innovations — family/official stratification, structural distinctiveness, history-of-religion over OT theology — are now edged to the existing critical consensus (Smith, Römer, Day, Lewis) and the Kaufmannian counter-position.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 80
 - **Next batch suggestion:** See below.
 
 ### 2026-07-31 -- Session 21 (Batch 19 Finalized)

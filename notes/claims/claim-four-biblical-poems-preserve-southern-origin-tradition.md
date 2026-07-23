@@ -79,6 +79,8 @@ If these are among the oldest texts in the Bible, they preserve Israel's own mem
 - [[claim-bible-acknowledges-yhwh-foreign-origin]] — the narrative counterpart to the poetic tradition; Exodus 6:2-3 tells the same story (Yhwh was foreign to the patriarchs) that the poems enact (Yhwh came marching from Edom/Seir)
 - [[claim-kenite-midianite-hypothesis-best-explanation]] — Romer's Ch3 evaluation (romer-inv-3.3): the four poems provide the biblical memory that the Kenite hypothesis attempts to explain HISTORICALLY (WHO mediated Yhwh, not just WHERE he came from)
 - [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — Romer's Ch2-3 synthesis (romer-inv-2-3.1): the most comprehensive treatment of the four poems alongside the Soleb epigraphic evidence; this synthesis elevates the poems from isolated data points to components of a coherent historical argument
+- [[claim-yahweh-southern-mountain-storm-god-midianite-origin]] — Albertz uses the same four poems (Deut 33:2, Judg 5:4-5, Ps 68:8-9, Hab 3:3) as Römer; both conclude the oldest poetry places Yahweh's original home in Edom/Seir/Paran
+- [[claim-sinai-edom-midian-sanctuary-historical-priority-over-cultic]] — Albertz's Edom/Midian Sinai location argument converges with Römer's four-poem thesis; if the old poetry places Yahweh in Edom/Seir, and Sinai was also in Edom/Midian, then the poetic tradition and the sanctuary tradition point to the same geography
 
 **Contradicts:**
 <!-- Late-dating scholars who see the poems as Persian/Hellenistic constructions -->
