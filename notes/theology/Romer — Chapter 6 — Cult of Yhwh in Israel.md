@@ -3,6 +3,13 @@ tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-ro
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 5 — Entrance into Jerusalem]]", "[[Romer — Chapter 7 — Cult of Yhwh in Judah]]", "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Day — Chapter 3 — Yahweh Versus Baal]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-07-28
+claims_count: 3
+claims_files:
+  - "[[claim-biblical-pure-yahwism-deuteronomistic-propaganda]]"
+  - "[[claim-yhwh-worshipped-diverse-local-manifestations]]"
+  - "[[claim-golden-calves-legitimate-yhwh-symbols]]"
 ---
 
 # Römer, The Invention of God — Chapter 6
@@ -12,47 +19,26 @@ related: ["[[Romer — Chapter 5 — Entrance into Jerusalem]]", "[[Romer — Ch
 ---
 
 ## Claim 1: The biblical picture of pure Yahwism is Deuteronomistic propaganda
-
-**Römer's claim:** The Deuteronomistic editors of Kings (6th century BCE) retrojected their theology of exclusive Yhwh worship and centralized Jerusalem cult backward onto the entire monarchy. This picture "does not correspond to historical reality." Before Josiah's reform in the late 7th century, Yhwh worship was diverse, regional, and tolerant of other deities and symbols.
-
-**Evidence presented:**
-- **The editorial bias:** The Deuteronomists judged kings not by political success but by theological purity. Manasseh — presented as the worst king — reigned 55 prosperous years as a loyal Assyrian vassal. Hezekiah — praised as the best — pursued a suicidal anti-Assyrian policy that reduced Judah's territory.
-- **Israel was dominant, not apostate:** "During the two centuries when the two kingdoms coexisted, Israel was the geopolitically dominant one, while Judah was a tiny monarchy that seems to have often been in the position of a vassal to its 'big brother' in the north."
-- **"The idea of a great kingdom, united under David and Solomon, comes more from the imagination of the authors... than from any historical reality."**
-
-**Confidence:** HIGH on Deuteronomistic bias (well-established in scholarship). HIGH that Israel was more powerful than Judah.
+→ [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] | **romer-inv-6.1** | Confidence: high
+  The Deuteronomistic editors of Kings retrojected their theology of exclusive Yhwh worship backward onto the entire monarchy. Before Josiah, Yhwh worship was diverse, regional, and tolerant of other deities. Israel was geopolitically dominant over Judah — the biblical evaluative framework (good king = centralized worship, bad king = tolerated other cults) inverts the political reality.
+  Supports: [[claim-yhwh-worshipped-diverse-local-manifestations]], [[claim-golden-calves-legitimate-yhwh-symbols]]
+  Edges to: [[claim-documentary-hypothesis-obsolete]], [[claim-israel-judah-jew-terminology-historical]]
 
 ---
 
-## Claim 2: Yhwh was worshipped in diverse local forms — "Yhwh of Samaria," "Yhwh of Teman," etc.
-
-**Evidence presented:**
-- Kuntillet Ajrud: "Yhwh of Samaria" and "Yhwh of Teman" — distinct local manifestations
-- Khirbet Beit Lei: "Yhwh, god of Jerusalem"
-- 2 Samuel 15:7: "Yhwh at Hebron"
-- Psalm 99:2: "Yhwh in Zion"
-- "Shared gods existed elsewhere in the Levant. This was particularly the case for the god 'El,' but also for Yhwh himself."
-
-**Three levels of religion:**
-1. **Family/clan:** Personal gods, deified ancestors, pater familias as ritual mediator
-2. **Local:** Open-air sanctuaries on "every hill and under every green tree"
-3. **National/royal:** The king as mediator, national god with associated deities
-
-**Confidence:** HIGH on diverse local manifestations (inscriptional evidence is clear).
+## Claim 2: Yhwh was worshipped in diverse local forms across Israel and Judah
+→ [[claim-yhwh-worshipped-diverse-local-manifestations]] | **romer-inv-6.2** | Confidence: high
+  Inscriptions from Kuntillet Ajrud ("Yhwh of Samaria," "Yhwh of Teman"), Khirbet Beit Lei ("Yhwh, god of Jerusalem"), and biblical texts (2 Samuel 15:7, Psalm 99:2) confirm Yhwh had distinct local manifestations — "Yhwh of Samaria," "Yhwh of Teman," "Yhwh of Jerusalem." This was the normal mode of West Semitic religion, not "syncretism." Three levels operated: family/clan, local sanctuaries, and national/royal.
+  Depends on: [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]]
+  Edges to: [[claim-kuntillet-ajrud-proves-consort]], [[claim-kuntillet-ajrud-symbol-not-goddess]], [[claim-kuntillet-ajrud-cult-object-symbolized-goddess]]
 
 ---
 
 ## Claim 3: The golden calves at Dan and Bethel were legitimate Yhwh symbols, not idolatry
-
-**Römer's claim:** Jeroboam's bulls (1 Kings 12:28-31) were not foreign idols. They were legitimate representations of Yhwh using traditional El/Baal bull iconography. The biblical polemic against them is a late Judean perspective that delegitimized northern Yahwism after Israel fell in 722 BCE. The Exodus 32 golden calf story was written retroactively to condemn the northern bull cult.
-
-**Evidence:**
-- Bull iconography for El is well-attested at Ugarit. When El and Yhwh merged, Yhwh inherited El's bull imagery.
-- The name *'glyw* ("Young bull is Yaw") on Samaria ostracon 41 confirms bull language was used for Yhwh in the north.
-- A 12th-century bronze bull figurine from the Ephraim hill country and the 10th-century Taanach cult stand show bull iconography predated Jeroboam.
-- The Exodus 32 narrative portrays Aaron — the ancestor of the Jerusalem priesthood — making the golden calf. But Moses' grandson (Judges 18:30) serves at Dan. The story was composed to shift blame from Moses' line to Aaron's, while condemning the northern cult.
-
-**Confidence:** MEDIUM-HIGH. The bull-Yhwh connection is well-evidenced (the ostracon, the figurines). The polemical reading of Exodus 32 is plausible but depends on late dating.
+→ [[claim-golden-calves-legitimate-yhwh-symbols]] | **romer-inv-6.3** | Confidence: medium-high
+  Jeroboam's bulls used traditional El/Baal bull iconography inherited by Yhwh when El and Yhwh merged. The Samaria ostracon (*'glyw* = "Young bull is Yaw") confirms bull language for Yhwh in the north. The Exodus 32 golden calf story was composed retroactively to condemn the northern bull cult after Israel fell in 722 BCE.
+  Depends on: [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]], [[claim-israel-name-el-originally-el-worshippers]]
+  Edges to: [[claim-jeroboam-golden-calves-yahwistic-el-bull]], [[claim-el-israelite-sanctuaries]]
 
 ---
 

@@ -82,6 +82,10 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - [[claim-jeroboam-golden-calves-yahwistic-el-bull]] — Day on El's bull iconography
 - [[claim-early-poetry-shows-convergence-multiple-deities-to-yahweh]] — the poetry that records the absorption
 - [[claim-asherah-was-yahwistic-symbol]] — Asherah as El's consort, then transferred to Yahweh
+- [[claim-shiloh-yhwh-first-major-sanctuary]] — Shiloh as El→Yhwh transition site (romer-inv-5.1)
+- [[claim-david-brought-yhwh-to-jerusalem-political]] — David's merger as political mechanism for El→Yhwh transition (romer-inv-5.2)
+- [[claim-yhwh-became-israel-god-two-stage-political-process]] — the two-stage political synthesis (romer-inv-4-5.1)
+- [[claim-golden-calves-legitimate-yhwh-symbols]] — El's bull imagery inherited by Yhwh (romer-inv-6.3)
 
 **Depends on:**
 - [[claim-israelite-culture-was-canaanite-no-separation]] — Israel's Canaanite heritage makes El the logical original god

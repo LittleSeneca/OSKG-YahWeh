@@ -78,6 +78,8 @@ If Yahweh is a southern import, the entire "Yahweh as original god of all Israel
 
 **Supports:**
 - [[claim-yahweh-el-originally-distinct-deities]] (day-ygc-1.1) — the southern origin is what makes Yahweh foreign to Canaan and explains the need for amalgamation with El; without geographical separation, the distinction is harder to maintain
+- [[claim-david-brought-yhwh-to-jerusalem-political]] (romer-inv-5.2) — Yhwh's southern character was brought north by David to Jerusalem
+- [[claim-yhwh-became-israel-god-two-stage-political-process]] (romer-inv-4-5.1) — the southern origin is Stage 0 before the two-stage political adoption
 - [[claim-yahweh-originated-south-midian-edom]] — the more general southern-origin claim
 - [[claim-three-stage-convergence-el-yahweh]] (smith-obm-7.5) — the southern origin explains HOW a non-Canaanite god entered El's pantheon (Stage 2) and eventually merged with him (Stage 3); the geography of convergence matters
 - [[claim-yahweh-southern-desert-war-god-origin]] — Romer's programmatic endorsement (romer-inv-intro.2): desert war god → national god → sole God after 587

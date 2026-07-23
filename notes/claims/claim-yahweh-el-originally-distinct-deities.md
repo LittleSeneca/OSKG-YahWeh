@@ -72,6 +72,9 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-deut-32-8-9-sons-of-el]] (smith-obm-7.4) — the text-critical smoking gun for the El-Yahweh distinction; Yahweh as subordinate to Elyon is the clearest biblical snapshot of the separation Day argues for
 - [[claim-yahweh-southern-storm-warrior-origin]] (smith-obm-7.6) — Smith's southern origin argument provides the geographical mechanism for the distinction: Yahweh from Edom/Midian, El from Canaan = two gods from different regions converging
 - [[claim-name-israel-el-original]] (smith-obm-7.3) — the name itself is the simplest corroboration of Day's position; the philological argument ("if Yahweh were original, we'd expect *yiśrâ-yāh*") matches Day's method
+- [[claim-shiloh-yhwh-first-major-sanctuary]] (romer-inv-5.1) — Samuel's El name at a Yahwistic sanctuary bridges original El worship and the Yhwh monarchy
+- [[claim-david-brought-yhwh-to-jerusalem-political]] (romer-inv-5.2) — David's merger presupposes El and Yhwh were originally distinct
+- [[claim-yhwh-became-israel-god-two-stage-political-process]] (romer-inv-4-5.1) — the two-stage framework requires original El-Yhwh distinction
 - [[claim-israel-name-el-originally-el-worshippers]] — Romer's onomastic argument (romer-inv-4.1): "Israel" is unambiguously an El name; if Yhwh were original, the group would be *Yisra-yahu*. The Masoretic revision at Hos 12:5 (concealing the El meaning) adds documentary evidence for deliberate theological retrojection
 - [[claim-biblical-texts-acknowledge-yhwh-chose-israel-later]] — Romer's textual argument (romer-inv-4.3): Hosea 9:10, Ezekiel 20, and Exodus 6:2-3 all describe the Yhwh-Israel relationship as having a BEGINNING. The Bible's own narrative corroborates Day's thesis that Yahweh and El were distinct
 

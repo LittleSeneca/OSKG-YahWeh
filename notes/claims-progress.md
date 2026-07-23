@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 30
-- **Total claims extracted:** 142
-- **Notes with edges added:** 30
-- **Last session:** 2026-07-27 (Session 10)
+- **Notes with claims extracted:** 33
+- **Total claims extracted:** 149
+- **Notes with edges added:** 33
+- **Last session:** 2026-07-28 (Session 11 / Batch 9)
 
 ## By Scholar
 
@@ -51,9 +51,9 @@ related:
 - [x] Romer — Chapter 3 — Moses and the Midianites
 - [x] Romer — Chapters 2-3 — Geographic Origin and Moses
 - [x] Romer — Chapter 4 — How Yhwh Became Israel's God
-- [ ] Romer — Chapter 5 — Entrance into Jerusalem
-- [ ] Romer — Chapters 4-5 — How Yhwh Became Israel's God
-- [ ] Romer — Chapter 6 — Cult of Yhwh in Israel
+- [x] Romer — Chapter 5 — Entrance into Jerusalem
+- [x] Romer — Chapters 4-5 — How Yhwh Became Israel's God
+- [x] Romer — Chapter 6 — Cult of Yhwh in Israel
 - [ ] Romer — Chapter 7 — Cult of Yhwh in Judah
 - [ ] Romer — Chapters 6-7 — Cults of Israel and Judah
 - [x] Romer — Chapter 8 — Statue of Yhwh
@@ -243,6 +243,20 @@ related:
   - **Tension acknowledged:** romer-inv-3.3 rates the Kenite hypothesis as low-medium confidence — elegant, plausible, underdetermined. Romer's own admission that the Moses narrative is "fashioned with great artifice" creates a methodological tension he can't fully resolve. This tension is not resolved in the later chapters — it's a feature of his approach, not a flaw in its early execution.
 - **Commits:** 1 (pending)
 - **Notes remaining:** 119
+- **Next batch suggestion:** See below.
+
+### 2026-07-28 — Session 11 (Batch 9 Finalized)
+- **Notes processed:** 3 — Römer Ch5 (Entrance into Jerusalem), Römer Ch4-5 synthesis (How Yhwh Became Israel's God), Römer Ch6 (Cult of Yhwh in Israel)
+- **Claims extracted:** 7 (3 Ch5, 1 Ch4-5 synthesis, 3 Ch6)
+- **Edges added:** 15 cross-scholar edges on 7 new claims + 13 retrofits to 5 existing claims = 28 total. Key clusters:
+  - **Römer's Ch4-5 narrative arc completed:** The two-stage political process (Ch4-5 synthesis) is now fully extracted — Stage 1 (Israel as El's people, romer-inv-4.1) → Stage 2 (David's Jerusalem merger, romer-inv-5.2). The synthesis claim (romer-inv-4-5.1) now edges to Smith's El-original thesis (smith-ehg-1.1) and Day's El-Yhwh distinction (day-ygc-1.1) — three scholars converging on the same two-stage model from different evidence angles.
+  - **Shiloh as archaeological bridge:** romer-inv-5.1 now edges to smith-ehg-1.1 and day-ygc-1.1 — Shiloh provides the material-culture evidence that textual scholars point to. Samuel (El name) at a Yahwistic sanctuary is the bridge figure the El→Yhwh transition requires.
+  - **David's political genius connects to Smith's southern origin:** romer-inv-5.2 now depends on smith-obm-7.6 (Yhwh as southern storm warrior) — Romer's political David brought a southern god to an El city. The theology was politics. Edges to smith-ehg-1.1 and day-ygc-1.1 complete the triangle.
+  - **Deuteronomistic propaganda as monotheistic rhetoric:** romer-inv-6.1 now edges to smith-obm-8.3 (monotheism as inner-community discourse) and smith-obm-10.4 (exilic rhetoric) — Römer's Deuteronomistic reading is a case study in what Smith means by "rhetoric." The Dtr editors retrojected exclusive Yahwism backward; Smith shows the same pattern in Isaiah.
+  - **Local manifestations framework for Kuntillet Ajrud:** romer-inv-6.2 now edges to all three Kuntillet Ajrud positions (symbol, consort, cult-object) — Römer's diverse-manifestation model provides the interpretive framework. "Yhwh of Teman and his Asherah" was one local variant; whether the asherah was goddess or symbol may have varied by manifestation. This framework edges to smith-ehg-3.1 (symbol), romer-inv-9.1 (consort), and romer-inv-9.3 (cult-object).
+  - **Golden calves connect El→Baal→Yhwh bull imagery:** romer-inv-6.3 now edges to smith-ehg-1.1 (El's bull iconography inherited) and smith-ehg-2.1 (Baal's storm-warrior bull imagery) — the bulls are where El and Baal imagery converge in Yhwh. Smith's convergence model and Romer's political reading converge on the same iconographic evidence.
+- **Commits:** 1 (pending)
+- **Notes remaining:** 116
 - **Next batch suggestion:** See below.
 
 ### 2026-07-23 — Session 2

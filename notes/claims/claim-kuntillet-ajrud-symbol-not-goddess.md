@@ -94,6 +94,7 @@ Other scholars who disagree: Olyan, Zevit, Ackerman, Hadley, Keel/Uehlinger.
 
 **Supports:**
 - [[claim-female-imagery-absorbed-into-yahweh]] (smith-ehg-3.4) — If the asherah was a symbol whose imagery was absorbed into Yahweh, this supports Smith's broader thesis about convergence and differentiation, which in turn makes his symbol reading of Kuntillet Ajrud more coherent.
+- [[claim-yhwh-worshipped-diverse-local-manifestations]] (romer-inv-6.2) — Romer's model of diverse local Yhwh manifestations provides the framework: "Yhwh of Teman and his Asherah" was one local variant, not evidence for a universal divine couple
 
 **Primary sources:**
 - [[source-kuntillet-ajrud]]
