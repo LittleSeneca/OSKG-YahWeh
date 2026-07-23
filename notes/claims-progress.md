@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 15
-- **Total claims extracted:** 72
-- **Notes with edges added:** 15
-- **Last session:** 2026-07-24 (Session 5)
+- **Notes with claims extracted:** 18
+- **Total claims extracted:** 92
+- **Notes with edges added:** 18
+- **Last session:** 2026-07-24 (Session 6)
 
 ## By Scholar
 
@@ -33,9 +33,9 @@ related:
 ### Smith, Origins of Biblical Monotheism (11 notes)
 - [x] Smith Origins — Introduction
 - [x] Smith Origins — Ch1 — Anthropomorphic Deities and Divine Monsters
-- [ ] Smith Origins — Ch2 — The Divine Council
-- [ ] Smith Origins — Ch3 — The Divine Family
-- [ ] Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations
+- [x] Smith Origins — Ch2 — The Divine Council
+- [x] Smith Origins — Ch3 — The Divine Family
+- [x] Smith Origins — Ch4 — Pluralities Pairings and Other Divine Relations
 - [ ] Smith Origins — Ch5 — The Traits of Deities
 - [ ] Smith Origins — Ch6 — The Life and Death of Baal
 - [x] Smith Origins — Ch7 — El Yahweh and the Original God of Israel
