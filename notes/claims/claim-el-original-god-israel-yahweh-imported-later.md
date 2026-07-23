@@ -81,6 +81,9 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - [[claim-yhwh-not-jerusalem-original-god-solar-competition]] — Romer's Jerusalem case (romer-inv-7.2): Jerusalem was an El city; Yhwh was a latecomer competing with the solar deity. The Jerusalem micro-study is the local instantiation of Smith's macro-thesis
 - [[claim-yhwh-gradual-rise-jerusalem-two-kingdoms-synthesis]] — Romer's two-kingdoms synthesis (romer-inv-6-7.2): the north retained older El traditions (bulls); the south gradually centralized a southern Yhwh
 - [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]] — Romer's consort argument (romer-inv-8-9.2): Yhwh inherited El's consort Asherah, further evidence that El was Israel's original god
+- [[claim-israel-name-alliance-originally-worshipped-el-not-yahweh]] — Albertz's tribal-alliance El-worship thesis (albertz-hir-2.3-2.4.2): the entity Merneptah called "Israel" was an El-worshipping tribal alliance before Yahweh arrived
+- [[claim-david-syncretism-israelite-jebusite-solomon-tipped-canaanite]] — Albertz's David-Solomon syncretism analysis (albertz-hir-3.3-3.4.2): Jerusalem was a Jebusite El city; David recognized this continuity, Solomon abandoned it
+- [[claim-jerusalem-temple-theology-alien-to-liberation-yahwism]] — Albertz's Jerusalem theology as betrayal of liberation-Yahwism (albertz-hir-3.3-3.4.3): the imported El/Baal static-dynamic kingship synthesis replaced the liberation god with an imperial patron
 - [[claim-divine-council-seventy-sons-of-el]] — Day on the divine council structure
 - [[claim-eden-derives-from-el-dwelling-place]] — Day on El's dwelling
 - [[claim-el-shaddai-means-el-mountain-one]] — Day on El Shaddai

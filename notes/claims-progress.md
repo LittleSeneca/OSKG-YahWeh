@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 69
-- **Total claims extracted:** 353
-- **Notes with edges added:** 69
-- **Last session:** 2026-07-31 (Session 23 / Batch 21)
+- **Notes with claims extracted:** 72
+- **Total claims extracted:** 369
+- **Notes with edges added:** 72
+- **Last session:** 2026-08-01 (Session 24 / Batch 22)
 
 ## By Scholar
 
@@ -98,9 +98,9 @@ related:
 - [x] Albertz Vol1 — Introduction — History, Method, Dividing Lines
 - [x] Albertz Vol1 — §2.1 — Patriarchal Religion as Family Piety
 - [x] Albertz Vol1 — §2.2 — The Exodus Group and Yahweh's Origins
-- [ ] Albertz Vol1 — §2.3-2.4 — Tribal Alliance and Family Piety
-- [ ] Albertz Vol1 — §3.1-3.2 — Formation of Monarchy and Legitimation Crisis
-- [ ] Albertz Vol1 — §3.3-3.4 — State Cults of Jerusalem and Bethel
+- [x] Albertz Vol1 — §2.3-2.4 — Tribal Alliance and Family Piety
+- [x] Albertz Vol1 — §3.1-3.2 — Formation of Monarchy and Legitimation Crisis
+- [x] Albertz Vol1 — §3.3-3.4 — State Cults of Jerusalem and Bethel
 - [ ] Albertz Vol1 — §3.5 — Ninth-Century Syncretism Dispute
 - [ ] Albertz Vol1 — §3.6 — Eighth-Century Prophetic Controversies
 - [ ] Albertz Vol1 — §3.7 — Family Piety Under the Late Monarchy
@@ -205,6 +205,25 @@ related:
 ---
 
 ## Session Log
+
+### 2026-08-01 -- Session 24 (Batch 22 Finalized)
+- **Notes processed:** 3 — Albertz Vol1 §2.3-2.4 (Tribal Alliance and Family Piety), Albertz Vol1 §3.1-3.2 (Formation of Monarchy and Legitimation Crisis), Albertz Vol1 §3.3-3.4 (State Cults of Jerusalem and Bethel)
+- **Claims extracted:** 16 (4 §2.3-2.4, 6 §3.1-3.2, 6 §3.3-3.4)
+- **Edges added:** ~40 internal edges already in 16 new claims + 18 cross-scholar edges in finalization pass (6 on new Albertz claims + 7 retrofits to 7 existing Smith/Römer/Kaufmann claims). Key clusters:
+  - **Albertz's pre-state and monarchy narrative arc now fully extracted (§§2.1–3.4):** Introduction (5 claims) → §2.1 Family Piety (5) → §2.2 Exodus/Yahweh Origins (5) → §2.3-2.4 Tribal Alliance (4) → §3.1-3.2 Monarchy Crisis (6) → §3.3-3.4 State Cults (6). Total: 31 Albertz claims across 6 of 14 notes. Albertz's arc: family piety substratum → liberation Yahwism → segmentary anti-monarchical society → monarchy as theological rupture → Jerusalem/Bethel as competing responses.
+  - **§2.3-2.4 — Tribal alliance as counter-model:** Four claims completing Albertz's pre-state picture. Pre-state Israel was segmentary, acephalous, and deliberately anti-monarchical (2.3-2.4.1) — not Noth's amphictyony but Crüsemann's African segmentary model. The tribal alliance originally worshipped El, not Yahweh (2.3-2.4.2) — the Merneptah stele's "Israel" predates the Exodus group's arrival; Yahweh was adopted secondarily. Yahweh functioned as both solidarity principle and anti-domination guarantee (2.3-2.4.3) — Gideon's refusal of kingship (Judg 8:22f.) is the paradigmatic text. Family piety continued largely uninfluenced by the rise of official Yahweh religion (2.3-2.4.4) — onomastic evidence is the strongest empirical pillar: personal names don't reference Exodus/Sinai events. This last claim is Albertz's most empirically grounded argument for internal religious pluralism.
+  - **§3.1-3.2 — Monarchy as theological civil war:** Six claims establishing the monarchy as Yahwism's decisive crisis. The monarchy, not settlement, was the fundamental challenge (3.1-3.2.1) — "a religion which had arisen out of the liberation from state oppression necessarily faced considerable problems as a result of the establishment of a centralistic state." Saul was a chiefdom compatible with tribal organization; David/Solomon built a genuine state with mercenary army, bureaucracy, and forced labor (3.1-3.2.2). The social transformations — taxation, land concentration, class stratification — directly contradicted pre-state values (3.1-3.2.3). David's wars created a theological vacuum; court theologians imported ANE sacral kingship — divine sonship, eternal dynasty, king as mediator of blessing (3.1-3.2.4). Rebel movements (Absalom, Sheba, Jeroboam) wielded pre-state anti-domination Yahwism against the monarchy (3.1-3.2.5) — before the writing prophets, tribal resistance used Yahweh's kingship against human kingship. The Succession Narrative was a mediating position, humanizing the king to bring him closer to small-farmer thinking (3.1-3.2.6). It took over 300 years for Yahweh religion to cope with the challenge the state posed.
+  - **§3.3-3.4 — Jerusalem vs. Bethel as competing responses:** Six claims completing Albertz's monarchy narrative. The royal state sanctuary fused throne and altar — it was the king's private chapel masquerading as public cult (3.3-3.4.1). David's religious policy was deliberate syncretism — two priests, Abiathar (Israelite/Shiloh) and Zadok (Jebusite) — but Solomon exiled Abiathar, giving Zadokites a monopoly, and tipped the balance to the Jebusite/Canaanite side (3.3-3.4.2). Jerusalem temple theology was fundamentally alien to liberation Yahwism — Yahweh changed "from being liberator of the oppressed to being promoter of his own policy of expansion and oppression" (3.3-3.4.3). Jeroboam's revolt was fought under the Exodus banner, and the Exodus narrative may have been shaped by it — striking parallels between Moses and Jeroboam's stories (3.3-3.4.4). Jeroboam's Bethel cult was conservative, archaizing, Exodus-oriented — the bull was a pedestal for invisible Yahweh, not an idol (3.3-3.4.5). Jerusalem's tightly controlled syncretism succeeded; Bethel's populist syncretism slid into Baalization and was destroyed — "the El syncretism of Jerusalem, more strictly controlled by the state, succeeded; the El syncretism of Bethel, which was close to the people, ended in complete disaster" (3.3-3.4.6).
+  - **Cross-scholar edge pass — Albertz ↔ Römer on David and monarchy:** The highest-density new connection. Albertz's monarchy-as-crisis thesis (3.1-3.2.1) now edges to Römer's David-brought-Yhwh-to-Jerusalem claim — Römer describes the political merger, Albertz describes the theological crisis it triggered. Albertz's David-syncretism claim (3.3-3.4.2) now edges to the same Römer claim — complementary descriptions of the same event. Römer's narrative arc (romer-inv-12.2) now receives Albertz's monarchy-as-crisis as support — Albertz's contested process explains why Römer's sedimentary construction was neither smooth nor uncontested.
+  - **Albertz ↔ Smith on monarchy's role:** Albertz's monarchy-as-crisis (3.1-3.2.1) now directly contradicts Smith's monarchy-as-constructive-for-monotheism (smith-ehg-intro.3). Smith sees institutional development; Albertz sees 300-year theological civil war. This is the sharpest Albertz-Smith disagreement in the graph.
+  - **Albertz ↔ Römer on Josiah:** Albertz's Bethel cult analysis (3.3-3.4.5) and Jerusalem-victory thesis (3.3-3.4.6) now both edge to Römer's Deuteronomy-written-for-Josiah claim (romer-inv-11.1). Albertz provides the long prehistory — from Jeroboam I through Hosea — of the rivalry Josiah's reform terminated. The deuteronomic centralization didn't come from nowhere; it was the endpoint of a 250-year contest between two Yahwisms.
+  - **Albertz ↔ Smith on Baal coexistence:** Albertz's Bethel Baalization claim (3.3-3.4.6) now edges to Smith's Baal-Yahweh-peaceful-coexistence claim (smith-ehg-1.2). Albertz provides a case study: Bethel's populist syncretism slid into Baalization precisely because it lacked Jerusalem's state control. The contrast proves Smith's point — Baal-Yahweh conflict was a product of institutional dynamics, not inherent theological incompatibility.
+  - **Albertz ↔ Kaufmann on syncretism:** Albertz's Bethel Baalization claim (3.3-3.4.6) now contradicts Kaufmann's no-genuine-syncretism claim (kaufmann-ri-4.6). If Kaufmann is right, Hosea was polemicizing against a phantom. Albertz reads Hosea as evidence of real syncretism — the Bethel bull cult genuinely absorbed Baal traits.
+  - **Albertz ↔ Smith on El-first thesis:** Albertz's three El-worship claims (2.3-2.4.2 tribal El-worship, 3.3-3.4.2 David's Jebusite syncretism, 3.3-3.4.3 Jerusalem's alien El theology) now all edge to Smith's El-original-god claim (smith-ehg-1.1). Albertz provides the sociological mechanism and political history that Smith's convergence model requires. Albertz's radical version — "Israel" meant El-worshippers before Yahweh arrived — is the strongest form of the El-first thesis in the graph.
+  - **Albertz's Vol1 Part 2 (Before the State) and Part 3 opening (The Monarchy) now complete:** §§2.3-2.4 and §§3.1-3.4 together form the transition from pre-state to monarchy. The remaining Albertz Vol1 notes (§§3.5-3.9) trace the working-out of the monarchy crisis: ninth-century syncretism dispute, eighth-century prophetic controversies, family piety under the late monarchy, the Deuteronomic reform, and the fall of Jerusalem. Seven Albertz Vol1 notes remain (plus 3 Vol2 notes = 10 total Albertz notes remaining).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 77
+- **Next batch suggestion:** See below.
 
 ### 2026-07-31 -- Session 22 (Batch 20 Finalized)
 - **Notes processed:** 3 — Lewis Ch9 (King and Judge), Lewis Ch10 (Holy One), Lewis Conclusion

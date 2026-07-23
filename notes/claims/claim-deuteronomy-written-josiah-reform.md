@@ -74,6 +74,8 @@ The book of Deuteronomy — "Hear O Israel, the Lord our God, the Lord is One" �
 - [[claim-centralization-worship-jerusalem-late-political-project]] — Deuteronomy's centralization command (one sanctuary) is the textual basis for Jerusalem's monopoly on legitimate Yahwistic worship.
 - [[claim-monotheism-was-rhetoric-not-religious-stage]] — Deuteronomy as royal propaganda IS "monotheism as rhetoric." The Shema was composed to serve a political project, not to describe a religious reality. Smith's thesis finds its textual case study in Römer's Deuteronomy analysis.
 - [[claim-imperial-crisis-demanded-super-national-god]] — Deuteronomy's centralization (one God, one temple, one people) is the Judean response to imperial crisis that Smith describes. The "discovered book" disguised the innovation as restoration — exactly the pattern of monotheism as crisis-driven rhetoric.
+- [[claim-jeroboam-bethel-cult-conservative-archaizing-bull-pedestal]] — Albertz shows Bethel was the conservative, Exodus-oriented alternative to Jerusalem; Josiah's destruction of Bethel (2 Kings 23:15-18) was the endpoint of the rivalry Albertz traces from Jeroboam I through Hosea
+- [[claim-jerusalem-syncretism-succeeded-bethel-populism-baalization-failed]] — Albertz's Bethel failure thesis explains why Josiah targeted Bethel specifically: it was the institutional symbol of northern Yahwism's alternative path
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

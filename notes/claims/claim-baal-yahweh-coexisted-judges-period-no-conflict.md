@@ -61,6 +61,7 @@ If Smith is right, the biblical picture of Israel constantly "falling into" Baal
 **Supports:**
 - [[claim-baal-accepted-israelite-god-persistent]] — Baal as acceptable in early Israel
 - [[claim-yahweh-absorbed-baal-storm-warrior-imagery]] — the later convergence after peaceful coexistence
+- [[claim-jerusalem-syncretism-succeeded-bethel-populism-baalization-failed]] — Albertz provides a case study: Bethel's populist syncretism slid into Baalization precisely because it lacked the state control that made Jerusalem's syncretism sustainable; the contrast proves Smith's point that Baal-Yahweh conflict was a product of institutional dynamics, not inherent theological incompatibility
 
 **Related to:**
 - [[claim-boshet-scribal-substitution-for-baal]] — the name-alteration evidence

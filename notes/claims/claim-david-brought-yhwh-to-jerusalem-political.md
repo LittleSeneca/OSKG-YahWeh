@@ -73,6 +73,8 @@ The "city of God," the "place where God's name dwells," was someone else's city 
 - [[claim-yhwh-became-israel-god-two-stage-political-process]] — Stage 2 of the two-stage synthesis
 - [[claim-el-original-god-israel-yahweh-imported-later]] — David's merger is the political mechanism for Smith's El→Yhwh transition (smith-ehg-1.1)
 - [[claim-yahweh-el-originally-distinct-deities]] — David's merger presupposes the original El-Yhwh distinction Day argues for (day-ygc-1.1)
+- [[claim-monarchy-not-settlement-decisive-challenge-yahweh-religion]] — Albertz's monarchy-as-crisis thesis: the political merger Römer describes created the theological crisis Albertz traces across 300 years
+- [[claim-david-syncretism-israelite-jebusite-solomon-tipped-canaanite]] — Albertz documents the syncretistic mechanism (two priests, Jebusite temple) that made David's merger religiously viable
 
 **Contradicts:**
 <!-- Claims that Jerusalem was always Yhwh's city from the beginning -->

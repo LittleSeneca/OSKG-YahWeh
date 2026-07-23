@@ -83,6 +83,7 @@ The narrative arc IS the book's argument. Römer doesn't just assert that monoth
 <!-- Claims this one provides evidence for -->
 - [[claim-invention-means-progressive-construction]] — this narrative arc IS what Römer means by "invention": progressive sedimentary construction, not fabrication.
 - [[claim-yahweh-southern-desert-war-god-origin]] — the programmatic claim from the Introduction. The 12-chapter arc is the evidence for the thesis stated in the Introduction.
+- [[claim-monarchy-not-settlement-decisive-challenge-yahweh-religion]] — Albertz's monarchy-as-crisis thesis explains why Römer's sedimentary process was contested: the state created conditions that contradicted liberation-Yahwism, generating the theological civil war that drove monotheism's development
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

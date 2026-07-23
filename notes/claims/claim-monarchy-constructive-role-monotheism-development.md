@@ -56,6 +56,7 @@ If the monarchy drove monotheism's development, then monotheism is a POLITICAL a
 - [[claim-solar-storm-combination-theological-transcendence]] — royal-period theological synthesis
 
 **Contradicts:**
+- [[claim-monarchy-not-settlement-decisive-challenge-yahweh-religion]] — Albertz sees the monarchy as Yahwism's fundamental crisis, not its constructive vehicle; the 300-year theological civil war contradicts Smith's institutional-development reading
 <!-- Will edge to prophetic-driver claims (Elijah paradigm) when extracted -->
 
 **Related to:**

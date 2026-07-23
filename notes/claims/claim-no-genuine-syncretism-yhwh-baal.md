@@ -62,6 +62,7 @@ Whether Israelite religion was a hybrid of Canaanite and Yahwistic elements or a
 - [[claim-convergence-differentiation-framework-israelite-religion]]
 - [[claim-yahweh-absorbed-baal-storm-warrior-imagery]]
 - [[claim-asherah-el-consort-transferred-to-yahweh]]
+- [[claim-jerusalem-syncretism-succeeded-bethel-populism-baalization-failed]] — Albertz documents genuine syncretism (Baalization of the Bethel bull cult attested by Hosea); if Kaufmann is right, Hosea was polemicizing against a phantom
 
 **Challenged by:**
 - [[claim-kuntillet-ajrud-proves-consort]]
