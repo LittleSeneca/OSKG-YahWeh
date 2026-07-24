@@ -3,6 +3,14 @@ tags: [source/book-notes, faith/yahweh, faith/divine-warrior, theology/divine-em
 created: 2026-07-22
 confidence: high
 related: ["[[Stavrakopoulou — Part III — Torso]]", "[[Stavrakopoulou — Part V — Head + Epilogue]]", "[[Cross — Parts II-III — Divine Warrior and League]]", "[[Day — Chapter 3 — Yahweh Versus Baal]]", "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 4
+claims_files:
+  - "[[claim-god-right-hand-weapon-power-salvation-violence]]"
+  - "[[claim-god-outstretched-arm-physical-deliverance-exodus]]"
+  - "[[claim-god-touched-people-physical-contact-divine-hands]]"
+  - "[[claim-god-wrote-scribal-deity-finger-inscribed-law]]"
 ---
 
 # Stavrakopoulou — Part IV: Arms and Hands (Chapters 12-15)
@@ -12,48 +20,36 @@ related: ["[[Stavrakopoulou — Part III — Torso]]", "[[Stavrakopoulou — Par
 ## Chapter 12: Handedness
 
 ### Claim: God's right hand was his weapon — the source of power, salvation, and violence
-
-**Stavrakopoulou's claim:** "In the Hebrew Bible, God is gloriously right-handed. His right hand accomplishes his most powerful acts." In ANE culture, the right hand was the hand of honor, strength, and skill. God's right-handedness is not incidental — it's part of his embodied identity.
-
-**Evidence:** Exodus 15:6: "Your right hand, Yahweh, glorious in power, your right hand, Yahweh, shatters the enemy." The right hand appears over 100 times in the Hebrew Bible, consistently associated with divine power. "The right hand of Yahweh" (*yĕmîn yhwh*) is practically a divine title in the Psalms.
-
-**Confidence:** HIGH on the textual evidence.
+→ [[claim-god-right-hand-weapon-power-salvation-violence]] | **stav-god-12-15.1** | Confidence: high
+  "In the Hebrew Bible, God is gloriously right-handed." The right hand appears over 100 times, consistently associated with divine power. "The right hand of Yahweh" (*yĕmîn yhwh*) is practically a divine title. In ANE culture, the right hand was the hand of honor, strength, and skill — God's right-handedness is part of his embodied identity.
+  Contradicted by: [[claim-israelite-religion-non-mythological-fundamentally-unique]]
 
 ---
 
 ## Chapter 13: Arm's Reach
 
 ### Claim: God's "outstretched arm" was the muscle that delivered Israel from Egypt
-
-**Stavrakopoulou's claim:** The "outstretched arm" (*zĕrôa' nĕṭûyâ*) of Yahweh is the most repeated phrase in the Exodus tradition. This is not metaphorical — it's a muscular, physical image. God reached into Egypt with his actual arm and pulled Israel out.
-
-**Evidence:** Deuteronomy 26:8: "Yahweh brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, with signs and wonders." The phrase appears in every layer of the Exodus tradition (Deuteronomy, prophets, psalms). It's not poetic flourish — it describes God's physical intervention.
-
-**Confidence:** HIGH.
+→ [[claim-god-outstretched-arm-physical-deliverance-exodus]] | **stav-god-12-15.2** | Confidence: high
+  The "outstretched arm" (*zĕrôa' nĕṭûyâ*) of Yahweh is the most repeated phrase in the Exodus tradition — not metaphorical, but a muscular, physical image. The phrase appears in every layer: Deuteronomy, prophets, psalms. "If God doesn't have an arm, the most central confession of Israelite faith is gibberish."
+  Contradicted by: [[claim-israelite-religion-non-mythological-fundamentally-unique]]
 
 ---
 
 ## Chapter 14: Divine Touch
 
 ### Claim: God touched people — his hands made physical contact
-
-**Stavrakopoulou's claim:** God's hands were not just instruments of power — they were instruments of intimacy. He touched people. His hand covered Moses in the cleft of the rock. His finger wrote the tablets.
-
-**Evidence:** Exodus 33:22: God's hand covers Moses. Exodus 31:18: "the tablets of stone, written with the finger of God." Deuteronomy 9:10 repeats this. Jeremiah 1:9: "Yahweh put out his hand and touched my mouth."
-
-**Confidence:** HIGH that the texts describe divine touch.
+→ [[claim-god-touched-people-physical-contact-divine-hands]] | **stav-god-12-15.3** | Confidence: high
+  God's hands were instruments of intimacy, not just power. His hand covered Moses in the cleft of the rock (Exodus 33:22). His finger wrote the tablets (Exodus 31:18). Yahweh touched Jeremiah's mouth to commission him (Jeremiah 1:9). These are not visionary experiences — they describe physical contact between divine and human bodies.
+  Contradicted by: [[claim-israelite-religion-non-mythological-fundamentally-unique]]
 
 ---
 
 ## Chapter 15: Holy Handbooks
 
 ### Claim: God wrote — he was literate, a scribal deity who produced texts
-
-**Stavrakopoulou's claim:** "God was a writer. His finger inscribed the law. He kept books — the 'book of life,' the 'book of remembrance.'" This is the embodied God as author — a deity with the dexterity and literacy to produce written documents.
-
-**Evidence:** The tablets of the covenant written by God's finger. The "book of life" (Exodus 32:32-33, Psalm 69:28). God writing judgment on the wall at Belshazzar's feast (Daniel 5). In ANE iconography, scribal deities are depicted with stylus and tablet — God conforms to this pattern.
-
-**Confidence:** HIGH on the textual evidence. Stavrakopoulou's connection to ANE scribal iconography is illuminating.
+→ [[claim-god-wrote-scribal-deity-finger-inscribed-law]] | **stav-god-12-15.4** | Confidence: high
+  "God was a writer. His finger inscribed the law. He kept books — the 'book of life,' the 'book of remembrance.'" The tablets of the covenant were written with God's finger. God writing on the wall at Belshazzar's feast. In ANE iconography, scribal deities (Thoth, Nabu) are depicted with stylus and tablet — Yahweh conforms to this established divine type.
+  Contradicted by: [[claim-israelite-religion-non-mythological-fundamentally-unique]]
 
 ---
 

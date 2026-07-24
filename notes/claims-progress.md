@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 141
-- **Total claims extracted:** 677
-- **Notes with edges added:** 141
-- **Last session:** 2026-08-09 (Batch 45)
+- **Notes with claims extracted:** 144
+- **Total claims extracted:** 688
+- **Notes with edges added:** 144
+- **Last session:** 2026-08-09 (Batch 46)
 
 ## By Scholar
 
@@ -189,9 +189,9 @@ related:
 - [x] Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine
 - [x] Stavrakopoulou — Part I — Feet and Legs
 - [x] Stavrakopoulou — Part II — Genitals
-- [ ] Stavrakopoulou — Part III — Torso
-- [ ] Stavrakopoulou — Part IV — Arms and Hands
-- [ ] Stavrakopoulou — Part V — Head + Epilogue
+- [x] Stavrakopoulou — Part III — Torso
+- [x] Stavrakopoulou — Part IV — Arms and Hands
+- [x] Stavrakopoulou — Part V — Head + Epilogue
 
 ### Cross, Canaanite Myth and Hebrew Epic (2 notes)
 - [ ] Cross — Preface + Part I — Canaanite Religion and El
@@ -908,7 +908,29 @@ related:
     - **Stavrakopoulou → Kaufmann contradiction thread:** All 11 Stavrakopoulou claims contradict claim-israelite-religion-non-mythological-fundamentally-unique — Kaufmann's incorporeal, non-mythological God is the primary target of Stavrakopoulou's entire embodied-God project. This is the most extensive single-scholar contradiction in the graph (11 claims → 1 claim).
   - **Stavrakopoulou 3 of 6 notes extracted (11 claims).** Remaining: Part III (Torso), Part IV (Arms and Hands), Part V (Head + Epilogue).
 - **Commits:** 1 (this session)
-- **Notes remaining:** 8
-- **Next batch suggestion:** See below.
+- **Notes remaining:** 5
+- **Next batch suggestion:** Cross Preface+Part I + Cross Parts II-III + Tigay Introduction. Rationale: With Stavrakopoulou complete, the remaining 5 notes are Cross (2) and Tigay (3). Cross's Canaanite background is foundational for the divine council and El threads heavily populated by Smith, Lewis, and Heiser. Tigay's onomastic evidence is the most rigorous empirical test of Kaufmann's monotheism thesis. Batch them as: Cross Preface+Part I (El and the Canaanite pantheon) → Cross Parts II-III (Divine Warrior and League) → Tigay Introduction (methodology). Then final batch: Tigay Ch I + Tigay Ch II.
+
+
+### 2026-08-09 — Batch 46 (Finalized)
+- **Notes processed:** 3 — Stavrakopoulou Part III (Torso), Stavrakopoulou Part IV (Arms and Hands), Stavrakopoulou Part V (Head + Epilogue)
+- **Claims extracted:** 11 (3 Part III: stav-god-9-11.1 through 9-11.3; 4 Part IV: stav-god-12-15.1 through 12-15.4; 4 Part V: stav-god-16-21.1 through 16-21.4)
+- **Edges added:** Internal edges present from extraction + 12 cross-scholar edges in finalization pass. Key clusters:
+  - **The torso cluster (Part III, 3 claims):** God's back seen by Moses (9-11.1), internal organs in anatomical Hebrew (9-11.2), sacrificial feeding as divine digestion (9-11.3). God's interior was as embodied as his exterior.
+  - **The arms and hands cluster (Part IV, 4 claims):** Right hand as weapon/salvation (12-15.1), outstretched arm as muscular Exodus deliverance (12-15.2), divine touch as intimacy and commissioning (12-15.3), and God as literate scribal deity writing with his finger (12-15.4). Divine action is bodily action.
+  - **The head cluster (Part V, 4 claims):** Visible face — fatally or safely (16-21.1), functioning sense organs (16-21.2), fully functional mouth — breathing, eating, drinking, speaking (16-21.3), and God's body "killed" by philosophy (16-21.4). The sensory God was replaced by an abstraction.
+  - **Cross-scholar edge pass — 12 new edges across 9 claim files:**
+    - **Body-killed → Sommer anti-fluid model (5 edges):** 16-21.4 now challenged by `claim-fluidity-anti-fluidity-tension-present-from-beginning-not-chronological` (anti-corporeal trajectory began WITHIN the Bible), `claim-priestly-deuteronomistic-anti-fluid-not-anti-corporeal` (P/D were anti-fluid but still corporeal — "killing" was a disciplining, not a death), and `claim-genesis-1-26-anti-fluid-manifesto-image-without-embodiment` (P's anti-fluid theology predates Greek philosophy). Supports `claim-bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism` — the "killing" IS anti-fluid theology winning Sommer's internal tension. This is the most important cross-scholar engagement in the batch.
+    - **Sacrificial feeding → Dever folk religion (2 edges):** 9-11.3 now supports Dever's folk-polytheism-outlasted-monarchy and monotheism-late-elite-never-displaced — feeding Yahweh is folk practice; Psalm 50's denial is later elite revision.
+    - **Right hand / outstretched arm → Day divine warrior (3 edges):** 12-15.1 and 12-15.2 now edge to Day's cloud-rider and chaoskampf claims — the muscular divine intervention follows the Baal pattern, not Babylonian Marduk.
+    - **Back and face → Sommer sacred space (2 edges):** 9-11.1 edges to cult-statues-were-the-god (back = textual equivalent of cult image). 16-21.1 edges to Tent of Meeting (face-to-face in the mobile sanctuary).
+    - **Sense organs / internal organs → persistent anthropomorphism (2 edges):** 16-21.2 and 9-11.2 both support `claim-anthropomorphism-persists-israel-transcendent` — the comprehensive catalogues are definitive evidence.
+    - **Divine touch → Sommer Tent of Meeting (1 edge):** 12-15.3 edges to Tent of Meeting — touch requires spatial proximity.
+    - **Sacrificial feeding → ANE cult statues (1 edge):** 9-11.3 now depends on cult-statues-were-the-god — ANE cult statues were fed; Israel's system follows the same pattern.
+    - **Eating/drinking → Dever folk religion (1 edge):** 16-21.3 edges to Dever — God eating with Abraham is folk religion.
+  - **Stavrakopoulou COMPLETE — all 6 notes (22 claims from Prologue through Epilogue).** Full arc: sanitization thesis → feet and sacred space → genitals and divine sex → torso and internal anatomy → arms/hands as divine action → head and sensory organs → autopsy. All 22 claims contradict Kaufmann's incorporeal, non-mythological God — the most extensive single-scholar contradiction in the graph (22 → 1).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 5
+- **Next batch suggestion:** Cross Preface+Part I + Cross Parts II-III + Tigay Introduction. Then final batch: Tigay Ch I + Tigay Ch II.
 
 
