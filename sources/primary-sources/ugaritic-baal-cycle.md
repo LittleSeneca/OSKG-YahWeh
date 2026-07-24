@@ -181,7 +181,7 @@ A ritual text describing the birth of **Shahar** (Dawn) and **Shalim** (Dusk), t
 
 | Edition | Author | Year | Status | Link |
 |---------|--------|------|--------|------|
-| *Ugaritic Narrative Poetry* (SBL) | Parker, S.B. (ed.) | 1997 | ✅ IA restricted + local EPUB | `~/Downloads/Ugaritic Narrative Poetry...Parker...libgen.li.epub` |
+| *Ugaritic Narrative Poetry* (SBL) | Parker, S.B. (ed.) | 1997 | ✅ IA restricted + local EPUB | Local EPUB |
 | *The Ugaritic Baal Cycle*, Vol 1: KTU 1.1-1.2 | Smith, M.S. | 1994 | ✅ local PDF | `~/Downloads/[Supplements to VT 55] Mark S. Smith - The Ugaritic Baal Cycle, Volume I... (1994, Brill).pdf` |
 | *The Ugaritic Baal Cycle*, Vol 2: KTU 1.3-1.4 | Smith, M.S. & Pitard, W.T. | 2009 | ✅ local PDF | `~/Downloads/Mark S. Smith, Wayne T. Pitard - The Ugaritic Baal Cycle... (2009, Brill).pdf` |
 | *Canaanite Myths and Legends* (2nd ed.) | Gibson, J.C.L. | 1978 | ✅ local PDF | `~/Downloads/[Academic Paperback] Canaanite Myths and Legends{John C. Gibson}(1978...).pdf` |
