@@ -2,6 +2,10 @@
 
 An **O**pen **S**tructured **K**nowledge **G**raph applied to the concept of Yahweh in the anthropological record — a data-driven investigation into the historical origins of the biblical God and its implications for an accurate understanding of Old Testament Judaism.
 
+![OSKG-YahWeh Knowledge Graph](graph-screenshot.png)
+
+*The OSKG-YahWeh knowledge graph: 723 claims, 154 chapter notes, 18+ primary sources, 9 canvases. Each node is a claim, note, or source. Each edge is a typed relationship — supports, contradicts, depends on, challenged by. The colors and clusters reflect topic domains: Yahweh's origins (green), comparative ANE religion (pink), monotheism's emergence (orange), and primary source evidence (light nodes).*
+
 ---
 
 ## What This Is
