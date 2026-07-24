@@ -183,11 +183,11 @@ If browsing on GitHub, start at [[Home]].
 
 ## Methodology
 
-![Schmid Stress Test — what survives if the Pentateuch is Persian-period?](schmid-stress-test.png)
+![OSKG-YahWeh pipeline methodology and ORKG alignment](methodology-pipeline.png)
 
-*Counter-position stress test for Konrad Schmid's late dating thesis. Green nodes: claims that survive if the Pentateuch was composed in the Persian period (independently dated, anchored in inscriptional/onomastic evidence, or reflecting Persian-period practice). Red/brown nodes: claims that lose their textual foundation (no pre-exilic textual evidence unless the Bible is pre-exilic; if Schmid is right, these are retrojections). The graph quantifies the damage: ~41% of the consensus graph loses its textual basis under Schmid's model.*
+*The four-phase pipeline (left, green/blue nodes): 17 books extracted → 154 chapter notes → 723 claims → synthesis. The ORKG parallel (right, blue nodes): independently converged on the same architecture — structured claim extraction → typed semantic edges → graph querying → evidence synthesis. The pipeline was developed organically through iterative refinement of the Truth Project's book note process. The convergence with ORKG validates the approach: when a humanities researcher and a computer science lab independently arrive at the same architecture, the pattern has genuine methodological validity.*
 
-The pipeline architecture was developed independently but converges with the **Open Research Knowledge Graph (ORKG)** at Leibniz University Hannover (Auer, D'Souza, Farfar et al., 2019–present). Both systems use: structured claim extraction → typed semantic edges → graph querying → evidence synthesis. The independent convergence validates the approach. OSKG-YahWeh differs from ORKG in scale (17 books deep rather than millions of papers shallow) and domain (humanities/biblical studies rather than scientific literature). See [[METHODOLOGY]] for the full analysis.
+The pipeline architecture converges with the **Open Research Knowledge Graph (ORKG)** at Leibniz University Hannover (Auer, D'Souza, Farfar et al., 2019–present). Both systems use: structured claim extraction → typed semantic edges → graph querying → evidence synthesis. The independent convergence validates the approach. OSKG-YahWeh differs from ORKG in scale (17 books deep rather than millions of papers shallow) and domain (humanities/biblical studies rather than scientific literature). See [[METHODOLOGY]] for the full analysis.
 
 ---
 
