@@ -70,6 +70,7 @@ This is a methodological caution, not a positive claim. Fleming is warning again
 **Primary sources:**
 - Deut 32:8-9; Psalm 82
 - 1 Kings 22; Job 1; Isaiah 6
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

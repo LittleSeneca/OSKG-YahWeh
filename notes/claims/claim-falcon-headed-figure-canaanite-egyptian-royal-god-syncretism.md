@@ -72,7 +72,7 @@ This is the earliest documented case of what will become a recurring pattern in 
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
 ## Assessment
 

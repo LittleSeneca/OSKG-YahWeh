@@ -77,6 +77,7 @@ This claim offers a unified explanation for why biblical texts oscillate between
 - Psalm 104:26
 - Job 38:8-11
 - CAT 1.3 III 36-IV 1 (El's epithets for cosmic enemies)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -80,10 +80,10 @@ This establishes that ancient Israelites worshipped Yahweh in the form of a bull
 - [[claim-josiah-reform-removed-asherah]] — Josiah's reform targeted the calves alongside other non-Yahweh-alone elements
 
 **Contradicts:**
-- [[claim-golden-calves-represented-baal]] (disputed — Day argues they were Yahwistic)
+<!-- [[claim-golden-calves-represented-baal]] — forward reference to claim arguing golden calves represented Baal (not yet extracted) -->
 
 **Challenged by:**
-- [[claim-pedestal-theory-calves]] (Obbink/Albright -- the calves were thrones, not images)
+- [[claim-jeroboam-bethel-cult-conservative-archaizing-bull-pedestal]] (the calves were thrones/pedestals, not images)
 - [[claim-jeroboam-bulls-bethel-dan-el-images-out-archaize]] (lewis-ocg-5.4) -- Lewis argues the bulls were El images (not Yhwh images using El imagery), part of Jeroboam's strategy to "out-archaize" David by appealing to northern El traditions. Same evidence (Exod 32, Bethel sanctuary, bull iconography), different conclusion: El worship vs. Yhwh worship
 
 **Primary sources:**

@@ -72,6 +72,7 @@ This is a parallel case to Astarte/Astartes-of-sheep — the OT preserves the na
 - Deir ʻAlla (Balaam text) — *šgr* and *ʻštr* paired
 - Emar calendar — full moon day sacred to Shaggar
 - Hittite hieroglyphic: d30 = *ša-ga-ra/i*
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

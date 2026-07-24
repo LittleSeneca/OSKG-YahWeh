@@ -9,7 +9,7 @@ tags:
   - truth-project
 claim_id: "kaufmann-ri-6.3"
 statement: "Moses was a creative genius — the monotheistic revolution originated with a single person whose insight 'defies attempts to account for it.'"
-confidence: "very-low"
+confidence: "low"
 confidence_rationale: "This is not an explanation — it's a placeholder for one. 'Creative genius' is functionally equivalent to 'divine revelation,' explaining everything while explaining nothing. It abandons historical explanation for something closer to theology."
 claim_type: "theological"
 source_note: "[[Kaufmann — Ch VI — The Origins of Israelite Religion]]"

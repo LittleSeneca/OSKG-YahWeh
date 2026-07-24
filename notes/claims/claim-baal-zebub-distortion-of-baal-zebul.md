@@ -83,6 +83,7 @@ This reveals a deliberate, sophisticated scribal strategy of theologically motiv
 - Symmachus mss j and z (2 Kgs 1:2)
 - NT: Beelzebul (Mt 10:25, 12:24-27; Mk 3:22; Lk 11:15-19)
 - Deut 32:17; Ps 105:37; 1 Cor 10:20 (pagan gods = demons tradition)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

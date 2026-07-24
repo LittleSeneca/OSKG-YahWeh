@@ -70,8 +70,10 @@ This establishes the MB IIB baseline: the goddess is numerically dominant in tem
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
+- [[lachish-ostraca]]
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 The 16:6 ratio is striking and hard to explain away. Combined with the evidence from Chapter II (the "Naked Goddess" on seals and the goddess on the Lachish ewer, the Gezer and Nahariyah figurines), it builds a cumulative case that MB IIB religion was goddess-prominent. The observation about the weather god's changing iconography (fertility in MB, warrior in LB) is a classic Keel-Uehlinger move: tracking a single deity's iconographic evolution across periods to show how religious concepts shifted. This directly supports their "seismograph" methodology from Chapter I.

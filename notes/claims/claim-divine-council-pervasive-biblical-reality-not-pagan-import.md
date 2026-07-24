@@ -85,6 +85,7 @@ If the divine council is a pervasive biblical reality, then any theology that cl
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 Heiser's core achievement in Part 2: he demonstrates conclusively that the Hebrew Bible describes multiple *elohim*. Whether this represents polytheism or a hierarchical monotheism is the interpretive question — but the DATA is undeniable. Any theology that claims the Bible teaches only one divine being exists is filtering out a massive amount of textual evidence.

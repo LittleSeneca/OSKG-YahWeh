@@ -98,6 +98,7 @@ This is the single most important chain of influence Day traces in the entire bo
 **Primary sources:**
 <!-- KTU² 1.4.VIII-1.6.VI; Hosea 5-6, 13-14; Isaiah 26-27; Daniel 12; Zechariah 12:11 -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Day's eight-parallel argument for Isaiah's dependence on Hosea is airtight — that's his own research and it's been well-received. The Baal-as-dying-god argument is the most contested link. Mettinger's subsequent work would provide the most thorough defense of dying and rising gods. The Zoroastrian counter-argument is weakened by the "sleep/awakening" language difference — if Israel got resurrection from Persia, why does the vocabulary differ so dramatically? The three-stage model (mythological appropriation → demythologization → remythologization) is a genuinely sophisticated literary-historical model, not a crude "borrowing" claim.

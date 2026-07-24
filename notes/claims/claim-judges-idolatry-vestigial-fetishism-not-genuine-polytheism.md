@@ -76,6 +76,7 @@ Whether the biblical portrayal of the Judges as a period of cyclical apostasy re
 **Primary sources:**
 <!-- Judg 2:11-13, Judg 6:25-32, Judg 8:33, Judg 10:6 -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 This is where the Kaufmannian method shows its deepest cracks. He has defined "genuine polytheism" so that it requires elaborate mythology. By this definition, almost no popular religion in history would qualify. The fact that Judges describes Israelites "serving the Baals" without reciting Baal mythology doesn't mean they weren't genuinely polytheistic; it means the biblical authors weren't interested in reporting Canaanite theology. The Gideon story alone is devastating to Kaufmann's thesis: Gideon's own father maintains a Baal altar and Asherah pole in Ophrah, and the townspeople want to kill Gideon for destroying them. That's not "ignorant masses"; that's community-level polytheistic practice.

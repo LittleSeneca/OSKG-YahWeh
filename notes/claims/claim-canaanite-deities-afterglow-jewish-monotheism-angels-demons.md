@@ -77,6 +77,7 @@ Monotheism was not a clean break from polytheism but a transformation of polythe
 - Revelation 12-13 — seven-headed dragon
 - 1 Enoch — seventy guardian angels
 - Gospels — Beelzebul as Prince of Demons
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

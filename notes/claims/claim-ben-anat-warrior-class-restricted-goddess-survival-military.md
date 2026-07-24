@@ -73,8 +73,9 @@ This provides a nuanced alternative to both "the goddess disappeared" (Keel and 
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 This is a brilliant piece of detective work that exemplifies the best of Keel and Uehlinger's method — combining glyptic, epigraphic, onomastic, and biblical evidence to reconstruct a specific social-religious phenomenon. The Ben-Anat class provides a model for how goddess devotion could persist within specific social niches even as public iconography shifted away from anthropomorphic goddesses. This has implications for understanding how Asherah worship may have survived in similar niches (women's domestic religion?) during Iron II.

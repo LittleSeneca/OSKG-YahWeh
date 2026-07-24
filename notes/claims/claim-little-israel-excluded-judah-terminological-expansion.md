@@ -68,6 +68,7 @@ If "Israel" is a moving target, then asking "where did Israel get Yahweh?" is th
 - Merneptah Stele (c. 1208 BCE) — earliest mention of "Israel"
 - Judges 5 — Song of Deborah (no Judah/Jerusalem)
 - Mesha Stele — Gad independent of Israel
+- [[mesha-stele]]
 
 ## Assessment
 

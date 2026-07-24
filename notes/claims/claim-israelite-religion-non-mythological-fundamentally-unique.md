@@ -73,6 +73,7 @@ Kaufmann's ultimate thesis. He's not just arguing for early monotheism — he's 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Kaufmann is right that there's something genuinely distinctive about the biblical conception of deity, and the comparative approach can sometimes flatten this distinctiveness into sameness. Israelite religion DID move in a direction that was unusual in the ancient world. But Kaufmann's insistence on ABSOLUTE difference "from the beginning" forces him into a framework that can't accommodate the evidence of continuity. The Kuntillet Ajrud inscriptions, the figurines, the Ugaritic parallels — these are not "fossil remains" that can be dismissed as insignificant. The "non-mythological" character of the Bible is a literary-theological accomplishment, not a primitive inheritance. Kaufmann has mistaken the destination for the point of departure.

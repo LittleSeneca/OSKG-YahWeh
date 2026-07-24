@@ -67,6 +67,7 @@ The Bes = Yahweh identification has been one of the most sensational claims in t
 **Primary sources:**
 - Kuntillet Ajrud Pithos A, figures M and N (ca. 800 BCE)
 - Egyptian Bes iconography (New Kingdom through Late Period)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

@@ -67,6 +67,7 @@ The entire chronology of Israelite religion. If Yahweh was unknown to the patria
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 This is standard critical scholarship, well-argued by Lewis. The Ishmael wordplay is the smoking gun — it's hard to explain as anything other than editorial updating of an El tradition.

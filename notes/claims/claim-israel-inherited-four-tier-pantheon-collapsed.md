@@ -71,6 +71,9 @@ This is the structural mechanism of monotheism's emergence. It's not that Israel
 - 2 Kings 21:7, 23:4
 - Habakkuk 3:5
 - Exodus 15:11 / 1QH 7:28
+- [[deut-32-8-9-qumran-variant]]
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

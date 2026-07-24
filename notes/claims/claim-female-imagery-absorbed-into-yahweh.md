@@ -67,6 +67,7 @@ Moderate. The female dimension of biblical God-language has a history — and th
 **Primary sources:**
 <!-- Proverbs 1-9, Deuteronomy 32, Hosea 14, Isaiah 40-66 -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 The Wisdom-asherah connection is one of Smith's more speculative arguments, but it's intriguing. The broader point — that Yahwism absorbed and transformed imagery from suppressed cults — is well-supported elsewhere (Baal's storm imagery, El's titles) and applying it to Asherah is reasonable even if the specific examples are debatable. The Wisdom connection is the most speculative element; the female imagery for Yahweh is well-attested regardless of its origin.

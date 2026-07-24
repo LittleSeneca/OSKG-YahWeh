@@ -74,6 +74,7 @@ This completely reframes the origin of the Bible. The Torah wasn't a purely inte
 - Ezra 7 (Ezra's commission)
 - The Pentateuch's final form (KD + KP compositions)
 - Elephantine Passover Letter (AP 21) for Persian authorization parallel
+- [[elephantine-papyri]]
 
 ## Assessment
 

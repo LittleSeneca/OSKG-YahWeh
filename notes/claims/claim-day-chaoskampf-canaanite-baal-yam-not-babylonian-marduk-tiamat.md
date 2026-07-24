@@ -82,6 +82,7 @@ The Chaoskampf is one of the most pervasive mythological motifs in the OT. If it
 **Primary sources:**
 <!-- KTU² 1.5.I.1-3; KTU² 1.3.III.40-44; Psalm 74; Psalm 89; Job 26; Job 40-41; Isaiah 27:1 -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Day's expertise on this topic is peerless — his 1985 monograph is the standard reference. The Leviathan/Litan name correspondence alone is close to decisive. The Behemoth/Arsh connection is less secure but still plausible. The "demythologization" thesis (Genesis 1 tames the battle into a "job of work") is elegant and widely accepted. The three modes of reuse (creation, historicization, eschatologization) provide a sophisticated model for how mythological material was transformed, not just borrowed.

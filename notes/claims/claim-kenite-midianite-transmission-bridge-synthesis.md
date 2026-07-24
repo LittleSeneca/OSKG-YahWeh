@@ -87,6 +87,7 @@ If this is correct, Moses didn't receive a revelation from a previously unknown 
 **Primary sources:**
 <!-- Jethro narrative (Exodus 2-3, 18), Kenite passages (Judges 1:16, 4:11) -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 This is where Romer's "traces of memory" methodology is most contested. The Kenite hypothesis is elegant but fragile. If Schmid is right that the Pentateuch is Persian-period, then the Jethro narrative tells us nothing about the 13th century BCE. Romer's willingness to use these texts as historical sources is what distinguishes him from the minimalist camp — but it's also his greatest vulnerability.

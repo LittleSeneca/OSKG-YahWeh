@@ -69,7 +69,7 @@ If MB IIB city-state kings were depicted on seals and stelae in ways normally re
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
 ## Assessment
 

@@ -102,6 +102,9 @@ The biblical writers' ambivalence about the asherah reflects their embarrassment
 **Primary sources:**
 <!-- Kuntillet Ajrud pithos A and B, Khirbet el-Qom burial inscription, Ugaritic texts (KTU² 1.4), Taanach cult stand, Arad temple massebot -->
 
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 This is Dever's strongest chapter and the most complete presentation of the archaeological case for Asherah as goddess consort. The seven converging data categories make the case cumulative rather than dependent on any single artifact. However, Dever does not fully engage Keel/Uehlinger's specific counter-argument about paratactic composition on the Kuntillet Ajrud pithoi, which remains the strongest challenge to the "divine couple" reading. The goddess interpretation is more parsimonious overall, but the symbol interpretation is not ruled out by the evidence Dever presents.

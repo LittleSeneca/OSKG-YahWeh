@@ -71,6 +71,7 @@ If the Jerusalem temple was not the exclusive sanctuary, then the Deuteronomisti
 - Sennacherib's Lachish relief (British Museum)
 - Beer-Sheba four-horned altar
 - 2 Kings 12:14; 1 Kings 3:2-3
+- [[lachish-ostraca]]
 
 ## Assessment
 

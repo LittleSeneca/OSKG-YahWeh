@@ -70,6 +70,7 @@ Absence of theogony in Israel is one of Kaufmann's strongest comparative observa
 
 **Primary sources:**
 - [[claim-deut-32-8-9-sons-of-el]] (LXX/DSS preserves Elyon-Yahweh father-son framework)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

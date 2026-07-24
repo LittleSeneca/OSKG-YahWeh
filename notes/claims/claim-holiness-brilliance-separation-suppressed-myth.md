@@ -74,6 +74,7 @@ If priestly holiness concepts actively suppressed divine sex and death mythologi
 - CAT 1.2 I 20-21; KAI 4:4-5 (Ugaritic/Phoenician holiness terminology)
 - Leviticus 21:7, 11-14 (priestly holiness restrictions)
 - Isaiah 6:4 (theophany and dread)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

@@ -82,6 +82,8 @@ If Baal was always part of Israelite religion, the biblical narrative of a pure 
 - Kuntillet Ajrud inscriptions
 - Hosea 2:23-24 (cf. KTU 1.3 III)
 - Jeremiah's Baal condemnations
+- [[kuntillet-ajrud-inscriptions]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

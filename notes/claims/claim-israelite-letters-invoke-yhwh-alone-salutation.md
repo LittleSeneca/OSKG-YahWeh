@@ -70,4 +70,5 @@ Letters are a different genre from personal names. Names might be conventional/t
 **Primary sources:**
 - Arad ostraca
 - Lachish letters
+- [[lachish-ostraca]]
 <!-- Add specific inscription references -->

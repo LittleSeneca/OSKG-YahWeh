@@ -99,6 +99,9 @@ If Yahweh is a southern import, the entire "Yahweh as original god of all Israel
 - Hab 3:3 (Teman, Paran)
 - Ps 68:9, 18
 - Kuntillet Ajrud: "Yahweh of Teman"
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

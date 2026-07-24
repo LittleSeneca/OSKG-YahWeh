@@ -71,3 +71,4 @@ The multi-genre consistency is the strongest part of Tigay's non-onomastic case.
 - Cave graffiti
 - Temple vessel inscriptions
 - Silver amulets (Ketef Hinnom)
+- [[ketef-hinnom]]

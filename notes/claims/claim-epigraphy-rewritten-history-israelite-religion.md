@@ -75,6 +75,11 @@ If epigraphy is primary, biblical texts become secondary — contextualized and 
 - Ketef Hinnom amulets
 - Arad ostraca
 - Lachish letters
+- [[ketef-hinnom]]
+- [[khirbet-el-qom-inscription]]
+- [[lachish-ostraca]]
+- [[mesha-stele]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

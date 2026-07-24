@@ -68,6 +68,7 @@ If Heiser is right, Paul's soteriology is cosmic rather than merely personal: Ch
 **Primary sources:**
 <!-- Colossians 1:16, 2:15; Ephesians 1:20-22, 3:10; 1 Corinthians 10:20 -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 The cosmic reading of Paul: Paul's "principalities and powers" are not abstract political forces. They are the *elohim* — the corrupt divine beings who received the nations at Babel. Christ's death and resurrection defeated them. The church's mission is to announce this victory to the nations they once ruled. The 1 Cor 10:20 citation of Deut 32:17 is the strongest evidence for this reading; the rest depends on accepting the framework.

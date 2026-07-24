@@ -74,6 +74,7 @@ The popular narrative — "Yahweh had a wife named Asherah!" — collapses under
 - Horse-and-rider statuettes (never paired with figurines)
 - Jeremiah 7, 44 (Queen of Heaven cult)
 - 2 Kings 21:7 (Manasseh installs asherah in Temple)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

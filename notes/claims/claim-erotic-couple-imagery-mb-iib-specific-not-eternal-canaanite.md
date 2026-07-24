@@ -70,7 +70,7 @@ This is one of the most consequential claims in the chapter. If the "patently se
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
 ## Assessment
 

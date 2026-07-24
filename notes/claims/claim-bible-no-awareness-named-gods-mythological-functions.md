@@ -68,6 +68,7 @@ One of Kaufmann's most striking observations, deserving more scholarly attention
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 This is one of Kaufmann's best and most underappreciated observations. The Bible's treatment of named pagan gods really is strangely flat. There IS something genuinely distinctive about how the biblical texts handle foreign deities — they're reduced to national identifiers with no mythological content. But Kaufmann's explanation (genuine ignorance) is less persuasive than the alternative (theological delegitimation through demythologization). The fact that the Bible knows the *names* of these gods at all presupposes contact with cultures that worshipped them.

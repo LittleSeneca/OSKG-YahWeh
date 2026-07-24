@@ -70,8 +70,8 @@ This is the single most explosive question in the field — did Yahweh have a wi
 - [[claim-popular-religion-non-mythological-not-genuine-polytheism]] (kaufmann-ri-3.8) — Kaufmann's thesis that popular Israelite religion was also non-mythological contradicts the consort reading at its foundation
 
 **Primary sources:**
-- [[source-kuntillet-ajrud]]
-- [[source-khirbet-el-qom]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[khirbet-el-qom-inscription]]
 
 ## Assessment
 

@@ -72,6 +72,8 @@ If Yhwh's journey went: desert war god -> national god of Israel -> the only God
 - Egyptian Soleb inscription (Amenophis III, c. 1370 BCE): "Shasu of Yhw(h)" — earliest extrabiblical Yhwh attestation
 - Deut 33:2; Judg 5:4-5; Hab 3:3 — southern march poetry
 - Kuntillet Ajrud: "Yahweh of Teman"
+- [[kuntillet-ajrud-inscriptions]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

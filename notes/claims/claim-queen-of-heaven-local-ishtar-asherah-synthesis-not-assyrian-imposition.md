@@ -76,6 +76,7 @@ If the "Queen of Heaven" is an indigenous revival rather than an Assyrian import
 - Jeremiah 7:18; 44:17-19 (Queen of Heaven cult)
 - Assyrian Ishtar stamp seals from Palestine
 - Judean pillar figurines (7th c. BCE)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

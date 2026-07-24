@@ -74,7 +74,7 @@ This is a bombshell for the aniconism debate. If a "hidden god" theology — exp
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
 ## Assessment
 

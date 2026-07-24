@@ -76,6 +76,7 @@ The Lachish evidence shows that southern Canaanite religion in the LB was a genu
 - Timnah Hathor shrine
 - Revadim/Aphek nursing goddess figurine
 - Baal-Seth serpent-conqueror scarab (Grave 120)
+- [[lachish-ostraca]]
 
 ## Assessment
 

@@ -99,6 +99,7 @@ The convergence paradigm explains HOW monotheism emerged from within polytheism 
 - Genesis 49; Psalm 82 (El as separate figure)
 - Deut 32:8-9 (Yahweh as son of Elyon)
 - Judges 5 (Song of Deborah, merger predates)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

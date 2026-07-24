@@ -67,6 +67,9 @@ Whether Israelite religion was a hybrid of Canaanite and Yahwistic elements or a
 **Challenged by:**
 - [[claim-kuntillet-ajrud-proves-consort]]
 
+**Primary sources:**
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Kaufmann is right that biblical texts don't depict formal syncretism (YHWH-Baal hybrids). The Baal cult under Ahab IS depicted as alien and opposed. But he defines syncretism too narrowly. Religious borrowing doesn't require formal amalgamation — adoption of imagery, epithets, rituals, and divine relationships is borrowing. "Yahweh and his Asherah" at Kuntillet Ajrud looks like syncretism in a form Kaufmann doesn't adequately address: not merging YHWH with another god, but giving him a consort.

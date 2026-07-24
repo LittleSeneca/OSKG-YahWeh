@@ -9,7 +9,7 @@ tags:
   - truth-project
 claim_id: "kaufmann-ri-ep.2"
 statement: "The Torah's internal contradictions prove its antiquity and faithful transmission, not late fluid composition — the compilers dared not alter ancient revelation."
-confidence: "medium-low"
+confidence: "low-medium"
 confidence_rationale: "Clever but cuts both ways — contradictions can indicate fluid composition as easily as reverent preservation."
 claim_type: "textual"
 source_note: "[[Kaufmann — Epilogue and Prospect]]"

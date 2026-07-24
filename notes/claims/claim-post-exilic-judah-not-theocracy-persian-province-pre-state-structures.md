@@ -72,6 +72,7 @@ Calling post-exilic Judah a "theocracy" distorts our understanding of power dyna
 - Ezra 1-6 (return and temple rebuilding)
 - Nehemiah memorandum (Neh 1-7, 10-13) for institutional evidence
 - Elephantine papyri for evidence of Persian administrative practice
+- [[elephantine-papyri]]
 
 ## Assessment
 

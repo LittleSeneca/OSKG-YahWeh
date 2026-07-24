@@ -72,6 +72,7 @@ If Israel knew about ʾIlu/El iconography from Ugaritic/Canaanite predecessors b
 - Ugaritic figurines (Figs. 5.16, 5.18, 5.19, 5.20)
 - Bronze bull from Ugarit South City (Fig. 5.32)
 - Hazor bronze (LB, not Iron Age)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

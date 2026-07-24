@@ -73,6 +73,8 @@ If the southern geography is a theophanic motif rather than an origin memory, th
 - Habakkuk 3:3 — God coming from Teman
 - Psalm 68:8-9 — the earth quaked at Sinai before God
 - Kuntillet Ajrud inscriptions — "Yahweh of Teman"
+- [[kuntillet-ajrud-inscriptions]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

@@ -70,6 +70,7 @@ This is arguably Heiser's most important claim for understanding the broader bib
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 This is Heiser's most distinctive contribution to biblical theology — the "Deuteronomy 32 worldview" that he returns to throughout *The Unseen Realm*. The Deut 32:8-9 connection is not unique to Heiser (Smith, Römer, and Day all discuss it), but Heiser's integration of Babel as the event where this distribution occurred is his original synthesis. The claim makes the Old Testament's references to other nations' gods coherent rather than contradictory: they ARE real beings, appointed by Yahweh, and they will be judged for their corruption. This is hierarchical monotheism at its most fully developed.

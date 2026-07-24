@@ -66,6 +66,10 @@ Whether the Elephantine papyri provide evidence that even diaspora Jews practice
 - [[claim-popular-religion-non-mythological-not-genuine-polytheism]] — Kaufmann's broader thesis that popular Israelite religion was non-mythological is what the Elephantine evidence tests most directly
 <!-- Elephantine as evidence of continued polytheistic tendencies -->
 
+**Primary sources:**
+- [[elephantine-papyri]]
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Kaufmann's dismissal of Elephantine as evidence for popular polytheism is partly justified — Elephantine is a weird case. But his characterization of Anat-Yahu and Anat-Bethel as analogous to "satyrs" is special pleading. "Anat-Yahu" means "Anat of YHWH" — a consort formulation. Having a treasury in YHWH's temple means cultic attention. "Members of his entourage" is doing a lot of work to make polytheistic practice sound monotheistic. That said, he's right that even at Elephantine, YHWH is supreme in a qualitatively different way — the question is whether that difference is enough to call the religion "monotheistic."

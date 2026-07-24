@@ -85,3 +85,6 @@ This is the evidentiary core of Dever's entire book. If these eight categories a
 
 **Primary sources:**
 - Arad temple (8th c.), Taanach cult stand (10th c.), Kuntillet Ajrud pithoi (c. 800 BCE), Khirbet el-Qom inscription (c. 700 BCE), JPF corpus (8th-6th c.)
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]

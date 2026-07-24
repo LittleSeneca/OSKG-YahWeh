@@ -77,6 +77,9 @@ The cumulative archaeological evidence — 3,000+ Judean Pillar Figurines, Kunti
 **Primary sources:**
 <!-- Kuntillet Ajrud pithos A, Khirbet el-Qom inscription, Ugaritic texts (KTU² 1.4) -->
 
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Dever's evidence significantly strengthens the goddess interpretation over Smith's text-based skepticism. The cumulative archaeological case — inscriptions, figurines, temple architecture, cult stands — makes the goddess reading more parsimonious than the symbol-only reading. However, Keel/Uehlinger's counter-argument (paratactic motifs, no unified divine couple scene) remains a live alternative that Dever does not fully engage.

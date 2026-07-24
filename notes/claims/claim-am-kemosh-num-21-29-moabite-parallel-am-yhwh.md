@@ -69,6 +69,7 @@ If 'am kĕmôš is an old traditional category in Moab, and 'am Yhwh uses the id
 - Numbers 21:27-30 (Heshbon Ballad)
 - Jeremiah 48:45-46
 - Mesha Stele (line 12)
+- [[mesha-stele]]
 
 ## Assessment
 

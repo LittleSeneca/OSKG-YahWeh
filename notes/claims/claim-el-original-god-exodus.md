@@ -94,6 +94,7 @@ If El was the god of the Exodus, then the central event of Israel's salvation hi
 - Num 23-24 (El used ~3× as often as Yahweh)
 - Exod 6:2-3 (Patriarchs knew El Shadday, not Yahweh)
 - Egyptian names: Moses, Phinehas, Hopni, Merari (Shilohite priesthood)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

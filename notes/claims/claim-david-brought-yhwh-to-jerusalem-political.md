@@ -87,6 +87,7 @@ The "city of God," the "place where God's name dwells," was someone else's city 
 - 2 Samuel 5-6 — conquest of Jerusalem, ark transfer
 - Genesis 14:18-20 — Melchizedek, priest of El Elyon at Salem
 - Psalm 110, Psalm 2 — royal psalms linking Yhwh to Zion
+- [[tel-dan-stele]]
 
 ## Assessment
 

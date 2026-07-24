@@ -73,6 +73,7 @@ The entire comparative enterprise. Without Ugarit, we have no West Semitic mytho
 - CAT 1.1-1.6 (Baal Cycle)
 - CAT 1.108.2-3
 - Psalm 48:3, Isaiah 27:1
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

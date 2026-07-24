@@ -75,6 +75,8 @@ If true, the entire 150-year paradigm collapses. Yahweh worship didn't need to b
 - Egyptian Soleb and Amarah lists (Yhwʒ of Shasu-land)
 - Judges 5 — Song of Deborah
 - Mesha Stele (men of Gad)
+- [[mesha-stele]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

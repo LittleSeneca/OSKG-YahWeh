@@ -76,6 +76,7 @@ This is the strongest single piece of evidence for Ugaritic-Israelite literary c
 - Psalm 74:12-17
 - Isaiah 27:1, 25:8
 - CAT 1.3 III 40-42, 1.5 I 1-3
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

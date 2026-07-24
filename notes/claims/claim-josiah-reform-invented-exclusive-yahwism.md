@@ -81,6 +81,7 @@ The key irony: Josiah is remembered as the great reformer who restored pure Yahw
 - 2 Kings 23 (the reform account)
 - 1 Kings 3:2 (the Dtr footnote admitting high places were legitimate before the temple)
 - Archaeological evidence of multi-sanctuary Yahwistic worship in the pre-Josianic period (Arad, Lachish, Beersheba)
+- [[lachish-ostraca]]
 
 ## Assessment
 

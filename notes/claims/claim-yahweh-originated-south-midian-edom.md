@@ -87,15 +87,17 @@ If Yahweh came from the south, then Israel's god was NOT indigenous to Canaan. T
 <!-- [[claim-yahweh-midianite-origin]] — forward reference to Römer Ch3 (Moses and the Midianites), to be extracted -->
 
 **Contradicts:**
-- [[claim-cross-el-yahweh-identity]] (Cross — if Yahweh was from Midian, he can't have been a form of the Canaanite El from the beginning)
+<!-- [[claim-cross-el-yahweh-identity]] — forward reference to Cross claim (not yet extracted) -->
 
 **Challenged by:**
-- [[claim-fleming-yahweh-indigenous-origins]] (Fleming 2021 — the most recent major challenge to the southern origins thesis)
+- [[claim-yahweh-not-taken-from-outsiders-divine-name-israel-diverse-origins]] (Fleming 2021 — the most recent major challenge to the southern origins thesis)
 
 **Primary sources:**
 - Egyptian Soleb inscription (14th c. BCE): "Shasu of Yhw"
 - Judg 5:4-5; Deut 33:2; Hab 3:3, 7 (southern march poetry)
 - Kuntillet Ajrud: "Yahweh of Teman"
+- [[kuntillet-ajrud-inscriptions]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

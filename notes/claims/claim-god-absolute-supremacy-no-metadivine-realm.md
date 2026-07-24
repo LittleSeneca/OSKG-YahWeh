@@ -65,6 +65,9 @@ Everything Kaufmann argues flows from this premise. If Israelite religion was mo
 - [[claim-psalm-82-yahweh-prosecutes-gods-injustice]] — Lewis 9.3: Psalm 82 depicts Yahweh prosecuting other gods for judicial failure within a divine council. This directly contradicts Kaufmann's claim that the Bible never acknowledges other gods as active beings subject to judgment.
 - [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] — Lewis 4.5: Deut 32:8-9 preserves a tradition where El Elyon assigns Yahweh Israel as his portion, implying a hierarchy incompatible with absolute divine supremacy.
 
+**Primary sources:**
+- [[deut-32-8-9-qumran-variant]]
+
 ## Assessment
 
 Kaufmann's description of the IDEA is powerful and accurate as biblical theology. The problem is his insistence it's early, original, and popular. He's describing the finished product and claiming it's the starting point.

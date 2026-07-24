@@ -70,6 +70,7 @@ If this figure IS an early Yahweh, it suggests Yahweh's earliest iconography was
 **Primary sources:**
 - Two Lachish scaraboids from same workshop (10th-9th c.)
 - Deut 33:2; Judg 5:4-5; Hab 3:3 (southern origin poems)
+- [[lachish-ostraca]]
 
 ## Assessment
 

@@ -76,6 +76,8 @@ If correct, this transforms our understanding of the Baal Cycle's central confli
 - CAT 1.1 IV (El selects Yamm)
 - 2 Samuel 12:25 (Jedidiah = "beloved of the Lord")
 - EA 71:16-19 (Amarna vassal "dog" terminology)
+- [[lachish-ostraca]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

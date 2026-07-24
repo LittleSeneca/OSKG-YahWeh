@@ -87,6 +87,7 @@ The Jerusalem temple — the center of biblical religion — was a political con
 - Arad temple, Lachish relief, Beer-Sheba altar
 - Joshua 10:12-13; Genesis 14:18-20
 - 1-2 Kings (the entire Deuteronomistic framework)
+- [[lachish-ostraca]]
 
 ## Assessment
 

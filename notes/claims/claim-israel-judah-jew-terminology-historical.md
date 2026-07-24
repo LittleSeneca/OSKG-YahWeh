@@ -72,6 +72,7 @@ If you retroject "Judaism" onto pre-exilic Israel, you create a false continuity
 - 2 Kings 17 (fall of northern kingdom, 722 BCE)
 - 2 Kings 25 (fall of Jerusalem, 587 BCE)
 - Persian period Yehud coinage and administrative documents
+- [[merneptah-stele]]
 
 ## Assessment
 

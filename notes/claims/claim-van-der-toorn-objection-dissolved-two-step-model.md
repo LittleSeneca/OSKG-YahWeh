@@ -64,6 +64,7 @@ This removes one of the main objections to deriving Yahweh from the Amorite onom
 **Primary sources:**
 <!-- Van der Toorn 1999: 914; Stol 1991 -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 Fleming is right that the two-step model changes the problem. A people giving its name to its god is a different phenomenon from a deified ancestor becoming a pantheon head. But he hasn't yet solved the problem — he's just relocated it. Ch 6 needs to deliver.

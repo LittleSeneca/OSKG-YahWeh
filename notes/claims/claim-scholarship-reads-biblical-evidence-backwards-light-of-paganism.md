@@ -63,6 +63,7 @@ The methodological framework within which all the evidence is evaluated. If Kauf
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Kaufmann's best point in the introduction. There IS a tendency in critical scholarship to assume that anything monotheistic-sounding must be late, and to date texts accordingly. Tigay's onomastic study is powerful precisely because it breaks this circularity — it uses an independent dataset (personal names) to test the question. But critiquing the circle doesn't prove Kaufmann's alternative is correct. It only shows the question should be genuinely open. And on the evidence we've accumulated (Kuntillet Ajrud, the figurines, Ugaritic parallels), the critical framework accounts for MORE data than Kaufmann's revolutionary model does.

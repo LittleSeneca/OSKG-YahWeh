@@ -98,6 +98,7 @@ If these are among the oldest texts in the Bible, they preserve Israel's own mem
 - Judges 5:4-5 (Seir, Edom)
 - Psalm 68:8-9 (yesimon, arid land)
 - Habakkuk 3:3 (Teman, Mount Paran)
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

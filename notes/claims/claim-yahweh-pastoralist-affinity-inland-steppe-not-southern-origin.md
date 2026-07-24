@@ -61,6 +61,9 @@ This is the positive payoff of Fleming's deconstruction. He's not just saying th
 - [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]] — replaces Römer's southern-origin reading with pastoralist-affinity reading: the poetry reflects Yahweh's character as a pastoralist god, not his geographical origin
 - [[claim-yahweh-southern-warrior-clothed-northern-canaanite-garments]] — Lewis's synthesis preserves the southern origin component; Fleming's pastoralist-affinity model replaces southern origin with pastoralist character, making Lewis's "clothed in northern Canaanite garments" the whole story rather than the second act
 
+**Primary sources:**
+- [[soleb-shasu-inscription]]
+
 ## Assessment
 
 This is where Fleming's argument becomes most constructive and most vulnerable. He's offering an alternative that explains the data without the Midianite Hypothesis, and it's genuinely attractive. But it's also the sketchiest part of the chapter — more a direction for future research than a settled conclusion.

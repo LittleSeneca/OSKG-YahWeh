@@ -70,6 +70,7 @@ If the Propp Principle is right, most confident historical reconstructions in th
 **Primary sources:**
 <!-- Placeholder -->
 
+- [[ketef-hinnom]]
 ## Assessment
 
 This is the most intellectually honest passage in the book so far. Lewis is essentially saying: "I'm going to argue for X, but I could be wrong, and here's why." That's the right tone for a reference work. The question is whether he maintains this epistemic humility in the substantive chapters or defaults to confident assertion.

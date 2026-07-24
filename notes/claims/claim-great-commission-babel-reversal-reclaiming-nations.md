@@ -68,6 +68,7 @@ If Heiser is right, the Great Commission is not primarily about individual salva
 **Primary sources:**
 <!-- Matthew 28:18-20; Acts 2:1-11; Genesis 10-11 -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 This is one of Heiser's most compelling structural readings. The Babel→Pentecost reversal is textually grounded (Luke explicitly uses the table of nations language in Acts 2). The Great Commission as Babel-reversal is more interpretive but fits the framework. Together they form Heiser's answer to the question: if the *elohim* were given the nations at Babel, how does God get them back? Answer: through the visible Yahweh incarnate, commissioning his followers to disciple those very nations.

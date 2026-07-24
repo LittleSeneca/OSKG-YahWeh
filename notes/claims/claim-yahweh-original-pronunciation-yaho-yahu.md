@@ -79,6 +79,8 @@ Moderate. If the divine name originally meant something like "he blows" (storm g
 - Diodorus of Sicily, *Bibliotheca Historica*: Iao
 - Clement of Alexandria, *Stromata*: Iaoue
 - Epiphanius, *Panarion*: Iabe
+- [[deut-32-8-9-qumran-variant]]
+- [[elephantine-papyri]]
 
 ## Assessment
 

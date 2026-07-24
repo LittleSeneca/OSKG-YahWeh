@@ -74,6 +74,7 @@ Whether P (Exod 6:3: "I appeared to Abraham, Isaac, and Jacob as El Shadday") pr
 - Genesis 49:24-25
 - Numbers 24:16
 - Numbers 1:5-15
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

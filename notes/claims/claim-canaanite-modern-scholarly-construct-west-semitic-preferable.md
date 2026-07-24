@@ -69,6 +69,7 @@ If Ugaritic texts are irrelevant to Israelite religion (as Hillers, Keel/Uehling
 **Primary sources:**
 - CAT 4.967, KTU 1.1-1.6 (Baal Cycle)
 - Psalm 48:3, Isaiah 27:1, Psalm 74:13-14
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

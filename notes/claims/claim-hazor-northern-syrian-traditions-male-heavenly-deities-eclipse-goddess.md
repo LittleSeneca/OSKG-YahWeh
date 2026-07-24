@@ -74,6 +74,7 @@ Hazor was the largest Canaanite city of the LB, and its religious profile is mar
 - Basalt bull fragment with human feet and sun/moon disk
 - Moon god stele in Area C
 - 18 Mitannian cylinder seals
+- [[lachish-ostraca]]
 
 ## Assessment
 

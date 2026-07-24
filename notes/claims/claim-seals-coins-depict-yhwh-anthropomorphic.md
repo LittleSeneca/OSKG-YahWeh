@@ -59,7 +59,7 @@ This provides material counter-evidence to the biblical claim that Israel was al
 
 **Supports:**
 - [[claim-divine-image-prohibition-late-exilic]] — the seals (7th c.) pre-date the exile and the coin (c. 380 BCE) post-dates it, bracketing the period when the prohibition supposedly emerged
-- [[claim-divine-statue-in-jerusalem-temple]] (Römer Ch9 — the presence of visual representations of Yhwh strengthens the case for a cult statue in the First Temple)
+<!-- [[claim-divine-statue-in-jerusalem-temple]] — forward reference to Römer Ch9 claim on cult statue in Jerusalem temple (not yet extracted) -->
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

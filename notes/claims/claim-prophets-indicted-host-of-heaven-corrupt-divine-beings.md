@@ -68,6 +68,7 @@ Heiser argues the prophets operated within the cosmic-geographical framework of 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 Heiser's Deut 32 reading of the prophets is elegant — it unifies the prophetic oracles against the nations with the cosmic geography he established earlier. But the prophets themselves don't make this connection explicit. Isaiah 24:21-22 is the strongest evidence — the cosmic/earthly parallel judgment is unmistakable. Daniel 10's territorial princes are also compelling. But the missing link is explicit citation of Deut 32:8-9 by the prophets themselves.

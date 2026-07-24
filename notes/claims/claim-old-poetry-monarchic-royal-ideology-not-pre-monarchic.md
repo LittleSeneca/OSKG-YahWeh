@@ -59,6 +59,9 @@ If the poetry is monarchic, Yahweh's southern associations were promoted by king
 - [[claim-old-poetry-theophanic-movement-not-yahweh-origin-ugaritic-analogy]] — the Ugaritic analogy gains force if the poetry is monarchic: Israelite kings adopted the West Semitic divine-warrior motif the same way they adopted royal ideology
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — if the poetry is monarchic royal ideology, it cannot simultaneously preserve pre-monarchic memory of Yhwh's southern origin; Römer's reading requires the poetry to be both old (pre-monarchic origin memory) and adaptable (monarchic royal ideology)
 
+**Primary sources:**
+- [[mesha-stele]]
+
 ## Assessment
 
 Fleming shifts the burden of proof. The poetry as we have it looks monarchic. If you want to claim it preserves pre-monarchic tradition, you need to demonstrate that, not just assume it. The archaic features could be deliberate archaism or genuinely old vocabulary preserved in later compositions.

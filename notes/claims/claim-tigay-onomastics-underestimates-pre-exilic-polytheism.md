@@ -73,6 +73,8 @@ Tigay's study is the strongest empirical challenge to the consensus model of wid
 - Kuntillet Ajrud inscriptions (Yahweh of Teman and his Asherah)
 - Khirbet el-Qom inscription (Yahweh and his Asherah)
 - Judean pillar figurines (thousands from late monarchy domestic contexts)
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

@@ -82,7 +82,7 @@ This directly connects Israel's worldview to Canaanite mythology. The divine cou
 **Supports:**
 - [[claim-ot-asherah-equals-ugaritic-athirat]] — the divine council connects El and Asherah as the divine parents; if the council is El's, Asherah is part of the same conceptual furniture
 - [[claim-asherah-el-consort-transferred-to-yahweh]] — the seventy sons belong to El AND Asherah; if the council transfers to Yahweh, the consort's role comes with it
-- [[claim-divine-council-monotheism-late-development]] (Smith Origins -- the council's Canaanite origin underscores that monotheism was a later development)
+<!-- [[claim-divine-council-monotheism-late-development]] — forward reference to Smith Origins claim (not yet extracted) -->
 - [[claim-ugaritic-ilu-fullest-el-portrait-not-deposed-baal]] (lewis-ocg-4.3) -- Lewis's treatment of Ugaritic Ilu as head of the divine council, NOT deposed by Baal, provides the fullest current portrait of El's council presidency
 - [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] (lewis-ocg-4.5) -- Lewis's Deut 32:8-9 analysis shows the divine sons receiving national allocations under El Elyon's authority
 
@@ -90,7 +90,7 @@ This directly connects Israel's worldview to Canaanite mythology. The divine cou
 <!-- Claims that cannot be true if this one is -->
 
 **Challenged by:**
-- [[claim-heiser-subordinate-created-beings]] (Heiser — accepts the "sons of God" reading and the number 70 but rejects the polytheistic implications)
+<!-- [[claim-heiser-subordinate-created-beings]] — forward reference to Heiser claim (not yet extracted) -->
 [[claim-no-foreign-god-active-living-character-biblical-narrative]] — Kaufmann argues that even the divine council imagery does not depict genuine polytheism: the "sons of God" are never active, named, mythological beings with independent divine agency; they are always subordinate to YHWH's sole activity.
 [[claim-israelite-religion-non-mythological-fundamentally-unique]] — Kaufmann's capstone claim: Israelite religion is non-mythological in a way that distinguishes it categorically from Ugaritic/pagan religion. If Kaufmann is right, the Ugaritic parallel (seventy sons of Asherah) cannot be evidence of religious continuity — the conceptual frameworks are fundamentally different.
 
@@ -99,6 +99,8 @@ This directly connects Israel's worldview to Canaanite mythology. The divine cou
 - Deut 32:8 (4QDeut, LXX: *bene ʼelohim*; MT: *bene yiśraʼel*)
 - Genesis 10 (seventy nations)
 - 1 Enoch (seventy guardian angels)
+- [[deut-32-8-9-qumran-variant]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

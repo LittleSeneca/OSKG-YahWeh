@@ -74,6 +74,7 @@ The entire critical narrative of Israelite religion. If there was no pagan popul
 **Primary sources:**
 - Jeremiah 7, 26, 28
 - Ezekiel 8-11
+- [[kuntillet-ajrud-inscriptions]]
 <!-- source-jeremiah, source-ezekiel -->
 
 ## Assessment

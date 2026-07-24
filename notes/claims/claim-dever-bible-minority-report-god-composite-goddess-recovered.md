@@ -91,6 +91,8 @@ If the Bible's God has a history — if he absorbed El's identity, Baal's storm 
 **Primary sources:**
 <!-- All archaeological evidence from Dever's book: Kuntillet Ajrud, Khirbet el-Qom, JPFs, Arad, Taanach -->
 
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Dever's conclusion is rhetorically powerful but leaves the theological question open — perhaps deliberately. The cumulative case for Asherah as Yhwh's consort is now very strong from three independent scholars using different methods. The "so what?" for faith is the same question Smith raised and none of them fully answer: if God has a history, what does that mean for belief in God?

@@ -99,6 +99,8 @@ If Römer is right, the biblical God had a wife. The goddess was worshipped alon
 - Khirbet el-Qom inscription
 - Ugaritic texts (Aṯiratu as El's consort, mother of gods)
 - 2 Kings 23:6-7 (Josiah removes asherah from temple)
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

@@ -75,6 +75,7 @@ If correct, this explains one of the most striking absences in the Bible — why
 - CAT 1.1-1.6 (Baal Cycle)
 - Isaiah 25:8; Revelation 21:4 (biblical death-conflict references)
 - Psalm 48:3 (Zion as Sapan)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

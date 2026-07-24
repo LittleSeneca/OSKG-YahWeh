@@ -67,6 +67,7 @@ If the "new divine drama" emerged with Moses, then Israelite religion was a genu
 **Primary sources:**
 <!-- Exodus 1-15, Enuma Elish, Baal Cycle -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 This is Kaufmann at his best descriptively and his worst historically. He has identified something genuinely distinctive about biblical narrative — the replacement of divine combat with historical conflict, the moralization of the divine drama. This IS a real difference between the Bible and the Baal Cycle or Enuma Elish. But he compresses a centuries-long development into a single founding moment. The early poetry of Israel — the Song of the Sea with its "Who is like you among the gods, YHWH?", the Song of Deborah with its cosmic participants — shows that mythological thinking didn't "wither away" instantly. It persisted alongside and within the historical narrative, gradually being transformed.

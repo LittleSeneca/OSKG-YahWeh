@@ -71,6 +71,9 @@ If all we can say is "preexilic Israel was polytheistic" without specifying whic
 - Psalms 82, 89
 - Deuteronomy 32.8-9 (LXX/Qumran)
 - The 8,500-seal Fribourg corpus as corrective
+- [[deut-32-8-9-qumran-variant]]
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

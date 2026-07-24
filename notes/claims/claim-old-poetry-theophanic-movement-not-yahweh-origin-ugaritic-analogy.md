@@ -66,6 +66,7 @@ If Yahweh's southern home is mythological geography, not historical geography, t
 
 **Primary sources:**
 - [[ugaritic-baal-cycle]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

@@ -76,6 +76,7 @@ This is the counter-narrative to Judah. The Phoenician coast preserves and evolv
 - Lachish Heracles terra-cotta (illus. 368)
 - Nude gymnast terra-cotta (illus. 369)
 - 'Atlit and Ashkelon Bes Lord of Lions (illuss. 366a–b)
+- [[lachish-ostraca]]
 
 ## Assessment
 

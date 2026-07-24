@@ -75,6 +75,7 @@ Heiser is not deconstructing — he's RECONSTRUCTING. "I still believe in the un
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 Heiser positions himself between two camps. Against evangelicals: stop filtering out the divine council. Against critical scholars: stop calling the divine council polytheism. Accept the data. Reject both traditional and critical interpretations. Build something new. The question is whether this middle position is coherent or whether accepting the divine council data inevitably leads to accepting Israelite polytheism.

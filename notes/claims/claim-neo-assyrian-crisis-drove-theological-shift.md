@@ -66,6 +66,10 @@ If monotheism is partly a RESPONSE to imperial crisis, then it's not a natural t
 **Challenged by:**
 - Scholars who date monotheism to the exilic period (imperial trigger is Babylon, not Assyria)
 
+**Primary sources:**
+- [[deut-32-8-9-qumran-variant]]
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 The correlation is real but the causation is underdetermined. Smith needs this claim to bridge the gap between "Israel had a pantheon" (Ch 2-4) and "monotheism emerged as rhetoric" (Ch 8-10). The neo-Assyrian crisis provides a plausible trigger, but Smith doesn't demonstrate mechanism — he asserts correlation. This will need the detailed historical argument of chapters 8-10 to bear weight.

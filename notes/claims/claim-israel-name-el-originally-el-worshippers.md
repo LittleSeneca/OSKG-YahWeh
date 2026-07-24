@@ -81,6 +81,9 @@ status: active
 **Primary sources:**
 <!-- Hosea 12:5 (Masoretic revision), Genesis 32:29 (folk etymology), Ugaritic charioteer list -->
 
+- [[deut-32-8-9-qumran-variant]]
+- [[merneptah-stele]]
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 Romer's argument that "Israel" is an El name is one of the strongest pieces of evidence in his entire book — it's simple, philologically clear, and carries enormous weight. Even if you reject his preferred etymology ("May El reign"), the theophoric element remains *'el*, not *yah*. The Masoretic revision at Hos 12:5 is clever detective work but ultimately unprovable — it might be right, but there's no way to verify.

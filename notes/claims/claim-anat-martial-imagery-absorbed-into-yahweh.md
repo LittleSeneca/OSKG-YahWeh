@@ -93,6 +93,7 @@ Moderate. The goriest descriptions of God in the Bible (drenched in blood, drunk
 - Deut 32:42-43, Ps 68:24 (combined Anat + Baal imagery)
 - Isa 63:3-6 (Yahweh drunk on battle)
 - Egyptian New Kingdom royal texts (Anat/Astarte as pharaoh's shield)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

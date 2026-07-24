@@ -68,8 +68,9 @@ This is a different way of saying what Smith calls "convergence" and what Romer 
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 This is one of the book's most important conclusions. It means the question "what did Yahweh look like?" is the wrong question. The right question is "which existing divine images did Yahweh worshippers use to represent THEIR god?" The answer: the sun, the winged protective powers, the royal lion, the blessing tree. Yahweh looked like whatever the "Most High God" looked like in the contemporary Levantine symbol system.

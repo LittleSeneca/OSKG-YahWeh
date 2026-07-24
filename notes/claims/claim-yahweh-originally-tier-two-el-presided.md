@@ -74,6 +74,7 @@ This is the single most important claim in the chapter for Smith's overall argum
 - Psalm 82 (MT, LXX)
 - Deuteronomy 32:8-9 (LXX, 4QDeutj, MT)
 - Genesis 14:18-20 (El Elyon)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

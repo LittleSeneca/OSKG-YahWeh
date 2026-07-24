@@ -70,6 +70,7 @@ Whether Israelite religion is a "miracle" or a historical development. Kaufmann'
 **Primary sources:**
 <!-- Albright, Cross, Levenson; Kuntillet Ajrud inscriptions and pithoi -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Kaufmann's position is now held only by the most conservative scholars. Albright's modified distinctiveness is closer to the evidence but still overstates the case. Cross's continuity-with-novelty framework is where the field has landed — and where Lewis himself stands.

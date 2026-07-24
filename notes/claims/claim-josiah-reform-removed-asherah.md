@@ -68,6 +68,8 @@ Yhwh had a wife. The goddess was worshipped alongside the god in the Jerusalem t
 **Primary sources:**
 - 2 Kings 23:4-7 (Josiah's reform)
 - Kuntillet Ajrud and Khirbet el-Qom inscriptions
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

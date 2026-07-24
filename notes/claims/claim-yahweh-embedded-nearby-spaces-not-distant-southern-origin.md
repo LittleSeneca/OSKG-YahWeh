@@ -72,6 +72,7 @@ This is Fleming's alternative framework. If it's right, the entire 150-year orig
 - Ramses II Amarah list — Yhwʒ associated with Seir
 - Judges 5 — Song of Deborah (no southern geography in the original battle account per Fleming)
 - Mesha Stele — men of Gad independent of Israel
+- [[mesha-stele]]
 
 ## Assessment
 

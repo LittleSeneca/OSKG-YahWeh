@@ -73,6 +73,7 @@ If Heiser is right about Elyon=Yahweh, the entire critical edifice — Yahweh as
 **Primary sources:**
 - [[../../sources/primary-sources/deut-32-8-9-qumran-variant|Deuteronomy 32:8-9]] (4QDeutj, LXX, MT)
 - [[soleb-shasu-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

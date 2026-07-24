@@ -70,6 +70,7 @@ This claim establishes that spatial location and cultic access are definitional 
 - CAT 1.100 (snake-bite incantation with mountain list)
 - CAT 1.1-1.6 (Baal Cycle)
 - CAT 1.47.1, 1.148.1, 1.91.3
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

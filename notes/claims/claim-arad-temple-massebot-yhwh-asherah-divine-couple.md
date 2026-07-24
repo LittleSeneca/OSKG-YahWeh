@@ -68,3 +68,4 @@ If the Arad temple had two stones representing two deities, then goddess worship
 
 **Primary sources:**
 - Arad temple (8th c. BCE), two massebot in holy of holies
+- [[kuntillet-ajrud-inscriptions]]

@@ -73,6 +73,7 @@ If Genesis 1 deliberately mutes conflict mythology rather than being ignorant of
 - CAT 1.161.19 (Ugaritic sun-goddess title)
 - Psalm 74:12-17 (conflict tradition)
 - Isaiah 51:9-10 (Rahab tradition)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -80,6 +80,8 @@ Moderate. The sun was a deity throughout the ANE. If Yahweh absorbed solar image
 - Lachish/Jerusalem horse figurines with sun disks
 - *lmlk* stamp seals (Judah, 8th c. BCE)
 - Kuntillet Ajrud inscriptions (*zrḥ* solar verb for Yahweh)
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
 
 ## Assessment
 

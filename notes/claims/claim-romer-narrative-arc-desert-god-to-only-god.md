@@ -112,6 +112,11 @@ The narrative arc IS the book's argument. Römer doesn't just assert that monoth
 - Kuntillet Ajrud and Khirbet el-Qom inscriptions — "Yhwh and his Asherah"
 - Second Isaiah (Isaiah 40-55) — first unambiguous monotheism
 - Cyrus Cylinder — Persian imperial policy for restored cults
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
+- [[merneptah-stele]]
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

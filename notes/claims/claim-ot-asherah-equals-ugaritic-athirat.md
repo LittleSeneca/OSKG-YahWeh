@@ -79,6 +79,9 @@ If Athirat = Asherah, we have a continuous goddess tradition from Late Bronze Ag
 - Ugaritic: KTU² 1.4 (Baal cycle), KTU² 1.15 (Keret legend)
 - Ekron inscription: *ʼšrt* (the intermediate phonetic form)
 - Egyptian: Qudshu depictions (ANEP plates 470-474)
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

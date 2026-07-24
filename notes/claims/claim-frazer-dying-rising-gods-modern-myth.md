@@ -71,6 +71,7 @@ If Frazer's category collapses, then interpretations that depend on it (Mettinge
 **Primary sources:**
 - Frazer, The Golden Bough
 - W. Robertson Smith, Lectures on the Religion of the Semites (1889)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

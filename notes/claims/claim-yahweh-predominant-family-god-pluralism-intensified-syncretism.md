@@ -70,6 +70,7 @@ This is exactly what Albertz's model predicts (different strata, different logic
 **Primary sources:**
 - Jeremiah 2:27-28; 7:18; 44:17-19
 - Seals and personal name inscriptions (7th c. BCE)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

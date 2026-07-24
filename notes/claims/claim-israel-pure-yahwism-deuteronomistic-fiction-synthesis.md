@@ -89,6 +89,7 @@ The "golden calf" — the paradigmatic biblical story of idolatry — was probab
 - Exodus 32 (golden calf polemic)
 - Kuntillet Ajrud inscriptions (Yhwh of Samaria/Teman)
 - Khirbet Beit Lei inscription (Yhwh, god of Jerusalem)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

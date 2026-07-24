@@ -69,6 +69,9 @@ If astral worship was indigenous to Yahwism (inherited from El's cult), then the
 **Challenged by:**
 - Scholars who read "host of heaven" as purely metaphorical
 
+**Primary sources:**
+- [[lachish-ostraca]]
+
 ## Assessment
 
 Smith's argument that astral worship was indigenous is provocative and plausible but the evidence chain has weak links: the Ugaritic astral-family evidence is tentative → the Israelite astral-survival evidence depends on reading "host of heaven" language as cultic rather than metaphoric. The strongest single data point is the proper name evidence (Shahar, Shalem in Israelite names), which suggests these deities were known and invoked, not just literary survivals.

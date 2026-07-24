@@ -124,6 +124,9 @@ The God of Israel is geographically foreign to Israel. He came from Edom — the
 - Papyrus Anastasi VI: "Shasu of Edom"
 - Papyrus Harris I (c. 1150 BCE): Seir destruction
 - Karnak relief (Seti I): Shasu depictions
+- [[merneptah-stele]]
+- [[soleb-shasu-inscription]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

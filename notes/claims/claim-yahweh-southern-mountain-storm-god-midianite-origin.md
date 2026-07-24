@@ -83,6 +83,7 @@ This is the Kenite/Midianite hypothesis — Yahweh was NOT originally an Israeli
 - Ramses II Amara list (13th c. BCE) — Shasu of Yhw
 - Deuteronomy 33:2; Judges 5:4-5; Psalm 68:8-9; Habakkuk 3:3 — old poetry locating Yahweh in the south
 - Exodus 2:15-22; 3:1; 18:1-12 — Moses-Midian connection
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

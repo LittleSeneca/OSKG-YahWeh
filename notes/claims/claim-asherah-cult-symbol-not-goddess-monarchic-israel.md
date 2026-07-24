@@ -73,6 +73,7 @@ Higher than it seems. If Asherah was a goddess and Yahweh's consort, then Israel
 **Primary sources:**
 - Kuntillet Ajrud inscriptions (*'šrth*)
 - 1 Kings 18:19
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

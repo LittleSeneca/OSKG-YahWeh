@@ -79,8 +79,9 @@ This is the single most explosive question in the field — did Yahweh have a wi
 - [[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3) — If Römer is right that the suffix indicates the goddess directly, Day's cult-object grammatical argument is wrong
 
 **Primary sources:**
-- [[source-kuntillet-ajrud]]
-- [[source-khirbet-el-qom]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[khirbet-el-qom-inscription]]
+- [[elephantine-papyri]]
 
 ## Assessment
 

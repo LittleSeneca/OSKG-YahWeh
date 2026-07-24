@@ -78,6 +78,7 @@ If Romer is right, the name of God originally meant "he blows" — a description
 - Exodus 3:14 (*'ehyeh 'aser 'ehyeh*)
 - Arabic/Edomite root *h-w-y*
 - Elephantine papyri (Yhw = Yahô)
+- [[elephantine-papyri]]
 
 ## Assessment
 

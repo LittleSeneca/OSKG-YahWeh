@@ -99,6 +99,9 @@ If Yhwh originated in Edom/Midian, then the God of Israel is geographically fore
 **Primary sources:**
 <!-- Soleb inscriptions (Amenophis III), West Amara (Ramses II), Papyrus Anastasi VI, Papyrus Harris I, Seti I Karnak relief -->
 
+- [[kuntillet-ajrud-inscriptions]]
+- [[soleb-shasu-inscription]]
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Romer's chapter is a model of accessible scholarship. He evaluates each piece of evidence honestly, discards the weak claims (Ebla, Mari), flags the uncertain (Ugarit), and builds the case around the strongest evidence (Soleb + biblical poetry). His conclusion is appropriately cautious: "The archaeological, epigraphic, and iconographic evidence all place the Shasu in the territory of Edom or Seir... and among these Shasu there might have been a group whose tutelary god was called 'Yhw.'" The word "might" is doing honest work.

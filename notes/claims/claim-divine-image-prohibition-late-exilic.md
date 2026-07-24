@@ -60,7 +60,7 @@ The second commandment — "you shall not make for yourself a graven image" — 
 - [[claim-seals-coins-depict-yhwh-anthropomorphic]] — the visual representations prove the prohibition's limited reach
 
 **Supports:**
-- [[claim-josiah-reform-centralized-not-original]] (Day Ch1 — if the image prohibition is late, the Deuteronomic reform was innovating, not restoring)
+- [[claim-josiah-reform-invented-exclusive-yahwism]] (Day — if the image prohibition is late, the Deuteronomic reform was innovating, not restoring)
 - [[claim-bible-deliberately-obscures-yhwh-asherah-link]] — the same retroactive projection pattern: later editors projected their theology backward into Israel's past
 
 **Contradicts:**

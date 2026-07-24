@@ -81,6 +81,7 @@ Scholars who read Hurvat Qitmit as an imported Edomite cult, not an indigenous s
 - Stylized tree terra-cotta (illus. 376)
 - Pig figurine (illus. 379)
 - Ostrich figurines
+- [[lachish-ostraca]]
 
 ## Assessment
 

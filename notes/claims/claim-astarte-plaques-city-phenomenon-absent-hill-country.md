@@ -70,6 +70,7 @@ THIS IS THE CRITICAL FINDING FOR THE TRUTH PROJECT. If the "Astarte plaques" are
 **Primary sources:**
 - Excavation records from Tel Zeror, Tell Beit Mirsim, Gezer, Lachish, Taanach
 - Survey data from Iron Age I hill country settlements
+- [[lachish-ostraca]]
 
 ## Assessment
 

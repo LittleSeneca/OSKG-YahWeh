@@ -113,6 +113,9 @@ This is foundational. If El was the original god and Yahweh was a later import w
 - Judges 9:46 (El-Berit at Shechem)
 - KTU 1.128 (Ugaritic El-Berit parallel)
 - Old poetry: Deut 33:2-3, Judg 5:4-5, Hab 3:3
+- [[deut-32-8-9-qumran-variant]]
+- [[soleb-shasu-inscription]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

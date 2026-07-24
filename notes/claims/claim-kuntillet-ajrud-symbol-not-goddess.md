@@ -69,7 +69,7 @@ This claim also affects how we read the Deuteronomistic reforms. If the asherah 
 **Who disagrees:** The majority of scholars read Kuntillet Ajrud as evidence for Asherah as Yahweh's consort:
 
 - **[[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3):** Römer argues the possessive suffix on *'šrth* is most naturally read as referring to the goddess. The inscriptions are "unambiguous evidence that Asherah was paired with Yhwh."
-- **[[claim-inscriptions-unambiguously-pair-yhwh-asherah]] (dever-dghw-5.6):** Dever reads the inscriptions as unambiguous evidence that Asherah was Yhwh's consort, supported by 3,000+ Judean Pillar Figurines.
+- **[[claim-dever-archaeology-proves-asherah-real-goddess-yhwh-consort]]:** Dever reads the inscriptions as unambiguous evidence that Asherah was Yhwh's consort, supported by 3,000+ Judean Pillar Figurines.
 - **[[claim-kuntillet-ajrud-and-el-qom-prove-consort]] (day-ygc-2.x):** Day's reading aligns with the consort interpretation.
 
 Other scholars who disagree: Olyan, Zevit, Ackerman, Hadley, Keel/Uehlinger.
@@ -85,11 +85,11 @@ Other scholars who disagree: Olyan, Zevit, Ackerman, Hadley, Keel/Uehlinger.
 
 **Contradicts:**
 - [[claim-kuntillet-ajrud-proves-consort]] (romer-inv-9.3) — Römer reads the SAME inscription and reaches the OPPOSITE conclusion. These two claims cannot both be correct.
-- [[claim-inscriptions-unambiguously-pair-yhwh-asherah]] (dever-dghw-5.6) — Dever's reading directly contradicts Smith's.
+- [[claim-dever-archaeology-proves-asherah-real-goddess-yhwh-consort]] — Dever's reading directly contradicts Smith's.
 
 **Challenged by:**
-- [[claim-ugaritic-divine-names-with-suffixes]] — The Ugaritic counter-examples (*'aṯrty*, *'nth*) weaken the grammatical argument. Smith concedes this.
-- [[claim-3000-figurines-prove-goddess-worship]] (dever-dghw-5.4) — The archaeological evidence of widespread goddess figurines makes Smith's symbol-only reading harder to sustain. If 3,000+ Judean Pillar Figurines represent Asherah, reading Kuntillet Ajrud as referring to a mere cult object becomes less plausible.
+<!-- [[claim-ugaritic-divine-names-with-suffixes]] — forward reference: Ugaritic counter-examples weaken the grammatical argument (not yet extracted) -->
+- [[claim-judean-pillar-figurines-asherah-goddess-worship-domestic]] (dever-dghw-5.4) — The archaeological evidence of widespread goddess figurines makes Smith's symbol-only reading harder to sustain. If 3,000+ Judean Pillar Figurines represent Asherah, reading Kuntillet Ajrud as referring to a mere cult object becomes less plausible.
 - [[claim-bible-deliberately-obscures-yhwh-asherah-link]] (romer-inv-9.2) — If the Deuteronomists deliberately associated Asherah with Baal to break the link with Yahweh, this implies the link was real and threatening — which fits the goddess reading better than the symbol reading.
 
 **Supports:**
@@ -97,8 +97,8 @@ Other scholars who disagree: Olyan, Zevit, Ackerman, Hadley, Keel/Uehlinger.
 - [[claim-yhwh-worshipped-diverse-local-manifestations]] (romer-inv-6.2) — Romer's model of diverse local Yhwh manifestations provides the framework: "Yhwh of Teman and his Asherah" was one local variant, not evidence for a universal divine couple
 
 **Primary sources:**
-- [[source-kuntillet-ajrud]]
-- [[source-khirbet-el-qom]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[khirbet-el-qom-inscription]]
 
 ## Assessment
 

@@ -88,6 +88,7 @@ This is the chapter's master argument. If biblical monotheism IS transformed Can
 - Proverbs 1-9 (wisdom strategy)
 - Daniel 7 (apocalyptic strategy)
 - Ugaritic Baal Cycle (the myth being transformed)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

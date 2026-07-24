@@ -75,6 +75,7 @@ The personification of Death in the OT is borrowed furniture from Canaanite myth
 - KTU² 1.6.VI.17-22 — *mt ʻz* "Mot was strong"
 - Isaiah 5:14; Hab 2:5; Ps 49:15 — Sheol/Mot imagery in OT
 - Cant 8:6 — "love is strong as death" (*ʻazzâ kammāwet*)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

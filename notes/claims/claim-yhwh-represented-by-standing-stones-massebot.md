@@ -65,7 +65,7 @@ If Yhwh was represented by standing stones that were treated as divine images, t
 - [[claim-divine-image-prohibition-late-exilic]] — the lateness of the prohibition explains why *massebot* were initially accepted
 
 **Supports:**
-- [[claim-yhwh-asherah-divine-couple-evidence]] (Römer Ch9 — the Arad two steles directly support the Asherah-as-consort reading Römer develops in the next chapter)
+- [[claim-arad-temple-massebot-yhwh-asherah-divine-couple]] (Römer Ch9 — the Arad two steles directly support the Asherah-as-consort reading Römer develops in the same chapter)
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->

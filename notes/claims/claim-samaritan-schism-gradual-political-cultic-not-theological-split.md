@@ -72,6 +72,7 @@ If Albertz is right, the Jewish-Samaritan split wasn't about "pure vs. syncretis
 - Ezra 4.1-5 (exclusion from temple rebuilding)
 - Nehemiah 13.28 (expulsion of high priest's son)
 - Elephantine papyri AP 30/31 (correspondence with both Jerusalem and Samaria)
+- [[elephantine-papyri]]
 
 ## Assessment
 

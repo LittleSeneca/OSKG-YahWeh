@@ -73,6 +73,7 @@ Whether the exile was a theological crisis (Marduk defeated YHWH?) or a crisis o
 
 **Primary sources:**
 - Ezekiel 20:32-44
+- [[elephantine-papyri]]
 <!-- source-ezekiel -->
 
 ## Assessment

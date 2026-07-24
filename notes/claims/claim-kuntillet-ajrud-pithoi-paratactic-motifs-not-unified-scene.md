@@ -71,6 +71,7 @@ Every interpretation that reads the pithoi as a unified theological statement ("
 **Primary sources:**
 - Kuntillet Ajrud Pithos A and B (ca. 800 BCE)
 - P. Beck (1982), "The Drawings from Horvat Teiman (Kuntillet 'Ajrud)"
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

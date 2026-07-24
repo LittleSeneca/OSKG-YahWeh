@@ -73,6 +73,7 @@ This is the foundation under everything else. If Israelite culture IS Canaanite 
 **Primary sources:**
 - Merneptah Stele
 - Archaeological record (four-room house, collared-rim jar, burial patterns)
+- [[merneptah-stele]]
 
 ## Assessment
 

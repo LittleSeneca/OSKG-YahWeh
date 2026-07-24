@@ -96,6 +96,7 @@ Molech is the single most morally disturbing deity in the OT. If child sacrifice
 - KTU² 1.100.41; 1.107.17 — Ugaritic god *mlk*
 - RS 1986.2235 — Mlk + Resheph pairing
 - Isa 57:9 — Molech associated with Sheol
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

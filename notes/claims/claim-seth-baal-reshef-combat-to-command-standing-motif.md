@@ -71,8 +71,9 @@ This provides an iconographic parallel to the biblical shift from Yahweh as divi
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 The authors' reading is more persuasive than the "artistic convenience" alternative because the motif appears consistently across multiple media (pyramid seals, scarabs, scaraboids) and the same shift affects MULTIPLE deities (Seth-Baal, Reshef, Horus-as-crocodile-master). A fashion change might affect one figure; a systematic pattern across the entire pantheon suggests a conceptual shift.

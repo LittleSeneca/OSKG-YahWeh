@@ -71,6 +71,9 @@ The single most explosive question in the field: did Yahweh have a wife? If yes,
 - [[claim-asherah-goddess-in-ot-passages]] — Day's OT evidence cuts toward goddess
 - [[claim-asherah-el-consort-transferred-to-yahweh]] — Römer's consort-transfer model
 
+**Primary sources:**
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Smith's shift from skepticism to agnosticism is honest and tracks the field. After Dever's archaeological evidence (3000+ pillar figurines) and Römer's epigraphic analysis, the weight favors Asherah as goddess. But Smith is right that the Kuntillet 'Ajrud grammar (the suffix on 'šrth) is not a slam dunk — Pardee's caution about Ugaritic -h on proper names applies here too.

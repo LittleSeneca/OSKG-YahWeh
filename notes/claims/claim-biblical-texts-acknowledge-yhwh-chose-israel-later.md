@@ -70,6 +70,7 @@ The Bible's own narrative admits the relationship between God and Israel was not
 **Primary sources:**
 <!-- Hosea 9:10, Ezekiel 20, Exodus 6:2-3 -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 Romer makes a simple but powerful observation: the Bible's own texts describe the Yhwh-Israel relationship as having a beginning. If even the biblical authors didn't claim the relationship was eternal, the historian has no reason to treat it as such. The disagreement among texts about WHERE it began (desert? Egypt?) actually strengthens the argument — they're independently testifying to the same underlying memory (the relationship started) while disagreeing on the details (where).

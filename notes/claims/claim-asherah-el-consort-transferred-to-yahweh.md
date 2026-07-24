@@ -74,6 +74,8 @@ Yhwh had a wife. The goddess was worshipped alongside the god in the Jerusalem t
 - Ugaritic texts: Baal cycle (KTU² 1.4), Keret legend (KTU² 1.15)
 - Mesopotamian: Ašratu(m) attestations from Hammurabi through Seleucid period
 - Southern Arabian: Aṯrt inscriptions
+- [[kuntillet-ajrud-inscriptions]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

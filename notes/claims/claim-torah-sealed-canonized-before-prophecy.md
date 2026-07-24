@@ -10,7 +10,7 @@ tags:
   - truth-project
 claim_id: "kaufmann-ri-5.8"
 statement: "The Torah was sealed and canonized before prophetic literature was even ordered — making the entire Torah 'a testimony to the first age of Israelite religion, the age prior to literary prophecy.'"
-confidence: "very-low"
+confidence: "low"
 confidence_rationale: "This is the conclusion toward which the entire chapter drives, and it is the least supported — it requires dismissing linguistic evidence for P's lateness and treating all evidence of institutional development as archaic."
 claim_type: "textual"
 source_note: "[[Kaufmann — Ch V — The Sources]]"

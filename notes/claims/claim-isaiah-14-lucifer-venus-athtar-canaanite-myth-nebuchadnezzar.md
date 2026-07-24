@@ -100,6 +100,7 @@ The "Lucifer" passage that became foundational for Christian demonology (Satan a
 - KTU² 1.6.I.43-67 — Ugaritic Athtar myth
 - Psalm 48:3 — Zaphon applied to Zion
 - Jeremiah 50-51 — Babylon's downfall = revenge for Zion's temple
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

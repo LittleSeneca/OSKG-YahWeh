@@ -70,6 +70,8 @@ If they're right, then the entire existing debate (Smith vs. Dever, monotheism's
 - Kuntillet Ajrud inscriptions (pithoi A and B)
 - Khirbet el-Qom inscription
 - 8,500 stamp seals in the Fribourg corpus
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

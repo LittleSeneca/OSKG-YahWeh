@@ -65,6 +65,11 @@ Whether the archaeological evidence for polytheistic practice in Israel represen
 - [[claim-israelite-culture-was-canaanite-no-separation]]
 - [[claim-asherah-goddess-in-ot-passages]]
 
+**Primary sources:**
+- [[elephantine-papyri]]
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Kaufmann's weakest claim, most directly falsified by archaeology. His argument that Israelites who worshipped other gods didn't REALLY believe in them is unfalsifiable special pleading. The Kuntillet Ajrud inscriptions pair YHWH with a goddess in a blessing formula — that requires treating Asherah as a divine being who can bless, which is functionally polytheism regardless of whether they had a theogony for her.

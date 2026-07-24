@@ -76,6 +76,7 @@ If Sinai was in Midian/Edom, the Kenite hypothesis is further strengthened — I
 - Exodus 18:1-12 — Jethro's sacrifice at the mountain of God
 - Judges 5:4-5; Deuteronomy 33:2 — Yahweh's Edom/Seir/Paran location
 - Deuteronomy 1:2 — Deuteronomistic distancing from Edom
+- [[soleb-shasu-inscription]]
 
 ## Assessment
 

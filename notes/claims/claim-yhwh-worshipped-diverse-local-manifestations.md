@@ -79,6 +79,7 @@ The idea of "Yhwh" as a single, unified deity whose worship was identical everyw
 - Kuntillet Ajrud inscriptions — "Yhwh of Samaria," "Yhwh of Teman"
 - Khirbet Beit Lei inscription — "Yhwh, god of Jerusalem"
 - 2 Samuel 15:7, Psalm 99:2
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

@@ -79,6 +79,7 @@ Stern (1982) — reads the upright lion as a wounded animal from Persian hunt ic
 - En Gedi winged-sun bulla with *lmr* inscription (illus. 383)
 - Seventy postexilic name-seal bullae
 - Wadi ed-Daliyeh Samaria bullae (Greek and Persian images)
+- [[lachish-ostraca]]
 
 ## Assessment
 

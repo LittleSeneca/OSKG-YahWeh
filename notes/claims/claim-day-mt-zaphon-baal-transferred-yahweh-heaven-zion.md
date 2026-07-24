@@ -77,6 +77,7 @@ Jerusalem's sacred geography is built on Baal's. Mt Zion inherited the mythologi
 **Primary sources:**
 <!-- Psalm 48; Isaiah 14:13-15; Job 26:7; Ezekiel 1:4; Exodus 15:17; Papyrus Amherst 63; KTU² administrative texts -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 The Zaphon → Zion transfer is one of Day's most elegant arguments. The combination of Ugaritic geography, Papyrus Amherst 63, and the Isa 14/Job 26 heavenly Zaphon is mutually reinforcing. The El-Elyon mediation theory fits neatly with Chapter 1's arguments. The counter-reading (Zaphon = simply "north") fails to explain why the psalmist would describe Jerusalem's sacred heights using a word meaning "far north" when Jerusalem is in the south — the mythological reading solves a problem the geographical reading creates.

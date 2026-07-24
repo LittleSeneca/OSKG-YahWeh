@@ -76,6 +76,7 @@ If Yahweh was never originally a storm god, the entire Berlin hypothesis (Yahweh
 - Judges 5:4-5 (storm theophany in hymnic frame)
 - Psalm 29 (Baal hymn adapted for Yahweh)
 - Mesha Stele (Kamosh as people-god without storm imagery)
+- [[mesha-stele]]
 
 ## Assessment
 

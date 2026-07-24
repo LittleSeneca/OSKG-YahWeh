@@ -68,6 +68,8 @@ If the Bible contains myth (not just "mythic imagery"), the traditional contrast
 
 **Primary sources:**
 - Genesis 1-2, 6:1-4; Exodus 15; Deuteronomy 32:8-27; Psalm 74:12-17; Psalm 82; Isaiah 14:12-15; Ezekiel 28:11-19; Habakkuk 3; Daniel 7-12
+- [[deut-32-8-9-qumran-variant]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -69,6 +69,8 @@ If iconography is treated as supplementary rather than primary, a huge swath of 
 **Primary sources:**
 <!-- Keel and Uehlinger (1998), Schroer (2005-2018), Cornelius (2004) -->
 
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Lewis's embrace of iconography is one of the book's strengths and a direct inheritance from his teacher Cross (who applied typological method to artifacts) and his Johns Hopkins environment (with its Near Eastern archaeology focus). Chapters 5 and 7 will be the test of whether he uses iconography well.

@@ -79,6 +79,9 @@ The entire characterization of Israelite popular religion. If Kaufmann is right,
 **Challenged by:**
 - [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]]
 
+**Primary sources:**
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Kaufmann's signature argument, with genuine force. The prophetic polemic IS consistently against "wood and stone," "gods they knew not," "handiwork of men" — not against named deities with mythologies. This does suggest something different. But Kaufmann defines "genuine polytheism" in a way requiring mythological elaboration, then declares Israelite practice doesn't meet that definition. If your neighbor keeps an Asherah figurine and believes she can bless — does it matter whether they have a theogony? The Kuntillet Ajrud pithos — "I bless you by Yahweh of Samaria and by his Asherah" — is the hardest evidence to explain away.

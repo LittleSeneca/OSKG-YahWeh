@@ -72,6 +72,8 @@ This is the simplest, most elegant evidence in Smith's entire argument. You don'
 **Primary sources:**
 - Merneptah Stele (c. 1208 BCE, first attestation of "Israel")
 - Israelite onomastica: 557 Yahweh names vs. 77 'l names (Tigay)
+- [[deut-32-8-9-qumran-variant]]
+- [[merneptah-stele]]
 
 ## Assessment
 

@@ -74,6 +74,7 @@ If Baal's death is about kingship vulnerability rather than seasonal cycles, the
 - CAT 1.1-1.6 (Baal Cycle)
 - CAT 1.14-1.16 (Kirta epic)
 - Enuma Elish (Marduk as super-conquering god)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

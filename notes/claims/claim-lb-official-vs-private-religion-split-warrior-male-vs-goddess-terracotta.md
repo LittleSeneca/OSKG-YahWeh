@@ -78,6 +78,8 @@ This is the archaeological precedent for everything that follows. The split betw
 - Metal figurines vs. terra-cotta plaques
 - Seal amulets (almost exclusively male)
 - Monumental stelae vs. domestic shrine models
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
 
 ## Assessment
 

@@ -92,6 +92,7 @@ If monotheism is a response to imperial crisis (Assyria/Babylon), then it's POLI
 - Second Isaiah (Isaiah 40-55)
 - Enuma Elish (Marduk as sum-total)
 - Assyrian royal inscriptions (Assur as super-god)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

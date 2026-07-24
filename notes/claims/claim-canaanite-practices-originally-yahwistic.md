@@ -99,6 +99,8 @@ If child sacrifice was offered to Yahweh, then the God of the Bible was once und
 - 1 Sam 9-10, 1 Kings 3:4-5, 2 Kings 23:8 (high places)
 - KTU 1.20-22, 1.142, 1.124, 1.161 (Ugaritic dead practices)
 - Jeremiah 7:31, 19:5, 32:35; Ezekiel 20:25-26; Isaiah 30:27-33 (child sacrifice)
+- [[mesha-stele]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

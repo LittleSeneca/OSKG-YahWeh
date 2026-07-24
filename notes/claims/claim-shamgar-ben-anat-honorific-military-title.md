@@ -73,6 +73,8 @@ If correct, this reveals that Anat was sufficiently known in early Israel that "
 - El-Khadr arrowhead: *ʻbdlbʼt bn ʻnt*
 - Beqaʻ valley arrowhead: *bn bn ʻn[t]*
 - Ugaritic texts KTU² 4.307.6; 4.320.4
+- [[elephantine-papyri]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -74,6 +74,7 @@ Smith — argues the archaeological evidence is insufficient to settle the quest
 - Smith's *The Early History of God* and *Origins of Biblical Monotheism*
 - Dever's *Did God Have a Wife?* Introduction
 - Kuntillet Ajrud pithoi and inscriptions
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

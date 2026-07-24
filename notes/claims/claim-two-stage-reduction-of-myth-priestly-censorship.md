@@ -88,6 +88,7 @@ If myth was reduced rather than rejected, and the reduction was driven by specif
 - Deuteronomy 4:12, 15
 - Ezekiel 1 vs. Isaiah 6
 - Genesis 2-3 (Yahwist anthropomorphism)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

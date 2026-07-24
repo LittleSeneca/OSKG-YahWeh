@@ -70,6 +70,7 @@ The first chapter of the Bible — the foundational text of Jewish and Christian
 **Primary sources:**
 <!-- Placeholder -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 Stavrakopoulou is on solid ground here — the divine council reading is genuinely the consensus. Her framing is deliberately provocative (calling it "polytheistic" rather than the more neutral "divine council" or "henotheistic"), but the underlying claim is correct. The question is not WHETHER Genesis 1:26 depicts a divine council (it does), but what theological significance to assign to it.

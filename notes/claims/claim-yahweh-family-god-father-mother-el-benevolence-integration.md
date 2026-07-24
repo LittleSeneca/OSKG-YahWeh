@@ -67,6 +67,7 @@ The popular image of "the God of the Old Testament" as wrathful and distant. Lew
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[ketef-hinnom]]
 ## Assessment
 
 This is the best-argued section of the chapter. Lewis's juxtaposition of warrior and mother in Isaiah 42:13-16 — where Yahweh is described as BOTH in adjacent verses — is the perfect illustration. The maternal language is not a late innovation but draws on El traditions (Deut 32:18) that predate Yahwism.

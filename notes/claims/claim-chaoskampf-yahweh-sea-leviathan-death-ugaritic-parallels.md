@@ -67,6 +67,7 @@ Whether Israelite religion is sui generis or culturally embedded. The _Chaoskamp
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Lewis's treatment is thorough and balanced. The Ugaritic parallels are so exact (names, epithets, plot structure) that they can't be coincidence. The question is direction of borrowing and meaning — and Lewis is appropriately cautious about both.

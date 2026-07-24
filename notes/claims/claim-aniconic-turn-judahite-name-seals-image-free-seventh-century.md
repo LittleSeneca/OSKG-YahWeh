@@ -76,6 +76,7 @@ This is the archaeological footprint of the Deuteronomistic reform BEFORE Deuter
 - Ophel archive: 55 bullae (7th c.)
 - Burnt Archive: 255 bullae from 211 seals (7th-6th c.)
 - Over 300 bullae total from Jerusalem
+- [[ketef-hinnom]]
 
 ## Assessment
 

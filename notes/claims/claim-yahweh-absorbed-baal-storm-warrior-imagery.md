@@ -97,6 +97,7 @@ The Psalms you sing in church describing God's majesty, power over storms, and k
 - Mari letter (18th c. BCE, ARM 26.196)
 - Psalm 29 (sevenfold "voice of Yahweh")
 - Psalm 18, Psalm 68, Psalm 89
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -80,6 +80,7 @@ Yahweh riding a cloud chariot in Ps 104:3 and elsewhere "ultimately derives from
 **Primary sources:**
 <!-- Psalm 104:3; Psalm 68:5, 34; Deuteronomy 33:26; Isaiah 19:1; Habakkuk 3:8; Daniel 7:13; KTU² 1.5.V.6b-11 -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Day's restraint on Ps 68:5 is characteristic — he doesn't let his enthusiasm for Baal parallels override sound philology. The cloud-chariot-horses chain (Ps 104 → Hab 3 → Zeus/Typhon → Baal) is well-constructed. His *mdl* = "chariot team" reading is tentative but plausible. The suggestion that Ps 68:5 may be a deliberate distortion of *rkb ʻrpt* is intriguing — it would mean the psalmist knew the Baal epithet and transformed it, rather than simply borrowing it. Day consistently favors this "transformation" model over crude borrowing.

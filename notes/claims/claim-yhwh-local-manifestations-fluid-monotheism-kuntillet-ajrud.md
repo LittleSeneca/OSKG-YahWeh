@@ -80,6 +80,7 @@ If Sommer is right, references to "Yhwh of Teman" and "Yhwh of Samaria" that sch
 
 **Primary sources:**
 - [[kuntillet-ajrud-inscriptions]]
+- [[khirbet-el-qom-inscription]]
 
 ## Assessment
 

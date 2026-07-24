@@ -81,6 +81,8 @@ The Asherah was a recognizable religious symbol with consistent iconography acro
 - Taanach cult stand
 - Pella cult stands
 - Late Bronze pendants
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
 
 ## Assessment
 

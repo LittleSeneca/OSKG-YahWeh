@@ -68,6 +68,7 @@ If Kaufmann is right, the entire "Israel was polytheistic" narrative collapses. 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 This is Kaufmann's most interesting move. His claim that biblical polemic consistently misrepresents paganism as fetishism IS an observation worth taking seriously — the prophets do seem to mock idols as mere wood and stone rather than engaging with pagan theology. But the question is whether this reflects Israelite ignorance of paganism (Kaufmann's claim) or deliberate polemical strategy (the critical consensus). The Kuntillet Ajrud inscriptions, which pair Yahweh with Asherah in a blessing formula, are particularly hard for Kaufmann to explain away as "not genuine polytheism."

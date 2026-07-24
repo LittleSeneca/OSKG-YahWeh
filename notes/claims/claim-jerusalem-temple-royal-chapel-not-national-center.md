@@ -69,3 +69,5 @@ If the Temple was not the center of national religion, then biblical religion (J
 
 **Primary sources:**
 <!-- Placeholder -->
+
+- [[lachish-ostraca]]

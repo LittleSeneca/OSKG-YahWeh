@@ -76,6 +76,7 @@ Psalm 82 is ground zero for the debate about Israelite polytheism vs. monotheism
 
 **Primary sources:**
 - Psalm 82
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

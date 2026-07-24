@@ -77,6 +77,8 @@ Whether Israelite religion was fundamentally transformed by Canaanite agricultur
 **Primary sources:**
 <!-- Gen 28 (Bethel), Josh 22, Judg 1, 18, 2 Sam 24, Judg 5 -->
 
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Kaufmann is right about how the biblical texts *narrate* the origins of sanctuary sanctity — it's always through patriarchal theophany, never through primordial divine presence. This IS a genuine difference from pagan temple legends. But he systematically understates the material continuity. Standing stones, sacred trees, high places — these were the standard cultic furniture of the region, and Israelites used them. The truth is probably in between: forms were borrowed but gradually reinterpreted, with the reinterpretation being uneven and contested.

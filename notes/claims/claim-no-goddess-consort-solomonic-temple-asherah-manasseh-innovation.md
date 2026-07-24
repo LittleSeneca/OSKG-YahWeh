@@ -76,6 +76,7 @@ If the Solomonic Temple was goddess-free, then the "Yahweh had a consort in his 
 - 1 Kings 6-7 (Temple description)
 - 1 Kings 15:13 (Asa removes Maacah's image)
 - 2 Kings 21:7 (Manasseh installs asherah)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

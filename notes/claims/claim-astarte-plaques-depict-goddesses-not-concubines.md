@@ -70,6 +70,7 @@ If Tadmor were right, the "Astarte plaques" would be evidence for funerary pract
 - Pella cultic stand (Iron I/IIA transition)
 - Gezer LB plaques (~26 examples)
 - Lachish LB plaques (2 found in dozens of graves)
+- [[lachish-ostraca]]
 
 ## Assessment
 

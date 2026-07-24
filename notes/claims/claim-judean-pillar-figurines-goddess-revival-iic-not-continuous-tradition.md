@@ -78,6 +78,7 @@ Dever's entire figurine argument depends on these being evidence of continuous, 
 **Primary sources:**
 - 800+ pillar figurines from Judah (7th c. BCE)
 - Private homes and tombs — household context
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

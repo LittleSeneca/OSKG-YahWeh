@@ -76,6 +76,7 @@ This is Fleming's positive model for what Yahweh was before Israel. If correct, 
 **Primary sources:**
 <!-- South Arabian inscriptions — Robin 2018; Mesha Stele line 12 -->
 - Numbers 21:29; Jeremiah 48:46
+- [[mesha-stele]]
 
 ## Assessment
 

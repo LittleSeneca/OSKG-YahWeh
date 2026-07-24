@@ -77,6 +77,9 @@ This is the structural explanation for WHY monotheism was possible. If Baal is a
 **Contradicts:**
 - Models that treat Baal as a full member of El's family from the start
 
+**Primary sources:**
+- [[ugaritic-baal-cycle]]
+
 ## Assessment
 
 The Baal-as-outsider argument is strong and well-supported by multiple lines of evidence. The astral-family argument is more tentative — Smith is honest about the "paucity of information." The two arguments work together: if El's family is astral and Baal is a storm-god, the outsider status has a cosmic basis, not just a narrative one. This is elegant but the astral evidence is thin enough that the argument works without it — Baal's separate paternity (bn dgn) and the Philo of Byblos narrative are enough on their own.

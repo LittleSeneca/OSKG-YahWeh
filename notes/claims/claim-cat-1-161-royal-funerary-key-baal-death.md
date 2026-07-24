@@ -77,6 +77,7 @@ This is the strongest empirical argument in the entire book. If the Baal Cycle b
 - CAT 1.161 (Ugaritic royal funerary liturgy)
 - CAT 1.5 VI, 1.6 I (Baal Cycle, Baal's death)
 - Genesis 37:35 (same descent formula in Hebrew Bible)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

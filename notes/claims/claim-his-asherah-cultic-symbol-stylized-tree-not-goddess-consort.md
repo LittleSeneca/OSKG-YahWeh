@@ -89,6 +89,10 @@ This is THE central debate. If Keel & Uehlinger are right, Smith's position (ash
 - Kuntillet Ajrud inscriptions (ca. 800 BCE)
 - Khirbet el-Qom inscription (8th c. BCE)
 - Kuntillet Ajrud Pithos A, motifs E-H (stylized tree with caprids)
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
+- [[lachish-ostraca]]
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

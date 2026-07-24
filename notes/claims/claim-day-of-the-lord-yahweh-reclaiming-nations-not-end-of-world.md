@@ -70,6 +70,7 @@ This reframes eschatology. The Day of the Lord is not about escaping the world b
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
 ## Assessment
 
 Heiser's reading of the Day of the Lord is the most ambitious application of his Deut 32 framework to prophetic literature. It's coherent and elegant — every prophetic judgment oracle becomes a battle in Yahweh's cosmic reclamation campaign. But it's also the most speculative. The prophets don't cite Deut 32:8-9 when describing the Day. Heiser is connecting dots the prophets themselves never connected. The reading depends entirely on accepting the Deut 32 worldview as the prophets' operating framework.

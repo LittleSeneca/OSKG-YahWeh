@@ -94,6 +94,7 @@ If Yahweh was originally a second-tier god — a son of El/Elyon — then Israel
 - Deuteronomy 32:8-9 (LXX, DSS, MT)
 - CAT 1.4 VI 46 (Ugaritic 70 sons of El)
 - Genesis 14:18-20 (Elyon as El title)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

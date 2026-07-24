@@ -78,6 +78,7 @@ This Excursus is directly relevant to the debate over Judean Pillar Figurines. D
 - Gravidae flasks (LB II through Iron IIA)
 - Tall Munbaqa mold with "woman" inscription
 - Gezer LB plaques (~26), Lachish plaques
+- [[lachish-ostraca]]
 
 ## Assessment
 

@@ -65,6 +65,9 @@ Whether Israelite monotheism was an elite achievement gradually imposed or a pop
 - [[claim-true-monotheism-emerged-babylonian-exile]]
 - [[claim-monotheism-as-exilic-rhetoric-not-religious-revolution]]
 
+**Primary sources:**
+- [[elephantine-papyri]]
+
 ## Assessment
 
 Kaufmann's most powerful historical argument. He's identified a genuine anomaly: why did Israel's idolatry die so completely, so quickly, without state enforcement? The critical answer — "the exile produced monotheism" — doesn't explain why the exiles drew THAT conclusion rather than the obvious pagan one (Marduk beat YHWH). But Kaufmann's inference of POPULAR monotheism goes further than the evidence requires. An alternative: the monotheistic interpretation captured the surviving institutions — not "the people were monotheists" but "the monotheistic interpretation won."

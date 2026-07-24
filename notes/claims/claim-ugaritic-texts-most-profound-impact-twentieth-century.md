@@ -67,6 +67,7 @@ This claim justifies the heavy use of Ugaritic material throughout Lewis's book 
 **Primary sources:**
 <!-- Ugaritic texts: Baal Cycle, Kirta, Aqhat; Dead Sea Scrolls for contrast -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 Uncontroversial among specialists. The Baal Cycle alone — with its divine council, combat myth, temple-building, and theomachy — illuminates dozens of biblical passages that were previously opaque.

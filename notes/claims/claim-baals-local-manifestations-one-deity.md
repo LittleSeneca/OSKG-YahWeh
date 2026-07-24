@@ -71,6 +71,7 @@ The OT wasn't fighting a diffuse polytheism with dozens of unrelated Baals — i
 - KTU² 1.47.5-11 (Ugaritic pantheon list, Baal repeated 7×)
 - Moabite Stone lines 9, 30 (Baal-Meon)
 - KAI 31.1, 2 (Baal of Lebanon)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

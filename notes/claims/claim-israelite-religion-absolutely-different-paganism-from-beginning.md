@@ -69,6 +69,7 @@ The entire nature of the Yahweh phenomenon. If Kaufmann is right, Israelite reli
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 This is where the rubber meets the road. Kaufmann's position is falsifiable: if we find evidence that early Israelites worshipped a pantheon, had a consort for Yahweh, or conceived of God in mythological terms, his "absolute difference from the beginning" claim fails. And we HAVE found that evidence — at Kuntillet Ajrud, in the figurines, in the Ugaritic parallels. The question is whether Kaufmann can account for this evidence without collapsing his thesis.

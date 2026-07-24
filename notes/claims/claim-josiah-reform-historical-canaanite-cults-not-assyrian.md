@@ -78,6 +78,8 @@ If Josiah's reform was historical, it represents the moment when monolatry was e
 - 2 Kings 22-23 — the reform account
 - Zephaniah 1:4-5 — pre-reform syncretism
 - Jeremiah 22:15-16 — post-reform approval of Josiah
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

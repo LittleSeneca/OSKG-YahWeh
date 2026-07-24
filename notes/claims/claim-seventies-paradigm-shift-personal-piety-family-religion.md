@@ -68,6 +68,8 @@ Before the 1970s, Israelite religion was studied primarily through the lens of o
 **Primary sources:**
 <!-- Kuntillet Ajrud pithoi, Ketef Hinnom silver amulets, Albertz's Persönliche Frömmigkeit -->
 
+- [[ketef-hinnom]]
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 Lewis is right to highlight this as a turning point. His own Chapter 8 (Yahweh as family god) grows directly from this tradition. The Kuntillet Ajrud material is arguably the single most destabilizing archaeological discovery for traditional understandings of Israelite religion.

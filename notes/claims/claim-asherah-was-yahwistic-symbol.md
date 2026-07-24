@@ -77,6 +77,7 @@ If the asherah was a Yahwistic symbol (not a foreign goddess), then the Deuteron
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[kuntillet-ajrud-inscriptions]]
 ## Assessment
 
 This is Smith's strongest claim in the chapter. The evidence for the asherah's widespread presence in Yahwistic contexts is overwhelming. Whether it represented a goddess or not is a separate question, but the basic point — that Yahwism included this symbol for centuries — is solid. The unresolved tension is WHY the Deuteronomists condemned it so violently if it was just a symbol. Smith's explanation (secondary confusion with Astarte, offense at divinatory/healing functions) is weak. The simpler explanation — that the symbol DID represent a goddess — fits the evidence better.

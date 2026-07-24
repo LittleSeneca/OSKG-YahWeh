@@ -75,6 +75,7 @@ If Israel's very name invokes El, and its earliest cult sites are El sanctuaries
 - Deir 'Alla plaster texts
 - Kuntillet 'Ajrud inscriptions (KA 4.2)
 - Genesis 33:20; Judges 9:46; 1 Kings 12; Genesis 14:18-20
+- [[khirbet-el-qom-inscription]]
 
 ## Assessment
 

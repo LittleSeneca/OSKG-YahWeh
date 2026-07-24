@@ -70,6 +70,7 @@ If the lyre player is human, then neither of the two humanoid figures near the i
 - Kuntillet Ajrud Pithos A, lyre player figure (ca. 800 BCE)
 - Phoenician scarab from Acre (same chair type)
 - Scaraboid from Nippur (lyre player for moon god)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

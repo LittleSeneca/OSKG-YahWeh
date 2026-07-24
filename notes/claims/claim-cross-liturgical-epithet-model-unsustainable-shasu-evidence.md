@@ -65,6 +65,7 @@ Cross's model has been enormously influential in American biblical scholarship. 
 
 **Primary sources:**
 - [[soleb-shasu-inscription]] — the Amenhotep III list
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

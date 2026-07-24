@@ -69,6 +69,7 @@ If the Shasu texts reference Yahweh, the deity predates Israel by centuries and 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 The Shasu texts are genuinely exciting and Lewis handles them well — not overclaiming, but recognizing their significance. The convergence with biblical poetry (Yahweh from Seir/Edom/Teman) is the strongest argument. If the toponym and the poetry both point south, that's unlikely to be coincidence.

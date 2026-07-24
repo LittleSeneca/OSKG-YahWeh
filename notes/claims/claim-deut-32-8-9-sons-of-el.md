@@ -96,6 +96,7 @@ This single passage provides a snapshot of an early Israelite theology in which 
 - MT: Deut 32:8-9 (bĕnê yiśrā'ēl)
 - LXX: Deut 32:8-9 (ἀγγέλων θεοῦ)
 - 4QDeutj (bny 'lwhm / bny 'l)
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

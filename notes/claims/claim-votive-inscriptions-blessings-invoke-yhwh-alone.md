@@ -72,4 +72,6 @@ Kuntillet Ajrud is the strongest counter-evidence to Tigay's thesis. If the insc
 **Primary sources:**
 - Kuntillet Ajrud inscriptions
 - Khirbet el-Qom inscription
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 <!-- Add specific references -->

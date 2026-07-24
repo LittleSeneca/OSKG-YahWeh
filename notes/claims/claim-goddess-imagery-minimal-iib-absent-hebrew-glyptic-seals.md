@@ -74,6 +74,7 @@ The entire "Yahweh had a consort" thesis depends on the assumption that Asherah 
 - Hazor Str. VI ivory ointment spoon
 - Samaria "woman at the window" ivory plaque
 - 8,500 seals from Fribourg corpus
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

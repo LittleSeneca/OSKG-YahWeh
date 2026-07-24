@@ -88,6 +88,7 @@ If the Midianites already worshipped Yhwh before Moses, then Moses didn't receiv
 **Primary sources:**
 <!-- Midianite pottery, Hathor sanctuary at Timna, Wadi 'Afal excavations -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 Romer's archaeological-geographic description of Midian is grounded in material evidence — the strongest section of the chapter. The camel-decorated pottery, the trade routes, the Timna mining context — these are concrete. The leap from "Midianites existed" to "Midianites transmitted Yhwh worship" is the weak link in the chain. Romer acknowledges this but the structure of his argument depends on it.

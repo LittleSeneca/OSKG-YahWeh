@@ -58,6 +58,9 @@ Whether Israel's cultus was fundamentally different from Canaanite cultus from t
 **Contradicts:**
 <!-- Popular practice evidence from archaeology -->
 
+**Primary sources:**
+- [[kuntillet-ajrud-inscriptions]]
+
 ## Assessment
 
 Kaufmann's description of the biblical cult's non-magical character is generally accurate as a reading of Priestly and Deuteronomic texts. But his attribution to "organic development" over generations just pushes the question back. The more economical explanation: biblical texts represent a LATE stage exported backward. The fact that Kaufmann has to argue that seemingly pagan elements are "vestigial" or "petrified" or "fossils" is telling — there are a LOT of fossils.

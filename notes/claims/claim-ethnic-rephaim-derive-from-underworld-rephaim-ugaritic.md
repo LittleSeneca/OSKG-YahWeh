@@ -77,6 +77,7 @@ The legendary "giants in the land" (Rephaim, Nephilim) are not garbled memories 
 - Joshua 12:4 — Og, king of Bashan, Rephaim remnant "dwelt at Ashtaroth and at Edrei"
 - Genesis 14:5 — Rephaim at Ashteroth-Karnaim
 - 1 Samuel 28:13 — Samuel's shade called "a god (*ʼĕlōhîm*) coming up out of the earth"
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

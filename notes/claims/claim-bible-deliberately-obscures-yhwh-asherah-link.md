@@ -68,6 +68,8 @@ If the Bible deliberately rewrote the Asherah-Yhwh relationship into an Asherah-
 **Primary sources:**
 - Deuteronomistic passages linking Asherah to Baal: 1 Kings 18:19, 2 Kings 23:4
 - Extra-biblical inscriptions linking Asherah to Yhwh: Kuntillet Ajrud, Khirbet el-Qom
+- [[khirbet-el-qom-inscription]]
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

@@ -80,6 +80,7 @@ Whether Israelite El was a diminished figure waiting to be replaced. The Ugariti
 - KTU 1.23 (Dawn and Dusk — El's creative virility)
 - KTU 1.114 (El's drinking banquet)
 - KTU 1.16 (Kirta epic — El's healing)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

@@ -85,6 +85,7 @@ Dagon's nature matters for understanding the Philistine religion the Israelites 
 - CT 24, 6.22 (Dagan = Enlil)
 - Philo of Byblos (Dagon = Grain)
 - 1 Sam 5:4; LXX (spine/trunk, not fishy part)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

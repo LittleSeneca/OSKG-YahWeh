@@ -70,8 +70,9 @@ This establishes that Iron Age I is not a "dark age" devoid of religious evidenc
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-<!-- Inscriptions, texts, artifacts — use [[source-<slug>]] wikilinks -->
+<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->
 
+- [[lachish-ostraca]]
 ## Assessment
 
 The Megiddo hoard alone — 32 seal amulets from a single stratified context, with Amun cryptography dominating — is a powerful data point. The authors are right that Iron Age I has been underrated as a period of religious change because the evidence is glyptic rather than architectural.

@@ -76,6 +76,7 @@ The entire narrative of Israelite religion. If El was first, Yahweh is a latecom
 - Genesis 33:20 (Shechemite El)
 - Exodus 6:3 (El Shadday revelation to patriarchs)
 - Theophoric names in early biblical strata
+- [[deut-32-8-9-qumran-variant]]
 
 ## Assessment
 

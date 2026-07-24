@@ -76,6 +76,7 @@ The OT doesn't just have "angels" — it preserves the names, imagery, and funct
 - Ps 78:48-49 — *rešāpîm* as plague
 - Job 5:7 — "sons of Resheph fly upwards"
 - Cant 8:6 — love's arrows (*rešāpeyhā*)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

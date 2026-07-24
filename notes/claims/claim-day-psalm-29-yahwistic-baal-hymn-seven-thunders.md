@@ -76,6 +76,7 @@ Psalm 29 is in the canonical Psalter. If it's essentially a Baal hymn with Yahwe
 **Primary sources:**
 <!-- Psalm 29; KTU² 1.4.VII.29-31; KTU² 1.101.1-4 -->
 
+- [[ugaritic-baal-cycle]]
 ## Assessment
 
 The seven thunders discovery is genuinely important — it means the psalm's structure IS the theology. You can't remove a *qôl yahweh* without breaking the Ugaritic pattern. This is Day's field (he wrote his 1985 monograph *God's Conflict with the Dragon and the Sea* on this material), and his expertise shows. The cautious "modelled on" rather than "taken over wholesale" position is well-judged.

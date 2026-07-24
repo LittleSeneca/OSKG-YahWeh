@@ -73,6 +73,7 @@ The founder of the Messianic line, the ancestor of Jesus, the man after God's ow
 - Tel Dan stele (8th century BCE) — "house of David"
 - 1 Samuel 8-12 — divergent Saul traditions
 - 2 Samuel 5-6 — David's conquest of Jerusalem and ark transfer
+- [[tel-dan-stele]]
 
 ## Assessment
 

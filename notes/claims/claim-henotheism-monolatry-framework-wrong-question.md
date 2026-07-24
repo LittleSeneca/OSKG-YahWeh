@@ -67,6 +67,8 @@ The entire developmental narrative. If Kaufmann is right, Israelite religion was
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->
 
+- [[deut-32-8-9-qumran-variant]]
+- [[mesha-stele]]
 ## Assessment
 
 Kaufmann is right that the henotheism/monolatry framework can be reductive — it imposes Greek-derived categories (henotheism was coined by Max Müller) onto Israelite religion. His point that the Bible *ignores* rather than *denies* other gods is genuinely interesting. But he overreaches. Deuteronomy 32:8-9 (in its original form, LXX/DSS) describing Elyon apportioning the nations to the "sons of God" and YHWH receiving Israel is devastating to Kaufmann's thesis. Someone in Israel's tradition knew a polytheistic framework.

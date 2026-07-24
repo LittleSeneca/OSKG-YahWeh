@@ -90,6 +90,7 @@ If Römer is right, the covenant between God and Israel is a royal construction,
 - Genesis 14:18-20 (Melchizedek)
 - 2 Samuel 5-6 (conquest of Jerusalem, ark transfer)
 - Tel Dan stele (8th century BCE)
+- [[tel-dan-stele]]
 
 ## Assessment
 

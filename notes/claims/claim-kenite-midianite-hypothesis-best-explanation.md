@@ -88,6 +88,7 @@ This is the hinge of Romer's entire historical reconstruction. If the Kenite hyp
 **Primary sources:**
 <!-- Jethro narrative (Exodus 2-3, 18), Kenite passages (Judges 1:16, 4:11) -->
 
+- [[soleb-shasu-inscription]]
 ## Assessment
 
 This is where Romer's "traces of memory" methodology faces its hardest test. The Kenite hypothesis is attractive because it makes sense of scattered data. But attractive explanations aren't necessarily true. The Jethro narrative could be a late attempt to explain how a foreign god became Israel's god, rather than a memory of how it actually happened. Romer's honesty about the uncertainty is commendable. His willingness to proceed with the hypothesis anyway is questionable.

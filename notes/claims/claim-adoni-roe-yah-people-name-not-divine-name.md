@@ -63,6 +63,7 @@ If correct, this is the only evidence from the period between Soleb (c. 1400) an
 
 **Primary sources:**
 - [[soleb-shasu-inscription]]
+- [[mesha-stele]]
 
 ## Assessment
 

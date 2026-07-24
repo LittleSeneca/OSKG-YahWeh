@@ -74,6 +74,7 @@ This claim grounds the conceptual division between deity and monster in concrete
 - CAT 1.5 V 17-21, 1.10 II-III (Baal as calf)
 - CAT 1.108.8, 1.18 IV (Anat as bird)
 - CAT 1.3 III 40-42, 1.5 I 1-3 (seven-headed serpent)
+- [[ugaritic-baal-cycle]]
 
 ## Assessment
 

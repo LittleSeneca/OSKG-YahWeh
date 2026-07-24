@@ -76,6 +76,7 @@ If masseboth represent El worship, then El devotion persisted into the Iron Age 
 - Hazor Areas A, B, M masseboth
 - Tel Dan installations
 - Khirbet Ataruz cultic niche
+- [[tel-dan-stele]]
 
 ## Assessment
 

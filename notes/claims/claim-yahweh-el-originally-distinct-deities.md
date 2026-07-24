@@ -69,7 +69,7 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-deut-32-8-9-sons-of-el]]
 - [[claim-israelite-el-family-clan-deity-not-national]] (lewis-ocg-4.7) -- Lewis's portrait of El as family/clan deity vs. Yhwh as national/combat deity proves the distinction is functional, not just nominal: they have fundamentally different profiles
 - [[claim-el-was-original-god-israel-name-and-absence-yahweh]] (lewis-ocg-4.1) -- Lewis provides the most thorough current defense of the original-distinction thesis, synthesizing onomastic, textual, and epigraphic evidence
-- [[claim-yahweh-el-identification-foundational]] (Day Ch2 — Day's Ch1 argument that Yahweh and El were distinct is foundational for his Ch2 argument about the Asherah consort question)
+<!-- [[claim-yahweh-el-identification-foundational]] — forward reference to Day Ch2 claim on El-Yahweh identification (not yet extracted) -->
 - [[claim-el-israelite-sanctuaries]] (smith-obm-7.2) — Smith's sanctuary evidence (Shiloh, Shechem, Jerusalem) independently demonstrates pre-Yahwistic El worship at major Israelite cult sites; the geographical and cultic evidence converges with Day's philological case
 - [[claim-deut-32-8-9-sons-of-el]] (smith-obm-7.4) — the text-critical smoking gun for the El-Yahweh distinction; Yahweh as subordinate to Elyon is the clearest biblical snapshot of the separation Day argues for
 - [[claim-yahweh-southern-storm-warrior-origin]] (smith-obm-7.6) — Smith's southern origin argument provides the geographical mechanism for the distinction: Yahweh from Edom/Midian, El from Canaan = two gods from different regions converging
@@ -86,7 +86,7 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - [[claim-yahweh-divine-warrior-fundamental-distinctive-vs-el]] (lewis-ocg-8.1) — Lewis's argument that the warrior profile is THE fundamental distinctive of Yahwism vs. El: El was pacific, Yahweh was militaristic; they cannot have been the same deity with such different functional profiles
 
 **Contradicts:**
-- [[claim-cross-el-yahweh-identity]] (Cross — when extracted, Day's claim directly contradicts Cross's thesis that Yahweh was originally a form of El)
+<!-- [[claim-cross-el-yahweh-identity]] — forward reference to Cross claim on El-Yahweh identity (not yet extracted) -->
 
 **Challenged by:**
 [[claim-henotheism-monolatry-framework-wrong-question]] — Kaufmann argues the entire framework that reads biblical texts as evidence of El-Yahweh distinction is misguided. If the Bible never acknowledges living foreign gods (only idols), then Day's argument that Yahweh and El were originally distinct deities rests on misreading biblical evidence through a pagan lens.
@@ -97,6 +97,7 @@ This is the foundational question for the entire field. If Cross is right, Yahwe
 - Exod 3:13-15; 6:2-3 (E/P sources: patriarchs didn't know Yahweh)
 - Gen 4:26 (J source: Yahweh known from primaeval times)
 - Judg 5:4-5 (early poetry: Yahweh associated with storm)
+- [[kuntillet-ajrud-inscriptions]]
 
 ## Assessment
 

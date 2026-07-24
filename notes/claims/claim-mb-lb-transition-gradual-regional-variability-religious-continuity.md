@@ -73,6 +73,7 @@ If the LB transition was gradual and regionally variable, then religious change 
 - Hazor Temple H (four phases, continuous plan)
 - Tuthmosis III Megiddo campaign records
 - Four-city comparative analysis (Hazor, Megiddo, Lachish, Beth-Shean)
+- [[lachish-ostraca]]
 
 ## Assessment
 
