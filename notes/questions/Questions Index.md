@@ -33,13 +33,6 @@ Open questions I'm tracking. These are the things I don't know yet — the unkno
 - [ ] How much does Zoroastrian influence explain Jewish apocalypticism?
 - [ ] What exactly happened to Yahwism during the exile that produced "Judaism"?
 
-### Jesus and Early Christianity
-- [ ] Was Paul a Merkabah mystic who had visions rather than a convert who met Jesus?
-- [ ] How seriously should we take the "two powers in heaven" (Jewish binitarianism) as the framework Paul used?
-- [ ] Did the first Jewish followers of Jesus (Peter, James) believe Jesus was God, or was that a Pauline innovation?
-- [ ] How much of orthodox Christology is Greek philosophy wearing biblical clothing?
-- [ ] Why did "orthodox" Christianity win and Gnosticism lose?
-
 ### Meta
 - [ ] If the development of God-concept is this traceable, what remains of "revelation"?
 - [ ] Can a faith built on historical contingency still be "true" in a meaningful sense?

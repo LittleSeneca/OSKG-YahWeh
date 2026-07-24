@@ -116,6 +116,44 @@ Each document has corresponding visual canvases that map its argument structure:
 | **Scholarly Directory** | [[canvases/scholarly-lineage-confessional-map]] | Academic genealogies and confessional commitments |
 | **Kaufmann vs. Consensus** | [[canvases/kaufmann-paradox]] | Revolution thesis vs. evolutionary model |
 
+## LLMs + OSKG: Grounded Reasoning Over Structured Knowledge
+
+This repository is designed to be LLM-navigable. Unlike general-purpose chatbots that answer from training data — often hallucinating citations, flattening scholarly disagreement, or defaulting to theological platitudes — an LLM pointed at OSKG-YahWeh can traverse the graph to produce **evidence-grounded, scholar-attributed, confidence-weighted answers**.
+
+### How It Works
+
+The graph provides three layers an LLM can follow:
+
+1. **Claim files** (`notes/claims/`) — 723 atomic, falsifiable assertions. Each claim has a scholar, a source work, a confidence rating, the evidence presented, who disagrees, and what's at stake. An LLM can read the claim, check its edges, and follow the trail.
+
+2. **Typed edges** — The Edges section of every claim file contains wikilinks to other claims. These are not hyperlinks — they are typed semantic relationships. `Supports:` means the target provides evidence for this claim. `Contradicts:` means the two claims cannot both be true. `Depends on:` means this claim collapses if the target is falsified. An LLM can trace these chains: "Show me everything that depends on the Soleb inscription reading 'Yhw' as a divine name."
+
+3. **Primary sources** (`sources/primary-sources/`) — The ground truth layer. When a claim says "the Kuntillet Ajrud inscriptions read," the claim file has a wikilink to the actual text and translation. An LLM can verify the claim against the source — not against its training data.
+
+### What This Enables
+
+**Before (training-data-only LLM):**
+> *"Did Yahweh have a wife?"*
+> "The Bible presents God as unique and without consort. Some fringe scholars have suggested otherwise based on limited evidence."
+
+**After (OSKG-grounded LLM):**
+> *"Did Yahweh have a wife?"*
+> "Six scholars at HIGH+ confidence argue yes, based on the Kuntillet Ajrud and Khirbet el-Qom inscriptions (both read 'Yahweh and his Asherah'), the 3,000+ Judean Pillar Figurines (Dever), and the Ugaritic precedent of Athirat as El's consort. One scholar (Smith) dissents at HIGH confidence, arguing 'his Asherah' refers to a cult symbol, not a goddess. The evidence is contested — see `topic/asherah` (86 claims) for the full fault line. Scholarly consensus leans toward goddess (HIGH), but Smith's philological case is methodologically serious (MEDIUM). This is a genuine unknown, not a settled question."
+
+The difference: the second answer has **scholars**, **evidence**, **confidence ratings**, **primary sources**, and **honest uncertainty**. It doesn't just recite a position — it maps the debate.
+
+### Using an LLM with OSKG-YahWeh
+
+**With Obsidian + Copilot/ChatGPT plugins:** Point the LLM at the vault. Ask a question. The LLM reads the claim files, follows the wikilinks, and synthesizes from the graph. Because every claim has typed edges, the LLM can do things its training data can't — like calculating how many claims would break if Schmid's late dating of the Pentateuch is correct (answer: ~41%).
+
+**With Hermes Agent (the toolchain used to build this project):** Point a session at the repo, ask a synthesis question, and the agent reads claim files, follows edges, checks primary sources, and reports with citations. This is how the Argument Dependency Map's four phases were produced — the agent didn't hallucinate from training data. It read the graph.
+
+**With any RAG system:** The repo is plain Markdown with YAML frontmatter and wikilinks. Any document-store RAG pipeline can ingest `notes/claims/` as a corpus and use the frontmatter tags + edges for retrieval. The typed edge structure means the retriever doesn't just find relevant documents — it can follow argument chains.
+
+### Why This Matters
+
+LLMs trained on the open internet have absorbed centuries of theological apologetics, popular misconceptions, and flattened scholarly consensus. Ask one about Yahweh's origins and you'll get a mix of Sunday school, Wikipedia, and whatever blog posts dominated the training corpus. Point that same LLM at OSKG-YahWeh and it reads 723 claims extracted from 17 monographs, follows typed edges through dependency trees, checks primary sources, and reports with scholar-attributed, confidence-weighted answers. The graph doesn't tell the LLM what to believe. It tells it what the evidence shows — and what remains genuinely unknown.
+
 ## How to Use
 
 This repository is an **Obsidian vault**. Clone it, open it in [Obsidian](https://obsidian.md), and you get:
