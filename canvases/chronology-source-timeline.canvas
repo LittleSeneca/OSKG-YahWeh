@@ -10,12 +10,12 @@
 		{"id":"merneptah","type":"text","text":"## c. 1208 BCE: Merneptah Stele\n**Schmid Risk: LOW**\n\nEgyptian victory stele; independently dated.\n\"Israel is laid waste; his seed is not.\"\nEarliest extra-biblical mention of Israel.","x":-1514,"y":-280,"width":280,"height":200,"color":"4"},
 		{"id":"ugaritic","type":"text","text":"## 14th-13th c. BCE: Ugaritic Texts\n**Schmid Risk: LOW**\n\nIndependently dated Canaanite library.\nDivine council, Baal Cycle, El as high god.\nCritical ANE comparative material.\n\n[[sources/primary-sources/ugaritic-baal-cycle]]","x":-1794,"y":120,"width":280,"height":230,"color":"4"},
 		{"id":"soleb-shasu","type":"text","text":"## c. 1370 BCE: Soleb Shasu\n**Schmid Risk: LOW**\n\nIndependently dated Egyptian inscription.\nFirst known reference to \"Yahweh.\"\nShasu of Yhw in region of Edom/Seir.\n\n[[sources/primary-sources/soleb-shasu-inscription]]","x":-2320,"y":-215,"width":280,"height":230,"color":"4"},
-		{"id":"schmid-zone","type":"text","text":"# Schmid Zone Overlay\n\nIf Schmid is correct, **all pre-exilic textual data points**\nare Persian-period retrojections. The biblical text is not a\nwindow into Iron Age Israelite religion — it is a Persian-period\nconstruction projecting its theology backward.\n\n**Implication:** the entire Documentary Hypothesis chronology\ncollapses. J, E, D, and P are not successive pre-exilic sources\nbut post-exilic literary strata.\n\n→ [[notes/synthesis/phase3-counter-position-stress-tests]]","x":565,"y":-1520,"width":950,"height":300,"color":"1"},
 		{"id":"hebrew-inscriptions","type":"text","text":"## 8th-6th c. BCE: Hebrew Inscriptions\n**Schmid Risk: LOW**\n\nTigay onomastic study: seals, bullae,\nostraca. ~89% Yahwistic theophoric names.\nIndependent of biblical text.","x":980,"y":350,"width":280,"height":200,"color":"4"},
 		{"id":"earliest-poetry","type":"text","text":"## c. 1200-1000 BCE: Earliest Biblical Poetry?\n**Schmid Risk: HIGH**\n\nJudg 5, Exod 15, Deut 33, Hab 3.\nConventional: Iron I archaic Hebrew.\nSchmid: Persian-period compositions.","x":-880,"y":25,"width":300,"height":210,"color":"1"},
 		{"id":"je-sources","type":"text","text":"## c. 1000-900 BCE: J and E Sources?\n**Schmid Risk: HIGH**\n\nDocumentary Hypothesis anchors.\nConventional: early monarchy context.\nSchmid: exilic/post-exilic narrative\nconstruction.","x":-240,"y":-280,"width":280,"height":220,"color":"1"},
-		{"id":"dark-age","type":"text","text":"# The 500-Year Textual Dark Age\n\n**c. 1200–700 BCE (Ugarit → Persian period)**\n\nNo contemporary textual evidence for Israelite religion\nduring this span — unless the Bible is pre-exilic.\n\nIf Schmid is right, this gap extends to c. 500 BCE:\na **700-year** dark age for textual sources.","x":-1585,"y":-1495,"width":1100,"height":250,"color":"2"},
-		{"id":"josiah-reform","type":"text","text":"## c. 622 BCE: Josiah's Reform\n**Schmid Risk: MEDIUM**\n\n2 Kings 22-23; Arad temple closure\nconfirmed archaeologically.\nConventional: historical late-7th-c. event.\nSchmid: narrative shaped in Persian period.","x":1040,"y":-510,"width":290,"height":230,"color":"3"}
+		{"id":"josiah-reform","type":"text","text":"## c. 622 BCE: Josiah's Reform\n**Schmid Risk: MEDIUM**\n\n2 Kings 22-23; Arad temple closure\nconfirmed archaeologically.\nConventional: historical late-7th-c. event.\nSchmid: narrative shaped in Persian period.","x":1040,"y":-510,"width":290,"height":230,"color":"3"},
+		{"id":"dark-age","type":"text","text":"# The 500-Year Textual Dark Age\n\n**c. 1200–700 BCE (Ugarit → Persian period)**\n\nNo contemporary textual evidence for Israelite religion\nduring this span — unless the Bible is pre-exilic.\n\nIf Schmid is right, this gap extends to c. 500 BCE:\na **700-year** dark age for textual sources.","x":-1924,"y":-1520,"width":1100,"height":250,"color":"2"},
+		{"id":"schmid-zone","type":"text","text":"# Schmid Zone Overlay\n\nIf Schmid is correct, **all pre-exilic textual data points**\nare Persian-period retrojections. The biblical text is not a\nwindow into Iron Age Israelite religion — it is a Persian-period\nconstruction projecting its theology backward.\n\n**Implication:** the entire Documentary Hypothesis chronology\ncollapses. J, E, D, and P are not successive pre-exilic sources\nbut post-exilic literary strata.\n\n→ [[notes/synthesis/phase3-counter-position-stress-tests]]","x":835,"y":-1520,"width":950,"height":300,"color":"1"}
 	],
 	"edges":[
 		{"id":"e-flow-1","fromNode":"soleb-shasu","fromSide":"right","toNode":"ugaritic","toSide":"left"},
@@ -30,11 +30,11 @@
 		{"id":"e-flow-10","fromNode":"exile","fromSide":"right","toNode":"second-isaiah","toSide":"left"},
 		{"id":"e-flow-11","fromNode":"second-isaiah","fromSide":"right","toNode":"elephantine","toSide":"left"},
 		{"id":"e-flow-12","fromNode":"elephantine","fromSide":"right","toNode":"persian-period","toSide":"left"},
-		{"id":"e-schmid-1","fromNode":"schmid-zone","fromSide":"bottom","toNode":"earliest-poetry","toSide":"top","label":"if Schmid right: retrojection"},
-		{"id":"e-schmid-2","fromNode":"schmid-zone","fromSide":"bottom","toNode":"je-sources","toSide":"top","label":"if Schmid right: retrojection"},
+		{"id":"e-schmid-1","fromNode":"schmid-zone","fromSide":"left","toNode":"earliest-poetry","toSide":"top","label":"if Schmid right: retrojection"},
+		{"id":"e-schmid-2","fromNode":"schmid-zone","fromSide":"bottom","toNode":"je-sources","toSide":"right","label":"if Schmid right: retrojection"},
 		{"id":"e-schmid-3","fromNode":"schmid-zone","fromSide":"bottom","toNode":"josiah-reform","toSide":"top","label":"narrative shaped in Persian period"},
 		{"id":"e-schmid-4","fromNode":"schmid-zone","fromSide":"bottom","toNode":"second-isaiah","toSide":"top","label":"partially vulnerable"},
-		{"id":"e-schmid-5","fromNode":"schmid-zone","fromSide":"bottom","toNode":"persian-period","toSide":"top","label":"core claim: Torah as Persian document"},
+		{"id":"e-schmid-5","fromNode":"schmid-zone","fromSide":"right","toNode":"persian-period","toSide":"top","label":"core claim: Torah as Persian document"},
 		{"id":"e-surv-1","fromNode":"what-survives","fromSide":"left","toNode":"soleb-shasu","toSide":"bottom","label":"independently dated"},
 		{"id":"e-surv-2","fromNode":"what-survives","fromSide":"top","toNode":"ugaritic","toSide":"bottom","label":"ANE baseline"},
 		{"id":"e-surv-3","fromNode":"what-survives","fromSide":"top","toNode":"merneptah","toSide":"bottom","label":"independently dated"},
@@ -42,7 +42,7 @@
 		{"id":"e-surv-5","fromNode":"what-survives","fromSide":"right","toNode":"khirbet-el-qom","toSide":"bottom","label":"inscriptional evidence"},
 		{"id":"e-surv-6","fromNode":"what-survives","fromSide":"right","toNode":"hebrew-inscriptions","toSide":"bottom","label":"onomastic evidence"},
 		{"id":"e-surv-7","fromNode":"what-survives","fromSide":"right","toNode":"elephantine","toSide":"bottom","label":"Persian-period practice"},
-		{"id":"e-dark-1","fromNode":"dark-age","fromSide":"bottom","toNode":"earliest-poetry","toSide":"top","label":"no textual evidence unless Bible is pre-exilic"},
-		{"id":"e-dark-2","fromNode":"dark-age","fromSide":"bottom","toNode":"je-sources","toSide":"top","label":"textual gap"}
+		{"id":"e-dark-1","fromNode":"dark-age","fromSide":"left","toNode":"earliest-poetry","toSide":"top","label":"no textual evidence unless Bible is pre-exilic"},
+		{"id":"e-dark-2","fromNode":"dark-age","fromSide":"right","toNode":"je-sources","toSide":"top","label":"textual gap"}
 	]
 }

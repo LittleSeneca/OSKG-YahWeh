@@ -90,6 +90,32 @@ The four-phase synthesis in `notes/synthesis/` identifies what the graph reveals
 
 **Capstone** (`notes/synthesis/capstone-what-does-this-mean.md`, 49KB): Personal synthesis — what the evidence means for faith, scripture, and the God you're left with.
 
+## Key Documents
+
+| Document | Description | Size |
+|----------|-------------|------|
+| [[sources/source-inventory]] | Complete inventory of 17 monographs, 18+ primary sources, and supplementary materials — every source from which 723 claims were extracted. Includes copyright/fair use framework. | 24KB |
+| [[METHODOLOGY]] | Full methodological alignment with ORKG at Leibniz University Hannover. Independent convergence, pipeline architecture, comparison table. | 5KB |
+| [[notes/pipeline-overview]] | Phase-by-phase pipeline architecture: acquisition → notes → claims → graph → synthesis. | 7KB |
+| [[notes/claims-architecture]] | Claim file format, tag taxonomy, edge types, extraction process. | 10KB |
+| [[notes/claims-audit-report]] | Post-extraction audit results: 723 claims, zero broken edges, 269 source links added. | — |
+
+## Document → Canvas Map
+
+Each document has corresponding visual canvases that map its argument structure:
+
+| Document | Canvases | What the Canvas Shows |
+|----------|----------|----------------------|
+| **Source Inventory** | [[canvases/chronology-source-timeline]] | Primary sources mapped to historical periods |
+| | [[canvases/evidence-density-by-domain]] | Textual vs. archaeological vs. onomastic evidence distribution |
+| **METHODOLOGY** | [[canvases/Methodology Canvas]] | Full pipeline architecture and ORKG alignment |
+| **Phase 2 (Cascade Trees)** | [[canvases/deut-32-8-9-cascade-map]] | Dependency tree of the project's central hinge text |
+| **Phase 3 (Stress Tests)** | [[canvases/counter-position-survival-map]] | Heiser/Schmid/Tigay/Kaufmann — what survives each challenge |
+| **Phase 4 (Unknowns)** | [[canvases/convergence-fault-line-map]] | Where scholars agree and where they genuinely disagree |
+| | [[canvases/asherah-debate]] | The goddess-vs-symbol fault line across 6+ scholars |
+| **Scholarly Directory** | [[canvases/scholarly-lineage-confessional-map]] | Academic genealogies and confessional commitments |
+| **Kaufmann vs. Consensus** | [[canvases/kaufmann-paradox]] | Revolution thesis vs. evolutionary model |
+
 ## How to Use
 
 This repository is an **Obsidian vault**. Clone it, open it in [Obsidian](https://obsidian.md), and you get:

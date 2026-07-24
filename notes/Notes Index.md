@@ -6,7 +6,7 @@ tags:
 created: 2026-07-22
 related:
   - "[[Home]]"
-  - "[[Sources Index]]"
+  - "[[../sources/source-inventory]]"
 ---
 
 # Notes Index

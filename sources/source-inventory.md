@@ -9,7 +9,7 @@ related:
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[meta-analysis-scholars]]"
   - "[[METHODOLOGY]]"
-  - "[[../../sources/Sources Index]]"
+  - "[[../../sources/source-inventory]]"
 ---
 
 # Source Inventory
