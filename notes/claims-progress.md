@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 147
-- **Total claims extracted:** 698
-- **Notes with edges added:** 147
-- **Last session:** 2026-07-23 (Batch 47)
+- **Notes with claims extracted:** 149
+- **Total claims extracted:** 723
+- **Notes with edges added:** 149
+- **Last session:** 2026-07-23 (Batch 48 — Tigay Ch I + Ch II)
 
 ## By Scholar
 
@@ -199,12 +199,29 @@ related:
 
 ### Tigay, You Shall Have No Other Gods (3 notes)
 - [x] Tigay — Introduction
-- [ ] Tigay — Chapter I — The Onomastic Evidence
-- [ ] Tigay — Chapter II + Conclusions
+- [x] Tigay — Chapter I — The Onomastic Evidence
+- [x] Tigay — Chapter II + Conclusions
 
 ---
 
 ## Session Log
+
+### 2026-07-23 — Batch 48 (Finalized)
+- **Notes processed:** 2 — Tigay Chapter I (The Onomastic Evidence), Tigay Chapter II + Conclusions
+- **Claims extracted:** 14 (4 Ch I: tigay-nog-1.1 through 1.4; 10 Ch II: tigay-nog-2.1 through 2.10)
+- **Edges added:** Internal edges present from extraction + 8 cross-scholar edges in finalization pass. Key clusters:
+  - **Tigay COMPLETE — all 3 notes (15 claims).** Tigay enters the graph as the strongest empirical challenge to the Dever/Smith/Römer consensus. His Introduction (batch 47) diagnosed the debate's methodological deadlock; his Ch I (4 claims) established the onomastic evidence (89% Yahwistic names, epigraphic onomasticon even more Yahwistic, polytheism limited post-United Monarchy, the caveat that onomastics can't prove monotheism); his Ch II (10 claims) extended the case across ALL epigraphic genres (letters, votive texts, oaths, graffiti, temple records, amulets) and drew the radical conclusions: the biblical writers magnified polytheism (2.5), even Manasseh's court circles were predominantly Yahwistic (2.6), Israelite "polytheism" was mostly fetishistic (2.7), nature-god indifference implies implicit monotheism (2.8), population estimates contextualize prophetic complaints (2.9), and the biblical onomasticon was not systematically censored (2.10).
+  - **Tigay's methodology is the most rigorous in the graph.** Unlike Smith (texts first), Dever (archaeology first), or Kaufmann (theological axioms), Tigay tested the question empirically: count ALL theophoric names in ALL available data, biblical and epigraphic. His methodological caveats (1.4: onomastics can't prove monotheism; 2.4: epigraphic evidence limited to 8th-6th centuries) are as honest as his conclusions are bold.
+  - **The Tigay-Dever tension is the central polarity of the graph.** Tigay's 15 claims argue from onomastics and inscriptions that YHWH-devotion was overwhelming and polytheism was limited. Dever's 22 claims argue from figurines and domestic archaeology that goddess worship was pervasive and folk polytheism outlasted the monarchy. Both datasets are valid; they describe different dimensions of religious life. The graph captures this as a productive tension, not a resolved contradiction.
+  - **Cross-scholar edge pass — 8 new edges across 5 claim files:**
+    - **2.8 (implicit monotheism) → Smith solarization/convergence (2 edges):** Nature-god indifference now challenged by Smith's solarization thesis (YHWH absorbed solar functions) and convergence model (absorption, not exclusion, explains the onomastic pattern). These are the two strongest counter-interpretations to Tigay's most ambitious theoretical claim.
+    - **2.7 (fetishism) → Dever archaeological synthesis (2 edges):** Now directly contradicts Dever's claim that 3,000+ figurines prove genuine goddess worship. Challenged by Dever's cumulative archaeological case spanning multiple evidence categories.
+    - **2.2 (KA interpretation) → Dever's KA evidence (1 edge):** Tigay's weakest argument (dismissing KA as remote way-station) now challenged by Dever's specific KA reading: the inscriptions explicitly pair YHWH with his Asherah.
+    - **1.3 (polytheism limited) → Smith convergence (1 edge):** Tigay's central finding now challenged by Smith's convergence thesis: if YHWH absorbed El, Baal, and Asherah, the original baseline was polytheistic. Tigay may capture the END of a convergence process.
+    - **2.5 (writers magnified) → Dever Bible-as-minority-report (1 edge):** Tigay's radical claim (the prophets exaggerated) now challenged by Dever's archaeological synthesis arguing the prophets were accurately reporting on the ground.
+  - **Tigay's 2.8 (implicit monotheism from nature-god indifference) is the most theoretically ambitious claim in the batch.** The distinction between national monolatry (ignoring other nations' gods) and implicit monotheism (ignoring nature gods all nations depend on) is Tigay's most original contribution. It bridges the gap between Kaufmann's theological monotheism and the consensus's late-monotheism model. But Smith's absorption thesis offers an equally parsimonious explanation of the same data.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 0 — ALL 149 CHAPTER NOTES HAVE BEEN EXTRACTED. The Truth Project claims extraction is COMPLETE.
 
 ### 2026-08-03 — Session 33 (Batch 31 Finalized)
 - **Notes processed:** 3 — Dever Chapter IV (Biblical Reality vs Ideal), Dever Chapter V (Archaeological Evidence), Dever Chapters III-V (Sources and Archaeological Evidence)

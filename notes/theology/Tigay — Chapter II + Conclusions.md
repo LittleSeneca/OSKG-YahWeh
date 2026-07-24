@@ -2,6 +2,20 @@
 tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/jeffrey-tigay, archaeology, philology, history/israel-judah, history/jerusalem, faith/asherah, faith/polytheism, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 10
+claims_files:
+  - "[[claim-israelite-letters-invoke-yhwh-alone-salutation]]"
+  - "[[claim-votive-inscriptions-blessings-invoke-yhwh-alone]]"
+  - "[[claim-oaths-graffiti-temple-records-confirm-yhwh-alone]]"
+  - "[[claim-epigraphic-evidence-limited-to-eighth-sixth-centuries]]"
+  - "[[claim-biblical-writers-magnified-polytheism-theological-axioms]]"
+  - "[[claim-court-circles-lacked-significant-polytheistic-following]]"
+  - "[[claim-polytheism-israel-mostly-fetishistic-kaufmann]]"
+  - "[[claim-nature-god-indifference-implies-implicit-monotheism]]"
+  - "[[claim-population-estimates-contextualize-biblical-complaints]]"
+  - "[[claim-biblical-onomastic-evidence-not-systematically-censored]]"
 related: ["[[Tigay — Chapter I — The Onomastic Evidence]]", "[[Tigay — Introduction]]", "[[Smith Chapter 3 — Yahweh and Asherah]]", "[[Dever — Introduction]]"]
 ---
 
@@ -14,75 +28,51 @@ related: ["[[Tigay — Chapter I — The Onomastic Evidence]]", "[[Tigay — Int
 ## Chapter II: Non-Onomastic Evidence
 
 ### Claim 1: Letters show YHWH-only salutation formulas
-
-**Evidence:** "The letters are very instructive in this regard. The formula of salutation regularly invokes the blessing of a deity on the addressee... In ALL Israelite letters, the deity invoked is YHWH, and YHWH alone." The formula "I bless you by YHWH" (*brktk lyhwh*) is standard in letters from Arad, Lachish, and elsewhere. No letter invokes any other god.
-
-**The contrast with neighboring cultures:** Phoenician letters invoke multiple deities. Assyrian letters invoke Ashur and other gods. Israelite letters invoke ONLY YHWH. "The usage in the letters corresponds to that of the onomastic evidence: YHWH is overwhelmingly the only deity invoked."
-
-**Confidence:** HIGH on the textual evidence.
-
----
+→ [[claim-israelite-letters-invoke-yhwh-alone-salutation]] | **tigay-nog-2.1** | Confidence: HIGH
+  ALL pre-exilic Israelite letters invoke YHWH and YHWH alone in salutation formulas (*brktk lyhwh*). No letter invokes any other god, in contrast to Phoenician and Assyrian letters which invoke multiple deities. Supports tigay-nog-1.3 (limited polytheism), tigay-nog-2.2, and tigay-nog-2.3.
 
 ### Claim 2: Votive inscriptions and prayers for blessing show the same pattern
-
-**Evidence:** Across all pre-exilic Hebrew votive texts and blessing formulas, the deity invoked is YHWH alone. The Kuntillet Ajrud and Khirbet el-Qom inscriptions are the only significant exceptions — and Tigay addresses them specifically.
-
-**On Kuntillet Ajrud:** Tigay notes that the inscriptions invoke "YHWH... and his Asherah" but argues that (a) Asherah may be a cult object, not a goddess; (b) even if a goddess, she is invoked alongside YHWH, not independently; (c) the site is a remote way-station, not representative of mainstream practice. "At most they show that some Israelites conceived YHWH as having a consort, but they do not demonstrate worship of her as an independent deity."
-
-**Confidence:** MEDIUM on his interpretation of Kuntillet Ajrud. This is his weakest argument — the inscriptions clearly pair YHWH with Asherah.
-
----
+→ [[claim-votive-inscriptions-blessings-invoke-yhwh-alone]] | **tigay-nog-2.2** | Confidence: MEDIUM
+  Votive texts and blessing formulas invoke YHWH alone. Kuntillet Ajrud and Khirbet el-Qom are the only significant exceptions. Tigay argues KA may be a cult object not a goddess, is a remote way-station, and at most shows consort-concept not independent worship. Contradicted by [[claim-kuntillet-ajrud-proves-consort]]. Challenged by [[claim-yahweh-consort-debate-requires-iconographic-evidence-not-texts-alone]].
 
 ### Claim 3: Oaths, graffiti, and temple records confirm the pattern
-
-**Evidence:**
-- Oath formulas invoke YHWH alone
-- Cave graffiti invoke YHWH
-- Temple vessel inscriptions identify items as belonging to "YHWH" or "the house of YHWH"
-- Amulets invoke YHWH's protection
-- "Other inscriptions" (miscellaneous texts) show the same pattern
-
-**Confidence:** HIGH.
-
----
+→ [[claim-oaths-graffiti-temple-records-confirm-yhwh-alone]] | **tigay-nog-2.3** | Confidence: HIGH
+  Across every genre (oaths, graffiti, temple vessel inscriptions, amulets, miscellaneous texts), YHWH is invoked alone. Multi-genre consistency makes it difficult to dismiss any single genre as special. Contradicts Dever's pervasive-polytheism thesis ([[claim-dever-folk-polytheism-outlasted-monarchy-monotheism-book-religion]]).
 
 ### Claim 4: The evidence applies primarily to the 8th-6th centuries BCE
-
-**Tigay's honesty:** "Since the inscriptional evidence sets in for the most part in the eighth century, our conclusions apply mainly to the period beginning then. The evidence does not directly argue against the greater prevalence of polytheism earlier." But he argues the biblical onomastic evidence — which goes back further — is consistent with the epigraphic evidence, suggesting the pattern holds for the Divided Monarchy and perhaps earlier.
-
-**Confidence:** HIGH on the temporal limitation.
+→ [[claim-epigraphic-evidence-limited-to-eighth-sixth-centuries]] | **tigay-nog-2.4** | Confidence: HIGH
+  The epigraphic evidence does not directly argue against greater polytheism earlier. Tigay's extrapolation to earlier periods is inferential (based on biblical onomastic consistency). Supports Day's critique ([[claim-tigay-onomastics-underestimates-pre-exilic-polytheism]]).
 
 ---
 
 ## Conclusions: Tigay's Seven Key Arguments
 
 ### 1. Polytheism was limited, not rampant
-
-**Tigay's claim:** "After the United Monarchy, and perhaps even earlier, the evidence currently available makes it very difficult to suppose that many Israelites worshipped gods other than YHWH."
+→ Extracted as [[claim-post-united-monarchy-polytheism-limited-not-rampant]] | **tigay-nog-1.3** (from Ch I)
 
 ### 2. The biblical writers magnified polytheism, not minimized it
-
-**Tigay's claim:** The prophets and historiographers were working with "theological axioms rather than historical data." The doctrine of collective responsibility generalized the sins of individuals to the entire nation. The exile demanded an explanation; polytheism provided it. The sweeping indictments "are based more on theological axioms than historical data."
+→ [[claim-biblical-writers-magnified-polytheism-theological-axioms]] | **tigay-nog-2.5** | Confidence: HIGH
+  The prophets worked from "theological axioms rather than historical data." The doctrine of collective responsibility generalized individual sins to the nation. The exile demanded an explanation; polytheism provided it. Contradicts Dever ([[claim-dever-folk-polytheism-outlasted-monarchy-monotheism-book-religion]]).
 
 ### 3. Even court-connected circles were not polytheistic
-
-**Tigay's claim:** "The inscriptional evidence, part of which reflects the upper classes in the time of Manasseh, does not contradict these charges against the kings, but it indicates that this polytheism must have attracted few adherents even among the circles connected with the court."
+→ [[claim-court-circles-lacked-significant-polytheistic-following]] | **tigay-nog-2.6** | Confidence: MEDIUM-HIGH
+  Seals and bullae from Manasseh's time show overwhelming YHWH-dominance. Royal polytheism was real but "attracted few adherents even among the circles connected with the court." Depends on tigay-nog-1.2 and 1.3.
 
 ### 4. What polytheism existed was mostly fetishistic
-
-**Tigay's claim:** Following Kaufmann: much "polytheism" was actually fetishism — using figurines and charms without genuine mythological theology. "Defined as Kaufmann defined it, fetishism involves the belief that divine or demonic forces inhabit the image or are represented by it, not that the image itself is a god."
+→ [[claim-polytheism-israel-mostly-fetishistic-kaufmann]] | **tigay-nog-2.7** | Confidence: MEDIUM
+  Following Kaufmann: much "polytheism" was fetishism — using figurines without genuine mythological theology. Depends on [[claim-israelite-idolatry-vestigial-fetishism-not-genuine-polytheism]]. Contradicts Dever.
 
 ### 5. The indifference to nature gods implies implicit monotheism
-
-**Tigay's claim:** "A unilatry which ignores the gods of other nations can be classified as monolatry, but a unilatry which ignores phenomena on which all nations depend looks implicitly like monotheism." Israelites ignored sun gods, rain gods, fertility gods — deities whose spheres weren't limited to specific nations. Even Ammonites included moon/sun gods in their onomasticon. Israelites didn't.
+→ [[claim-nature-god-indifference-implies-implicit-monotheism]] | **tigay-nog-2.8** | Confidence: MEDIUM
+  "A unilatry which ignores phenomena on which all nations depend looks implicitly like monotheism." Ammonites included moon/sun gods in their onomasticon; Israelites didn't. Supports [[claim-israelite-religion-absolutely-different-paganism-from-beginning]].
 
 ### 6. Population estimates contextualize the biblical complaints
-
-**Tigay's claim:** If Jerusalem's population was 10,600-24,000, then even 5-10% practicing polytheism = 500-2,400 people. Enough to be visible, enough to alarm prophets, but not the majority. "It is the theological significance of the issue, not the statistical picture, which makes it loom so large."
+→ [[claim-population-estimates-contextualize-biblical-complaints]] | **tigay-nog-2.9** | Confidence: MEDIUM-HIGH
+  Even 5-10% polytheism in Jerusalem (500-2,400 people) would be visible enough to alarm prophets without being the majority. "It is the theological significance of the issue, not the statistical picture, which makes it loom so large."
 
 ### 7. The biblical onomastic evidence was not systematically censored
-
-**Tigay's claim:** The scribal revisions that changed ba'al names to bosheth names are exceptions that prove the rule. If scribes had systematically purged pagan names, more would have been changed. The fact that the biblical onomasticon matches the epigraphic onomasticon suggests both reflect genuine naming practices.
+→ [[claim-biblical-onomastic-evidence-not-systematically-censored]] | **tigay-nog-2.10** | Confidence: HIGH
+  The ba'al→bosheth revisions are exceptions that prove the rule. Convergence with the epigraphic onomasticon (which couldn't be censored) is strong evidence both reflect genuine naming practices. Depends on [[claim-boshet-scribal-substitution-for-baal]].
 
 ---
 
