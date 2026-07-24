@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 135
-- **Total claims extracted:** 646
-- **Notes with edges added:** 135
-- **Last session:** 2026-08-09 (Batch 43)
+- **Notes with claims extracted:** 138
+- **Total claims extracted:** 666
+- **Notes with edges added:** 138
+- **Last session:** 2026-08-09 (Batch 44)
 
 ## By Scholar
 
@@ -181,9 +181,9 @@ related:
 - [x] Schmid — §1 — Is There a Theology of the Hebrew Bible
 - [x] Schmid — §§2-4 — Concept of Theology from Plato to Gabler
 - [x] Schmid — §5 — Romantic Devaluation of Theology
-- [ ] Schmid — §§6-9 — Jewish Reception to Implicit Theology
-- [ ] Schmid — §11 — The Tanakh as the Hebrew Bible
-- [ ] Schmid — §§10, 12, 13 — Canon Pluriformity and Relativity
+- [x] Schmid — §§6-9 — Jewish Reception to Implicit Theology
+- [x] Schmid — §11 — The Tanakh as the Hebrew Bible
+- [x] Schmid — §§10, 12, 13 — Canon Pluriformity and Relativity
 
 ### Stavrakopoulou, God: An Anatomy (6 notes)
 - [ ] Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine
@@ -879,4 +879,18 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 14
 - **Next batch suggestion:** Schmid §§6-9 + Schmid §11 + Schmid §§10,12,13 — complete Schmid's remaining 3 notes (Jewish reception, Tanakh framing, canon pluriformity). Then pivot to Stavrakopoulou (God: An Anatomy) for the corporeal/embodied-God thread that complements Sommer's fluidity model.
+
+### 2026-08-09 — Batch 44 (Finalized)
+- **Notes processed:** 3 — Schmid §§6-9 (Jewish Reception to Implicit Theology), Schmid §11 (The Tanakh as the Hebrew Bible), Schmid §§10,12,13 (Canon Pluriformity and Relativity)
+- **Claims extracted:** 20 (8 §§6-9, 6 §11, 6 §§10,12,13)
+- **Edges added:** Internal edges present from extraction + 12 cross-scholar edges in finalization pass. Key clusters:
+  - **Schmid's implicit-theology framework completes the methodological arc:** The §§6-9 claims (schmid-ht-6-9.1 through 6-9.8) establish Schmid's positive theological methodology after the negative/historical work of §§1-5. Key claims: theology's marginal history in Judaism (6-9.1), Barth's rehabilitation enabling normative OT theology (6-9.2), the Biblical Theology movement's "what it means" demand that Schmid rejects (6-9.3), von Rad's genre confusion as a cautionary tale (6-9.4), Albertz's religion-over-theology but unwitting literary history (6-9.5), the HB's implicit theology as Fortschreibung (6-9.6), stereometric reading as synchronic literary juxtaposition (6-9.7), and the HB as multi-perspectival interconnected theological discussion (6-9.8). Together these define Schmid's alternative: neither normative OT theology (the "what it means" tradition) nor history-of-religion (the "religious history inadequate" pole), but descriptive historical theology that reads the HB's implicit, multi-perspectival theological discussion through stereometric juxtaposition.
+  - **Schmid's canon claims complete the Persian-period thesis:** The §11 claims (11.1-11.6) establish that the fixed canon is post-biblical (11.1), the Jamnia synod is an academic myth (11.2), the original structure was two-part Law+Prophets not three (11.3), the Torah formed under Persian imperial authorization (11.4), Nevi'im closed pre-Maccabean (~200 BCE) with Daniel missing the cut (11.5), and Ketuvim functioned as a melting pot for diverse materials (11.6). The §§10,12,13 claims (10-12-13.1-6) establish canon pluriformity: neither OT nor HB exists as a single entity (10-12-13.1), canonical differences are accidents of history not theological positions (10-12-13.2), early Christianity had a double canon not supersession (10-12-13.3), the Septuagint translation drove Torah closure (10-12-13.4), the Septuagint placed Prophets last for Christian fulfillment (10-12-13.5), and canon boundaries are a center-and-periphery model not absolute (10-12-13.6).
+  - **Schmid's 11.4 (Torah as Persian-period imperial authorization) is the most consequential single claim in the batch for the Truth Project.** If correct, the evolutionary models of Smith and Römer describe Persian-period theological imagination, not pre-exilic reality. Smith's four-stage model, his monotheism-as-rhetoric thesis, and Römer's progressive-construction model would all be describing the same Persian-period literary phenomenon from different angles.
+  - **Cross-scholar edge pass — 12 new edges:** The implicit-theology cluster (6-9.6, 6-9.8) now supports both Smith's monotheism-as-rhetoric and Römer's invention-as-progressive-construction (4 edges) — Schmid's implicit-theology framework provides the theoretical justification for reading the HB's Fortschreibung process as the mechanism of both monotheistic rhetoric and progressive construction. The genre-critique cluster (6-9.4, 6-9.7) now contradicts Smith's four-stage model (2 edges) — von Rad's genre confusion IS the same category error in the four-stage model. The canon cluster (11.1, 11.4, 10-12-13.1, 11.6) now supports both Smith's rhetoric thesis and Römer's progressive construction (6 edges) — if the canon is post-biblical, pluriform, and formed under imperial pressure, then Smith's "monotheistic rhetoric" and Römer's "progressive construction" are both describing the same Persian-to-Second-Temple literary process.
+  - **Schmid is now COMPLETE — all 7 notes extracted (45 claims total from Preface through §§13).** His full arc: methodological critique of OT theology (Preface, §1) → genealogy of "theology" from Plato to Gabler/Bauer (§§2-4) → Romantic devaluation of theology (§5) → Jewish reception and the religion/theology tension (§§6-9) → the Tanakh's historical formation (§11) → canon pluriformity as the empirical refutation of canonical normativity (§§10,12,13). Schmid's 45 claims form the most comprehensive methodological challenge to the entire Truth Project's evidentiary foundation — if Schmid is right about Persian-period literary formation, every other scholar in the graph is mining post-exilic theological imagination for evidence of pre-exilic religion.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 11
+- **Next batch suggestion:** Stavrakopoulou Prologue+Ch1 + Stavrakopoulou Part I (Feet and Legs) + Stavrakopoulou Part II (Genitals). Rationale: Schmid is complete. Stavrakopoulou's God: An Anatomy picks up the embodied-God thread that Sommer's fluidity model established — she provides the complementary argument from bodily theology. Her Prologue-Ch1 establishes the methodological framework (reading the Bible as ancient body-talk), Part I covers feet/legs (divine locomotion, standing stones as feet, the Temple as body), and Part II covers genitals (divine masculinity, circumcision as bodily mark, the "Yahweh and his Asherah" question from an anatomical angle). These three notes form the foundation before tackling torso, arms/hands, and head. Stavrakopoulou will directly contradict Kaufmann's incorporeal God (kaufmann-ri-1.1, 1.2) and will both support and complicate Sommer's fluidity model. Total notes remaining after this batch: 8.
+
 
