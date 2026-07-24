@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 144
-- **Total claims extracted:** 688
-- **Notes with edges added:** 144
-- **Last session:** 2026-08-09 (Batch 46)
+- **Notes with claims extracted:** 147
+- **Total claims extracted:** 698
+- **Notes with edges added:** 147
+- **Last session:** 2026-07-23 (Batch 47)
 
 ## By Scholar
 
@@ -194,11 +194,11 @@ related:
 - [x] Stavrakopoulou — Part V — Head + Epilogue
 
 ### Cross, Canaanite Myth and Hebrew Epic (2 notes)
-- [ ] Cross — Preface + Part I — Canaanite Religion and El
-- [ ] Cross — Parts II-III — Divine Warrior and League
+- [x] Cross — Preface + Part I — Canaanite Religion and El
+- [x] Cross — Parts II-III — Divine Warrior and League
 
 ### Tigay, You Shall Have No Other Gods (3 notes)
-- [ ] Tigay — Introduction
+- [x] Tigay — Introduction
 - [ ] Tigay — Chapter I — The Onomastic Evidence
 - [ ] Tigay — Chapter II + Conclusions
 
@@ -934,3 +934,22 @@ related:
 - **Next batch suggestion:** Cross Preface+Part I + Cross Parts II-III + Tigay Introduction. Then final batch: Tigay Ch I + Tigay Ch II.
 
 
+
+### 2026-07-23 — Batch 47 (Finalized)
+- **Notes processed:** 3 — Cross Preface + Part I (Canaanite Religion and El), Cross Parts II-III (Divine Warrior and League), Tigay Introduction
+- **Claims extracted:** 10 (5 Cross Preface+Part I: cross-cmhe-pre-i.1 through pre-i.5; 4 Cross Parts II-III: cross-cmhe-ii-iii.1 through ii-iii.4; 1 Tigay Introduction: tigay-nog-intro.1)
+- **Edges added:** Internal edges present from extraction + 7 cross-scholar edges in finalization pass. Key clusters:
+  - **Cross enters the graph as the methodological foundation of the field.** Cross positioned himself between Wellhausen and Kaufmann — continuity with Canaanite culture is the baseline; novelty must be demonstrated, not assumed. His Pref+Part I claims establish the framework: orderly historical transformation (pre-i.1), God of the Fathers as distinct deity type (pre-i.2), El epithets systematically absorbed by Yahweh (pre-i.3), Yahweh as El epithet (pre-i.4), and Exodus 6:2-3 as historical memory of patriarchal El worship (pre-i.5). His Parts II-III claims trace the mechanism: Divine Warrior as central concept (ii-iii.1), myth→epic transformation through historicization (ii-iii.2), Song of the Sea as 12th-11th century Yahwized Ba'l hymn (ii-iii.3), and Ritual Conquest reenactment (ii-iii.4).
+  - **Tigay introduces onomastics as external control.** His Introduction claim (nog-intro.1) diagnoses the debate's deadlock: both critical consensus and Kaufmann/Albright used the same biblical texts with no external evidence. Onomastic evidence from pre-exilic Hebrew inscriptions provides the first empirical test.
+  - **Cross-scholar edge pass — 7 new edges:**
+    - **Tigay → Cross methodological alignment (1 edge):** tigay-nog-intro.1 now supports cross-cmhe-pre-i.1 — Tigay's diagnosis of the biblical-text-only deadlock validates Cross's methodology. Both broke the impasse by introducing external evidence (Ugaritic texts for Cross, onomastic inscriptions for Tigay).
+    - **Fleming → Cross contradiction (1 edge):** cross-cmhe-pre-i.4 now contradicted by Fleming's claim-cross-liturgical-epithet-model-unsustainable-shasu-evidence — Cross's causative-etymology model cannot account for Yhwʒ as a Shasu people-name in the Egyptian evidence.
+    - **Cross → Stavrakopoulou divine anatomy (4 edges):** cross-cmhe-ii-iii.1 now supports claim-god-right-hand-weapon-power-salvation-violence and claim-god-outstretched-arm-physical-deliverance-exodus — the Divine Warrior framework is the theological infrastructure for Stavrakopoulou's anatomical catalogue. cross-cmhe-ii-iii.3 now supports both claim-god-outstretched-arm (Ex 15:6 "Your right hand shatters the enemy") and claim-god-feet-weapons-crushing-enemies-property-markers (the Divine Warrior's victory march through the Sea is divine feet transforming geography).
+    - **Cross → Asherah transfer template (1 edge):** cross-cmhe-pre-i.3 now supports claim-asherah-el-consort-transferred-to-yahweh — El's epithet absorption is the template for Asherah's later transfer, the same absorption mechanism operating for both El's attributes and El's consort.
+    - **Cross → Schmid Fortschreibung (1 edge):** cross-cmhe-ii-iii.2 now supports claim-hb-contains-implicit-theology-reflective-interpretation — Cross's myth→epic transformation IS Schmid's Fortschreibung at the genre level: the Hebrew Bible's implicit theology is produced by historicizing Canaanite mythic patterns into Israel's salvation-history epic.
+  - **Cross's pre-i.3 (El epithets absorbed by Yahweh) is the strongest claim in the batch.** The systematic mapping of Ugaritic El epithets to Hebrew equivalents applied to Yahweh is textually demonstrable regardless of one's position on the etymology of the name. This is the philological foundation Smith built his convergence model on — and now it's explicitly linked to both the Smith convergence cluster and the Stavrakopoulou embodied-divinity cluster.
+  - **Cross's pre-i.4 (Yahweh as El epithet) is the most contested claim.** It now has explicit contradiction edges from Fleming (Shasu evidence), Romer (southern origin), and the Midianite hypothesis. This is the claim that divides Cross most sharply from the rest of the field — stronger scholars (even Smith, his student) did not follow him here.
+  - **Tigay's method is now the gatekeeper for the empirical debate.** His nog-intro.1 is challenged by Day (claim-tigay-onomastics-underestimates-pre-exilic-polytheism) and Smith (claim-tigay-onomastics-does-not-disprove-polytheism), creating a three-way methodological debate. The onomastic evidence will be tested when Tigay Ch I and Ch II are extracted.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 2
+- **Next batch suggestion:** Tigay Chapter I + Tigay Chapter II. Rationale: With Cross complete, only 2 notes remain — both Tigay. Tigay Ch I presents the onomastic data itself (the 16:1 ratio, geographical distribution, temporal patterns). Tigay Ch II presents his conclusions and the implications for the debate. These must be processed together because the data and its interpretation are inseparable. After this batch, ALL 149 chapter notes will have been extracted — the claims extraction pipeline will be complete.

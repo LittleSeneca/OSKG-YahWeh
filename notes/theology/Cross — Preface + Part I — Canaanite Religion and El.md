@@ -2,6 +2,15 @@
 tags: [source/book-notes, faith/yahweh, faith/el, scholars/frank-moore-cross, philology, historiography, methodology, history/kenite-hypothesis, faith/divine-council, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 5
+claims_files:
+  - "[[claim-israelite-religion-emerged-canaanite-culture-orderly-transformation]]"
+  - "[[claim-god-of-the-fathers-distinct-deity-type-clan-patron]]"
+  - "[[claim-el-epithets-absorbed-by-yahweh-convergence-process]]"
+  - "[[claim-yahweh-originated-as-el-epithet-creates-heavenly-armies]]"
+  - "[[claim-exodus-6-2-3-preserves-memory-patriarchal-el-worship-priestly]]"
 source:
   title: "Canaanite Myth and Hebrew Epic"
   author: "Frank Moore Cross"
@@ -25,6 +34,11 @@ related:
 
 ### Claim 1: Cross writes against BOTH Wellhausen's evolutionary idealism AND Kaufmann's radical uniqueness
 
+<!-- Implicit claim extracted to [[claim-israelite-religion-emerged-canaanite-culture-orderly-transformation]] -->
+
+→ [[claim-israelite-religion-emerged-canaanite-culture-orderly-transformation]] | **cross-cmhe-pre-i.1** | Confidence: high
+  Israelite religion emerged from Canaanite culture in an orderly historical transformation — NOT creation ex nihilo. Cross's methodology between Wellhausen and Kaufmann established the continuity-baseline framework for the entire field.
+
 **Cross's position:** He's methodologically between two extremes. Against Wellhausen: the older synthesis based on Hegelian idealism is "obstinately surviving" and must be cleared away. Against Kaufmann: "Kaufmann's insistence that Israelite religion 'was absolutely different from anything the pagan world ever knew' violates fundamental postulates of scientific historical method."
 
 **Cross's alternative:** Israelite religion emerged from Canaanite culture in an "orderly set of relationships which follow the usual typological sequences of historical change." Novelty is real — but it must be described as transformation of existing materials, not creation ex nihilo. "Characteristic of the religion of Israel is a perennial and unrelaxed tension between the mythic and the historical."
@@ -38,6 +52,11 @@ related:
 ---
 
 ### The God of the Fathers (Chapter 1)
+
+<!-- Implicit claim extracted to [[claim-god-of-the-fathers-distinct-deity-type-clan-patron]] -->
+
+→ [[claim-god-of-the-fathers-distinct-deity-type-clan-patron]] | **cross-cmhe-pre-i.2** | Confidence: medium
+  The patriarchs worshipped a personal clan god — "the God of the Fathers" — distinct from both Canaanite El and later Yahwistic religion, marked by epithets like "God of Abraham" and "Fear of Isaac."
 
 **Cross's claim:** The patriarchs worshipped a deity distinct from both Canaanite El and later Yahwistic religion. He called this deity "the God of the Fathers" — a personal clan god identified by the patriarch's name ("God of Abraham," "Fear of Isaac," "Mighty One of Jacob"). This was NOT the high god El of the Canaanite pantheon, but a distinct type of deity: a personal patron who protected a specific kinship group.
 
@@ -65,6 +84,11 @@ related:
 
 ### Yahweh and 'El (Chapter 3)
 
+<!-- Implicit claim extracted to [[claim-el-epithets-absorbed-by-yahweh-convergence-process]] -->
+
+→ [[claim-el-epithets-absorbed-by-yahweh-convergence-process]] | **cross-cmhe-pre-i.3** | Confidence: high
+  Contradicts: [[claim-israelite-religion-non-mythological-fundamentally-unique]] | Yahweh was originally not identified with El — the convergence is visible in the systematic transfer of El's Ugaritic epithets to Yahweh.
+
 **Cross's central claim:** Yahweh was originally NOT identified with El. The identification happened historically — it's visible in the biblical texts. "We can trace the process by which Yahweh came to be identified with El, absorbing El's characteristics and epithets."
 
 **The evidence — El epithets applied to Yahweh:**
@@ -78,10 +102,20 @@ related:
 | El's mountain abode | Yahweh on Sinai/Zion | Exodus 19, Psalm 48 |
 | El's epithet *šadday* | *'Ēl Šadday* | Patriarchal narratives |
 
+<!-- Implicit claim extracted to [[claim-exodus-6-2-3-preserves-memory-patriarchal-el-worship-priestly]] -->
+
+→ [[claim-exodus-6-2-3-preserves-memory-patriarchal-el-worship-priestly]] | **cross-cmhe-pre-i.5** | Confidence: medium-high
+  Contradicted by: [[claim-exodus-3-6-schematic-bridge-texts-not-historical-memory]], [[claim-name-yahweh-revealed-moses-time-p-chronology-reliable]] | Exodus 6:2-3 preserves genuine historical memory — the Priestly writer acknowledges patriarchal El worship before the name Yahweh was known.
+
 **The key text — Exodus 6:2-3:**
 > "I am Yahweh. I appeared to Abraham, Isaac, and Jacob as El Shadday, but by my name Yahweh I did not make myself known to them."
 
 **Cross's reading:** This text explicitly acknowledges that the patriarchs worshipped El, not Yahweh. The Priestly writer preserves the memory of a time when Yahweh was NOT known — and then identifies Yahweh with the patriarchal god. "The formula is a theological statement. It identifies Yahweh with El Shadday, the patriarchal god, but it distinguishes the old cultus from the new."
+
+<!-- Implicit claim extracted to [[claim-yahweh-originated-as-el-epithet-creates-heavenly-armies]] -->
+
+→ [[claim-yahweh-originated-as-el-epithet-creates-heavenly-armies]] | **cross-cmhe-pre-i.4** | Confidence: medium
+  Contradicts: [[claim-yhwh-southern-desert-origin-soleb-poetry-synthesis]], [[claim-kenite-midianite-hypothesis-best-explanation]] | Yahweh began as an EPITHET of El — "He creates the (heavenly) armies" — a liturgical title that became a proper name.
 
 **The Name Yahweh (the etymology problem):**
 

@@ -10,6 +10,11 @@ tags:
   - truth-project
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 1
+claims_files:
+  - "[[claim-debate-polytheism-monotheism-lacked-external-controls-onomastics]]"
 source:
   title: "You Shall Have No Other Gods"
   author: "Jeffrey H. Tigay"
@@ -24,6 +29,11 @@ related:
 # Tigay — Introduction
 
 ## The Problem: The Debate Has No External Controls
+
+<!-- Implicit claim extracted to [[claim-debate-polytheism-monotheism-lacked-external-controls-onomastics]] -->
+
+→ [[claim-debate-polytheism-monotheism-lacked-external-controls-onomastics]] | **tigay-nog-intro.1** | Confidence: high
+  Challenged by: [[claim-tigay-onomastics-underestimates-pre-exilic-polytheism]], [[claim-dever-folk-polytheism-outlasted-monarchy-monotheism-book-religion]] | The debate was deadlocked because both sides relied solely on biblical texts — onomastic evidence from Hebrew inscriptions provides the first external control.
 
 **The state of the question:** Two positions — both based entirely on the biblical texts.
 

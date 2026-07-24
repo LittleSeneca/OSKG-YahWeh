@@ -2,6 +2,14 @@
 tags: [source/book-notes, faith/yahweh, faith/divine-warrior, scholars/frank-moore-cross, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 4
+claims_files:
+  - "[[claim-divine-warrior-central-early-israelite-religion-cross]]"
+  - "[[claim-myth-to-epic-historicization-canaanite-patterns-israel]]"
+  - "[[claim-song-of-sea-oldest-biblical-texts-archaic-canaanite-mythic]]"
+  - "[[claim-ritual-conquest-reenacted-divine-warrior-victory-early-israel]]"
 related: ["[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Smith Chapter 2 — Yahweh and Baal]]", "[[Romer — Chapter 5 — Entrance into Jerusalem]]"]
 ---
 
@@ -12,6 +20,11 @@ related: ["[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Smi
 ## Part II: The Cultus of the Israelite League
 
 ### The Divine Warrior (Chapter 5)
+
+<!-- Implicit claim extracted to [[claim-divine-warrior-central-early-israelite-religion-cross]] -->
+
+→ [[claim-divine-warrior-central-early-israelite-religion-cross]] | **cross-cmhe-ii-iii.1** | Confidence: high
+  Supports: [[claim-yahweh-divine-warrior-fundamental-distinctive-vs-el]], [[claim-day-yahweh-cloud-rider-derived-baal-rkb-rpt]], [[claim-day-psalm-29-yahwistic-baal-hymn-seven-thunders]] | The Divine Warrior was the CENTRAL concept of early Israelite religion — borrowed from Canaanite Ba'l myth and historicized into Israel's narrative.
 
 **Cross's claim:** The central religious concept of early Israel was Yahweh as DIVINE WARRIOR — a concept borrowed directly from Canaanite myth, specifically the Ba'l cycle. Israel took the mythic pattern of the god who defeats chaos (Sea/Leviathan/Death) and historicized it: Yahweh the Divine Warrior leads Israel's armies in historical battles. This is the key mechanism by which myth became epic.
 
@@ -30,6 +43,11 @@ related: ["[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Smi
 
 **Cross's reading:** This is a liturgy for Yahweh's entrance into his temple as conquering Divine Warrior — almost certainly used in the Jerusalem cult. The form is borrowed from Canaanite liturgy. The content has been Yahwized.
 
+<!-- Implicit claim extracted to [[claim-ritual-conquest-reenacted-divine-warrior-victory-early-israel]] -->
+
+→ [[claim-ritual-conquest-reenacted-divine-warrior-victory-early-israel]] | **cross-cmhe-ii-iii.4** | Confidence: low-medium
+  Contradicts: [[claim-bible-ideal-religion-never-existed-israelites]], [[claim-biblical-pure-yahwism-deuteronomistic-propaganda]] | Early Israel reenacted the Divine Warrior's victory in ritual form — the "Ritual Conquest" at league sanctuaries.
+
 **The "Ritual Conquest" theory:**
 Cross argues that the Israelite league (the pre-monarchic tribal confederation) reenacted the Divine Warrior's victory in ritual form — possibly at Gilgal or Shiloh. The battles of Judges reflect both historical skirmishes AND ritual patterns. The "conquest" narrative in Joshua blends both.
 
@@ -38,6 +56,11 @@ Cross argues that the Israelite league (the pre-monarchic tribal confederation) 
 ---
 
 ### The Song of the Sea and Canaanite Myth (Chapter 6)
+
+<!-- Implicit claim extracted to [[claim-song-of-sea-oldest-biblical-texts-archaic-canaanite-mythic]] -->
+
+→ [[claim-song-of-sea-oldest-biblical-texts-archaic-canaanite-mythic]] | **cross-cmhe-ii-iii.3** | Confidence: medium
+  Contradicts: [[claim-song-of-sea-egypt-withdrawal-canaan-not-exodus-from-egypt]], [[claim-old-poetry-monarchic-royal-ideology-not-pre-monarchic]] | The Song of the Sea (Exodus 15) is among the oldest biblical texts — 12th-11th century — constructed almost entirely from Canaanite mythic motifs.
 
 **Cross's claim:** Exodus 15 (the Song of the Sea) is one of the oldest texts in the Bible — and it's constructed almost entirely from Canaanite mythic motifs.
 
@@ -62,6 +85,11 @@ Cross argues that the Israelite league (the pre-monarchic tribal confederation) 
 ## Part III: League and Kingdom
 
 ### Yahweh and Ba'l (Chapter 7)
+
+<!-- Implicit claim extracted to [[claim-myth-to-epic-historicization-canaanite-patterns-israel]] -->
+
+→ [[claim-myth-to-epic-historicization-canaanite-patterns-israel]] | **cross-cmhe-ii-iii.2** | Confidence: high
+  Contradicts: [[claim-israelite-religion-non-mythological-fundamentally-unique]] | Myth became epic through historicization — Israel took Canaanite MYTH and transformed it into historical EPIC. This is Cross's signature concept.
 
 **Cross's claim:** The conflict between Yahweh and Ba'l in the Bible reflects a real historical struggle — not between Israelites and Canaanites, but WITHIN Israelite society. Two models of divine kingship competed: the old Divine Warrior model (Yahweh as conquering king) and the Canaanite royal model (Ba'l as fertility-bestowing king associated with the monarchy).
 
