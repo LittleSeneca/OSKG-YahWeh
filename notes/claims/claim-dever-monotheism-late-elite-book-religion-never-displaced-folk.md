@@ -75,6 +75,7 @@ The biblical narrative of Israel's journey from pure monotheism to syncretistic 
 
 **Challenged by:**
 - [[claim-exile-extinction-idolatry-proves-popular-monotheism]]
+- [[claim-sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift]] — Sommer's reframing partially dissolves the folk-vs-book dichotomy for biblical texts: J/E's fluid monotheism may have been "elite" theology but it wasn't "late" — it was early, just of a different kind than P/D's anti-fluid monotheism
 
 **Primary sources:**
 <!-- Archaeological data: figurines, multiple temples, inscriptions; biblical reform texts -->

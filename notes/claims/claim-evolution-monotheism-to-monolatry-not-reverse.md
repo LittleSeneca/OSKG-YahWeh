@@ -68,6 +68,9 @@ The entire historical narrative of Israelite religion. If Kaufmann is right, Wel
 - [[claim-true-monotheism-emerged-babylonian-exile]]
 - [[claim-convergence-differentiation-framework-israelite-religion]]
 
+**Challenged by:**
+- [[claim-sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift]] — Sommer reframes the entire question: the evolution wasn't about number of gods at all but about the nature of the one God's embodiment. Both forward and reverse models assume the wrong axis.
+
 ## Assessment
 
 Kaufmann's reversal is elegant but ultimately unconvincing as history. It requires monotheism to exist as an IDEA before it exists as a PRACTICE — historically implausible for an ancient society without philosophical schools or systematic theology. His formulation would work better as a description of the biblical AUTHORS' perspective than of historical reality. From the authors' standpoint, monotheism WAS original and the battle WAS about cultic consequences — because they were writing from within an already-monotheistic framework.

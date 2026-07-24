@@ -3,6 +3,14 @@ tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, theology/kab
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Sommer — Chapters 5-6 + Appendix]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-08-07
+claims_count: 4
+claims_files:
+  - "[[claim-fluidity-model-explains-sacred-space-paradox-multiple-bodies]]"
+  - "[[claim-fluidity-model-survived-kabbalah-christianity]]"
+  - "[[claim-monotheism-well-established-before-exile-biblical-authors]]"
+  - "[[claim-bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism]]"
 ---
 
 # Sommer, The Bodies of God — Chapters 4-6 + Appendix
@@ -12,61 +20,36 @@ related: ["[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Sommer — Chapte
 ## Chapters 4-5: God's Bodies and Sacred Space
 
 ### Claim: The fluidity model explains the paradox of sacred space — how can God be "in" the Temple and "in" heaven simultaneously?
-
-**Sommer's claim:** The fluidity model solves a theological puzzle that has troubled readers of the Bible for millennia. Texts say both that God dwells on earth (the Temple, the Tabernacle, the Ark) AND that God dwells in heaven. The Judeo-Christian tradition resolved this by saying God "transcends space" and is "everywhere." But the Bible's own resolution is simpler and more ancient: God has MULTIPLE BODIES. One in heaven, one in the Temple. Not a philosophical paradox — just multiple embodiments.
-
-**Evidence — the Ark and the Tent:**
-- Exodus 33: Moses goes to a tent "outside the camp" where a pillar of cloud descends and Yhwh speaks with him "face to face, as a man speaks with his friend"
-- The Tent contains one of Yhwh's bodies — a localized manifestation
-- The Ark functions similarly: a throne/footstool for a divine body
-
-**The anti-fluid reaction:**
-- 1 Kings 8 (Solomon's prayer): "The heavens and the highest heaven cannot contain You; how much less this house." This is D theology — God does NOT dwell in the Temple; only his Name does
-- But older texts are comfortable with God actually being THERE — embodied, localized
-
-**Confidence:** HIGH on the textual evidence.
+→ [[claim-fluidity-model-explains-sacred-space-paradox-multiple-bodies]] | **sommer-bog-4.1** | Confidence: high
+  The fluidity model solves the theological puzzle: texts say God dwells on earth (Temple, Tabernacle, Ark) AND in heaven. The Judeo-Christian tradition resolved this with divine transcendence. The Bible's own resolution is simpler: God has MULTIPLE BODIES — one in heaven, one in the Temple.
+  **See also:** [[claim-tent-of-meeting-ark-fluid-theology-god-travels-with-israel]] (sommer-bog-4.2) — Ark and Tent as fluid embodiments; [[claim-1-kings-8-anti-fluid-d-theology-name-dwells-not-god]] (sommer-bog-4.3) — 1 Kings 8 as D's anti-fluid reaction.
 
 ---
 
 ## Chapter 6: The Afterlife of the Fluidity Model
 
 ### Claim: The fluidity model survived rejection — in kabbalah (the sefirot) and Christianity (the Trinity)
-
-**Sommer's claim:** P and D rejected fluidity, but it didn't disappear. It resurfaced in two later traditions:
-
-**1. Kabbalah (the sefirot):**
-- The ten *sefirot* are manifestations/emanations of the infinite God (*Ein Sof*)
-- They are distinct from each other and from *Ein Sof*, yet they ARE God
-- The *sefirot* are "God's bodies" — a monotheistic version of the ancient fluidity model
-- "The kabbalists rediscovered the old idea, though probably without realizing what they were doing"
-- This explains why kabbalah was controversial: it was reviving a theology that the rabbinic tradition had suppressed
-
-**2. Christianity (the Trinity):**
-- Father, Son, and Holy Spirit: three persons, one God
-- The Son has a body (incarnation); the Father may also (in some traditions)
-- "The doctrine of the Trinity represents a particular version of the theology of divine fluidity"
-- This is why Jews often perceive Christianity as polytheistic: it uses fluidity language that Judaism had rejected
-- But from the fluidity perspective, the Trinity is monotheistic — just FLUID monotheistic
-
-**Sommer's provocative implication for Jewish-Christian dialogue:**
-> "The Trinity is not polytheism. It is a legitimate monotheistic development of the ANE fluidity model. Judaism rejected this model in its mainstream; Christianity embraced it. Both are monotheistic — they just developed different possibilities within the biblical inheritance."
-
-**Confidence:** HIGH on the historical connections. MEDIUM on Sommer's theological claim about the Trinity (this is a theological judgment, not a historical one).
+→ [[claim-fluidity-model-survived-kabbalah-christianity]] | **sommer-bog-6.1** | Confidence: high (historical), medium (theological)
+  P and D rejected fluidity, but it survived in two later traditions: kabbalah (the sefirot as God's bodies — a monotheistic fluidity model) and Christianity (the Trinity — three persons, one God, one of them embodied). "The kabbalists rediscovered the old idea, though probably without realizing what they were doing." Sommer's provocative implication: the Trinity is not polytheism but a legitimate monotheistic development of ANE fluidity.
+  **See also:** [[claim-kabbalistic-sefirot-structural-parallel-ane-fluid-divinity]] (sommer-bog-5-6.2) — sefirot detail; [[claim-trinity-fluid-monotheism-not-polytheism-sommer]] (sommer-bog-5-6.3) — Trinity as fluid monotheism.
 
 ---
 
 ## Appendix: Monotheism and Polytheism in Ancient Israel
 
 ### Claim: Ancient Israel was monotheistic — but monotheism includes fluidity
+→ [[claim-monotheism-well-established-before-exile-biblical-authors]] | **sommer-bog-app.1** | Confidence: depends on definitions
+  The Hebrew Bible, taken as a whole, is monotheistic. The evidence for polytheism among "most Israelites" (Dever's argument) describes popular practice, not canonical theology. Sommer distinguishes between what Israelites believed (diverse, often polytheistic), what the Bible teaches (monotheistic — one God exists), and what fluid monotheism looks like (one God with many bodies). He accepts Smith/Romer/Dever's historical reconstruction but argues they've mistaken the fluidity of the canonical God for polytheism.
 
-**Sommer's claim:** The Hebrew Bible, taken as a whole, is monotheistic. The evidence for polytheism among "most Israelites" (Dever's argument) describes popular practice, not canonical theology. Sommer distinguishes between:
-- **What Israelites believed:** Diverse, often polytheistic
-- **What the Bible teaches:** Monotheistic (one God exists)
-- **What fluid monotheism looks like:** One God with many bodies
+---
 
-**Sommer's stance on the Smith/Römer/Dever debate:** He ACCEPTS their historical reconstruction but argues they've mistaken the MONOTHEISM of the canonical texts. The biblical writers weren't polytheists becoming monotheists — they were FLUID monotheists whose tradition was later stripped of fluidity by anti-fluid reformers (P, D, the rabbis).
+## Book Synthesis
 
-**Confidence:** Sommer's position is coherent but arguably depends on defining "the Bible's teaching" as something different from "what most Israelites believed."
+### Synthesis Claim: The Bible contains two theologies in permanent tension — fluid and anti-fluid monotheism
+→ [[claim-bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism]] | **sommer-bog-4-6.1** | Confidence: high
+  The Bible preserves two competing theologies that exist in unresolved tension: fluid monotheism (J, E, Psalms — one God, many bodies) and anti-fluid monotheism (P, D, later tradition — one God, no body, only Glory/Name). Neither won completely: Judaism developed toward anti-fluid while preserving fluidity underground in mysticism; Christianity split the difference (transcendent Father, embodied Son).
+  **Depends on:** [[claim-ane-gods-fluid-selves-multiple-local-manifestations]], [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]], [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]], [[claim-fluidity-model-explains-sacred-space-paradox-multiple-bodies]], [[claim-fluidity-model-survived-kabbalah-christianity]]
+  **Contradicts:** [[claim-israelite-religion-non-mythological-fundamentally-unique]] (Kaufmann)
 
 ---
 
@@ -74,7 +57,7 @@ related: ["[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Sommer — Chapte
 
 ### What Sommer Changes About the Consensus
 
-| The Standard Model (Smith/Römer/Dever) | Sommer's Reframing |
+| The Standard Model (Smith/Romer/Dever) | Sommer's Reframing |
 |----------------------------------------|-------------------|
 | Polytheism → monolatry → monotheism | Fluid monotheism → anti-fluid monotheism |
 | Evolution is about the NUMBER of gods | Evolution is about the NATURE of the one God |
@@ -107,5 +90,6 @@ The choice isn't between polytheism and monotheism. It's between what KIND of mo
 | Fluidity survived in kabbalah and Christianity | HIGH |
 | The Trinity is "fluid monotheism" | MEDIUM (theological judgment) |
 | The polytheism→monotheism narrative is oversimplified | HIGH |
+| Bible contains two theologies in tension (4-6.1) | HIGH |
 
-**Sommer's value:** He doesn't deny the historical reconstruction of Smith/Römer/Dever. He shows it's theologically incomplete. The God of Israel was always ONE — but what "one" meant changed over time. First it meant one God with many bodies. Then it meant one God with no body. Both are monotheism. The story isn't fewer gods — it's fewer bodies.
+**Sommer's value:** He doesn't deny the historical reconstruction of Smith/Romer/Dever. He shows it's theologically incomplete. The God of Israel was always ONE — but what "one" meant changed over time. First it meant one God with many bodies. Then it meant one God with no body. Both are monotheism. The story isn't fewer gods — it's fewer bodies.

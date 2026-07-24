@@ -98,6 +98,8 @@ The narrative arc IS the book's argument. Römer doesn't just assert that monoth
 [[claim-josiah-reforms-endured-no-pagan-revival]] (kaufmann-ri-13.3) — if reforms endured, the exile found a monotheistic population, not one still weaning off polytheism
 
 **Challenged by:**
+- [[claim-sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift]] — Sommer says the narrative arc from desert god to only god asks the wrong question. The key shift was in the nature of God's embodiment (fluid → anti-fluid), not the number of gods. The arc from many gods to one conflates polytheism-to-monotheism with fluidity-to-transcendence.
+**
 <!-- Evidence or arguments that weaken this claim -->
 - Any link in the chain can be challenged individually, and the cumulative argument is only as strong as its weakest link.
 - The Midianite hypothesis (Ch. 3) is rated low-medium confidence by Römer himself. If it's wrong, the southern-to-northern transmission mechanism is unclear.

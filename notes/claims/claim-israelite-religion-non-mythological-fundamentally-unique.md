@@ -66,6 +66,8 @@ Kaufmann's ultimate thesis. He's not just arguing for early monotheism — he's 
 **Challenged by:**
 [[claim-invention-means-progressive-construction]]
 [[claim-bible-preserves-polytheistic-traces]]
+[[claim-bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism]] — the canon preserves fluid theologies alongside anti-fluid ones; the "non-mythological" character is a theological choice by P/D, not a primitive inheritance
+[[claim-kabbalistic-sefirot-structural-parallel-ane-fluid-divinity]] — kabbalah recovers precisely the "pagan" fluidity patterns within monotheism, showing the difference was a contested theological choice, not an inherent uniqueness
 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->

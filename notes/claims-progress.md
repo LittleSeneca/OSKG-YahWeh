@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 120
-- **Total claims extracted:** 591
-- **Notes with edges added:** 120
-- **Last session:** 2026-08-07 (Batch 38)
+- **Notes with claims extracted:** 123
+- **Total claims extracted:** 596
+- **Notes with edges added:** 123
+- **Last session:** 2026-08-07 (Batch 39)
 
 ## By Scholar
 
@@ -162,9 +162,9 @@ related:
 - [x] Sommer — Chapter 2 — Fluidity in Israel
 - [x] Sommer — Chapter 3 — Rejection of Fluidity
 - [x] Sommer — Chapter 4 — Sacred Space 1
-- [ ] Sommer — Chapters 1-3 — Fluidity Model
-- [ ] Sommer — Chapters 4-6 + Appendix
-- [ ] Sommer — Chapters 5-6 + Appendix
+- [x] Sommer — Chapters 1-3 — Fluidity Model
+- [x] Sommer — Chapters 4-6 + Appendix
+- [x] Sommer — Chapters 5-6 + Appendix
 
 ### Heiser, The Unseen Realm (8 notes)
 - [ ] Heiser — Part 1 — First Things
@@ -810,8 +810,20 @@ related:
     - **Sommer → Dever on sacred space (2 edges):** Sommer 4.1 supports Dever's high-places-legitimate — fluidity explains WHY multiple sanctuaries could each house a distinct Yhwh body. Sommer 4.2 supports cult-places-objects-considered-divine — the Tent and Ark were divine objects in fluid theology.
     - **Sommer contradicting aniconic consensus (1 edge):** Sommer 4.2 contradicts no-anthropomorphic-yahweh-statue-jerusalem-temple — the Tent/Ark traditions assume anthropomorphic divine presence that the later Temple deliberately avoided.
   - **Sommer's Ch2-4 now complete — the core of his argument is in the graph:** The fluidity model (Ch2: J/E preserved it) → the anti-fluid revolution (Ch3: D/P rejected it) → the sacred space payoff (Ch4: the model explains otherwise puzzling data). Sommer's alternative genealogy — fluid monotheism (J/E) → anti-fluid monotheism (D/P) → anti-corporeal monotheism (later Judaism) — is now fully mapped. His most important contribution: the claim that Israel moved from one kind of monotheism to another, not from polytheism to monotheism.
-  - **Sommer now 6 of 9 notes extracted (20 claims):** Introduction (3), Bodies of God (4), Ch1 Mesopotamia and Canaan (3), Ch2 Fluidity in Israel (3), Ch3 Rejection of Fluidity (4), Ch4 Sacred Space 1 (3). Remaining: Ch1-3 combined, Ch4-6+Appendix combined, Ch5-6+Appendix.
+  - **Sommer now 9 of 9 notes extracted (25 claims):** Introduction (3), Bodies of God (4), Ch1 Mesopotamia and Canaan (3), Ch2 Fluidity in Israel (3), Ch3 Rejection of Fluidity (4), Ch4 Sacred Space 1 (3), plus 5 cross-cutting synthesis claims from combined notes (1-3.1, 4-6.1, 5-6.1, 5-6.2, 5-6.3). Sommer is COMPLETE.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 29
+- **Next batch suggestion:** See below.
+
+### 2026-08-07 — Batch 39 (Finalized)
+- **Notes processed:** 3 — Sommer Chapters 1-3 (Fluidity Model), Sommer Chapters 4-6+Appendix, Sommer Chapters 5-6+Appendix
+- **Claims extracted:** 5 cross-cutting synthesis claims (sommer-bog-1-3.1, 4-6.1, 5-6.1, 5-6.2, 5-6.3). The remaining 8 claims in these combined notes were duplicates of claims already extracted from individual chapters in sessions 37-38.
+- **Edges added:** ~16 cross-scholar edges (11 on new Sommer claims, 5 retrofits to existing Römer/Smith/Dever/Kaufmann claims). Key clusters:
+  - **Sommer vs. the consensus timeline (4 new + 3 retrofit edges):** sommer-bog-1-3.1 directly contradicts Römer's romer-inv-12.1 (true monotheism in exile), Römer's narrative arc (romer-inv-6-7.1), Smith's monotheism-as-rhetoric (obm-intro.9), and Dever's late-elite-monotheism (dghw-6-9.3). Retrofit edges added FROM those claims BACK to sommer-bog-1-3.1, making contradictions bidirectional.
+  - **Sommer challenges Kaufmann's uniqueness thesis (4 edges):** sommer-bog-4-6.1, 5-6.2, and 5-6.3 all contradict kaufmann-ri-1.10 (Israelite religion non-mythological and unique). If the canon preserves fluid theologies that look pagan, and kabbalah/Christianity recover those patterns within monotheism, the "uniqueness" is a theological choice, not an inherent feature.
+  - **Sommer complicates linear models (2 new + 1 retrofit):** sommer-bog-5-6.1 contradicts Smith's four-stage model and Römer's exile-as-endpoint. Retrofit from Smith's four-stage model BACK to sommer-bog-5-6.1.
+  - **Sommer graph complete:** All 9 notes, 25 claims, ~60+ edges across 7 other scholars. Sommer's alternative genealogy — fluid monotheism (J/E) → anti-fluid monotheism (D/P) → anti-corporeal monotheism (later Judaism) — is now fully mapped in the graph. He is the only Tier 1 scholar who rejects the polytheism→monotheism framework while accepting all the critical evidence.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 26
 - **Next batch suggestion:** See below.
 

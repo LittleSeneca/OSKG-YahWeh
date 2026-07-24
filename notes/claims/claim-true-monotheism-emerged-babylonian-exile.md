@@ -97,6 +97,7 @@ Monotheism — the belief that there is only one God — was not revealed to Mos
 - [[claim-prophets-inherited-monotheism-did-not-invent]] (kaufmann-ri-12.7) — the 8th-century prophets already assume monotheism is the starting point; Second Isaiah radicalizes, but doesn't originate
 - Deuteronomic passages (Deut 4:35, 4:39) that sound monotheistic, potentially pushing the date earlier.
 - The possibility that monotheistic ideas existed among some circles earlier but are only attested in Second Isaiah because of the accidents of textual preservation.
+- [[claim-sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift]] — Sommer reframes the entire question: "true monotheism" emerged in exile only if you define monotheism as anti-fluid monotheism. J/E were monotheistic (one God) but fluid (multiple bodies). The key shift was embodiment, not number of gods.
 - Persian/Zoroastrian influence as an alternative or complementary explanation — if Second Isaiah was influenced by Persian theology, the "invention" may be partly borrowed.
 
 **Primary sources:**
