@@ -75,7 +75,7 @@ This is the smoking gun for El's original supremacy. Even the Bible itself — w
 - The "theological narrative not historical report" alternative
 
 **Primary sources:**
-- Deuteronomy 32:8-9 (4QDeutj, LXX, MT)
+- [[../../sources/primary-sources/deut-32-8-9-qumran-variant|Deuteronomy 32:8-9]] (4QDeutj, LXX, MT)
 - Psalm 82 (council of El, sons of Elyon condemned)
 
 ## Assessment

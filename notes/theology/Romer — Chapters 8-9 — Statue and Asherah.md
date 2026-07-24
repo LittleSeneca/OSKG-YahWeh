@@ -46,7 +46,7 @@ related:
 
 ### Claim: Yhwh had a consort — Asherah was paired with Yhwh, not Baal
 → [[claim-yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis]] | **romer-inv-8-9.2** | Confidence: high
-  Römer directly contradicts Smith: the asherah WAS the goddess, not a symbol. The biblical Baal-Asherah link is a Deuteronomistic invention to break the Yhwh-Asherah connection. Kuntillet Ajrud and Khirbet el-Qom inscriptions directly link Yhwh and Asherah. When Yhwh absorbed El's identity, he inherited El's consort. The God of the Bible was part of a divine couple.
+  Römer directly contradicts Smith: the asherah WAS the goddess, not a symbol. The biblical Baal-Asherah link is a Deuteronomistic invention to break the Yhwh-Asherah connection. [[../../sources/primary-sources/kuntillet-ajrud-inscriptions|Kuntillet Ajrud]] and [[../../sources/primary-sources/khirbet-el-qom-inscription|Khirbet el-Qom]] inscriptions directly link Yhwh and Asherah. When Yhwh absorbed El's identity, he inherited El's consort. The God of the Bible was part of a divine couple.
   Depends on: [[claim-asherah-el-consort-transferred-to-yahweh]], [[claim-bible-deliberately-obscures-yhwh-asherah-link]], [[claim-kuntillet-ajrud-proves-consort]]. Contradicts: [[claim-asherah-was-yahwistic-symbol]], [[claim-kuntillet-ajrud-symbol-not-goddess]]. Supports: [[claim-yhwh-statues-images-prohibition-late-synthesis]], [[claim-josiah-reform-removed-asherah]].
 
 ---

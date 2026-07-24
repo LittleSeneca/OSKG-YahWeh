@@ -68,7 +68,7 @@ The entire nature of Israelite religion. If Yahweh is essentially a southern sto
 - [[claim-israelite-culture-was-canaanite-no-separation]] — partially aligns with Smith on cultural continuity, but Lewis emphasizes the southern DISTINCTIVENESS of Yahweh more than Smith does
 
 **Challenged by:**
-<!-- Evidence or arguments that weaken this claim -->
+- [[claim-yahweh-pastoralist-affinity-inland-steppe-not-southern-origin]] (fleming-ybi-4.5) — Fleming's alternative: the southern geography reflects pastoralist affinity, not historical origin; Yahweh was "at home in the land of pastoralists" because of his character, not his birthplace. This replaces Lewis's two-stage model (southern warrior → clothed in northern garments) with a single-stage model (pastoralist deity always embedded in the inland Levant)
 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->

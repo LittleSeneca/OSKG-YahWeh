@@ -68,4 +68,4 @@ If Dever is right about the inscriptions, then the textual evidence (biblical + 
 <!-- Placeholder -->
 
 **Primary sources:**
-- Kuntillet Ajrud pithos A (c. 800 BCE), Khirbet el-Qom inscription (c. 700 BCE)
+- [[../../sources/primary-sources/kuntillet-ajrud-inscriptions|Kuntillet Ajrud pithos A]] (c. 800 BCE), [[../../sources/primary-sources/khirbet-el-qom-inscription|Khirbet el-Qom inscription]] (c. 700 BCE)

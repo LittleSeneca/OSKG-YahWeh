@@ -78,6 +78,12 @@ This is the hinge of Romer's entire historical reconstruction. If the Kenite hyp
 
 **Challenged by:**
 <!-- Tebes 2021 archaeological critique of Midianite hypothesis -->
+[[claim-soleb-list-seir-absent-column-measurement-fleming]] — Fleming's column measurement argument that Seir was probably NOT in the Soleb list, removing the geographical anchor
+[[claim-exodus-3-6-bridgework-not-yahweh-origin-memory]] — Fleming argues Exodus 3 and 6 are theological bridge-work, not historical memory
+[[claim-yahweh-not-taken-from-outsiders-divine-name-israel-diverse-origins]] — Fleming's overall thesis that Yahweh was not "taken from outsiders"
+[[claim-exodus-3-6-schematic-bridge-texts-not-historical-memory]] — Fleming's detailed literary-critical argument: Exodus 3 and 6 are schematic bridge texts, not historical memory; without them, the MH loses its biblical anchor
+[[claim-exodus-18-jethro-not-midianite-yahweh-priest]] — Fleming's detailed textual analysis: Exodus 18 does not portray Jethro introducing Yahweh to Israel; Jethro responds to demonstrated power, not initiates worship
+[[claim-southern-inland-kinship-traditions-population-not-religious-borrowing]] — Fleming's salvage operation: the kinship traditions are about population affinity, not religious borrowing; the MH's central inference is unwarranted
 
 **Primary sources:**
 <!-- Jethro narrative (Exodus 2-3, 18), Kenite passages (Judges 1:16, 4:11) -->

@@ -43,7 +43,7 @@ related: ["[[Sommer — Introduction]]", "[[Sommer — Chapters 4-6 + Appendix]]
 **Evidence — Three types of fluidity in J and E:**
 
 **1. Geographic fragmentation:**
-- Kuntillet Ajrud: "Yhwh of Samaria" and "Yhwh of Teman" — distinct local manifestations
+- [[../../sources/primary-sources/kuntillet-ajrud-inscriptions|Kuntillet Ajrud]]: "Yhwh of Samaria" and "Yhwh of Teman" — distinct local manifestations
 - 2 Samuel 15:7: "Yhwh of Hebron" — Absalom had to go to Hebron to worship THIS Yhwh; the Jerusalem Yhwh wouldn't work. "The prince claims that he made a vow not simply to Yhwh nor to Yhwh of Jerusalem but to Yhwh of Hebron, and thus he had to leave Jerusalem to fulfill it."
 - Psalm 99:2: "Yhwh at Zion"
 - These recall the Mesopotamian pattern of local Ishtars and Baals

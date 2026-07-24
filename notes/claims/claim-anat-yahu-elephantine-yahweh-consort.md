@@ -68,7 +68,7 @@ Elephantine is a genuine anomaly — a Jewish community in 5th c. BCE Egypt wors
 <!-- Smith and van der Toorn: Anat worship unknown in pre-exilic Israel; Elephantine syncretism is late and Egyptian -->
 
 **Primary sources:**
-- Elephantine papyri mentioning Anat-Yahu
+- [[../../sources/primary-sources/elephantine-papyri|Elephantine papyri]] mentioning Anat-Yahu
 - Esar-haddon treaty with Baal of Tyre (c. 675 BCE) — attests Anat-Bethel deity
 - Egyptian contest of Horus and Seth — Anat and Astarte as Seth's wives
 

@@ -1,7 +1,15 @@
 ---
 tags: [source/book-notes, hebrew-bible, faith/yahweh, scholars/daniel-fleming, philology, methodology, history/kenite-hypothesis, truth-project, book-summary]
+claims_status: "extracted"
+claims_extracted_date: 2026-08-04
+claims_count: 4
+claims_files:
+  - "[[claim-soleb-list-seir-absent-column-measurement-fleming]]"
+  - "[[claim-exodus-3-6-bridgework-not-yahweh-origin-memory]]"
+  - "[[claim-shasu-yhwh-people-name-not-divine-name]]"
+  - "[[claim-yhwh-early-people-god-south-arabian-almaqah-amm-analogy]]"
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-04
 confidence: medium
 source:
   title: "Yahweh Before Israel: Glimpses of History in a Divine Name"
@@ -32,18 +40,26 @@ Yahweh was not "taken from outsiders" (the Midianite/Kenite Hypothesis, dominant
 ## The Three Pillars Fleming Destroys
 
 **Pillar 1 — Egyptian geography (Ch 2):** Seir was probably NOT in the original Amenhotep III Soleb list. Column N4 has room for only 9 names (4+5), not 10 (6+4). Without Seir, the sole geographical anchor for Yhwʒ disappears. The Shasu-land names are kinship-based people-groups (mhwt = "families"), not towns or sanctuaries. Yhwʒ is a people, not a place and not a god.
+→ [[claim-soleb-list-seir-absent-column-measurement-fleming]] | **fleming-ybi-summary.1** | Confidence: medium
+  Fleming's most original argument — the column measurement is specific and falsifiable but needs Egyptological verification.
 
-**Pillar 2 — Biblical prose (Ch 3):** Exodus 3 and 6 do not preserve historical memory of Yahweh being unknown before Moses. They are schematic texts bridging Genesis and Exodus — theological bridge-work, not ancient tradition. Exodus 18 does not show Jethro as priest of Yahweh — he responds to demonstrated power, he doesn't introduce the god. Tiele (1872), not Ghillany, created the hypothesis, and his original was Kenite/Rechabite, not Moses-Midian.
+**Pillar 2 — Biblical prose (Ch 3):** Exodus 3 and 6 do not preserve historical memory of Yahweh being unknown before Moses. They are schematic texts bridging Genesis and Exodus — theological bridge-work, not ancient tradition.
+→ [[claim-exodus-3-6-bridgework-not-yahweh-origin-memory]] | **fleming-ybi-summary.2** | Confidence: medium-high
+  Exodus 18 does not show Jethro as priest of Yahweh — he responds to demonstrated power, he doesn't introduce the god. Tiele (1872), not Ghillany, created the hypothesis, and his original was Kenite/Rechabite, not Moses-Midian.
 
 **Pillar 3 — Old poetry (Ch 4):** Yahweh's march from Seir/Edom/Paran/Teman is theophanic movement from a distant divine home, not evidence of historical origin. The Ugaritic Baal myth provides the analogy: gods live on distant mountains and travel from them. Yahweh is no more "from" Seir than Baal is "from" Sapan. The shared core of Judges 5 and Psalm 68 lacks Seir/Edom — they are secondary elaborations.
 
 ## The Positive Case
 
 1. **Yhwʒ as people-name (Ch 2, 5):** The verbal form y-h-wʒ fits the pattern of Amorite shortened personal names. Peoples named after persons are common (Israel = yiśrā'ēl, Yamutbal, etc.). The name is a people-name, not a divine name.
+→ [[claim-shasu-yhwh-people-name-not-divine-name]] | **fleming-ybi-summary.3** | Confidence: medium
+  The Yhwʒ = Yahweh identification is consensus; the people-name reading is Fleming's original contribution beyond that consensus.
 
 2. **'Am Yhwh as pre-Israelite identity (Ch 6):** The Song of Deborah's battle account knows an alliance called "the people of Yahweh" WITHOUT reference to Israel. "Israel" is imposed only by the later introductory hymn. Exodus 15:16 independently attests the same pattern: "your people, Yahweh."
 
 3. **South Arabian analogies (Ch 7):** The "Descendants of 'Amm" / "Descendants of Almaqah" in South Arabia show how gods could bind communities through kinship, with the king latching onto pre-existing conceptions. The "people of Kemosh" in Moab (Num 21:29) shows the same pattern closer to Israel.
+→ [[claim-yhwh-early-people-god-south-arabian-almaqah-amm-analogy]] | **fleming-ybi-summary.4** | Confidence: low-medium
+  Fleming's most exploratory argument — under-explored comparanda that reframe Yahweh's early character as a community-binding god, not a storm god.
 
 ## What Survives from the Midianite Hypothesis
 

@@ -285,14 +285,14 @@ These scholars undermine the entire debate. If the Bible is Persian/Hellenistic 
 
 ### 1. The Kenite/Midianite Hypothesis
 
-**For:** Yahweh originated among the Midianites/Kenites, a nomadic group south of Canaan. Moses encountered Yahweh through his Midianite father-in-law Jethro (Exodus 18). Egyptian references to "Shasu of Yhw" place Yahweh in the southern deserts. The oldest biblical poetry (Deut 33:2, Judges 5:4-5, Habakkuk 3:3) has Yahweh "marching from Edom."
+**For:** Yahweh originated among the Midianites/Kenites, a nomadic group south of Canaan. Moses encountered Yahweh through his Midianite father-in-law Jethro (Exodus 18). Egyptian references to "Shasu of Yhw" (see [[../../sources/primary-sources/soleb-shasu-inscription|Soleb Shasu]]) place Yahweh in the southern deserts. The oldest biblical poetry (Deut 33:2, Judges 5:4-5, Habakkuk 3:3) has Yahweh "marching from Edom."
 
 **Against:** Christian Frevel argues inscriptions mentioning "YHWH of Teman" may only denote presence there at later times. Fleming argues Yahweh was NOT imported from outsiders but the name reflects Israel's own diverse origins.
 
 **Scholars for:** Mark Smith, John Day, Frank Moore Cross, Robert Miller II
 **Scholars against/complicating:** Daniel Fleming, Christian Frevel, some minimalists
 
-### 2. The Kuntillet Ajrud Grammar Debate
+### 2. The Kuntillet Ajrud Grammar Debate [[../../sources/primary-sources/kuntillet-ajrud-inscriptions]]
 
 The inscription reads: *lyhwh šmrn wl'šrth* — "to Yahweh of Samaria and to his asherah"
 
@@ -331,7 +331,7 @@ The inscription reads: *lyhwh šmrn wl'šrth* — "to Yahweh of Samaria and to h
 
 **Frankel (2010):** The speaking voice in vv. 6-8 is actually El — preserving an El-Yahweh distinction the text's final form obscures.
 
-### 5. The Elephantine Papyri — Polytheistic Yahwism in the Persian Period
+### 5. The [[../../sources/primary-sources/elephantine-papyri|Elephantine Papyri]] — Polytheistic Yahwism in the Persian Period
 
 **The evidence:** A Jewish military colony in 5th c. BCE Egypt maintained a temple to YHW/Yahu. Documents mention Anat-Yahu (the goddess Anat paired with Yahweh). The community invoked blessings from Baal, Asherah, and other deities. The Jerusalem high priest did not object to rebuilding their temple when it was destroyed (410 BCE).
 
@@ -341,7 +341,7 @@ The inscription reads: *lyhwh šmrn wl'šrth* — "to Yahweh of Samaria and to h
 
 **Key scholar:** Karel van der Toorn (Amsterdam) — argues Elephantine "preserves an older pre-reform religion."
 
-### 6. Ugaritic Parallels — How Direct?
+### 6. [[../../sources/primary-sources/ugaritic-baal-cycle|Ugaritic Parallels]] — How Direct?
 
 **The parallels:**
 - El's divine council ↔ Yahweh's divine council

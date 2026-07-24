@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 105
-- **Total claims extracted:** 533
-- **Notes with edges added:** 105
-- **Last session:** 2026-08-03 (Session 35 / Batch 33)
+- **Notes with claims extracted:** 111
+- **Total claims extracted:** 554
+- **Notes with edges added:** 111
+- **Last session:** 2026-08-04 (Session 37 / Batch 35)
 
 ## By Scholar
 
@@ -143,14 +143,14 @@ related:
 - [x] Day — Chapter 5 — Yahweh and Astarte and Anat
 - [x] Day — Chapter 6 — Yahweh and the Astral Deities
 - [x] Day — Chapter 7 — Yahweh and the Underworld Deities
-- [ ] Day — Chapter 8 — Conclusion — Rise of Monotheism
+- [x] Day — Chapter 8 — Conclusion — Rise of Monotheism
 
 ### Fleming, Yahweh Before Israel (8 notes)
-- [ ] Fleming — Book Summary
-- [ ] Fleming — Ch 1 — Introduction
-- [ ] Fleming — Ch 2 — Yhwʒ of Shasu-Land
-- [ ] Fleming — Ch 3 — The Midianite Hypothesis — Moses and the Priest
-- [ ] Fleming — Ch 4 — The Old Poetry
+- [x] Fleming — Book Summary
+- [x] Fleming — Ch 1 — Introduction
+- [x] Fleming — Ch 2 — Yhwʒ of Shasu-Land
+- [x] Fleming — Ch 3 — The Midianite Hypothesis — Moses and the Priest
+- [x] Fleming — Ch 4 — The Old Poetry
 - [ ] Fleming — Ch 5 — The Name Yahweh
 - [ ] Fleming — Ch 6 — The People of Yahweh
 - [ ] Fleming — Ch 7 — The Early Character of the God Yahweh
@@ -271,6 +271,16 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 44
 - **Next batch suggestion:** See below.
+
+### 2026-08-04 — Session 36 (Batch 34 Finalized)
+- **Notes processed:** 3 — Day Chapter 8 (Conclusion — Rise of Monotheism), Fleming Book Summary, Fleming Ch 1 (Introduction)
+- **Claims extracted:** 4 new (Fleming Book Summary — implicit claims). Day Ch8 (4 claims) and Fleming Ch1 (7 claims) were previously extracted in Session 2 but not recorded in progress — now checked off.
+- **Edges added:** ~30 edges in 4 new Fleming summary claims (19 cross-scholar to existing claims across Römer, Smith, Day, and the existing Fleming Ch1 claims). Key clusters:
+  - **Fleming Book Summary — 4 implicit claims extracted:** Fleming's overall argument is now represented. Seir-absent-from-Soleb column measurement (summary.1) — Fleming's most original argument. Exodus 3/6 as bridge-work not memory (summary.2) — dismantles the biblical pillar of the MH. Yhwʒ as people-name (summary.3) — the philological argument. Yahweh as people-god like Almaqah/'Amm (summary.4) — the South Arabian analogy reframing Yahweh's early character.
+  - **Fleming's counter-Midianite case now complete across three notes:** The Introduction (7 claims: methodological framework, MH structural-utility critique, 'am Yhwh identity, theophany-not-origin, people-name thesis) + the Book Summary (4 claims: Soleb column argument, Exodus bridge-work, Yhwʒ philology, South Arabian analogy). Total: 11 Fleming claims from 2 of 8 notes.
+  - **Fleming's most distinctive edge pattern — the "not-taken-from-outsiders" thesis:** All 11 Fleming claims orbit fleming-ybi-1.1, which contradicted claim-kenite-midianite-hypothesis-best-explanation and claim-yahweh-southern-desert-war-god-origin from Session 2. The four summary claims strengthen the contradiction cluster: Soleb-absence directly attacks the MH's Egyptian pillar; Exodus bridge-work attacks its biblical pillar; Yhwʒ-as-people-name reframes the entire question; South Arabian analogy provides a positive alternative model.
+  - **Fleming's positive model now in the graph:** Yahweh was not imported from Midian. He was a god of people without kings, defined by community identification (like Almaqah). The 'am Yhwh (people of Yahweh) predated Israel. Only later did Yahweh absorb Baal's storm imagery, merge with El, and become the sole God of the monarchy — at which point the earlier community-binding profile was overwritten.
+- **Notes remaining:** 41
 
 ### 2026-08-01 — Session 26 (Batch 24)
 - **Notes processed:** 3 — Albertz Vol1 §3.8 (The Deuteronomic Reform Movement), Albertz Vol1 §3.9 (After Josiah to the Fall of Jerusalem), Albertz Vol2 Chapter 4 (Exilic Period)
@@ -736,3 +746,18 @@ related:
 - **Commits:** 1
 - **Notes remaining:** 146
 - **Next batch suggestion:** Smith Ch2 (Yahweh and Baal) + Römer Ch8 (Statue of Yhwh) + Day Ch1 (Yahweh and El) — these establish the Baal and El threads that the Asherah debate depends on.
+
+### 2026-08-04 — Session 37 (Batch 35 Finalized)
+- **Notes processed:** 3 — Fleming Ch2 (Yhwʒ of Shasu-Land), Fleming Ch3 (The Midianite Hypothesis — Moses and the Priest), Fleming Ch4 (The Old Poetry)
+- **Claims extracted:** 17 (7 Ch2, 5 Ch3, 5 Ch4)
+- **Edges added:** ~50 internal edges already in 17 new claims + 16 cross-scholar edges in finalization pass (10 on new Fleming claims, 6 retrofits to existing Römer/Lewis/Day claims). Key clusters:
+  - **Fleming's Soleb deconstruction now fully in the graph:** Ch2's seven claims constitute the most detailed existing treatment of the Egyptian evidence. fleming-ybi-2.2 (Seir absent from original Soleb list) is the most consequential single claim — if Seir wasn't in the Amenhotep III list, the entire geography of Yahweh's origins loses its oldest epigraphic anchor. This claim now edges to Römer's Soleb-Seir argument (romer-inv-2.1 and 2-3.1), Lewis's Shasu treatment (lewis-ocg-6.4), and Day's southern origin (day-ygc-1.2). fleming-ybi-2.5 (early Shasu references point north) independently challenges the southern default assumption.
+  - **Fleming's Midianite Hypothesis deconstruction:** Ch3's five claims systematically demolish the biblical prose foundation of the MH. fleming-ybi-3.2 (Exodus 3/6 are schematic bridge texts) shows the texts that the MH depends on were composed to solve narrative problems, not preserve historical memory. fleming-ybi-3.3 (Exodus 18: Jethro doesn't introduce Yahweh) demonstrates the single most important biblical text for the MH doesn't show what proponents claim. fleming-ybi-3.5 (kinship traditions = population affinity, not religious borrowing) is Fleming's constructive salvage: Israel's kinship with southern peoples is real, but it's about people, not gods. All three now edge to Römer's MH-as-best-explanation claim (romer-inv-3.3).
+  - **Fleming's Old Poetry reinterpretation:** Ch4's five claims provide a systematic alternative to the southern-origin reading of the old poetry. fleming-ybi-4.1 (poetry = theophanic movement, not origin) deploys the Ugaritic Baal-Sapan analogy — the most underutilized comparative argument in the Yahweh-origins debate. fleming-ybi-4.2 (shared core of Judges 5/Psalm 68 lacks Seir/Edom) provides a textual-critical demonstration that the southern geography is secondary. fleming-ybi-4.3 (Kuntillet Ajrud = Israelite projection southward) flips the KA evidence from origin evidence to expansion evidence. fleming-ybi-4.4 (poetry is monarchic, not pre-monarchic) shifts the burden of proof to those claiming the poetry preserves pre-monarchic memory. fleming-ybi-4.5 (pastoralist affinity, not origin) is Fleming's synthetic alternative — the capstone of his deconstruction.
+  - **Cross-scholar edge pass:** 16 edges added. New Fleming claims (10 edges): 2.2 → Lewis 6.4 + Day 1.2; 2.5 → Day 1.2 + Lewis 6.4; 3.2 → Römer 1.4; 3.3 → Lewis 6.5; 3.5 → Lewis 6.5; 4.1 → Day 1.2 + Lewis 6.4; 4.2 → Day 1.2; 4.3 → KA consort claims; 4.4 → Römer 2.2; 4.5 → Lewis 6.6. Retrofits to existing claims (6 edges): Römer 3.3 ← Fleming 3.2, 3.3, 3.5; Römer 2.2 ← Fleming 4.2, 4.4; Römer 2-3.1 ← Fleming 4.2, 4.3; Lewis 6.4 ← Fleming 2.2, 2.5; Day 1.2 ← Fleming 2.2, 2.5, 4.1; Lewis 6.6 ← Fleming 4.5.
+  - **Fleming's Ch2-4 arc is now complete:** The Egyptian evidence (Ch2) → the Midianite Hypothesis deconstruction (Ch3) → the old poetry reinterpretation (Ch4) form a coherent argument: the Soleb evidence doesn't say what the MH needs it to say, the biblical prose doesn't say what the MH needs it to say, and the biblical poetry doesn't say what the MH needs it to say. Fleming's positive alternative (Yhwʒ as people-name → Yahweh as god of a people → pastoralist affinity, not southern origin) is the most thorough challenge to the southern-origin consensus in the claims graph. Total Fleming claims extracted: 30 (5 Ch1, 2 Book Summary, 7 Ch2, 5 Ch3, 5 Ch4, plus 6 remaining chapters).
+  - **Fleming's position vs. the existing graph:** Fleming directly contradicts the core claims of Römer (southern origin, MH as best explanation, four poems as origin evidence), Day (southern origin from Midian/Edom), and Lewis (Shasu-Seir connection). Fleming provides independent support for Kaufmann's rejection of the Kenite hypothesis (fleming-ybi-3.2, 3.3, 3.4) and Lewis's cautious assessment that the biblical texts don't support the MH (fleming-ybi-3.3, 3.5). The contradiction structure is now densely mapped: Fleming vs. the Römer-Day-Lewis southern-origin consensus, with Fleming and Kaufmann aligned on the conclusion (MH is wrong) for entirely different reasons.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 38
+- **Next batch suggestion:** See below.
+

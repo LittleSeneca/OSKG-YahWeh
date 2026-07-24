@@ -83,7 +83,7 @@ The earliest historical mention of Israel is not a story of liberation from Egyp
 <!-- Berlin pedestal alternative reading -->
 
 **Primary sources:**
-<!-- Merneptah Stele (Cairo Museum), Berlin pedestal statue -->
+- [[../../sources/primary-sources/merneptah-stele|Merneptah Stele]] (Cairo Museum), Berlin pedestal statue
 
 ## Assessment
 

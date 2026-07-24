@@ -46,7 +46,7 @@ The earliest extrabiblical reference to Yahweh comes from the **Soleb inscriptio
 
 **That's four independent combat hymns, composed across different periods, all pointing to the same geography.** Seir. Edom. Teman. Paran. Sinai. This is not one text; it's a consistent tradition embedded in Israel's oldest poetry.
 
-The **Kuntillet Ajrud inscriptions** (c. 800 BCE) confirm a localized Yahweh: "Yahweh of Samaria" (north) and "Yahweh of Teman" (south). A god with multiple local manifestations — not yet the universal deity of later theology.
+The **Kuntillet Ajrud inscriptions** [[../../sources/primary-sources/kuntillet-ajrud-inscriptions]] (c. 800 BCE) confirm a localized Yahweh: "Yahweh of Samaria" (north) and "Yahweh of Teman" (south). A god with multiple local manifestations — not yet the universal deity of later theology.
 
 ### The Scholarly Consensus
 
@@ -86,7 +86,7 @@ The most elegant piece of evidence in the entire debate. The name *Israel* (Hebr
 
 This is not a smoking gun on its own, but combined with other evidence, it's telling. The name of the people preserves a god who was NOT Yahweh. Smith calls this evidence of "El as the original god of Israel."
 
-### Deuteronomy 32:8-9 — The Text-Critical Bomb
+### [[../../sources/primary-sources/deut-32-8-9-qumran-variant|Deuteronomy 32:8-9]] — The Text-Critical Bomb
 
 This passage, in its original form (preserved in the Dead Sea Scrolls and reflected in the Septuagint), describes Elyon ("the Most High," i.e., El) apportioning the nations to his divine sons. Yahweh receives Israel as his portion:
 
@@ -111,7 +111,7 @@ The cumulative case:
 4. **Sanctuary evidence** — major Israelite sanctuaries (Shiloh, Shechem, Jerusalem) show evidence of prior El worship that was later absorbed into the Yahwistic cult. Shiloh's tent tradition, Shechem's *'ēl bĕrît* (parallels Ugaritic *'ilbrt*), and Jerusalem's El Elyon (Genesis 14) all point to El as the original deity.
 5. **Numbers 23-24** — the Balaam oracles refer to "El who freed them from Egypt," using El language roughly three times as often as Yahweh language. This may preserve an older tradition in which El, not Yahweh, was the god of the Exodus.
 
-### The Merneptah Stele (c. 1208 BCE)
+### The [[../../sources/primary-sources/merneptah-stele|Merneptah Stele]] (c. 1208 BCE)
 
 This is the earliest mention of "Israel" outside the Bible. The Egyptian pharaoh Merneptah boasts: "Israel is laid waste — its seed is no more." The hieroglyphic determinative classifies Israel as a **people group** (not a settled state or city) — consistent with a semi-nomadic or recently settled tribal population.
 
@@ -210,7 +210,7 @@ Dever's diagnosis: "By the time the literary process had produced the final cano
 Here's why:
 
 1. **The inscriptions:** The most natural reading of "Yahweh... and his Asherah" in a blessing formula is a divine pair, not a god and his cult object. You bless by deities, not by furniture.
-2. **The Ugaritic precedent:** At Ugarit, Asherah was El's consort and the mother of the seventy gods. When El and Yahweh merged (see Question 2), Asherah came with the package. The transfer is structurally expected.
+2. **The Ugaritic precedent:** At [[../../sources/primary-sources/ugaritic-baal-cycle|Ugarit]], Asherah was El's consort and the mother of the seventy gods. When El and Yahweh merged (see Question 2), Asherah came with the package. The transfer is structurally expected.
 3. **The biblical polemics:** The Bible's fury at Asherah worship — removing her from the Temple, burning her image, the Deuteronomistic campaign to associate her with Baal rather than Yahweh — only makes sense if she was a genuine threat. You don't launch a reform against a wooden pole.
 4. **The figurines:** 3,000+ female figurines in domestic contexts cannot be dismissed as "fertility objects unrelated to goddess worship." They are material evidence of popular devotion to a female divine power.
 5. **The Deuteronomistic cover-up:** Römer's argument that the Bible deliberately obscures the Yahweh-Asherah link by associating her with Baal is persuasive. The inscriptions reveal what the biblical editors worked to hide.
@@ -255,7 +255,7 @@ Jeffrey Tigay's study of Hebrew personal names presents the strongest empirical 
 | **Overall biblical names** | **89%** | **11%** |
 | Epigraphic names (8th-6th c.) | **94%+** | tiny fraction |
 
-**The epigraphic onomasticon is MORE Yahwistic than the Bible's.** The inscriptions — seals, ostraca, bullae, letters — preserve even fewer pagan names than the edited biblical text. Samaria ostraca: 100% Yahwistic. Lachish letters: 100% Yahwistic. Arad ostraca: 100% Yahwistic.
+**The epigraphic onomasticon is MORE Yahwistic than the Bible's.** The inscriptions — seals, ostraca, bullae, letters — preserve even fewer pagan names than the edited biblical text. Samaria ostraca: 100% Yahwistic. [[../../sources/primary-sources/lachish-ostraca|Lachish letters]]: 100% Yahwistic. Arad ostraca: 100% Yahwistic.
 
 If polytheism was widespread, why did nobody name their kid after Baal?
 
@@ -288,7 +288,7 @@ The inscriptions reveal what the Bible's editors worked to suppress:
 
 - **Kuntillet Ajrud:** "Yahweh of Samaria and his Asherah" / "Yahweh of Teman and his Asherah" — multiple localized Yahwehs, each with a consort
 - **Khirbet el-Qom:** "Blessed by Yahweh... and by his Asherah" — the same divine pair, now in Judah, in a burial context
-- **Elephantine Papyri** (5th c. BCE): A Jewish military colony in Egypt maintaining a temple to Yahu, mentioning Anat-Yahu (the goddess Anat paired with Yahweh), and invoking blessings from multiple deities — **polytheistic Yahwism surviving centuries after monotheism supposedly emerged**
+- **[[../../sources/primary-sources/elephantine-papyri|Elephantine Papyri]]** (5th c. BCE): A Jewish military colony in Egypt maintaining a temple to Yahu, mentioning Anat-Yahu (the goddess Anat paired with Yahweh), and invoking blessings from multiple deities — **polytheistic Yahwism surviving centuries after monotheism supposedly emerged**
 
 ### My Assessment
 

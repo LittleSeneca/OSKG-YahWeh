@@ -53,7 +53,7 @@ Yahweh was not originally the sole God of the universe. He was a regional storm/
 
 | Period | Dates | What the Evidence Shows |
 |--------|-------|------------------------|
-| Late Bronze Age | 1550–1200 BCE | Earliest possible mention: "Shasu of Yhw" in Egyptian inscription at Soleb. Yahweh is a tribal deity of nomadic raiders south of Canaan. |
+| Late Bronze Age | 1550–1200 BCE | Earliest possible mention: "Shasu of Yhw" in Egyptian inscription at [[../../sources/primary-sources/soleb-shasu-inscription|Soleb]]. Yahweh is a tribal deity of nomadic raiders south of Canaan. |
 | Iron Age I | 1200–1000 BCE | Israelites emerge as a Canaanite subculture. Earliest biblical poetry (Song of Deborah, Song of the Sea) depicts Yahweh as a storm/war god from the south. No evidence of monotheism. |
 | Iron Age II (early) | 1000–722 BCE | Yahweh becomes the national god of Israel (north) and Judah (south). Kuntillet Ajrud inscriptions (c. 800 BCE): "Yahweh of Samaria and his Asherah." El, Baal, and Asherah are still worshipped. |
 | Iron Age II (late) | 722–586 BCE | Assyria destroys Northern Kingdom (722 BCE). Refugees flee south. Josiah's reform (c. 622 BCE) centralizes worship in Jerusalem, destroys competing shrines. Yahweh-alone party gains traction. Monolatry, not monotheism. |
@@ -107,18 +107,18 @@ Stavrakopoulou argues that even in the biblical texts, Yahweh was conceived as h
 ### Evidence for Position 1
 
 **1. Archaeological evidence of polytheistic Yahwism:**
-- **Kuntillet Ajrud** (c. 800 BCE): Inscriptions reading "Yahweh of Samaria and his Asherah" and "Yahweh of Teman and his Asherah." The grammar is fiercely debated, but the most straightforward reading acknowledges Asherah as Yahweh's consort.
+- **[[../../sources/primary-sources/kuntillet-ajrud-inscriptions|Kuntillet Ajrud]]** (c. 800 BCE): Inscriptions reading "Yahweh of Samaria and his Asherah" and "Yahweh of Teman and his Asherah." The grammar is fiercely debated, but the most straightforward reading acknowledges Asherah as Yahweh's consort.
 - **Khirbet el-Qom** (8th c. BCE): "Blessed is Uriyahu by Yahweh... and by his Asherah."
 - **Female figurines** throughout Israelite sites: widespread domestic worship of a goddess, likely Asherah.
-- **Elephantine Papyri** (5th c. BCE): A Jewish community in Egypt worshipping Yahweh alongside the goddess Anat — centuries after monotheism supposedly emerged.
+- **[[../../sources/primary-sources/elephantine-papyri|Elephantine Papyri]]** (5th c. BCE): A Jewish community in Egypt worshipping Yahweh alongside the goddess Anat — centuries after monotheism supposedly emerged.
 
 **2. Textual evidence of polytheistic origins:**
-- **Deuteronomy 32:8-9:** The Dead Sea Scrolls and Septuagint preserve the original reading "according to the number of the sons of God" — Elyon (the Most High) divides the nations among his divine sons, and Yahweh receives Israel as his inheritance. The Masoretic Text (the standard Hebrew text) changed this to "sons of Israel" because the original was theologically embarrassing. **Even Michael Heiser, an evangelical scholar, agrees that "sons of God" is the original reading.**
+- **[[../../sources/primary-sources/deut-32-8-9-qumran-variant|Deuteronomy 32:8-9]]:** The Dead Sea Scrolls and Septuagint preserve the original reading "according to the number of the sons of God" — Elyon (the Most High) divides the nations among his divine sons, and Yahweh receives Israel as his inheritance. The Masoretic Text (the standard Hebrew text) changed this to "sons of Israel" because the original was theologically embarrassing. **Even Michael Heiser, an evangelical scholar, agrees that "sons of God" is the original reading.**
 - **Psalm 82:** "God stands in the divine assembly; he judges among the gods." The psalm depicts Yahweh addressing other *elohim* and condemning them to die "like men." This is a relic of polytheistic theology that the biblical editors preserved.
 - **Exodus 15:11:** "Who is like you among the gods, O Yahweh?" — a rhetorical question that *presupposes the existence of other gods*, even if it asserts Yahweh's superiority.
 
 **3. The Canaanite religious background:**
-- Ugaritic texts (Ras Shamra, discovered 1928) reveal the Canaanite pantheon in detail. El is the aged high god; Baal is the young storm warrior; Asherah is El's consort. The parallels between Baal's mythology and Yahweh's portrayal in the Psalms are too extensive for coincidence. Psalm 29, for example, is widely regarded by scholars as a hymn originally composed for Baal, with Yahweh's name substituted.
+- [[../../sources/primary-sources/ugaritic-baal-cycle|Ugaritic texts]] (Ras Shamra, discovered 1928) reveal the Canaanite pantheon in detail. El is the aged high god; Baal is the young storm warrior; Asherah is El's consort. The parallels between Baal's mythology and Yahweh's portrayal in the Psalms are too extensive for coincidence. Psalm 29, for example, is widely regarded by scholars as a hymn originally composed for Baal, with Yahweh's name substituted.
 
 **4. The pressure-cooker of exile:**
 - For ancient peoples, gods were geographically bound. Yahweh "lived" in the Jerusalem Temple (the *bet Yahweh*, "house of Yahweh"). When the Temple was destroyed in 586 BCE and the people were exiled to Babylon, they faced a choice: abandon Yahweh for the gods of the land where they now lived, or radically reconceive Yahweh as a god not bound to geography. The Judean theologians chose the latter — and monotheism was born.

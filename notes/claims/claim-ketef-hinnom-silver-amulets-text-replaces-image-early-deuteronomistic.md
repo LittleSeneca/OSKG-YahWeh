@@ -71,7 +71,7 @@ These amulets show that by 600 BCE, at least some Jerusalemites had made the tra
 <!-- Evidence or arguments that weaken this claim -->
 
 **Primary sources:**
-- Ketef Hinnom silver amulets (early 6th c. BCE)
+- [[../../sources/primary-sources/ketef-hinnom|Ketef Hinnom silver amulets]] (early 6th c. BCE)
 - Numbers 6:24-26 (priestly blessing)
 - Exodus 13:9; Deuteronomy 6:8; 11:18 (wearing Torah words)
 

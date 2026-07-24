@@ -89,7 +89,9 @@ If these are among the oldest texts in the Bible, they preserve Israel's own mem
 **Challenged by:**
 - The dating problem: if Judges 5 is Hellenistic, the "archaic" memory is a literary construction
 - The Greek mythological parallels (Deborah/Bee, Yael/Goat, Barak/Thunderbolt) suggest conscious literary artistry, not raw historical memory
-- Schmid's challenge: if all Pentateuchal texts are Persian-period, the poems are late theology, not early history
+[[claim-southern-geography-theophany-not-origin-memory]] — Fleming's Ch1 thesis: the southern geography reflects theophanic movement from a divine home, not historical memory of cult origins
+[[claim-seir-edom-secondary-judges-5-psalm-68-shared-core]] — Fleming's textual-critical argument: the shared core of Judges 5 and Psalm 68 lacks Seir/Edom; they are secondary elaborations on an older Sinai-only tradition
+[[claim-old-poetry-monarchic-royal-ideology-not-pre-monarchic]] — Fleming argues all the old poetry was probably composed for monarchic royal ideology (9th-8th centuries), not pre-monarchic memory; the burden of proof shifts to those claiming pre-monarchic origin
 
 **Primary sources:**
 - Deuteronomy 33:2 (Sinai, Seir, Mount Paran)

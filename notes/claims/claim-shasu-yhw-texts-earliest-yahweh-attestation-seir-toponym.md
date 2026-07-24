@@ -62,6 +62,9 @@ If the Shasu texts reference Yahweh, the deity predates Israel by centuries and 
 
 **Challenged by:**
 <!-- Evidence or arguments that weaken this claim -->
+[[claim-soleb-list-seir-absent-column-measurement-fleming]] — Fleming's column measurement argument that Seir was probably NOT in the original Amenhotep III Soleb list; without Seir, the geographical anchor for Yhwʒ disappears
+[[claim-seir-absent-original-soleb-list-column-space-calculation]] — the detailed Ch2 version of Fleming's argument, with the full evidence base: column measurements, historical pattern (Seir-Shasu only emerges in 13th c.), and Giveon's independent doubts
+[[claim-early-shasu-references-northern-syria-not-southern]] — Fleming's demonstration that the earliest Shasu references (15th-14th c.) point north toward Syria, not south; the southern Shasu association is a 13th-century development
 
 **Primary sources:**
 <!-- Inscriptions, texts, artifacts -->

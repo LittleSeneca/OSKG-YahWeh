@@ -91,6 +91,10 @@ If Yhwh originated in Edom/Midian, then the God of Israel is geographically fore
 
 **Challenged by:**
 <!-- Late-dating of Judges 5 (Hellenistic period) — when Schmid's dating arguments are extracted -->
+[[claim-soleb-list-seir-absent-column-measurement-fleming]] — Fleming's column measurement: Seir was probably NOT in the Soleb list. Without Seir, the Egyptian epigraphic anchor disappears.
+[[claim-yahweh-not-taken-from-outsiders-divine-name-israel-diverse-origins]] — Fleming's overall thesis: Yhwʒ is a people-name, not a divine name; the southern geography is theophany, not origin memory
+[[claim-seir-edom-secondary-judges-5-psalm-68-shared-core]] — Fleming argues Seir/Edom are secondary elaborations; the oldest recoverable form of the poetry only mentions Sinai as divine dwelling, not the historical territories Römer depends on
+[[claim-kuntillet-ajrud-israelite-projection-southward-not-southern-origin]] — Fleming flips the Kuntillet Ajrud evidence: it shows Israelite projection southward, not evidence of southern origin; the "Yahweh of Teman" inscriptions prove Israelites brought their god south, not that they found him there
 
 **Primary sources:**
 <!-- Soleb inscriptions (Amenophis III), West Amara (Ramses II), Papyrus Anastasi VI, Papyrus Harris I, Seti I Karnak relief -->
