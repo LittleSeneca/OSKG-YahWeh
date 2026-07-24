@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, history/jerusalem, scholars/rainer-albertz, history/kenite-hypothesis, history/israel-judah, faith/polytheism, truth-project, deuteronomy, reform]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/josiah, history/jerusalem, scholars/rainer-albertz, history/kenite-hypothesis, history/israel-judah, faith/polytheism, oskg-yahweh, deuteronomy, reform]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

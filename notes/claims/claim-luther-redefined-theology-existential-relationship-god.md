@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.3"
 statement: "Luther redefined theology from speculative doctrine of God to existential relationship with God, creating confusion between 'theology' and 'religion' that persists in modern scholarship."
 confidence: "high"

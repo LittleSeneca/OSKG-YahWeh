@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-3.3"
 statement: "Exodus 18 does not portray Jethro as a priest of Yahweh introducing the god to Israel — Jethro is responding to demonstrated power, not initiating worship."
 confidence: "medium-high"

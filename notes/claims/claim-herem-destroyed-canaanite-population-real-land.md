@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.2"
 statement: "The ḥerem (ban) was a historical practice that largely annihilated the Canaanite population of the 'real land' — explaining the absence of Canaanite cultural influence on early Israel."
 confidence: "low-medium"

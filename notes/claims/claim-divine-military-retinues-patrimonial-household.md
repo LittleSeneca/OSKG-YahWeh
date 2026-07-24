@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.1"
 statement: "Divine military retinues (Baal's helpers, the Reshephs) fit the patrimonial household model — they are household retainers, not bureaucratic functionaries."
 confidence: "medium-high"

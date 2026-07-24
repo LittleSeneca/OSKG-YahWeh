@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.5"
 statement: "The Nevi'im was closed pre-Maccabean (~200 BCE) — Daniel missed the cut."
 confidence: "medium-high"

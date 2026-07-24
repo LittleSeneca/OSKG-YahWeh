@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.7"
 statement: "The Samaritan schism was NOT an early theological break over syncretism — it was a gradual political and cultic split, culminating in the building of the Gerizim temple; 2 Kings 17.24-41 does NOT refer to Samaritans."
 confidence: "medium"

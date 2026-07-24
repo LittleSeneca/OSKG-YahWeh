@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.5.3"
 statement: "The Carmel narrative (1 Kings 18) is a late theological construction, NOT a historical event — Alt's theory of a political trial of strength on Carmel should be abandoned."
 confidence: "medium-high"

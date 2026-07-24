@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-8.3"
 statement: "Yahweh as family god — father, mother, and intimate provider — is not a late development but deeply rooted, representing the integration of El's benevolent character into Yahwism."
 confidence: "very-high"

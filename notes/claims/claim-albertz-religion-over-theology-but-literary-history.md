@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.5"
 statement: "Albertz's History of Israelite Religion revived the religion-over-theology argument — but his own work is "fundamentally just as much a literary history.""
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-3-5.1"
 statement: "Archaeology is equal or superior to the biblical texts for reconstructing Israelite religion because of six advantages: archaeological data are more extensive (quantity), cover all aspects of daily life (variety), are contemporary with every period (chronology), represent all classes including women (representation), have not been edited by anyone (objectivity), and produce secular rather than theocratic history."
 confidence: "high"

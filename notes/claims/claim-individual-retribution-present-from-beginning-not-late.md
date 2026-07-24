@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.8"
 statement: "The doctrine of individual retribution is NOT late — it's found in the earliest biblical sources alongside collective retribution; the critical claim that Ezekiel 'discovered' individual responsibility is wrong."
 confidence: "high"

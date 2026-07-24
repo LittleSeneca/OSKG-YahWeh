@@ -16,7 +16,7 @@ tags:
   - history/aniconism
   - methodology
   - historiography
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: high
 source:

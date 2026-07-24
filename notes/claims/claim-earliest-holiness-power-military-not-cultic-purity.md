@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-10.1"
 statement: "The earliest Israelite understanding of divine holiness was about power — especially military power and theophanic danger — not cultic purity, separation, or sacerdotal rank; the later priestly definitions of holiness represent a secondary development."
 confidence: "very-high"

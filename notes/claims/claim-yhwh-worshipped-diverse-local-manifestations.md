@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-6.2"
 statement: "Yhwh was worshipped in diverse local manifestations — 'Yhwh of Samaria,' 'Yhwh of Teman,' 'Yhwh of Jerusalem' — reflecting a polytheistic pattern of localized deities shared across the Levant."
 confidence: "high"

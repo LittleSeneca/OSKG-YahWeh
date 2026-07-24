@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.3"
 statement: "'Little Israel' was geographically limited and excluded Judah; the name 'Israel' expanded terminologically over time, making the question 'where did Israel get Yahweh?' a moving target."
 confidence: "medium"

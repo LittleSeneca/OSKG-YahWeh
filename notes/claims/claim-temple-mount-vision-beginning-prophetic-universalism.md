@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.2"
 statement: "The temple mount vision (Isaiah 2:2-4) marks the beginning of prophetic eschatology and universalism — the first vision of the end of idolatry."
 confidence: "medium-high"

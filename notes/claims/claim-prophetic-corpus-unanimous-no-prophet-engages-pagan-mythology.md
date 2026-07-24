@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.7"
 statement: "The prophetic corpus is unanimous — not one prophet engages with pagan mythology; their whole condemnation revolves around the taunt of fetishism."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.8"
 statement: "Biblical monotheism represents not the rejection of Canaanite myth but its creative transformation — priests, wisdom scribes, and apocalyptic visionaries each reconfigured inherited polytheistic material into monotheistic frameworks, making monotheism Israel's own foundational myth."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-9.2"
 statement: "Judean kings were 'infused with divinity' — called ʾĕlōhîm, anointed with holy oil, described with divine sonship language — but were never deified and never received cult, occupying a middle ground between Mesopotamian sacred kingship and modern secular leadership."
 confidence: "high"

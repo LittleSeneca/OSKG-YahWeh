@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-5.2"
 statement: "David brought Yhwh to Jerusalem in a political masterstroke that merged northern Yhwh worship with Jerusalem's El traditions under a single royal cult."
 confidence: "medium"

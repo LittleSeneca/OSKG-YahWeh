@@ -6,7 +6,7 @@ tags:
   - evidence/philological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.1"
 statement: "The pronunciation 'Yahweh' is well-established philologically, not a scholarly guess — despite introductory textbooks maintaining agnosticism."
 confidence: "very-high"

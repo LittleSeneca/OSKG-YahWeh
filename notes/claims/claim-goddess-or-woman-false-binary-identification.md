@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-excursus.4"
 statement: "The modern question 'goddess or woman?' is a false binary — the plaques portray the goddess AS a woman and the woman AS the goddess, dissolving the boundary between divine and human."
 confidence: "medium"

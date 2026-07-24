@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-8-9.1"
 statement: "Yhwh was represented by statues and images in pre-exilic Judah — standing stones functioned as divine representations, seals depict an enthroned god who is probably Yhwh, and the prohibition on images was a late 6th-century innovation projected backward as if it had always been the rule."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-4.2"
 statement: "The Merneptah Stele (c. 1210-1205 BCE) is the first extra-biblical mention of Israel — as an ethnic group, not a kingdom, located in the mountains of Ephraim."
 confidence: "very-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-3.1"
 statement: "Cornelis Tiele (1872), not Friedrich Ghillany (1862), was the true creator of the Midianite/Kenite Hypothesis — Tiele built it from Rechabites to Kenites to Moses' father-in-law, and it was originally Kenite, not Midianite."
 confidence: "high"

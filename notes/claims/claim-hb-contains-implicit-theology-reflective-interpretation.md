@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.6"
 statement: "The HB contains "implicit theology" — reflective interpretation of religious phenomena that qualifies as theology even without explicit theological genre."
 confidence: "medium"

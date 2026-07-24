@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.2"
 statement: "The national element in Israelite religion was particularist in form but universalist in content — the covenant was not the matrix of monotheism; monotheism determined the form of the covenant."
 confidence: "medium-high"

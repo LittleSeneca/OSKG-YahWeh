@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.3"
 statement: "The temple rebuilding (520-515 BCE) sparked eschatological-nationalist hopes attached to Zerubbabel that Persian authorities crushed by withdrawing him — marginalizing prophecy and establishing a pattern where eschatological prophecy was politically dangerous."
 confidence: "medium"

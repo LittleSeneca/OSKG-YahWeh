@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.2.3"
 statement: "Yahweh religion originated in a political liberation process, giving it three structural differences from family piety: historical/political orientation, mediated revelation through representatives, and conditional relationship demanding 'faith' as an active political option with a bias against domination."
 confidence: "medium"

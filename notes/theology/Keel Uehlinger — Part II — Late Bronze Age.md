@@ -10,7 +10,7 @@
 10|  - faith/baal
 11|  - faith/polytheism
 12|  - historiography
-13|  - truth-project
+13|  - oskg-yahweh
 14|created: 2026-07-22
 15|confidence: high
 16|source:

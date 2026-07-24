@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.5.2"
 statement: "Elijah and Elisha were economically independent prophetic outsiders — their social position as déclassé miracle-workers enabled their critique of the system."
 confidence: "medium"

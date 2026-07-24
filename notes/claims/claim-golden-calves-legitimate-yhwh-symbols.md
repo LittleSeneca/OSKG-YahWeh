@@ -11,7 +11,7 @@ tags:
   - evidence/iconographic
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-6.3"
 statement: "The golden calves at Dan and Bethel were legitimate Yhwh symbols using traditional El/Baal bull iconography, not foreign idolatry — the biblical polemic is late Judean propaganda composed after Israel's fall."
 confidence: "medium-high"

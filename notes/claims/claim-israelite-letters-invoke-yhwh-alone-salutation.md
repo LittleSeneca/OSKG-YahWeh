@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.1"
 statement: "ALL pre-exilic Israelite letters invoke YHWH and YHWH alone in their salutation formulas — the formula 'I bless you by YHWH' (*brktk lyhwh*) is standard, and no letter invokes any other deity."
 confidence: "high"

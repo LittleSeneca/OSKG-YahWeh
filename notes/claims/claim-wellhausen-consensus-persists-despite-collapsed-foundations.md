@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.1"
 statement: "Biblical scholarship continues to adhere to Wellhausen's evolutionary conclusions even though the evidence and arguments supporting this structure have been called into question and partly rejected."
 confidence: "medium-high"

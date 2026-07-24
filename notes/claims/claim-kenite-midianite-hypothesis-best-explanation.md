@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-3.3"
 statement: "The Kenite/Midianite hypothesis — that Yhwh was a Midianite god whom Moses encountered and brought to Israel — is the best available explanation but remains unproven."
 confidence: "low-medium"

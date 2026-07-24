@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.6.1"
 statement: "The eighth-century social crisis was a structural consequence of the monarchy — debt slavery and land concentration destroyed the egalitarian small-farmer society."
 confidence: "high"

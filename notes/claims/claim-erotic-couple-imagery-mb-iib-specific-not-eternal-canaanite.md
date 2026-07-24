@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-3.5"
 statement: "Erotic couple imagery on MB IIB seals depicts the intimacy of god and goddess on a human level — and this entire religious system is specific to MB IIB, not an eternal 'Canaanite religion.'"
 confidence: "medium-high"

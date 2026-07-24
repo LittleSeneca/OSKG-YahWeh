@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-intro.3"
 statement: "The Bible must be analyzed historically 'without preconception, just like any other document from antiquity' — its narratives are ideologically shaped but rest on 'archaic kernels of fact' preserving 'traces of memory,' positioning Romer between maximalism (the Bible is reliable history) and minimalism (the Bible tells us nothing about pre-exilic Israel)."
 confidence: "medium"

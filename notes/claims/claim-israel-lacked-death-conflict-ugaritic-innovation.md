@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-6.5"
 statement: "Israel lacks a conflict mythology between Yahweh and Death because the Baal-Mot conflict was a specifically Ugaritic literary innovation — not a pan-West Semitic tradition — so Israel never had such a mythology to reject or suppress."
 confidence: "medium"

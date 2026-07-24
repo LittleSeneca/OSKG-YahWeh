@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.3"
 statement: "Mythology and magic are twin expressions of the same fundamental idea — the metadivine realm produces both as poetic and practical responses to divine limitation."
 confidence: "medium"

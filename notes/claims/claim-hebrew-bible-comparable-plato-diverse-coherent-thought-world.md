@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.2"
 statement: "The Hebrew Bible is comparable to Plato's works — internally diverse but investigable as a coherent thought-world."
 confidence: "medium"

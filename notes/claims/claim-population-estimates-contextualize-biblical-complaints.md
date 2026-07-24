@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.9"
 statement: "Population estimates contextualize the biblical complaints about polytheism: if Jerusalem's population was 10,600-24,000, even 5-10% practicing polytheism would be 500-2,400 people — enough to be visible and alarm prophets, but not the majority."
 confidence: "medium-high"

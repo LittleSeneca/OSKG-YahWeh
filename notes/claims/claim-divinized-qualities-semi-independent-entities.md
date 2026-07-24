@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.6"
 statement: "Divinized qualities (Mercy, Righteousness, Glory, Light) represent semi-independent divine entities, especially in liturgical contexts — the line between deity and attribute was fluid."
 confidence: "medium-high"

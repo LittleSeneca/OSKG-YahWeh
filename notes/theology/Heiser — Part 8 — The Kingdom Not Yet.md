@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/divine-council, eschatology, scholars/michael-heiser, methodology, history/israel-judah, history/jerusalem, history/exile, truth-project]
+tags: [source/book-notes, faith/divine-council, eschatology, scholars/michael-heiser, methodology, history/israel-judah, history/jerusalem, history/exile, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

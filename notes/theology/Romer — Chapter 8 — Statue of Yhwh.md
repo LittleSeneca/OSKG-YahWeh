@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, history/aniconism, scholars/thomas-romer, history/kenite-hypothesis, history/exile, truth-project]
+tags: [source/book-notes, faith/yahweh, history/aniconism, scholars/thomas-romer, history/kenite-hypothesis, history/exile, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-07-23
 claims_status: "extracted"

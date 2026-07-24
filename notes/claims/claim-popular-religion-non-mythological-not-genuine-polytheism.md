@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.8"
 statement: "The popular religion of Israel was also non-mythological — Israel's 'idolatry' was superficial, not genuine polytheism; the ancient myths disappeared from popular consciousness and pagan influence was shallow."
 confidence: "low"

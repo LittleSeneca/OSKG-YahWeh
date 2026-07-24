@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.6"
 statement: "The deuteronomistic suppression of Canaanite religion is structurally parallel to Christian anti-Judaism — and both traditions need to confront this."
 confidence: "debatable"

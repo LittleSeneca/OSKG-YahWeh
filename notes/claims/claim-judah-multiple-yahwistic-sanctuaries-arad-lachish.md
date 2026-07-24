@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-7.1"
 statement: "Multiple Yahwistic sanctuaries existed in Judah beyond Jerusalem at Arad, Lachish, and Beer-Sheba; the Deuteronomistic ideal of one temple was not the historical reality."
 confidence: "high"

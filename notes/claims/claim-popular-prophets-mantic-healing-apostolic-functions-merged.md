@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.6"
 statement: "The Israelite popular prophet was at once a seer, a wonder-healer, and a militant apostle of YHWH — mantic, healing, and apostolic functions merged in a single institution."
 confidence: "medium-high"

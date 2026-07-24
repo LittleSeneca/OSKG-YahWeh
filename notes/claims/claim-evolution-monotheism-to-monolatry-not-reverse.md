@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.7"
 statement: "The evolution of Israelite religion ran from monotheism to monolatry — not the reverse; the basic monotheistic IDEA was present from the beginning, and the biblical battle was to realize its cultic CONSEQUENCES."
 confidence: "low"

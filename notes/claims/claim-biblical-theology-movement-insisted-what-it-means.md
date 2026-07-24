@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.3"
 statement: "The "Biblical Theology Movement" insisted on "what it means" in addition to "what it meant" — Schmid resists this."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.2.4"
 statement: "Sinai was likely a mountain sanctuary in the Edom/Midian border region, not the Sinai peninsula; the Exodus group experienced theophany there, combining historical and cultic experience — with history taking priority over cult, and the location was later deliberately obscured to distance Yahweh from Edomite/Midianite associations."
 confidence: "medium-high"

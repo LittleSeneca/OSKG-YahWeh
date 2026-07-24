@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.3"
 statement: "In Judges 5, Yahweh is defined by the people who fight under his name; in Exodus 15, the people are defined by Yahweh — these represent two different modes of divine-human relationship, one older and one later."
 confidence: "medium"

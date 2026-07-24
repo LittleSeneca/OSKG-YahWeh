@@ -1,28 +1,27 @@
 ---
 tags:
   - faith/root
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 aliases:
-  - "Truth Project Home"
+  - "OSKG-YahWeh Home"
   - "Faith Deconstruction"
+  - "Truth Project"
 pinned: true
 ---
 
-# Truth
+# OSKG-YahWeh
 
 > *"You shall know the truth, and the truth shall set you free." — John 8:32*
 >
 > Or maybe: *"The truth is rarely pure and never simple." — Oscar Wilde*
 
-This is the home note for the **Truth Project** — a systematic attempt to deconstruct and reconstruct Christian faith using data, scholarship, and primary sources rather than inherited assumptions.
-
-I am going to war with my own preconceived beliefs. This vault is the battlefield.
+This is the home note for **OSKG-YahWeh** — the Open Source Knowledge Graph on the origins of Yahweh and the emergence of biblical monotheism. Two years of research: 17 scholarly books, 149 chapter notes, 723 extracted claims with typed edges, 4 synthesis phases, and a culminating capstone.
 
 ## Structure
 
 - **[[Sources Index]]** — Primary materials: transcripts, books, papers, inscriptions
-- **[[Notes Index]]** — My analysis, synthesis, and wrestling
+- **[[Notes Index]]** — Analysis, synthesis, and structured claims
 - **[[Canvases Index|Canvases]]** — Visual maps of concepts and relationships
 
 ## Approach
@@ -38,10 +37,15 @@ I am going to war with my own preconceived beliefs. This vault is the battlefiel
 - [[Questions Index]] — Open questions I'm tracking
 - [[Theology Index]] — Theological implications and analysis
 - [[History Index]] — Historical and archaeological context
+- [[phase4-unknowns-and-convergence|Phase 4: Unknowns and Convergence]] — Settled convergences and genuine unknowns
+- [[capstone-what-does-this-mean|Capstone: What the Evidence Shows]] — The culminating synthesis
 
-## Current Phase
+## Status
 
-**Phase 1: Deconstruction** — Gathering sources, understanding the scholarly landscape, identifying what I actually believe vs. what I was taught to believe.
+**Capstone complete (2026-07-24).** The project has moved through full source ingestion → structured claims extraction → knowledge graph analysis → culminating synthesis.
+
+- **GitHub:** https://github.com/LittleSeneca/OSKG-YahWeh
+- **Local:** `~/Projects/Personal/OSKG-YahWeh`
 
 ---
 

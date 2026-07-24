@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-6.4"
 statement: "Sheger is a demythologized Canaanite moon god, parallel to Astarte in the phrase 'Astartes of your sheep.'"
 confidence: "high"

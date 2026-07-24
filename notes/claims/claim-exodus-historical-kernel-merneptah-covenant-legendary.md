@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.8"
 statement: "There is a historical core to the Exodus and Sinai traditions — a small-scale escape from Egypt during Merneptah's reign, involving a covenant ceremony at Sinai."
 confidence: "medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.8"
 statement: "Erotic couples on MB IIB seals and scarabs mirror divine intimacy on the human plane — showing that sexuality was integrated into Canaanite religion in ways the Hebrew Bible would later suppress."
 confidence: "medium-high"

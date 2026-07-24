@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.2"
 statement: "Across all pre-exilic Hebrew votive texts and blessing formulas, the deity invoked is YHWH alone — the Kuntillet Ajrud and Khirbet el-Qom inscriptions are the only significant exceptions, and they do not demonstrate independent worship of Asherah."
 confidence: "medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.2"
 statement: "The Torah is pre-prophetic, not post-exilic — its sources are demonstrably ancient in their entirety, even to their language and formulation."
 confidence: "low"

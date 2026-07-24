@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.9.1"
 statement: "Josiah's death at Megiddo (609 BCE) shattered the reform coalition, and the Deuteronomic reform collapsed after only a few months under Jehoiakim"
 confidence: "high"

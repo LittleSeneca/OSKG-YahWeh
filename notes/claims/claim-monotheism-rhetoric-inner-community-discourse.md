@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.3"
 statement: "Monotheistic statements are RHETORICAL — they serve inner-community discourse reinforcing Yahwistic monolatry in absolute terms, not a new 'stage' of religion — and monotheism is 'henotheism of a particularly potent stripe' (Seitz), not a conceptual replacement of polytheism."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-4.2"
 statement: "High places (bāmôt) were legitimate Yahwistic sanctuaries before the Jerusalem Temple was built — their condemnation as 'pagan' was a late Deuteronomistic retrojection, and the Bible's own narratives document their original legitimacy."
 confidence: "high"

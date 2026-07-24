@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.1"
 statement: "Dever's personal biography — raised fundamentalist, became liberal Protestant minister, studied at Harvard under G. Ernest Wright, lost his faith through archaeology, converted to Reform Judaism, and now identifies as a secular humanist — gives him a unique vantage point: he knows the Bible from the inside and knows what it costs to lose faith in it."
 confidence: "high"

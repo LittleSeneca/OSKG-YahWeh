@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, onomastics, amorite-names, etymology, scholars/daniel-fleming, philology, historiography, methodology, history/kenite-hypothesis, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, onomastics, amorite-names, etymology, scholars/daniel-fleming, philology, historiography, methodology, history/kenite-hypothesis, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

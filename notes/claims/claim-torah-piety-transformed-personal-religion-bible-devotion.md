@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-6.4"
 statement: "Torah piety (Psalms 1, 19, 119) transformed personal piety into a distinctively Jewish theology centered on scripture — transferring prayer language from God to Torah and creating the 'Bible piety' that became characteristic of Judaism."
 confidence: "medium-high"

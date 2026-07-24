@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.10"
 statement: "The biblical onomastic evidence was not systematically censored — the scribal revisions that changed ba'al names to bosheth are exceptions that prove the rule, and the surviving pagan names in the Bible suggest the onomastic picture is realistic, not editorial."
 confidence: "high"

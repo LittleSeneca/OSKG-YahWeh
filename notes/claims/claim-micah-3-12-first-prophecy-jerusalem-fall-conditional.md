@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.4"
 statement: "Micah's prophecy of Jerusalem's destruction (3:12) was the first to envisage the fall — and it was conditional, not absolute."
 confidence: "medium"

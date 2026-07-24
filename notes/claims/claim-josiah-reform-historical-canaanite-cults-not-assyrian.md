@@ -9,7 +9,7 @@ tags:
   - evidence/archaeological
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-8.3"
 statement: "Josiah's reform was historical, targeted Canaanite cults (not Assyrian), and was a pivotal moment in the enforcement of monolatry — attested by the Zephaniah-Jeremiah contrast, tensions in the Deuteronomistic History, and the West Semitic character of the purged cults."
 confidence: "high"

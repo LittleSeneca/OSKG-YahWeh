@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.1-3.2.2"
 statement: "Saul's monarchy was still a 'chiefdom' compatible with tribal structures; David and Solomon created a genuine state by building power independent of the tribes."
 confidence: "medium-high"

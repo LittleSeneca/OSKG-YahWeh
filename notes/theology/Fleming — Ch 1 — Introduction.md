@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, faith/polytheism, scholars/daniel-fleming, archaeology, philology, historiography, methodology, history/merneptah, history/israel-judah, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, faith/polytheism, scholars/daniel-fleming, archaeology, philology, historiography, methodology, history/merneptah, history/israel-judah, oskg-yahweh]
 claims_status: "extracted"
 claims_extracted_date: 2026-08-04
 claims_count: 7

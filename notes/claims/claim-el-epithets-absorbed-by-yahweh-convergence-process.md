@@ -8,7 +8,7 @@ tags:
   - evidence/philological
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-pre-i.3"
 claim_format: "implicit"
 statement: "Yahweh was originally not identified with El — the identification happened historically and is visible in the biblical texts where El's Ugaritic epithets are systematically applied to Yahweh."

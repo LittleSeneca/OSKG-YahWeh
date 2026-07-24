@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-ep.3"
 statement: "The Torah book liberated Israelite religion from ethnic-territorial limitations — it was a portable, self-contained embodiment of YHWH's religion that could survive exile."
 confidence: "high"

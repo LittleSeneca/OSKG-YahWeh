@@ -5,7 +5,7 @@ tags:
   - topic/monotheism
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
   - evidence/biblical-text
 claim_id: "romer-inv-intro.4"
 statement: "'Invention' does not mean fabrication — it means progressive construction: a gradual, sedimentary process of theological development over centuries, 'a series of sedimentary strata gradually laid down over the course of time, which is then sometimes disrupted by historical events,' a 'collective invention' by the community, not a single author's project."

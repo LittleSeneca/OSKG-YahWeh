@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, truth-project]
+tags: [source/book-notes, faith/yahweh, archaeology, scholars/william-dever, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-08-03
 confidence: medium

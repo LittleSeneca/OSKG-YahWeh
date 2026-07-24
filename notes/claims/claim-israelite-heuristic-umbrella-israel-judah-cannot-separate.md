@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.2"
 statement: ""Israelite" is a heuristic umbrella term — Israel and Judah had genuinely different religions, but our textual sources (filtered through Judahite editors) make them impossible to cleanly separate."
 confidence: "high"

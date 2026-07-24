@@ -3,30 +3,15 @@ tags:
   - sources
   - books
   - index
+  - oskg-yahweh
 created: 2026-07-22
+updated: 2026-07-24
 related:
-  - "[[Sources Index]]"
+  - "[[../../Sources Index]]"
 ---
 
 # Books Index
 
-Book notes, key excerpts, and summaries. Books recommended in the sources will be tracked here.
+## Source Inventory
 
-## Recommended from Sources
-
-From [[history-of-yahweh-alex-oconnor|Justin Sledge's recommendations]]:
-
-| Book | Author | Topic | Priority |
-|------|--------|-------|----------|
-| *The Early History of God* | Mark Smith | Yahweh and Canaanite religion | High |
-| *The Origins of Biblical Monotheism* | Mark Smith | Development of Israelite monotheism | High |
-| *The Gods and Gods of Canaan* | (TBD) | Canaanite pantheon context | Medium |
-| *Canaanite Myth and Epic* | Frank Moore Cross | Hebrew Bible in ANE literary context | Medium |
-| *Has Archaeology Buried the Bible?* | William Dever | Archaeology vs. biblical narrative | Medium |
-| *Beyond the Texts* | William Dever | Archaeological evidence (specialized) | Low |
-| *Gnosticism and Myth and Religion* | (TBD) | Gnostic traditions | Medium |
-| *The Gnostic Scriptures* | (Collection) | Primary Gnostic texts | Medium |
-
-## Reading Queue
-
-- **[[core-monographs-reading-list|Core Monographs Reading List]]** — 10 curated monographs in three tiers, with availability, pricing, and recommended reading order. 4 available free on Internet Archive.
+- **[[source-inventory]]** — Complete inventory of all 17 monographs, 11 primary source classes, supplementary materials, and additional scholars used in the OSKG. Includes copyright and fair use notice.

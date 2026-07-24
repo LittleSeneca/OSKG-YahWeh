@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-intro.2"
 statement: "Scholars have systematically avoided or denied the evidence for divine corporeality in the Hebrew Bible, often due to inherited Christian supersessionist biases"
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-4.4"
 statement: "The old poetry is probably monarchic (9th-8th centuries BCE), not pre-monarchic — it served royal ideology, projecting Yahweh as a divine warrior fighting for Israel under royal leadership."
 confidence: "medium-high"

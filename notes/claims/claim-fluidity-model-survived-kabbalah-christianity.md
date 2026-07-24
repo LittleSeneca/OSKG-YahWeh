@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-6.1"
 statement: "The fluidity model of J and E did not die — it survived underground and resurfaced in Jewish mysticism (the sefirot, the Shekhinah) and Christianity (the Trinity, incarnation, Eucharist)"
 confidence: "low-medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.1"
 statement: "The conquest of Canaan was a unified national-religious war carried out according to a prearranged plan — not a gradual, piecemeal settlement."
 confidence: "medium"

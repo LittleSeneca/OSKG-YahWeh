@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, christology, theology/divine-embodiment, scholars/francesca-stavrakopoulou, archaeology, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, christology, theology/divine-embodiment, scholars/francesca-stavrakopoulou, archaeology, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 related: ["[[Stavrakopoulou — Part IV — Arms and Hands]]", "[[Sommer — The Bodies of God]]", "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]", "[[meta-analysis-scholars]]"]

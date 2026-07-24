@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.1-3.2.5"
 statement: "Rebel movements (Absalom, Sheba, Jeroboam) used pre-state anti-domination traditions against the monarchy — Yahweh's kingship was wielded AGAINST human kingship."
 confidence: "medium"

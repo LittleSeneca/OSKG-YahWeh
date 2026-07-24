@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.2"
 statement: "The Priestly creation theology (Genesis 1) transforms the old royal model — humanity replaces the king as divine image, and the cosmos is envisioned as a sanctuary embedding priestly institutions (Sabbath, calendar, kashrut) into creation itself."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.7"
 statement: "The LB witnessed a radical split between 'official' religion (male warrior/political deities in costly media) and 'private' religion (the naked goddess in cheap terra-cotta) — a split driven by Egyptian colonialism that would shape Israelite religion."
 confidence: "high"

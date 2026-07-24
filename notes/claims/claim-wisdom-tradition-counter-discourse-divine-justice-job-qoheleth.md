@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-9.4"
 statement: "The wisdom tradition (Job, Qoheleth) represents a genuine counter-discourse that questions divine justice — not to reject it, but to probe its limits — demonstrating that Israelite religion 'made space for direct challenges to the Almighty.'"
 confidence: "very-high"

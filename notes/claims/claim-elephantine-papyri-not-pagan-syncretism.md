@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.8"
 statement: "The Elephantine papyri do not show pagan syncretism among diaspora Jews — the community's religion was non-mythological even in an alien environment; minor deities were at most members of YHWH's entourage."
 confidence: "low-medium"

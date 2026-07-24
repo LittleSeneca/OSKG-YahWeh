@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.5"
 statement: "Daniel 7 preserves the old royal conflict mythology (cosmic beasts from the sea, divine warrior victory) but removes the human king — the 'one like a son of man' who receives eternal dominion represents the persecuted community, not a Davidic monarch, adapting royal theology for a post-monarchic world."
 confidence: "medium-high"

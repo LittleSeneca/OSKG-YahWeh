@@ -11,7 +11,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-7.4"
 statement: "The Babylonian exile produced three divergent Judean Yahwisms — Babylonian monotheism (Deutero-Isaiah), Egyptian syncretism (Elephantine: Anat-Yahu), and Palestinian popular religion (continued figurine use) — and the returning Babylonian elite imposed monotheistic exclusivity by force, with goddess worship as the primary target of suppression."
 confidence: "high"

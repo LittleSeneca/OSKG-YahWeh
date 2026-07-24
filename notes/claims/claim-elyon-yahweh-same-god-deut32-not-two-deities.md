@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-16.1"
 statement: "Elyon and Yahweh are the same God in Deuteronomy 32:8-9 — one God performing two functions, not two separate deities with El superior to Yahweh."
 confidence: "medium"

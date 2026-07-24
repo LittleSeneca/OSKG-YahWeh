@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.1"
 statement: "Bronze and terra-cotta anthropomorphic deity figurines cease production in Iron Age IIA — every Iron IIA find is a Late Bronze Age heirloom, not new production."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.3"
 statement: "P is the earliest source — its complete silence on centralized worship proves it predates Deuteronomy."
 confidence: "medium"

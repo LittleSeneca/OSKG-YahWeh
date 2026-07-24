@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.3"
 statement: "Monotheism was a late, elite construction — a 'book religion' written by the few for the few — that never fully displaced folk polytheistic practice among most Israelites."
 confidence: "high"

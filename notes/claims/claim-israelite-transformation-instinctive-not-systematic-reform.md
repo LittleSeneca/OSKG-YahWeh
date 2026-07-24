@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.10"
 statement: "Israelite religion's transformation of pagan elements was instinctive and intuitive, not the product of systematic theological reform — the messiness of the Bible proves the transformation was organic, not editorial."
 confidence: "medium"

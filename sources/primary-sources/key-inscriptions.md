@@ -1,6 +1,14 @@
 # Primary Source Texts and Translations: Key Inscriptions for Early Israelite Religion & Yahweh
 
-Compiled on 2026-07-22
+Compiled on 2026-07-22  
+**NOTE (2026-07-23): This file has been superseded.** Its contents have been split into five individual source files:
+- [[kuntillet-ajrud-inscriptions]]
+- [[khirbet-el-qom-inscription]]
+- [[deut-32-8-9-qumran-variant]]
+- [[soleb-shasu-inscription]]
+- [[merneptah-stele]]
+
+This file is retained for reference only. Use the individual files above for all new links and citations.
 
 ---
 
@@ -305,3 +313,11 @@ Everyone who was restless has been bound.
 - Hasel, M. G. (1994). "Israel in the Merneptah Stela." *BASOR* 296.
 - Yurco, F. J. (1986). "Merenptah's Canaanite Campaign." *JARCE* 23.
 - Kitchen, K. A. (2003). *Ramesside Inscriptions*, Vol. 4. Blackwell.
+
+## Related Notes
+
+- [[ugaritic-baal-cycle]] — Kuntillet Ajrud's Asherah is El's consort in the Ugaritic texts; Deut 32:8-9 preserves the Ugaritic divine council structure
+- [[elephantine-papyri]] — "YHWH and his Asherah" at Ajrud/Qom is the same pattern as YHWH + Anat-Bethel at Elephantine: YHWH with a goddess consort
+- [[mesha-stele]] — Soleb Shasu: earliest YHWH reference, predates Mesha's "vessels of YHWH" by 500 years
+- [[tel-dan-stele]] — Merneptah Stele: one of only four Iron Age inscriptions naming Israel
+- [[ketef-hinnom]] — The trajectory: from "YHWH and his Asherah" (Ajrud) to YHWH alone on silver amulets (Ketef Hinnom)

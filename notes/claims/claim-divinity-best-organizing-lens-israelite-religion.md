@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-1.3"
 statement: "Studying ancient Israelite religion through the 'lens of divinity' is the best organizing principle — it connects the historical, sociological, cultic, ideological, and aesthetic dimensions."
 confidence: "medium-high"

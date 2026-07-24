@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-intro.1"
 statement: "The 'history of Israelite religion' as a discipline was crippled by dialectical theology after WWI, and subsequent post-WWII histories were methodologically regressive."
 confidence: "high"

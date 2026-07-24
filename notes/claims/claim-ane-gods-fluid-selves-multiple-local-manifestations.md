@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-1.1"
 statement: "In Mesopotamian and Canaanite religion, a single deity could exist simultaneously in multiple bodies with a fragmented or ill-defined self — gods were not fully distinct from each other"
 confidence: "high"

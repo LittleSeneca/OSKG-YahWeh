@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-7.1"
 statement: "Neo-Babylonian glyptic was supplanted by Achaemenid royal-hero imagery during Iron Age III, but local populations — especially Judeans — adapted both traditions by erasing cultic images and substituting names, demonstrating deliberate aniconic religious identity."
 confidence: "high"

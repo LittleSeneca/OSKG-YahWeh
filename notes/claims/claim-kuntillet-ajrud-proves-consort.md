@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-9.3"
 statement: "The Kuntillet Ajrud and Khirbet el-Qom inscriptions prove Yhwh and Asherah were paired as a divine couple"
 confidence: "high"

@@ -1,7 +1,7 @@
 ---
 tags:
   - analysis/meta
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-24
 updated: 2026-07-24
 status: complete

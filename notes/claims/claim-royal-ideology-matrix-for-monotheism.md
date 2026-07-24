@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.5"
 statement: "Royal ideology provided the matrix for monotheism — the king as divine ('ĕlōhîm), the parallel between cosmic and human realms, and the king's participation in Baal's conflict-myth power created the conceptual toolkit that monotheistic rhetoric later repurposed."
 confidence: "medium-high"

@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.5"
 statement: "El's epithets for cosmic enemies — 'Beloved of El' (mdd 'il) and animal terms ('gl, 'calf'; klbt, 'dog') — carry legal force: mdd designates publicly chosen heir/successor (comparable to Jedidiah in 2 Samuel 12:25), while the animal terms connote subservience and vassalage, not mere affection."
 confidence: "medium-high"

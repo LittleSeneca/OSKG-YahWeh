@@ -8,7 +8,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.6"
 statement: "Tiele (1872), not Ghillany, was the true creator of the Midianite/Kenite Hypothesis, and Tiele's original version was less concerned with validating Moses as founding figure than the work of those who followed."
 confidence: "high"

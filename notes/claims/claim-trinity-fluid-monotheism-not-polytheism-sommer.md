@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-5-6.3"
 statement: "The Christian doctrine of the Trinity is not polytheism but a legitimate form of fluid monotheism — three persons, one God, structurally parallel to the ANE pattern of one deity with multiple manifestations."
 confidence: "medium"

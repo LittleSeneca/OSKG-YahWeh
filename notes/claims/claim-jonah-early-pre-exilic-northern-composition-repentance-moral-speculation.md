@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.8"
 statement: "The Book of Jonah is an early (pre-exilic) northern composition — a masterpiece of moral speculation on repentance, not a late postexilic universalist tract."
 confidence: "low-medium"

@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.4"
 statement: "Schmid's theology is 'Protestant in terms of the history of scholarship' — not in content — acknowledging Protestant scholarly lineage while claiming non-confessional method."
 confidence: "medium-high"

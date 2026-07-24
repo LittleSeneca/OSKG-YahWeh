@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.8"
 statement: "Genesis 1 achieves 'monotheistic poetics' by setting up expectations of cosmic conflict (tehom, darkness, wind in verse 2), then subverting them — God speaks and it is done without battle; the tanninim appear not as pre-creation enemies but as created beings within the order (v. 21); sun and moon are depersonalized using traditional divine titles stripped of divine status (v. 16)."
 confidence: "high"

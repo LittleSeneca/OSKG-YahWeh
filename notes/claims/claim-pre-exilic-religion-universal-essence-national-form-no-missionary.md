@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-ep.4"
 statement: "Pre-exilic religion was universal in essence but national in form — there was no missionary impulse because idolatry was a sin for Israel, not for the nations."
 confidence: "medium-high"

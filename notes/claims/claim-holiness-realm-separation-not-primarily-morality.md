@@ -6,7 +6,7 @@ tags:
   - evidence/philological
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-22.1"
 statement: "Holiness (Hebrew *qdš*) is fundamentally about SEPARATION between realms — the divine realm vs. the mortal realm — not primarily about moral behavior."
 confidence: "medium-high"

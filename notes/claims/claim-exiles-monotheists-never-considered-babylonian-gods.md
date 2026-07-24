@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.8"
 statement: "The exiles were monotheists who never considered worshipping Babylonian gods — the crisis was covenantal (why did YHWH abandon us?), not theological (is Marduk stronger?)."
 confidence: "medium"

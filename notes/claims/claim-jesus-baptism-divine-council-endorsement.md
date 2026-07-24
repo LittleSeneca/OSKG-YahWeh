@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-32.1"
 statement: "Jesus's baptism was a divine council endorsement — the voice from heaven and the Spirit descending are council members affirming Jesus's authority to reclaim the nations."
 confidence: "medium"

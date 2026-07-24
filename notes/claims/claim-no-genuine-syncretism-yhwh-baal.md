@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.6"
 statement: "No genuine syncretism occurred in Israel — YHWH was never merged with Baal or any other deity; syncretism requires two independent cults of comparable status, which never existed in Israel."
 confidence: "low"

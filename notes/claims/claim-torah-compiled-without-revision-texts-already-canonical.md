@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.7"
 statement: "The Torah book was compiled without revision — the sources were already fixed and 'canonical' when they were gathered, proving their pre-existing authority."
 confidence: "medium"

@@ -10,7 +10,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-6-7.2"
 statement: "Yhwh rose to supremacy in Jerusalem gradually through political centralization; the biblical portrayal of Israel's apostasy versus Judah's faithfulness reflects the literary victory of Judean scribes who survived to write the history, not historical reality."
 confidence: "high"

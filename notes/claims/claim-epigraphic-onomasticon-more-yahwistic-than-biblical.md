@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-1.2"
 statement: "The epigraphic onomasticon from pre-exilic Hebrew inscriptions is MORE Yahwistic than the Bible's onomasticon — the inscriptions preserve even fewer pagan names than the already-overwhelmingly-Yahwistic biblical record."
 confidence: "high"

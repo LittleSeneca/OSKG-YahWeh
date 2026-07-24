@@ -10,7 +10,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-5.1"
 statement: "Practices later condemned as 'Canaanite idolatry' — high places, veneration of the dead, and child sacrifice (mlk) — were all originally acceptable Yahwistic practices, part of Israel's Canaanite heritage, and condemned only later as part of the differentiation process."
 confidence: "medium"

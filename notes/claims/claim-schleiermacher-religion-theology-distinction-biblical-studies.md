@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-5.1"
 statement: "Schleiermacher's religion/theology distinction — where religion is living experience and theology is dead reflection — fundamentally restructured how biblical scholars understood their task."
 confidence: "high"

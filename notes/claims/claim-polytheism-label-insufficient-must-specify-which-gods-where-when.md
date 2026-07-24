@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.2"
 statement: "Preexilic Israel was polytheistic, but that tells us almost nothing — the real question is WHICH gods, WHERE, WHEN, and in WHAT RELATION to Yahweh; biblical texts alone cannot answer these questions because of the dating crisis."
 confidence: "high"

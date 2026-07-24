@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-5.1"
 statement: "Yhwʒ of Shasu-land is best explained as a people-name derived from a shortened personal name (hypocoristicon), not as a divine name."
 confidence: "medium"

@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-10.1"
 statement: "The fall of Samaria (722 BCE) was the catalyst that transformed Judah and set the stage for monotheism."
 confidence: "high"

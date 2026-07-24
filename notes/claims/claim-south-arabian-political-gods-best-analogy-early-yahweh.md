@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.2"
 statement: "The best analogies for early Yahweh are South Arabian political gods (Almaqah, 'Amm) — deities who bind people and king through shared kinship identity, not through cosmological function."
 confidence: "medium"

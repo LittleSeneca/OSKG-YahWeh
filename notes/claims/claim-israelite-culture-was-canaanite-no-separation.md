@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-intro.1"
 statement: "Israelite culture WAS Canaanite culture — there was no radical separation."
 confidence: "very-high"

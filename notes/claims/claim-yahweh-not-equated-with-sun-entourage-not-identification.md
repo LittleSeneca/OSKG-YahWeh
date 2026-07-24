@@ -9,7 +9,7 @@ tags:
   - evidence/onomastic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-6.2"
 statement: "Yahweh was NOT equated with the sun; the sun was part of Yahweh's heavenly entourage (host of heaven = sons of God), not Yahweh himself."
 confidence: "medium-high"

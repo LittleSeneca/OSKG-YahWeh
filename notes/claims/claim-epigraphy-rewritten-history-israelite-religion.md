@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.3"
 statement: "Epigraphy has rewritten the history of ancient Israelite religion — it provides dated, non-biblical evidence that is more reliable than the Hebrew Bible's heavily edited text."
 confidence: "very-high"

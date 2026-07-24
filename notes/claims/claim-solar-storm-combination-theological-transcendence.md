@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-4.2"
 statement: "By combining storm and solar imagery for Yahweh, biblical texts expressed that Yahweh was not identified with any single natural phenomenon — He had power over AND transcended nature, a genuine theological innovation beyond mere borrowing."
 confidence: "medium"

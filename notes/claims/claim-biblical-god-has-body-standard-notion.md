@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-intro.1"
 statement: "The God of the Hebrew Bible has a body — this is the standard notion of ancient Israelite theology, not the exception"
 confidence: "very-high"

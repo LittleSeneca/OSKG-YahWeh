@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-intro.3"
 statement: "The polytheism/monotheism distinction is less fundamental than the distinction between fluid and non-fluid conceptions of divinity — a distinction that cross-cuts the mono/poly divide"
 confidence: "medium"

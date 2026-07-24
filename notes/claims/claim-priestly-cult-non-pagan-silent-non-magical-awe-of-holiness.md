@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.3"
 statement: "The Israelite priesthood and temple cult were radically non-pagan — defined by silence, absence of magic, and the awe of holiness rather than do ut des blessing."
 confidence: "medium"

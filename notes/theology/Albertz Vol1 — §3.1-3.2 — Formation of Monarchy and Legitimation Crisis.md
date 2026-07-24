@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, scholars/rainer-albertz, archaeology, history/merneptah, history/jerusalem, history/josiah, truth-project, kingship-theology]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, scholars/rainer-albertz, archaeology, history/merneptah, history/jerusalem, history/josiah, oskg-yahweh, kingship-theology]
 created: 2026-07-22
 updated: 2026-07-31
 confidence: medium

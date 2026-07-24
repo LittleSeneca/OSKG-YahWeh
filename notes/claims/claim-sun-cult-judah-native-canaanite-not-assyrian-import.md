@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-6.1"
 statement: "The sun cult in Judah was native Canaanite, not an Assyrian import under Manasseh."
 confidence: "high"

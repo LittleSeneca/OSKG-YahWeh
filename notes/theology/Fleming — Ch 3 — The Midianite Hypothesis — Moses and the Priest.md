@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, moses, exodus, scholars/daniel-fleming, historiography, methodology, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, history/kenite-hypothesis, moses, exodus, scholars/daniel-fleming, historiography, methodology, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-08-04
 confidence: medium

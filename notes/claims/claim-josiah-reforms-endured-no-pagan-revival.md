@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.3"
 statement: "Josiah's reforms ENDURED — there was no pagan revival under Jehoiakim or Zedekiah; the fall was Manasseh's cumulative guilt, not current apostasy."
 confidence: "medium-high"

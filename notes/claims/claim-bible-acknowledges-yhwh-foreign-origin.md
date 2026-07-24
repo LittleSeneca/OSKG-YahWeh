@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-1.4"
 statement: "The biblical narrative itself acknowledges that Yhwh was not originally Israel's god — Exodus 6:2-3 states the patriarchs knew God as El Shadday, not as Yhwh."
 confidence: "high"

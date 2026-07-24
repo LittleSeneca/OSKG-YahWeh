@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.4"
 statement: "Israel was broadly West Semitic in its religion from the start — not a separate, pristine monotheistic culture — and Israel's perception of itself as distinct developed over a long period rather than leaping into being on Mount Sinai."
 confidence: "high"

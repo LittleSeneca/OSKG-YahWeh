@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.8"
 statement: "Ugaritic texts remain the best available background for Israelite religion — they are the most proximate in time and place among Levantine texts with this kind of mythological information, and the diversity of later reflexes of Ugaritic material in Phoenician, biblical, Aramaic, and classical sources demonstrates Iron Age transmission."
 confidence: "very-high"

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/divine-warrior, scholars/rainer-albertz, archaeology, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, history/exile, history/aniconism, faith/baal, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/divine-warrior, scholars/rainer-albertz, archaeology, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, history/exile, history/aniconism, faith/baal, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

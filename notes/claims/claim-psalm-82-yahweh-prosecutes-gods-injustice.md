@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-9.3"
 statement: "Psalm 82 — depicting Yahweh prosecuting the gods for judicial failure in the divine council — is the most visionary judicial text in the Hebrew Bible and represents the logical endpoint of Yahweh's claim to absolute judicial authority extending to the realm of the gods themselves."
 confidence: "high"

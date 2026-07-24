@@ -10,7 +10,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-7.3"
 statement: "The Hurvat Qitmit Edomite shrine (early 6th century BCE) preserved a full 'Canaanite' religion with god and goddess side-by-side — an aggressive three-horned goddess, a warrior deity, and Qaus inscriptions — raising the unresolved question of whether Qaus, Yahweh of Teman, and the 'Lord of the Ostriches' share a common southern steppe/desert origin."
 confidence: "high"

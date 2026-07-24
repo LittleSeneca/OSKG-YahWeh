@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.1"
 statement: "El's cult persisted into the Iron Age across the Levant (Phoenicia, Aram, Transjordan) — van der Toorn's 'deus otiosus' thesis is overstated; the evidence for an active El cult is ambiguous but cumulatively significant."
 confidence: "medium-high"

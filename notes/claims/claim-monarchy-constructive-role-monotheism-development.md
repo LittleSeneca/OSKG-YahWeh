@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-intro.3"
 statement: "The monarchy played a constructive role in monotheism's development, not just a corrupting one."
 confidence: "medium"

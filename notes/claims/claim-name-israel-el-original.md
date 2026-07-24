@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.3"
 statement: "The name 'Israel' (yiśrā-'ēl) proves El was the original god — if Yahweh had been original, we would expect *yiśrâ-yahweh or *yiśrâ-yāh. The divine element is unambiguous."
 confidence: "high"

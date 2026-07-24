@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, old-poetry, judges-5, deuteronomy-33, habakkuk-3, kuntillet-ajrud, scholars/daniel-fleming, archaeology, philology, methodology, history/kenite-hypothesis, history/israel-judah, history/jerusalem, truth-project]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, old-poetry, judges-5, deuteronomy-33, habakkuk-3, kuntillet-ajrud, scholars/daniel-fleming, archaeology, philology, methodology, history/kenite-hypothesis, history/israel-judah, history/jerusalem, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-08-04
 confidence: medium

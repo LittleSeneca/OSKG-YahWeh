@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-7.1"
 statement: "Sheol language in the OT derives from Canaanite Mot imagery (swallowing throat, insatiable appetite), but Sheol is a demythologized place, not a fully personified deity like Mot."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-3.3"
 statement: "The falcon-headed figure on MB IIB scarabs represents a deliberate syncretism — the Canaanite royal/fertility god identified with Egyptian Horus."
 confidence: "medium-high"

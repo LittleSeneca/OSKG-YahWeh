@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-summary.4"
 statement: "Early Yahweh was a god of people without kings, defined by identification with a specific community — like the South Arabian political gods Almaqah and 'Amm — not a storm god or a patriarch."
 confidence: "low-medium"

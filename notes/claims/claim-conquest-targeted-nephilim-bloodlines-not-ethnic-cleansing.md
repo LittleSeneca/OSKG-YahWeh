@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-23.1"
 statement: "The conquest of Canaan targeted Nephilim giant bloodlines, not generic Canaanite populations — it was elimination of non-fully-human hybrids, not ethnic cleansing."
 confidence: "medium"

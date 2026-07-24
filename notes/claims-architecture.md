@@ -1,7 +1,7 @@
 ---
 tags:
   - type/architecture
-  - truth-project
+  - oskg-yahweh
   - methodology
 created: 2026-07-23
 updated: 2026-07-23
@@ -12,7 +12,7 @@ related:
   - "[[scholarly-directory-yahweh-origins]]"
   - "[[claims-progress]]"
 implementation:
-  skill: "~/.hermes/skills/truth-project/claims-extraction/SKILL.md"
+  skill: "~/.hermes/skills/oskg-yahweh/claims-extraction/SKILL.md"
   progress_file: "notes/claims-progress.md"
   example_claim: "notes/claims/claim-kuntillet-ajrud-symbol-not-goddess.md"
   example_note: "notes/example-smith-ch3-post-extraction.md"
@@ -174,7 +174,7 @@ tags:
   - evidence/<evidence-type>
   - scholar/<scholar-slug>
   - source/<book-slug>
-  - truth-project
+  - oskg-yahweh
 claim_id: "<scholar>-<book-abbrev>-<ch>.<num>"
 statement: "<one sentence — the claim's assertion>"
 confidence: "<rating>"
@@ -375,7 +375,7 @@ Each source note gets:
 ---
 tags:
   - type/primary-source
-  - truth-project
+  - oskg-yahweh
 source_id: "<slug>"
 source_type: "<inscription|biblical-text|stele|papyrus>"
 date: "<approximate date>"
@@ -411,7 +411,7 @@ Translated to our problem: we don't need a script that processes everything at o
 
 ### The Claims Extraction Skill
 
-Create a skill at `~/.hermes/skills/truth-project/claims-extraction/SKILL.md` that gets loaded at the start of every extraction session. This is the equivalent of Karpathy's CLAUDE.md — the operational schema that teaches the agent what to do, what conventions to follow, and how to track progress.
+Create a skill at `~/.hermes/skills/oskg-yahweh/claims-extraction/SKILL.md` that gets loaded at the start of every extraction session. This is the equivalent of Karpathy's CLAUDE.md — the operational schema that teaches the agent what to do, what conventions to follow, and how to track progress.
 
 **What the skill contains:**
 
@@ -429,7 +429,7 @@ Create `notes/claims-progress.md` at the Truth project root. This is the single 
 ---
 tags:
   - type/progress
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-23
 updated: 2026-07-23
 ---

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-6.1"
 statement: "Only in the Hellenistic period did a genuine hierocracy form — with the high priest becoming political leader (prostates) as the Ptolemies refrained from appointing a governor, provoking aristocratic power struggles over the office."
 confidence: "medium-high"

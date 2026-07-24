@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.3"
 statement: "Monotheism and polytheism are modern Western categories that would have been unintelligible to ancient Israelites and their neighbors — no polytheist thought of his system as 'polytheism' and no ancient Israelite would have understood the question 'are you a monotheist?'"
 confidence: "very-high"

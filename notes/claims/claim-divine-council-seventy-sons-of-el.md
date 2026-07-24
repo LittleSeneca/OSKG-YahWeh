@@ -11,7 +11,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.3"
 statement: "The OT's divine council (the 'sons of God') derives directly from the Ugaritic concept of the seventy sons of El and his consort Asherah — established by the identical number and the MT's deliberate alteration of Deut 32:8."
 confidence: "very-high"

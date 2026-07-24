@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.4"
 statement: "Amos 9:7 and the apparent acknowledgment of other gods do not undermine Amos's monotheism — the verse is satirical hyperbole."
 confidence: "low"

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, history/jerusalem, scholars/rainer-albertz, archaeology, history/kenite-hypothesis, history/israel-judah, history/josiah, faith/el, faith/baal, truth-project, temple, bethel, state-cult]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, history/jerusalem, scholars/rainer-albertz, archaeology, history/kenite-hypothesis, history/israel-judah, history/josiah, faith/el, faith/baal, oskg-yahweh, temple, bethel, state-cult]
 created: 2026-07-22
 updated: 2026-07-31
 confidence: medium

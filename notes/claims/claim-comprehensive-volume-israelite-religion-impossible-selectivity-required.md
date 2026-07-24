@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-1.2"
 statement: "A truly comprehensive volume on ancient Israelite religion is impossible in a single book — selectivity is required and the author must state his criteria openly."
 confidence: "very-high"

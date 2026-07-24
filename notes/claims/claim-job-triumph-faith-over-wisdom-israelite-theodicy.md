@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.9"
 statement: "The Book of Job represents the triumph of faith over wisdom — the final resolution is not a rational answer but the fact of revelation itself, the distinctive Israelite contribution to theodicy."
 confidence: "medium-high"

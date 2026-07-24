@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-5.3"
 statement: "Anat-Yahu at Elephantine confirms Anat functioned as Yahweh's consort among the fifth-century BCE Jewish community, probably reflecting pre-exilic Northern Kingdom syncretism."
 confidence: "medium-high"

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-romer, archaeology, history/kenite-hypothesis, history/jerusalem, history/josiah, truth-project]
+tags: [source/book-notes, faith/yahweh, history/israel-judah, scholars/thomas-romer, archaeology, history/kenite-hypothesis, history/jerusalem, history/josiah, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Romer — Chapter 5 — Entrance into Jerusalem]]", "[[Romer — Chapter 7 — Cult of Yhwh in Judah]]", "[[Romer — Chapters 6-7 — Cults of Israel and Judah]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Day — Chapter 3 — Yahweh Versus Baal]]"]

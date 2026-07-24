@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.1"
 statement: "The conceptual unity of West Semitic polytheism has been neglected by scholarship — previous work either catalogued individual deities atomistically or imposed external typologies, and no overall investigation of the indigenous conceptual structures has been undertaken until this book."
 confidence: "high"

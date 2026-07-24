@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.1.4"
 statement: "There was no fundamental nomadic/sedentary religious opposition in early Israel — herders and farmers lived in close symbiosis; the Passover likely originated as a nomadic transhumance ritual later historicized into the Exodus narrative."
 confidence: "medium-high"

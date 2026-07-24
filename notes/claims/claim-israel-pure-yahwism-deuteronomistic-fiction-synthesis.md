@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-6-7.1"
 statement: "The biblical picture of pure Yahwism in Israel is a Deuteronomistic fiction; the real cult of Yhwh in the northern kingdom was diverse, regional, operated on three socio-religious levels, and incorporated bull iconography that was legitimate Yahwistic tradition, not foreign idolatry."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-39.1"
 statement: "The new creation (Revelation 21-22) represents the final fusion of the divine and human realms — the realm distinction established at Eden is dissolved."
 confidence: "medium"

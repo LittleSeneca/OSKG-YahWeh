@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.6"
 statement: "The erosion of the lineage system in the eighth through sixth centuries made the divine FAMILY metaphor unintelligible — individual human accountability and individual divine accountability were concomitant developments, and monotheism was 'denuded of the divine family.'"
 confidence: "low-medium"

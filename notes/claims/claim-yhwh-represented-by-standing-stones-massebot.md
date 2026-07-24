@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-8.1"
 statement: "Yhwh was represented by standing stones (maṣṣēbôt) that functioned as divine images, not merely memorials — the traditional view that Israelite religion was aniconic from the beginning is wrong."
 confidence: "high"

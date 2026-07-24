@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.9"
 statement: "The Josianic reform and Deuteronomic centralization were an organic development of Israelite religious ideas — not a priestly power grab or a reaction to paganism."
 confidence: "medium"

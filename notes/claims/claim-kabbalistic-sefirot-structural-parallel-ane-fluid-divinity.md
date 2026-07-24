@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-5-6.2"
 statement: "The kabbalistic doctrine of the *sefirot* — ten emanations of the infinite God — represents a structural rediscovery of the ancient Near Eastern fluidity model within rigorous monotheism."
 confidence: "medium"

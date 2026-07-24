@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.2"
 statement: "The Deuteronomistic suppression of Asherah worship was, in effect, the suppression of women's religious authority and practice."
 confidence: "medium-high"

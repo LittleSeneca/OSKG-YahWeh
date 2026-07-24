@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-3.1"
 statement: "The Tel Kitan female stele proves that massebahs / standing stones are not necessarily male deities — the goddess could be represented in this medium too."
 confidence: "high"

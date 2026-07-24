@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.3"
 statement: "Israelite religion was an original creation of the people of Israel, absolutely different from anything the pagan world ever knew, and its monotheistic world view had no antecedents in paganism."
 confidence: "low"

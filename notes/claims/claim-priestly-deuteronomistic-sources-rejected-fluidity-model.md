@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-3.1"
 statement: "The Priestly (P) and Deuteronomistic (D) sources rejected the fluidity model, replacing the multi-bodied, physically present God with a transcendent deity accessible only through mediated forms — kavod (glory), shem (name), and torah"
 confidence: "high"

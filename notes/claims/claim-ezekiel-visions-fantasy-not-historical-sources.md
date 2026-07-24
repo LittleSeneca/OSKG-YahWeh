@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.6"
 statement: "Ezekiel's visions are fantasy — products of an exuberant imagination with no historical worth as sources for Israelite paganism."
 confidence: "medium-high"

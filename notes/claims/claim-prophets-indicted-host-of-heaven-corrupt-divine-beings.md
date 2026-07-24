@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-26.1"
 statement: "The prophets indicted the 'host of heaven' — the corrupt divine beings behind the nations — and prophesied their judgment alongside human rulers."
 confidence: "medium"

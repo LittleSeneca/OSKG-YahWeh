@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.5"
 statement: "The vision of the temple mount in Micah 4:1-4 was borrowed from Isaiah, not vice versa — and Micah couldn't assimilate its spirit."
 confidence: "medium"

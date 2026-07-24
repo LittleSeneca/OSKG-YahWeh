@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.2.5"
 statement: "The 'covenant' at Sinai is a late (Deuteronomic/Deuteronomistic) theological retrojection, not Mosaic; the Decalogue and image prohibition developed gradually from the 8th century (Hosea) onward — pre-exilic Yahweh worship freely used cultic images."
 confidence: "high"

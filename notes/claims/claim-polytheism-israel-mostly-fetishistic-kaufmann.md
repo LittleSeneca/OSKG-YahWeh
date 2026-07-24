@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.7"
 statement: "Following Kaufmann, Tigay argues that much of what the Bible calls 'polytheism' was actually fetishism — using figurines and charms without genuine mythological theology, where the image is believed to house divine forces rather than being a god itself."
 confidence: "medium"

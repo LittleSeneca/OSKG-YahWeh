@@ -6,7 +6,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.2"
 statement: "Divine cult sites and sacred mountains are exclusive to benevolent deities, marking them as belonging to 'near' space, while cosmic enemies lack such sites — Baal's Mount Sapan functions as the cosmic center point and the pantheon meets on Mount ll, but Yamm, Mot, Tannin, and other cosmic enemies have no holy mountains."
 confidence: "high"

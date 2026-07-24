@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-3.4"
 statement: "The Kenite/Cain connection does not support Yahweh's origin among Kenites — Genesis 4:26 is a schematic theological notice about primeval Yahwism, not a historical report about Kenite religion."
 confidence: "high"

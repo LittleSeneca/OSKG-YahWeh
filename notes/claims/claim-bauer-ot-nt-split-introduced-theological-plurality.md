@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.7"
 statement: "Bauer's split of biblical theology into separate OT and NT theologies (1796) introduced theological PLURALITY into the concept of 'theology' — opening the door to 'theologies.'"
 confidence: "very-high"

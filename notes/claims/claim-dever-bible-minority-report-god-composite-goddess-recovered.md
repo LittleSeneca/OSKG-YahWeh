@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.4"
 statement: "The Bible is a minority report, the God of the Hebrew Bible is a composite deity who absorbed female characteristics, and archaeology has recovered the goddess that the biblical writers tried to erase."
 confidence: "high"

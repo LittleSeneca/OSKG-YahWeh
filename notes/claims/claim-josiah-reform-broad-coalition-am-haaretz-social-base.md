@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.8.1"
 statement: "Josiah's reform was a broad-based coalition movement whose social base was the 'am hā'āreṣ (landed middle class), not a top-down royal imposition"
 confidence: "medium-high"

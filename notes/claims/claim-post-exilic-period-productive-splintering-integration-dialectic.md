@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.1"
 statement: "The post-exilic period (538-400 BCE) was one of the most productive eras in Israelite religious history, characterized by a dialectic of splintering (rival theological currents) and integration (Torah canonization pulling toward unity), contra the Christian theological prejudice that it was a time of legalistic decline."
 confidence: "high"

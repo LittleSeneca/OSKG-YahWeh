@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.2"
 statement: "Amos's actual innovation was making everyday social morality — not just idolatry or heinous sins — decisive for national destiny."
 confidence: "medium-high"

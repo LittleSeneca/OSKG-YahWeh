@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-excursus.1"
 statement: "The so-called 'Astarte plaques' depict goddesses, not mortal women or Egyptian-style 'concubine' figurines for funerary use — the Tadmor thesis is wrong."
 confidence: "very-high"

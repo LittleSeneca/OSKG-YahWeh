@@ -6,7 +6,7 @@ tags:
   - evidence/philological
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-3.5"
 statement: "Genesis 1:26 is P's anti-fluid manifesto — humans share God's ṣelem (form) and dĕmût (shape) but not God's substance; image without embodiment."
 confidence: "medium-high"

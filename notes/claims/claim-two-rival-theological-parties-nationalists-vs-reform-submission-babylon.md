@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.9.2"
 statement: "After 597 BCE, two rival theological parties fought over foreign policy: nationalists trusting Zion theology's guarantee of Jerusalem's inviolability, and the reform party advocating submission to Babylon"
 confidence: "high"

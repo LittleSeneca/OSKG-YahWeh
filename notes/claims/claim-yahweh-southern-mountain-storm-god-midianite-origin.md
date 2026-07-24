@@ -9,7 +9,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.2.2"
 statement: "Yahweh was a southern Palestinian mountain/storm god (Hadad type) worshipped by Midianites/Kenites before Moses — Yahweh is older than Israel; Moses encountered Yahweh through his Midianite father-in-law Jethro."
 confidence: "high"

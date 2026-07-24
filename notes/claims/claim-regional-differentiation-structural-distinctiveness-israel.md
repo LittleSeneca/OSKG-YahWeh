@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-intro.5"
 statement: "Regional differentiation (North/South, homeland/Diaspora) is necessary alongside sociological stratification, and Israel's religious distinctiveness lies not in individual elements but in the structural whole produced by its particular history of social and theological controversy."
 confidence: "high"

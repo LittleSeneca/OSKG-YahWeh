@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-1.1"
 statement: "The historian of religion's approach is fundamentally different from the theologian's — Lewis writes as a historian of ancient Israelite religion within its Near Eastern context, not as a theologian."
 confidence: "high"

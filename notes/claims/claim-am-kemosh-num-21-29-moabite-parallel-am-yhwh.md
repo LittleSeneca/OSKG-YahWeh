@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.4"
 statement: "The 'people of Kemosh' ('am kĕmôš) in Numbers 21:29 provides a Moabite parallel — another people defined by a deity using the identical grammatical construction — confirming 'am Yhwh as an old traditional category."
 confidence: "medium-high"

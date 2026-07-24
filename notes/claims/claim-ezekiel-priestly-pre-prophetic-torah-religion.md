@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.7"
 statement: "Ezekiel is more priest than prophet — his ideology is pre-prophetic Torah religion, especially the ideology of P."
 confidence: "medium-high"

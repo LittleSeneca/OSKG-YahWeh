@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.1"
 statement: "The Bible displays a 'strange fact' — utter ignorance of the nature and meaning of pagan religion, despite centuries of fighting 'idolatry.'"
 confidence: "medium-high"

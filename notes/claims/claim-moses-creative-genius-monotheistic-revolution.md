@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.3"
 statement: "Moses was a creative genius — the monotheistic revolution originated with a single person whose insight 'defies attempts to account for it.'"
 confidence: "low"

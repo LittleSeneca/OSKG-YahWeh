@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.4"
 statement: "The canonization of the Torah was a Persian-backed compromise between Deuteronomistic (lay) and Priestly parties — a deliberately unresolved dialogue between rival theological traditions that became the unifying charter of post-exilic Judaism."
 confidence: "medium"

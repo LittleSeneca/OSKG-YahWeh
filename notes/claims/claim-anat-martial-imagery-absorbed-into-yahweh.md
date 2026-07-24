@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-2.3"
 statement: "The Canaanite warrior goddess Anat's distinctive martial imagery — gory, cannibalistic, ecstatic — was absorbed into Yahweh's biblical portrait even though her cult never existed in Israel."
 confidence: "medium"

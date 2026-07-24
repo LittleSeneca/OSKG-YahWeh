@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.3"
 statement: "P's claim that the name Yahweh was revealed only at Moses' time (Exod 6:3) is more historically reliable than J's claim of antediluvian Yahwism (Gen 4:26) — patriarchal religion was El worship, not Yahwism."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.3"
 statement: "The Q-symbol and Hippopotamus Goddess reveal a female-centered apotropaic religion concerned with protecting mothers and children — a parallel religious sphere to the male-dominated official cult that persisted for over 1,200 years."
 confidence: "medium-high"

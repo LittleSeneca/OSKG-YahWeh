@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.6.2"
 statement: "The eighth-century prophets were economically independent (unlike the ninth-century déclassé prophets), which enabled their total critique; their message became written 'opposition literature' because it was rejected orally."
 confidence: "medium-high"

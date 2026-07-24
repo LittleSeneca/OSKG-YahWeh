@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-1-2.1"
 statement: "In ancient Israel, religion was kin-based and domestic — the 'house of the father' (bet-'av) was the basic religious unit, women were the primary practitioners of household religion, family shrines (not temples) were where most religious activity happened, and 'Book religion' was a late male clerical construction imposed on a much older family-based religion that was largely women's domain."
 confidence: "medium-high"

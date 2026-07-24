@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-8.2"
 statement: "Despite the later aniconic ideal, some Israelites depicted Yhwh visually — a 7th-century seal shows a god enthroned, and Persian-era coinage shows Yhwh on a winged wheel."
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.8"
 statement: "The conceptual unity of Ugaritic polytheism was achieved through the divine family — Israel moved toward individual divine accountability after lineage erosion."
 confidence: "low-medium"

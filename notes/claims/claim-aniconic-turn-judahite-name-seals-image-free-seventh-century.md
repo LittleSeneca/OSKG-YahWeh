@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.5"
 statement: "Judahite name seals become overwhelmingly image-free during the 7th century — the aniconic turn is visible in administrative artifacts long before the exile."
 confidence: "very-high"

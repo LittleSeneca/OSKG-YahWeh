@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.8"
 statement: "Family piety provided the experiential and conceptual resources for rebuilding official religion during the exile — personal relationship with God as parent, thanksgiving stories, and patriarchal traditions were appropriated for national theology"
 confidence: "high"

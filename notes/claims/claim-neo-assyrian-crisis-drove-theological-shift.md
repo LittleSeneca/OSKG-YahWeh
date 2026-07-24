@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.5"
 statement: "The neo-Assyrian empire's disruption of the old 'each nation has its god' world order catalyzed a new theology where Yahweh alone ruled all nations."
 confidence: "medium-high"

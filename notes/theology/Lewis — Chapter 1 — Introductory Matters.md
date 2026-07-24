@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/el, methodology, scholars/theodore-lewis, historiography, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/el, methodology, scholars/theodore-lewis, historiography, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-07-29
 claims_status: "extracted"

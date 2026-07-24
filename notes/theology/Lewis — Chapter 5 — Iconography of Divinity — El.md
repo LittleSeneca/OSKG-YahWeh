@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/el, faith/iconography, archaeology, scholars/theodore-lewis, philology, methodology, history/israel-judah, history/jerusalem, history/aniconism, faith/asherah, truth-project]
+tags: [source/book-notes, faith/el, faith/iconography, archaeology, scholars/theodore-lewis, philology, methodology, history/israel-judah, history/jerusalem, history/aniconism, faith/asherah, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-4.4"
 statement: "The ambiguity of 'asherah' in the Hebrew Bible (symbol vs goddess) is deliberate — the biblical writers were embarrassed by a Hebrew goddess but could not condemn her without tacitly acknowledging her existence, and by the time of final redaction the old Mother Goddess had been all but forgotten."
 confidence: "medium-high"

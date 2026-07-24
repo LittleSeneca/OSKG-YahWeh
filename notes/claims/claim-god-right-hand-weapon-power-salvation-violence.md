@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-12-15.1"
 statement: "God's right hand was his weapon — the source of power, salvation, and violence — and his right-handedness is part of his embodied ANE identity, not incidental imagery."
 confidence: "high"

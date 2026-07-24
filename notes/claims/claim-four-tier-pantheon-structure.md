@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.2"
 statement: "The Ugaritic pantheon had four tiers: presiding couple, major deities (royal children), craftsman gods, and messenger/servant gods."
 confidence: "medium-high"

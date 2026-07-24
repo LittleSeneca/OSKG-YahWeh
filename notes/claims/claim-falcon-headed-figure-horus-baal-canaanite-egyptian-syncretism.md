@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.6"
 statement: "The falcon-headed figure on MB IIB scarabs represents a deliberate merging of the Egyptian royal god Horus with the Canaanite weather/fertility god — ideological groundwork for Hyksos rule."
 confidence: "medium-high"

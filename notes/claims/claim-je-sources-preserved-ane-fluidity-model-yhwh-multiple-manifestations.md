@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-2.1"
 statement: "The oldest strands of biblical tradition (J and E sources) preserved the ANE fluidity model — Yhwh had multiple local manifestations, and the mal'akh was not a separate being but a small-scale manifestation of Yhwh himself"
 confidence: "medium-high"

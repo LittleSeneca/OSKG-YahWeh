@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-3.2"
 statement: "At Megiddo, female deity figurines dramatically outnumber male ones (16:6), and the weather god appears primarily in association with fertility, not battle."
 confidence: "high"

@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.4"
 statement: "The Garden of Eden story derives from El's dwelling place at the source of the rivers in Armenia, not from the Sumerian Dilmun tradition or a generic paradise myth."
 confidence: "medium-high"

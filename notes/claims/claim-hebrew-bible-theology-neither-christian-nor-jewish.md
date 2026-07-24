@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.7"
 statement: "The Hebrew Bible's theology is 'neither a Christian nor a Jewish' undertaking — though it stands in relation to both traditions."
 confidence: "low-medium"

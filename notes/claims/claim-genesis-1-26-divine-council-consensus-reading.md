@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-pro-1.4"
 statement: "Genesis 1:26 ('Let US make humankind in OUR image') reflects a polytheistic divine council where God addresses other deities — this is the scholarly consensus, not a fringe reading."
 confidence: "high"

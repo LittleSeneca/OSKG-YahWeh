@@ -12,7 +12,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-1.1"
 statement: "El was the original god of Israel; Yahweh was imported later from the south."
 confidence: "medium-high"

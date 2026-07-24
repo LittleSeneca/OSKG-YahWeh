@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.3"
 statement: "Yahweh is gendered male but not sexual — divine gender in Israel expresses authority and personal relationship rather than biology, and female imagery applied to Yahweh is metaphorical, not evidence of a suppressed goddess."
 confidence: "high"

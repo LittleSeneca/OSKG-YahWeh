@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.3"
 statement: "There was never a distinctive 'Yahweh iconography' — Yahweh was depicted THROUGH the imagery of other deities, not with his own unique visual vocabulary."
 confidence: "high"

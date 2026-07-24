@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.3"
 statement: "The prophetic books were composed by the prophets themselves, not by circles of disciples over generations — the fixity of the text and the limited historical horizons prove authorial composition."
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-4.5"
 statement: "The southern geography of the old poetry reflects a genuine tradition of Yahweh being 'at home in the land of pastoralists' — but this is about affinity with pastoralist life, not historical origin in the south."
 confidence: "medium"

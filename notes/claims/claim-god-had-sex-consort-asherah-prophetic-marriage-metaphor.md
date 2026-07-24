@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-5-8.4"
 statement: "God had sex — with his consort Asherah (as attested by Kuntillet Ajrud and Khirbet el-Qom inscriptions) and metaphorically with Israel (as depicted in Hosea 1-3 and Ezekiel 16, 23) — because the deity was understood as a sexual, married being."
 confidence: "medium-high"

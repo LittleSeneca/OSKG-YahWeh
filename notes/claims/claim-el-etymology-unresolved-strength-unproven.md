@@ -5,7 +5,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.5"
 statement: "The etymology of 'ēl/'il/ilu deriving from *'y/wl ('to be strong') is unresolved and unproven — neither confirmed nor impossible — and we should exercise great caution before accepting or using it."
 confidence: "high"

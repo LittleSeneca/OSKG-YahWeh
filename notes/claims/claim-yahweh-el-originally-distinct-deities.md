@@ -10,7 +10,7 @@ tags:
   - evidence/inscriptional
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.1"
 statement: "Yahweh and El were originally distinct deities who became amalgamated — Yahweh was a foreign import from the south who was later grafted onto the Canaanite high god El."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.1"
 statement: "Biblical monotheistic statements are overwhelmingly exilic or later — the Albright/Mosaic monotheism model is untenable because even if some passages date to the late monarchy, 'on the whole the late monarchy and exile seem to represent the general period for the emergence of monotheistic rhetoric.'"
 confidence: "very-high"

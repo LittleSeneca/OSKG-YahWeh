@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-8.4"
 statement: "Canaanite deities left an 'afterglow' in Jewish monotheism — demoted to angels, demons, and apocalyptic imagery — and it is monotheism (at first monolatry), rather than God's mighty acts in history, that most distinguishes the Old Testament from the religions of the ancient Near East."
 confidence: "high"

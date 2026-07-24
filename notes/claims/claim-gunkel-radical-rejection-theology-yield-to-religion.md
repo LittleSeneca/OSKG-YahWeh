@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-5.4"
 statement: "Gunkel articulated the most radical version of the position Schmid opposes: 'the spirit of historical scholarship' replaced inspiration doctrine, and 'theology' should yield to 'religion' because Israel was not a reflective people."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.7"
 statement: "Biblical myth exists — if the Baal Cycle is a myth, then biblical narratives about the storm-god Yahweh are mythic too; by Smith's narrower definition (narratives about divine beings comparable to the Baal Cycle), passages including Genesis 1-2, Exodus 15, Deuteronomy 32:8-27, Psalm 74, and Isaiah 14 are 'myth.'"
 confidence: "high"

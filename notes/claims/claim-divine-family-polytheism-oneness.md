@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.6"
 statement: "The divine family household provided West Semitic polytheism with its own form of 'oneness' — comparable to what monotheists associate with monotheism — and in a society where the family was the highest level of social identification, the polytheism of a divine family would have been far more intelligible than any notion of monotheism."
 confidence: "medium"

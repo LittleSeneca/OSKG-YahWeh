@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.2"
 statement: "The Amarna letters show no preeminence for El in Late Bronze Age Canaan — he was one deity among many, and the letters are too limited to reconstruct religious devotion."
 confidence: "high"

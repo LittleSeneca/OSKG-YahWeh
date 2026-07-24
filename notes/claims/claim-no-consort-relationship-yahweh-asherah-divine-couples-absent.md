@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.4"
 statement: "'Even now, we have no clear evidence for a strict partner/consort relationship between Yahweh and Asherah' — the goddess revival in Iron Age IIC produced goddesses but did NOT produce divine couples."
 confidence: "medium"

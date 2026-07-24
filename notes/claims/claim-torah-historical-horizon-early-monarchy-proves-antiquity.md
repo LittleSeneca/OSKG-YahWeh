@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.6"
 statement: "The Torah literature's historical horizon ends at the early monarchy — proving it was 'crystallized at the latest by the beginning of the monarchy.'"
 confidence: "medium"

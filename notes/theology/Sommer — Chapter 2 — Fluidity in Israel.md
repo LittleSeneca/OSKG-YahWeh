@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, methodology, history/kenite-hypothesis, history/israel-judah, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, methodology, history/kenite-hypothesis, history/israel-judah, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

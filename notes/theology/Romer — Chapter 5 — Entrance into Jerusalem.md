@@ -7,7 +7,7 @@ tags:
   - scholars/thomas-romer
   - history/kenite-hypothesis
   - history/israel-judah
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: medium
 related:

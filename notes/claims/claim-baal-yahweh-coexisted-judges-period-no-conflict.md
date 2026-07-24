@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-1.2"
 statement: "Baal and Yahweh coexisted without conflict in the Judges period; the conflict was a ninth-century development retrojected backward."
 confidence: "medium"

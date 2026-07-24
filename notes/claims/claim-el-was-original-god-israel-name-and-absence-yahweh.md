@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.1"
 statement: "El was the original god of Israel — his name in 'Israel' and the absence of Yahweh in early names demonstrate the priority of El worship over Yahweh worship."
 confidence: "very-high"

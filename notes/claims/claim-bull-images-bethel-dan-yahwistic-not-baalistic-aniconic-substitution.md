@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.7"
 statement: "The bull images at Bethel and Dan were Yahwistic, not Baalistic — and the aniconic turn begins in Iron Age IIA-IIB with the substitution of attribute animals for anthropomorphic deities."
 confidence: "high"

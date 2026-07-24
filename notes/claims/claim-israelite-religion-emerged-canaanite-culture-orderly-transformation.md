@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-pre-i.1"
 claim_format: "implicit"
 statement: "Israelite religion emerged from Canaanite culture in an orderly set of historical transformations, not as a creation ex nihilo or as a radically unique phenomenon."

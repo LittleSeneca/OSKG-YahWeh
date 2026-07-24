@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.5"
 statement: "Beth-Shean shows the most extreme case of Egyptian state religion — the Amun cult, pharaoh ideology, and near-total exclusion of goddesses from monumental art, while indigenous goddess worship survived only in cheap domestic terra-cottas."
 confidence: "high"

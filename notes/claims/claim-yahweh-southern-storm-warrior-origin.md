@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.6"
 statement: "Yahweh originated as a southern storm/warrior god (Edom/Midian/Teman/Seir/Sinai) — NOT as a title or manifestation of El — and arrived in the highlands through trade and kinship networks, taking over existing El sanctuaries."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.7.3"
 statement: "Child sacrifice (Molech) and the Queen of Heaven cult were expressions of family piety pushed to extremes by crisis conditions under Assyrian domination."
 confidence: "high"

@@ -14,7 +14,7 @@ tags:
   - history/josiah
   - history/aniconism
   - methodology
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: high
 source:

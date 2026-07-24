@@ -11,7 +11,7 @@ tags:
   - evidence/onomastic
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-2.1"
 statement: "Yhwh originated in the southern deserts (Edom/Seir/Teman), not in Canaan — the Soleb inscription (14th c. BCE) is the earliest extrabiblical attestation."
 confidence: "medium-high"

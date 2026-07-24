@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.5"
 statement: "The Fribourg school of iconographic study (Keel, Uehlinger, Schroer) transformed the field by forcing text-centric scholars to engage with visual evidence as a primary, not supplementary, source."
 confidence: "very-high"

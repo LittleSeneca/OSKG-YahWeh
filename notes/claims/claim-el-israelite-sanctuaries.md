@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.2"
 statement: "El was the original deity at major Israelite sanctuaries — Shiloh (tent tradition, incubation-dream, Elqanah's name), Shechem (El Berit = 'ilbrt at LB Ugarit), and Jerusalem (El Elyon in Gen 14) — later absorbed into Yahwistic cult."
 confidence: "high"

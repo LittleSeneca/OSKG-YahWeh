@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.8"
 statement: "The Bible's consistent misrepresentation of paganism as mere fetishism is evidence that Israelites genuinely did not understand pagan religion — not that they deliberately distorted it for polemical purposes."
 confidence: "low"

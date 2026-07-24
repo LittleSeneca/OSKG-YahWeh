@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-1.1"
 statement: "Religion must be defined by what people DO — their observable practices and material interactions with superhuman beings — not by what they believe or what theological texts prescribe; this functional, practice-based definition (following Hans Penner) is the only one that makes religion accessible to archaeological investigation."
 confidence: "high"

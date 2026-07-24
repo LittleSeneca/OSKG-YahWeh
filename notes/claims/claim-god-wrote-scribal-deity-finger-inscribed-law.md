@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-12-15.4"
 statement: "God wrote — he was a literate, scribal deity who produced texts with his finger, kept books, and conformed to the ANE pattern of scribal gods depicted with stylus and tablet."
 confidence: "high"

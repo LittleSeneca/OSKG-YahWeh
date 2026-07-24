@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.2"
 statement: "The exile produced three distinct communities with divergent interests: those who remained in the land, the Babylonian Gola (deported upper class), and the Egyptian Gola (voluntary emigrants with their own Yahweh temple at Elephantine)"
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-2.4"
 statement: "J and E sources are monotheistic, not polytheistic — their monotheism is of the fluid variety where one God has multiple bodies."
 confidence: "medium"

@@ -8,7 +8,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-4.5"
 statement: "Yahweh's imagery as cloud-rider ultimately derives from Baal's stock epithet rkb ʻrpt 'rider of the clouds,' though the widely-held equation of Ps 68:5's rōkēb bāʻărābôt with rkb ʻrpt is probably wrong."
 confidence: "high"

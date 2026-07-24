@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-foreword.1"
 statement: "The convergence/differentiation framework is the right way to understand Israelite religious development."
 confidence: "high"

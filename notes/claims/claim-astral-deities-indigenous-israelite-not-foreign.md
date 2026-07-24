@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-3.4"
 statement: "Astral deities belonged to El's indigenous Israelite cult — their later condemnation as 'foreign' worship rewrites history."
 confidence: "medium-high"

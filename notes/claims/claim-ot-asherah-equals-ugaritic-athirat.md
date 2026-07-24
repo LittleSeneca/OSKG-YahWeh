@@ -9,7 +9,7 @@ tags:
   - evidence/philological
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-2.2"
 statement: "OT Asherah = Ugaritic Athirat (El's consort) — the equation is secure based on phonetic, structural, and theological evidence"
 confidence: "high"

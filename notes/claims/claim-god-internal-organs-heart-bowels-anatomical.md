@@ -7,7 +7,7 @@ tags:
   - evidence/philological
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-9-11.2"
 statement: "God had internal organs — heart, lungs/breath, bowels/womb, and belly — described in anatomically specific Hebrew terms, making his interior as embodied as his exterior."
 confidence: "high"

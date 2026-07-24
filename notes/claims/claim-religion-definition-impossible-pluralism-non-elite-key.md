@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.1"
 statement: "Defining religion is a perennial problem with no solution; the two most important modern developments are recognizing internal religious pluralism and focusing on non-elite religion."
 confidence: "very-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.2"
 statement: "Wellhausen's synthesis dominated the field not because it was original but because it was brilliantly written — and it was philosophically loaded with anti-Judaism and social Darwinism."
 confidence: "very-high"

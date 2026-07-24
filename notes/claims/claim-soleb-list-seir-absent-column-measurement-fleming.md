@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-summary.1"
 statement: "Seir was probably NOT in the original Amenhotep III Soleb list — the column measurement argument shows N4 has room for only 9 names, not 10, eliminating the sole geographical anchor for Yhwʒ."
 confidence: "medium"

@@ -7,7 +7,7 @@ tags:
   - scholars/thomas-romer
   - philology
   - history/kenite-hypothesis
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: medium
 related:

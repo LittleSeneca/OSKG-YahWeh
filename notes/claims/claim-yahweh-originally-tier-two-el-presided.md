@@ -9,7 +9,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.4"
 statement: "Psalm 82 and Deuteronomy 32:8-9 preserve an older theology where Yahweh was originally in the second tier — one of El's sons, not the head god."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.7.2"
 statement: "Assyrian religious practices were enthusiastically adopted at the family level — roof-top cults, astral worship, incense/libation rituals, and professional manticism."
 confidence: "medium"

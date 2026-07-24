@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.5.4"
 statement: "Jehu's revolution (c. 842 BCE) was the first time Yahwism showed its 'intolerance' — a coalition of prophets, conservatives, and military officers brutally exterminated the Omrides and destroyed Baal worship."
 confidence: "high"

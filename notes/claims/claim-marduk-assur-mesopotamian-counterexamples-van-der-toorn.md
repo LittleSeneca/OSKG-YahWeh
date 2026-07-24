@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.3"
 statement: "Mesopotamian analogies (Marduk, Assur, Itur-Mer) disprove van der Toorn's objection that a major deity cannot originate from identification with a limited people — Marduk and Assur both began as local city-gods and became pantheon heads."
 confidence: "high"

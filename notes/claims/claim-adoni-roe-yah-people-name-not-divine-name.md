@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.6"
 statement: "The personal name 'adōnī-rō'ē-yāh ('My Lord is the Shepherd of Yah') confirms Yhw3 as a people-name, not a divine name."
 confidence: "medium"

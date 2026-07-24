@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, theology/divine-embodiment, scholars/francesca-stavrakopoulou, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, theology/divine-embodiment, scholars/francesca-stavrakopoulou, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 related: ["[[Stavrakopoulou — Part II — Genitals]]", "[[Stavrakopoulou — Part IV — Arms and Hands]]", "[[Sommer — Chapter 1 — Mesopotamia and Canaan]]", "[[Sommer — The Bodies of God]]"]

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.6"
 statement: "For reconstructing folk religion, archaeology — not texts — is the primary source: the Hebrew Bible represents the theology of a literate elite, while artifacts (figurines, cult stands, altars, inscriptions from the ground) reveal what ordinary people actually did, and the archaeologist's method must be descriptive (what happened) not prescriptive (what should have happened)."
 confidence: "medium-high"

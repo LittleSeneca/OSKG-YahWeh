@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.4"
 statement: "Biblical 'idolatry' was not genuine mythological polytheism — foreign elements did not play a substantial, creative role in the formation of popular Israelite culture."
 confidence: "low"

@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.3"
 statement: "The Ugaritic discoveries had a more profound impact on the study of Israelite religion than any other manuscript discovery of the 20th century — including the Dead Sea Scrolls."
 confidence: "high"

@@ -9,7 +9,7 @@ tags:
   - evidence/onomastic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.7"
 statement: "El, not Yahweh, was likely the original god of the Exodus — the Balaam oracles (Num 23-24) associate the Exodus with El ('horns like a wild ox' = Bull El), and Exodus 6:2-3 explicitly acknowledges the patriarchs knew El Shadday, not Yahweh."
 confidence: "medium"

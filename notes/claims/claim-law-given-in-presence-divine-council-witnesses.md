@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-21.1"
 statement: "The Law was given at Sinai in the presence of the divine council — they were witnesses to the covenant, not merely a private revelation to Moses."
 confidence: "high"

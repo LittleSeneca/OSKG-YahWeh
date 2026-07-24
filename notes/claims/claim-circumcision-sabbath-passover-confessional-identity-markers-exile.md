@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.9"
 statement: "Circumcision, sabbath, and passover were transformed during the exile from family customs into confessional identity markers — creating a portable religious rhythm that functioned without temple, priesthood, or state"
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.1"
 statement: "'Theology' originates in Greek philosophy as a derogatory term meaning myth or mythology — not systematic doctrine."
 confidence: "very-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.1"
 statement: "The fall of Jerusalem was not caused by exceptional moral decay — Judah was not uniquely corrupt; theodicy, not historical fact, produced the doctrine of Judah's sin."
 confidence: "medium"

@@ -5,7 +5,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.3"
 statement: "Oath formulas, cave graffiti, temple vessel inscriptions, amulets, and miscellaneous texts all confirm the pattern: across every genre of pre-exilic Hebrew inscription, the deity invoked is YHWH alone."
 confidence: "high"

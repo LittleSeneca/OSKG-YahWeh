@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-intro.3"
 statement: "The 'history of Israelite religion' is the more meaningful comprehensive Old Testament discipline, superior to 'Old Testament theology,' because it matches the historical structure of the OT, takes seriously that religious statements cannot be separated from their background, and describes a dialogical process rather than forcing contradictory statements into abstraction."
 confidence: "medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-ep.5"
 statement: "Monotheism defeated paganism through inner ideological strength — propaganda, preaching, and missionaries — not through military conquest."
 confidence: "medium"

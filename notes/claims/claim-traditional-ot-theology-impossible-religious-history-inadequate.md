@@ -8,7 +8,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.1"
 statement: "Traditional OT theology is impossible because the texts are too divergent for a single synthesis, but replacing it with mere religious history is also inadequate."
 confidence: "high"

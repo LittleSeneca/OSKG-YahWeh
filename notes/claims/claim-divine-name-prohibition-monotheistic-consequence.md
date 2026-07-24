@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-1.2"
 statement: "The prohibition on pronouncing the divine name was a consequence of monotheistic theology — a god with a proper name is a god among gods."
 confidence: "high"

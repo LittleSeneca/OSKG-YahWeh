@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-10-12-13.5"
 statement: "The Septuagint's placement of prophets at the END likely serves Christian theological interests — prophecy → fulfillment."
 confidence: "medium"

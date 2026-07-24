@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-10.3"
 statement: "Isaiah 44 reuses older Israelite tradition — Deuteronomy 32's 'no other god' polemic and First Isaiah's oracles against Babylon — as insider referentiality; monotheistic rhetoric depends on textual tradition, making it a scribal phenomenon built from existing literary resources."
 confidence: "medium-high"

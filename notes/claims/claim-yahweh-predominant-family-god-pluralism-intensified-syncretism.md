@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.7.1"
 statement: "The late monarchy saw contradictory developments in family piety — Yahweh became the predominant family god (80% of names), but religious pluralism intensified, not decreased."
 confidence: "high"

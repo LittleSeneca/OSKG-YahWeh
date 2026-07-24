@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-2.2"
 statement: "Yhwh had distinct local manifestations — 'Yhwh of Samaria,' 'Yhwh of Teman,' 'Yhwh of Hebron' — paralleling the multiple Ishtars and Baals of ANE practice; this is fluid monotheism, not polytheism."
 confidence: "medium-high"

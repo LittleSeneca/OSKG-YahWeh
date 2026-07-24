@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-5-8.2"
 statement: "God's masculinity was performed through phallic imagery — his 'right hand' and 'holy arm' are phallic proxies, his 'mighty deeds' are displays of masculine potency, and his 'glory' (kavod) connotes both luminous radiance and the bodily 'weight' of male honor."
 confidence: "medium-high"

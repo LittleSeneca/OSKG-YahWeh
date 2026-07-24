@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-5.1"
 statement: "The vocalization 'Ashtoreth' in the OT is a deliberate scribal distortion using the vowels of bošet ('shame'), the same polemical device applied to Baal names."
 confidence: "very-high"

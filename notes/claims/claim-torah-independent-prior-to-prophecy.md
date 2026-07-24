@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.1"
 statement: "The Torah-group literature is independent of, and chronologically prior to, literary prophecy — it is the product of the earliest stage of Israelite religion."
 confidence: "medium-high"

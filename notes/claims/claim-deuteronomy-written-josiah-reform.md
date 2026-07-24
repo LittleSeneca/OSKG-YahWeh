@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-11.1"
 statement: "The 'book of the law' discovered in the temple during Josiah's renovation was Deuteronomy — written to promote Josiah's centralizing reform."
 confidence: "very-high"

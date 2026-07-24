@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.10"
 statement: "The rift between ideal and reality was social, not religious — classical prophecy was born from social cleavage and exploitation, not from combatting genuine paganism."
 confidence: "medium"

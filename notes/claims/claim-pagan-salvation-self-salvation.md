@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.7"
 statement: "The pagan 'way to salvation' is self-salvation — man saves himself through knowledge, cult, or philosophy; the gods are at best helpers, not saviors."
 confidence: "medium-high"

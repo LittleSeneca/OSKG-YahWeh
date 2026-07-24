@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.7"
 statement: "The family/patrimonial household model fits the Ugaritic pantheon better than the bureaucratic model — familial terminology dominates and bureaucratic figures are absent."
 confidence: "medium-high"

@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-foreword.2"
 statement: "Asherah was probably a cult symbol, not a goddess, in monarchic Israel."
 confidence: "medium"

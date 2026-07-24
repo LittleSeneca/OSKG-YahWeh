@@ -9,7 +9,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-7.5"
 statement: "Postexilic Judah consolidated an aniconic solar-Yahwism — lion stamp seals potentially symbolize Yahweh with solar connotations, terra-cotta figurine production vanished, and sharp cultic boundaries now coincided with political boundaries, marking the material-culture endpoint of the deuteronomistic program."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-1-2.3"
 statement: "Among recent scholars of Israelite religion, Zevit (The Religions of Ancient Israel, 2001) and Keel/Uehlinger (Gods, Goddesses, and Images of God, 1998) represent the best methodological models because they integrate archaeological and iconographic evidence as primary data rather than treating it as supplementary to texts — and text-only scholars like Smith are methodologically incomplete."
 confidence: "medium"

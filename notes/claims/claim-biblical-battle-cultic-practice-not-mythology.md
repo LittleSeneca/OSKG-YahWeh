@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.1"
 statement: "The Bible fights cultic practice, not mythological belief — the prophets' battle with idolatry restricts itself entirely to matters of practice, rites, and cults; there is no battle over the mythological conception of deity."
 confidence: "medium-high"

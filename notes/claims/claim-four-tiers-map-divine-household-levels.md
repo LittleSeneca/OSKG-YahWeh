@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-3.1"
 statement: "The four tiers of the pantheon map directly to the four levels of the divine household — the social terminology is identical across mythological and administrative texts."
 confidence: "high"

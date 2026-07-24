@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.3"
 statement: "The pre-monarchic tribal league was a 'kingdom of God' — a theocracy led by charismatic apostle-saviors (judges), fundamentally different from Greek amphictyony."
 confidence: "medium"

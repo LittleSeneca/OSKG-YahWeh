@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/divine-council, conquest, genesis-6, scholars/michael-heiser, methodology, history/kenite-hypothesis, truth-project]
+tags: [source/book-notes, faith/divine-council, conquest, genesis-6, scholars/michael-heiser, methodology, history/kenite-hypothesis, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 4 — Yahweh and His Portion]]", "[[Heiser — Part 6 — Thus Says the Lord]]", "[[Cross — Parts II-III — Divine Warrior and League]]", "[[Day — Chapter 3 — Yahweh Versus Baal]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]"]

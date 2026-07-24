@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-5-8.3"
 statement: "Circumcision marked Israelite males as belonging to a god with a penis — the covenant sign is on the male organ because the deity HAS a male organ, and cutting the foreskin made Israelite males in the image of their circumcised god."
 confidence: "medium-high"

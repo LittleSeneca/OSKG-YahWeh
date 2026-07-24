@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-summary.3"
 statement: "Yhwʒ in the Egyptian Soleb and Amara lists is a Shasu people-name, not a divine name — the verbal form y-h-wʒ fits the pattern of Amorite shortened personal names."
 confidence: "medium"

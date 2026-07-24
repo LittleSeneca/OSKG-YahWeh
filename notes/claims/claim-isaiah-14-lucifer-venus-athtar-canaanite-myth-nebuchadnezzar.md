@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-6.5"
 statement: "Isaiah 14:12-15 ('Lucifer') reflects a Canaanite myth of Athtar/Venus attempting to usurp Baal's throne on Mt Zaphon, applied polemically to Nebuchadnezzar's destruction of Jerusalem in 586 BCE."
 confidence: "medium-high"

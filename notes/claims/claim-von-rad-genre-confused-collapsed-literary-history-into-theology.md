@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.4"
 statement: "Von Rad's Old Testament Theology was epoch-making but genre-confused — it collapsed literary history into theology."
 confidence: "high"

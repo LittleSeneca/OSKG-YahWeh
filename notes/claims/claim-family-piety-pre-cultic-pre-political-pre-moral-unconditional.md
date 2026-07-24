@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.1.3"
 statement: "Family piety was characterized by unconditional divine care, short time-horizons, female religious experience, and a striking absence of warlike, ethical, or cultic-elaborated features — it was 'pre-cultic, pre-political and pre-moral.'"
 confidence: "medium"

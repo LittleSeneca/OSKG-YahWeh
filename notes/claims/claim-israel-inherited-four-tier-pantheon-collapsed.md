@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.3"
 statement: "Israel inherited the four-tier pantheon with Yahweh and Asherah at the top, but it collapsed through convergence — the second tier was reduced to vestiges."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-5-6.1"
 statement: "The tension between fluid and anti-fluid theologies was present from the beginning of Israelite religion — it was not a tidy chronological development from one to the other."
 confidence: "high"

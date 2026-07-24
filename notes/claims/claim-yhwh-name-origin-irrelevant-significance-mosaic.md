@@ -5,7 +5,7 @@ tags:
   - evidence/grammatical
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.7"
 statement: "The etymology of YHWH is irrelevant — what matters is that from Moses onward, YHWH functioned as the symbol of the monotheistic idea."
 confidence: "medium"

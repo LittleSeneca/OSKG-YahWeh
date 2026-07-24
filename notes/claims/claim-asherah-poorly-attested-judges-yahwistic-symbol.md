@@ -9,7 +9,7 @@ tags:
   - evidence/iconographic
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-1.4"
 statement: "Asherah as a goddess is poorly attested in the Judges period; the asherah was a Yahwistic cult symbol."
 confidence: "low"

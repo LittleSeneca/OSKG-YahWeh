@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-pre-i.2"
 claim_format: "implicit"
 statement: "The patriarchs worshipped a deity distinct from both Canaanite El and later Yahwistic religion — a personal clan god identified by the patriarch's name ('God of the Fathers')."

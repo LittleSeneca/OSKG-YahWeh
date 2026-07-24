@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.4"
 statement: "El did NOT disappear in the Iron Age — the onomastic and inscriptional evidence shows ongoing El worship across the Levant."
 confidence: "very-high"

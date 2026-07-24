@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-11.1"
 statement: "The serpent's temptation in Eden — 'you will be like *elohim*' — was a genuine promise of divine status: access to the divine council, not merely moral knowledge of good and evil."
 confidence: "medium"

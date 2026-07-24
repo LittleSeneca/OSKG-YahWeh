@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, archaeology, scholars/rainer-albertz, history/josiah, faith/polytheism, truth-project, prophets]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/israel-judah, archaeology, scholars/rainer-albertz, history/josiah, faith/polytheism, oskg-yahweh, prophets]
 created: 2026-07-22
 confidence: medium
 source:

@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.6"
 statement: "The survey begins with Middle Bronze IIB (from 1750 BCE) because that's when a continuous cultural and iconographic tradition begins in Palestine — extending to the emergence of the Hebrew Bible, implying Israelite religion developed within a Canaanite matrix."
 confidence: "medium-high"

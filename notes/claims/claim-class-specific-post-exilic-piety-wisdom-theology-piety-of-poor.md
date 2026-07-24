@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.6"
 statement: "The social crisis of the fifth century split the post-exilic community, producing class-specific forms of personal piety — 'theologized wisdom' for the pious upper class (Job, Proverbs 1-9) and 'piety of the poor' for the lower class (certain psalms)."
 confidence: "low-medium"

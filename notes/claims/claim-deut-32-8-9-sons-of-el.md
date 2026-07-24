@@ -10,7 +10,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.4"
 statement: "Deuteronomy 32:8-9 (LXX/4QDeutj) preserves an older polytheistic theology — Yahweh was one of the 'sons of El' who received Israel as his allotment under Elyon; the MT changed 'sons of El' to 'sons of Israel' reflecting discomfort with the polytheistic implications."
 confidence: "very-high"

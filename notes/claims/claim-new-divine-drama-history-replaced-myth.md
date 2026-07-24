@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.5"
 statement: "Israelite religion created a 'new divine drama' in which the conflict is not between gods (mythological) but between the will of God and the defiance of man (historical-moral) — history replaced myth."
 confidence: "medium"

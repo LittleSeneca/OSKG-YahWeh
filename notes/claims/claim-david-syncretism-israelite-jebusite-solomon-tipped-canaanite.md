@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.2"
 statement: "David's religious policy was a deliberate syncretism between Israelite and Jebusite traditions; Solomon tipped the balance toward the Jebusite/Canaanite side."
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-5.4"
 statement: "The Kuntillet Ajrud and Khirbet el-Qom inscriptions ('Yhwh and his Asherah') are unambiguous evidence that Asherah was Yhwh's consort goddess — not merely a cult symbol — and the grammatical argument for 'his asherah' as a symbol fails in light of the archaeological context."
 confidence: "medium-high"

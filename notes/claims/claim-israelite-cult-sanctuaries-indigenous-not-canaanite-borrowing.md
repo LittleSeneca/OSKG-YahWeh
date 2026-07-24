@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.4"
 statement: "Israelite cult sites and sanctuaries were indigenous YHWHistic creations — not Canaanite borrowings — with sanctity deriving from patriarchal revelations, not primordial divine dwelling."
 confidence: "medium"

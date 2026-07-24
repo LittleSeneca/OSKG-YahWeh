@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-5.2"
 statement: "The Ugaritic enthroned ʾIlu figurines and bull imagery provide a clear iconographic template — but this template was NOT continued in Israel."
 confidence: "high"

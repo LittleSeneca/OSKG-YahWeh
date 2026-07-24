@@ -14,7 +14,7 @@ tags:
   - history/exile
   - faith/asherah
   - faith/polytheism
-  - truth-project
+  - oskg-yahweh
 claims_status: "extracted"
 claims_extracted_date: 2026-08-04
 claims_count: 4

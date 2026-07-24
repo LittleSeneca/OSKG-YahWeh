@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

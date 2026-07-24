@@ -1,6 +1,6 @@
 ---
 tags:
-  - truth-project
+  - oskg-yahweh
   - notes
   - index
 created: 2026-07-22

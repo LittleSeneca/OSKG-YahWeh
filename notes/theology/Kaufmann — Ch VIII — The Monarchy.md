@@ -11,7 +11,7 @@ tags:
   - historiography
   - methodology
   - scholars/yehezkel-kaufmann
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-07-28
 confidence: medium

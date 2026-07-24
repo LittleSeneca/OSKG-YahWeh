@@ -9,7 +9,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-6.1"
 statement: "The biblical picture of pure Yahwism in the monarchy period is Deuteronomistic propaganda retrojected from the 6th century BCE onto earlier centuries."
 confidence: "high"

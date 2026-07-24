@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.5"
 statement: "The biblical ban on magic and divination is fundamentally different from pagan bans — it is a blanket prohibition rooted in monotheistic logic, making no distinction between 'white' and 'black' magic."
 confidence: "medium-high"

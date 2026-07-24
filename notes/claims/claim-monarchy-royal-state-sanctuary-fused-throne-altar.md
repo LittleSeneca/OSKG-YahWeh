@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.1"
 statement: "The monarchy created a fundamentally new type of cult — the royal state sanctuary — which fused throne and altar and began the centralization that would culminate in Deuteronomy."
 confidence: "high"

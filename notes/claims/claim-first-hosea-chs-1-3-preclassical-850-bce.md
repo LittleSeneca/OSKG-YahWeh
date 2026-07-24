@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.5"
 statement: ""First Hosea" (chs 1-3) is pre-classical prophecy from the time of Jehoram (~850 BCE), not the 8th century."
 confidence: "medium"

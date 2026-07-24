@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.2"
 statement: "The ten 'am Yhwh texts in the Bible fall into two distinct clusters — five late congregational (post-monarchic) and five political (possibly old) — with the political ones presenting 'am Yhwh as an entity distinct from Israel."
 confidence: "medium"

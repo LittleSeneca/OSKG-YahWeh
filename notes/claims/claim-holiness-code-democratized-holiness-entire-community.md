@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-10.3"
 statement: "The Holiness Code (H) represents a radical counter-tradition to P — holiness is extended to the ENTIRE community, not just priests, encompassing cultic, economic, judicial, moral, and social parameters, grounded in imitatio Dei: 'You shall be holy, for I Yahweh your God am holy.'"
 confidence: "very-high"

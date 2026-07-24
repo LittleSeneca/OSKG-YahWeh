@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.1-3.2.6"
 statement: "The Succession Narrative and History of David's Rise represent 'mediating positions' — humanizing the king to make him acceptable to tribal Israelite values."
 confidence: "low-medium"

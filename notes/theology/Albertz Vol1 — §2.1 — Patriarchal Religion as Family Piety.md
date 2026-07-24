@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/family-religion, scholars/rainer-albertz, archaeology, methodology, history/kenite-hypothesis, history/merneptah, history/josiah, history/exile, faith/el, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/polytheism, faith/family-religion, scholars/rainer-albertz, archaeology, methodology, history/kenite-hypothesis, history/merneptah, history/josiah, history/exile, faith/el, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

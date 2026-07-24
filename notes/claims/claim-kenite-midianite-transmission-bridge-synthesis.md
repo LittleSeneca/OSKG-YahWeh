@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-2-3.2"
 statement: "The Kenite/Midianite hypothesis is the best explanation for how Yhwh moved from the southern deserts to Israel — Moses' Midianite connection preserves a historical memory of this transmission."
 confidence: "medium"

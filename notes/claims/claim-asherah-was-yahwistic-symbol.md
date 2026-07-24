@@ -10,7 +10,7 @@ tags:
   - evidence/archaeological
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-3.1"
 statement: "The asherah was a Yahwistic cult symbol throughout monarchic Israel, not evidence of a separate goddess cult"
 confidence: "high"

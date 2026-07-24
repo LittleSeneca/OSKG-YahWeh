@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.2"
 statement: "Classical prophecy ends before apocalyptic — the complete absence of historical 'perspective visions' in the prophetic corpus proves the two are essentially different literary phenomena, not a gradual evolution."
 confidence: "medium-high"

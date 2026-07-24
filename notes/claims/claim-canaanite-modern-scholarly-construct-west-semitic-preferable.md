@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.2"
 statement: "'Canaanite' is a misleading modern scholarly construct that flattens diversity — Ugaritic is not Canaanite linguistically or culturally, and 'West Semitic' is a preferable category that preserves the relevance of Ugaritic texts while acknowledging the problems with the older label."
 confidence: "high"

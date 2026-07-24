@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.8"
 statement: "The Torah was sealed and canonized before prophetic literature was even ordered — making the entire Torah 'a testimony to the first age of Israelite religion, the age prior to literary prophecy.'"
 confidence: "low"

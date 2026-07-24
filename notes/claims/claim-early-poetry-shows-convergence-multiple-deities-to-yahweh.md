@@ -11,7 +11,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-1.3"
 statement: "Israel's early poetry shows convergence — multiple deities' imagery applied to Yahweh."
 confidence: "high"

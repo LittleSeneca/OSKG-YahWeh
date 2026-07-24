@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-2-4.3"
 statement: "God used his feet as weapons to crush enemies and as property markers to claim ownership — in the ancient Near East, feet communicated ownership and identity, and Yahweh's feet stamped his authoritative presence onto the world."
 confidence: "high"

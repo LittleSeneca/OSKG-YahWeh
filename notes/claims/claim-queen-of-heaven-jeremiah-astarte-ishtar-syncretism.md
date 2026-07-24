@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-5.4"
 statement: "The 'Queen of Heaven' in Jeremiah is most likely Astarte, possibly in syncretism with her Mesopotamian equivalent Ishtar."
 confidence: "medium-high"

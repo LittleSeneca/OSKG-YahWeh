@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-intro.2"
 statement: "Baal and Asherah worship was indigenous Israelite religion, not foreign syncretism."
 confidence: "medium-high"

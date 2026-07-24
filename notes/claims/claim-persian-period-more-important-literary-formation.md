@@ -8,7 +8,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.6"
 statement: "The Persian period is MORE important for the literary formation of the Hebrew Bible — the absence of Hebrew inscriptions reflects Hebrew's shift to a literary language, not an absence of textual production."
 confidence: "medium-high"

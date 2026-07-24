@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.9"
 statement: "Divine conflict mythology encodes not only political power (Mendenhall's dictum) but also political weakness, desperation, and communal hope — Psalm 74 appeals to divine strength at a moment of perceived divine weakness, and Genesis 1's divine mastery stands 'in inverse relation to the political status of the text's author(s)' under imperial pressure."
 confidence: "medium-high"

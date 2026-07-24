@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.3"
 statement: "Genesis 1:26 inverts Ezekiel 1:26 — the Priestly writer reverses the prophet's reduction of anthropomorphism (Ezekiel reduces God to human terms) to magnify humanity instead (humanity elevated to divine image), with the selem/demut vocabulary also functioning as implicit anti-idol polemic."
 confidence: "medium-high"

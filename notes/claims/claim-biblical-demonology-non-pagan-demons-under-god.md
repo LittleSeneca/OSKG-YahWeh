@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.3"
 statement: "Biblical demonology is non-pagan — the old gods did not become demons in Israel; demons are under God's control and evil comes from sin, not a metaphysical principle."
 confidence: "medium-high"

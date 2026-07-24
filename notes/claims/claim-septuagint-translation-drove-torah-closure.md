@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-10-12-13.4"
 statement: "The Septuagint likely drove the CLOSURE of the Hebrew Torah — a translated Torah can't be extended."
 confidence: "medium"

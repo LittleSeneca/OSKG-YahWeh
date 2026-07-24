@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.2"
 statement: "Post-exilic Judah was NOT a theocracy — it was a Persian province with limited self-administration that borrowed from pre-state tribal structures, governed by a dual body of lay elders and priests under a Persian governor (pehah)."
 confidence: "medium-high"

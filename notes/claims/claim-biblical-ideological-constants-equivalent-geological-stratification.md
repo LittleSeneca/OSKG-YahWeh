@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.6"
 statement: "The Bible's internal ideological consistency is the literary equivalent of geological stratification — as conclusive as material remains of buildings, inscriptions, and pottery."
 confidence: "low-medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.2"
 statement: "The 'Lord of the Ostriches' is the dominant indigenous male deity in Iron Age IIA glyptic, and his steppe/desert associations align with early Yahweh traditions from Seir, Paran, Teman, and Midian."
 confidence: "medium"

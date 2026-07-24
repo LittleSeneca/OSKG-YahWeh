@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.8"
 statement: "Hosea was the first to condemn militarism and the power state as religious-moral sins — the father of all Utopians who believe in the power of love to bring salvation."
 confidence: "medium"

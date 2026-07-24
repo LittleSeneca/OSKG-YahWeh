@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.1"
 statement: "Yahweh was NOT originally a storm god or young warrior — these associations are secondary traits acquired later, not original to his earliest character."
 confidence: "medium"

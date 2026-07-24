@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-intro.9"
 statement: "Monotheism in ancient Israel functioned as a rhetoric expressing and advancing the cause of Israelite monolatrous practice — not as a 'religious stage' or philosophical position — and modern scholarly discussions have reified the idea of monotheism and disconnected it from its larger religious context."
 confidence: "medium-high"

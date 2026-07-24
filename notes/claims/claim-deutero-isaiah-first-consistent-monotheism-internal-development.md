@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.10"
 statement: "Deutero-Isaiah was the first to formulate consistent monotheism — as an internal Judahite theological development, not borrowed from Persian or Babylonian sources, driven by the logic of proclaiming Yahweh's universal power in history"
 confidence: "medium"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.10"
 statement: "Israel's new eschatology emerged during the Aramaean wars (9th-8th centuries) — Israel's first confrontation with the possibility of national destruction, well before the Babylonian exile."
 confidence: "medium"

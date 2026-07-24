@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.4"
 statement: "The Soleb and 'Amarah West Shasu lists derive from a single moment of Egyptian contact with the Shasu — one administrative-military encounter."
 confidence: "medium"

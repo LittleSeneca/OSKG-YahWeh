@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.4"
 statement: "The henotheism/monolatry framework is the wrong question — Israelite religion was never mythological polytheism, and the Bible nowhere denies the existence of other gods; it ignores them."
 confidence: "medium"

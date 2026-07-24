@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.6"
 statement: "The conquest-settlement period had a genuine eschatological quality — ancient promises were being fulfilled, making it 'the end of days.'"
 confidence: "low-medium"

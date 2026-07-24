@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.6"
 statement: "The pagan cult is intrinsically and automatically efficacious — it operates on the gods AND the metadivine realm, and the gods themselves use it for their own needs."
 confidence: "high"

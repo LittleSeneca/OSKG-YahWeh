@@ -9,7 +9,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-7.2"
 statement: "During Iron Age III, the Phoenician coastal economy sustained 'Canaanite' polytheistic traditions through Egyptian and Greek channels — Isis-mother imagery dominated, and Greek influence introduced a sharp gender-role separation with warrior/athlete males and deified motherhood for females."
 confidence: "high"

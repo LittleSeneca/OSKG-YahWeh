@@ -5,7 +5,7 @@ tags:
   - faith/monotheism
   - faith/polytheism
   - faith/deconstruction
-  - truth-project
+  - oskg-yahweh
   - capstone
 created: 2026-07-22
 updated: 2026-07-22

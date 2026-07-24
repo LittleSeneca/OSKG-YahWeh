@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.4"
 statement: "Biblical cosmogony lacks the metadivine realm and pre-existent divine stuff — creation is by fiat, not from primordial substance, and even where pre-existent matter appears it is vestigial and non-essential."
 confidence: "medium"

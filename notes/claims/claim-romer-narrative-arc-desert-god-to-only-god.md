@@ -12,7 +12,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-12.2"
 statement: "Römer's 12-chapter narrative traces Yhwh's progression from a southern desert war-god to the sole universal God — a contingent, political, scribal process."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.5"
 statement: "The Jerusalem Temple iconography is gender-neutral and royal — the goddess is structurally absent from its decorative program, and the goddess's symbols have been re-semanticized as royal blessing motifs."
 confidence: "medium-high"

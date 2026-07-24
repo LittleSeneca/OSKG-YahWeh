@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.6"
 statement: "Even in court-connected circles during the time of Manasseh — the king the Bible condemns most severely for polytheism — the inscriptional evidence indicates that polytheism attracted few adherents."
 confidence: "medium-high"

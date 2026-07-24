@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.5"
 statement: "Protestant orthodoxy of the 16th-17th centuries returned to scholastic systematizing, treating the Bible as a prooftext quarry via the dicta probantia method."
 confidence: "high"

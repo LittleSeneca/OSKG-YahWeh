@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-7.2"
 statement: "Yhwh was not Jerusalem's original god; he rose to supremacy gradually, competing with a solar deity and absorbing the identity of El Elyon."
 confidence: "high"

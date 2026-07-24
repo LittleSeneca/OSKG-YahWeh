@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.9"
 statement: "The non-pagan features of Israelite religion are present in the earliest biblical strata — this is not the product of later editing but an instinctive, organic feature of the earliest traditions."
 confidence: "medium"

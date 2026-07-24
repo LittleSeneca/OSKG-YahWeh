@@ -8,7 +8,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.2"
 statement: "True monotheism requires denying the EXISTENCE of other gods, not just their worship — the Shema (Deut 6:4) and First Commandment are monolatrous, not monotheistic, and the common inclusion of them as monotheistic texts is incorrect."
 confidence: "high"

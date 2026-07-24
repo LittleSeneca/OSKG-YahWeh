@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-pro-1.3"
 statement: "The incorporeal, immaterial God of Western theism is a Greek philosophical invention (Plato, Aristotle, Xenophanes) imported into Judaism and Christianity, not a biblical idea."
 confidence: "high"

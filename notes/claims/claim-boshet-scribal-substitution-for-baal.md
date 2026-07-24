@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.4"
 statement: "Bošet ('shame') was deliberately substituted for Baal in personal names by later scribes — Ish-bosheth (for Eshbaal), Mephibosheth (for Meribaal), and Jerubbesheth (for Jerubbaal) — as part of a targeted theological editing program."
 confidence: "very-high"

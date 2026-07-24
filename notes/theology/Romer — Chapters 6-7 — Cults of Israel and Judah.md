@@ -7,7 +7,7 @@ tags:
   - archaeology
   - history/jerusalem
   - history/josiah
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

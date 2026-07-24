@@ -6,7 +6,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.3"
 statement: "Ugaritic binomial divine names (Kothar wa-Hasis, Shahar and Shalim) reflect priestly theological reflection on divine interrelations, not fusion of originally separate deities."
 confidence: "medium"

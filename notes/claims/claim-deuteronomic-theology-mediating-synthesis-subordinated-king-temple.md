@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.8.2"
 statement: "Deuteronomic theology was a mediating theology that synthesized pre-state liberation traditions with state institutions, decisively subordinating kingship and temple to the law through 'name theology' and constitutional monarchy"
 confidence: "high"

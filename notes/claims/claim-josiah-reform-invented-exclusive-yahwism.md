@@ -9,7 +9,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-11.2"
 statement: "Josiah's reform invented exclusive Yahwism — it did not restore an original purity."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-5.4"
 statement: "Jeroboam I's bull images at Bethel and Dan were likely El images — part of a strategy to 'out-archaize' David by appealing to venerable El traditions."
 confidence: "medium"

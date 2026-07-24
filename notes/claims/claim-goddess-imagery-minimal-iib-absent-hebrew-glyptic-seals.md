@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.1"
 statement: "Anthropomorphic goddess imagery is extremely rare in Iron Age IIB Israel and Judah — and completely absent from Hebrew glyptic art, including Hebrew name seals."
 confidence: "high"

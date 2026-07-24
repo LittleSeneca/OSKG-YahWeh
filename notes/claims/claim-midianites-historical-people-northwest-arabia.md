@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-3.2"
 statement: "The Midianites were a real historical people in northwestern Arabia who may have mediated Yhwh worship to Israel."
 confidence: "medium-high"

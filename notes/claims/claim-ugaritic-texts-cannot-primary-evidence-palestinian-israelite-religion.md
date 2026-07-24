@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.7"
 statement: "Using Ugaritic or other northern Syrian texts to interpret Palestinian/Israelite religion is methodologically unsound — the primary comparative context must be local Canaanite evidence, with Ugaritic parallels used only after local correlates are established."
 confidence: "medium"

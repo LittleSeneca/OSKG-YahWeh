@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-3.2"
 statement: "CAT 4.360 provides a direct social parallel — its household terminology matches the divine household structure exactly."
 confidence: "very-high"

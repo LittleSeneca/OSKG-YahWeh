@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/kenite-hypothesis, history/israel-judah, history/jerusalem, history/josiah, history/aniconism, faith/asherah, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/kenite-hypothesis, history/israel-judah, history/jerusalem, history/josiah, history/aniconism, faith/asherah, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

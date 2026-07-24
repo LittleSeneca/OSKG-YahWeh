@@ -9,7 +9,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-4.2"
 statement: "The OT dragon/sea conflict (Leviathan, Rahab, Yam) derives from Baal's defeat of Yam/Leviathan in Canaanite mythology, not from the Babylonian Marduk/Tiamat conflict."
 confidence: "very-high"

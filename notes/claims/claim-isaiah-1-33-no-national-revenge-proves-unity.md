@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.1"
 statement: "Isaiah 1-33 bears a unique ideological stamp — the absence of national revenge — that proves it didn't result from centuries of accretion."
 confidence: "medium-high"

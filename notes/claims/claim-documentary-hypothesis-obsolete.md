@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-intro.5"
 statement: "The Documentary Hypothesis (J, E, D, P) is obsolete — Romer follows the European consensus rejecting the classic four-source theory; Deuteronomy dates to ~620 BCE (Josiah's reform), and the oldest Pentateuchal traditions (Jacob, Moses, Abraham) were written down around the 8th century, with texts continually revised through scroll recopying."
 confidence: "medium"

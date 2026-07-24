@@ -7,7 +7,7 @@ tags:
   - scholars/jeffrey-tigay
   - philology
   - historiography
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

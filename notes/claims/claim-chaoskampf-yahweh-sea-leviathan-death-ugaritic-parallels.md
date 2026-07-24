@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-8.2"
 statement: "Cosmic warfare (Chaoskampf) — Yahweh's battle against Sea, Leviathan, and Death — is the mythic foundation of Yahwistic holy war and is best understood through Ugaritic parallels with Baal."
 confidence: "very-high"

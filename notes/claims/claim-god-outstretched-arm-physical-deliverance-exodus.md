@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-12-15.2"
 statement: "God's 'outstretched arm' (zĕrôa' nĕṭûyâ) was the muscle that physically delivered Israel from Egypt — the most repeated phrase in the Exodus tradition describing actual muscular intervention."
 confidence: "high"

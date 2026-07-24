@@ -8,7 +8,7 @@ tags:
   - methodology
   - history/exile
   - scholars/yehezkel-kaufmann
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-preface.1"
 statement: "The theology of the Hebrew Bible as a discipline is in crisis because it has lost integration with the broader field of Hebrew Bible studies."
 confidence: "high"

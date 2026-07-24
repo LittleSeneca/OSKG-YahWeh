@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.1"
 statement: "Iron Age I is a genuine transitional period — the Late Bronze urban system collapsed, but the iconographic repertoire shows both continuity with Egyptian traditions and radical innovation."
 confidence: "very-high"

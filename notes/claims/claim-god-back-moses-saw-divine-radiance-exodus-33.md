@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-9-11.1"
 statement: "God had a back — Moses saw it — and it was made of divine radiance (kavod), described in precise anatomical terms in Exodus 33."
 confidence: "high"

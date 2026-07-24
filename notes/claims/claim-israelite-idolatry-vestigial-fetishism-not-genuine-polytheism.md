@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.5"
 statement: "Israel's 'idolatry' was vestigial fetishism, not genuine polytheism — it had no mythology, no temples, no priests, no pantheon; it was a vulgar superstition of the sort that ignorant levels of monotheistic peoples practice."
 confidence: "medium"

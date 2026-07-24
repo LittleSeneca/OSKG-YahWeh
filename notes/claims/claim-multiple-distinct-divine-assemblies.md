@@ -8,7 +8,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.1"
 statement: "Ugaritic terminology reveals multiple distinct divine assemblies centered on specific gods, not a single unified pantheon."
 confidence: "high"

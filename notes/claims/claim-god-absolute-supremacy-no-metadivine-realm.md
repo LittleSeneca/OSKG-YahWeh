@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.1"
 statement: "The basic idea of Israelite religion is God's absolute supremacy — there is no realm above or beside him to limit his absolute sovereignty; he is non-mythological in essence."
 confidence: "medium"

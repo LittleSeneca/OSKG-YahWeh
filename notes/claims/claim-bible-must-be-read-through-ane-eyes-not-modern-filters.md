@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-2.1"
 statement: "The Bible must be read through ancient Near Eastern eyes, not filtered through modern theological systems — the text must be allowed to speak in its own context."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - philology
   - scholars/thomas-romer
   - methodology
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-07-22
 confidence: medium

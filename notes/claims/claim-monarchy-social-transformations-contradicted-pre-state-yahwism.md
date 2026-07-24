@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.1-3.2.3"
 statement: "The social transformations under David and Solomon — taxation, forced labor, land concentration, class stratification — created conditions that directly contradicted pre-state Yahwistic values."
 confidence: "high"

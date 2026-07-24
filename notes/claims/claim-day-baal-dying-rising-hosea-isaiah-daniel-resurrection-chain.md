@@ -10,7 +10,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-4.4"
 statement: "Baal was genuinely a dying and rising god; Hosea appropriated this imagery for national exile and restoration; Isaiah 26 dependent on Hosea 13-14; Daniel 12 'remythologized' it into literal individual resurrection — Jewish resurrection has a Canaanite genealogy, not a Zoroastrian one."
 confidence: "medium-high"

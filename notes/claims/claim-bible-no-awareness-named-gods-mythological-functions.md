@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.9"
 statement: "The Bible shows no awareness of the connection between named gods and their natural/mythological functions — gods are identified only by nations, never by function or place in the pantheon."
 confidence: "medium-high"

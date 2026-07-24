@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-warrior, scholars/frank-moore-cross, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-warrior, scholars/frank-moore-cross, history/kenite-hypothesis, history/merneptah, history/israel-judah, history/jerusalem, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

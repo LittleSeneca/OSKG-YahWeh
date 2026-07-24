@@ -7,7 +7,7 @@ tags:
   - evidence/philological
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-16-21.2"
 statement: "God's head had hair, beard, eyes, ears, nose, and mouth — all functioning sense organs — making him a sensory being who perceives the world through body parts, not an abstract mind thinking pure thoughts."
 confidence: "very-high"

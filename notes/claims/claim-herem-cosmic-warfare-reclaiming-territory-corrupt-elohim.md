@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-25.1"
 statement: "*Ḥērem* (devotion to destruction) was cosmic warfare — Yahweh reclaiming the nations from corrupt *elohim* — not ethnic cleansing or genocide."
 confidence: "low-medium"

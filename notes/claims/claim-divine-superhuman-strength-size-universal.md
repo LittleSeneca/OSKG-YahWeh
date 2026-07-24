@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.1"
 statement: "Superhuman strength and size are universal traits of deities across Ugarit and Israel, archaeologically confirmed by temple architecture built for giant deities."
 confidence: "very-high"

@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.5"
 statement: "Immortality is the norm for deities across the ANE; divine death in narrative is not an exception to this rule but a way of describing the created order — dead gods lack cult and are 'defunct' — and Israel's Psalm 82 uses divine death polemically rather than narratively."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.6"
 statement: "The Yhwʒ people of Shasu-land and the 'am Yhwh of Judges 5 share the same structural pattern — both are coalitions of kinship-based groups identified by the name Yhw(h), united for war against external enemies."
 confidence: "low-medium"

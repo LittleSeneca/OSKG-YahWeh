@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-7.2"
 statement: "Resheph is a Canaanite underworld plague god whose arrows bring pestilence, and the OT preserves him as a demonic personification rather than fully demythologizing him."
 confidence: "high"

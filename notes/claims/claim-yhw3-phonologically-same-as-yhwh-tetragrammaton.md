@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.1"
 statement: "The Egyptian hieroglyphic writing y-h-w3 is phonologically the same name as the Hebrew Tetragrammaton YHWH."
 confidence: "high"

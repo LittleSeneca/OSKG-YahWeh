@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.6"
 statement: "Gabler's 1787 lecture created 'biblical theology' as a historical discipline mediating between Bible and systematics — but his solution failed because 'pure biblical theology' was a Trojan horse."
 confidence: "high"

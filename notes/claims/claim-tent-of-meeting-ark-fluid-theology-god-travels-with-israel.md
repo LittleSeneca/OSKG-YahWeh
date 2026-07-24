@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-4.2"
 statement: "The Tent of Meeting (Exodus 33) and the Ark reflect fluid theology — Yhwh's embodied presence travels with Israel alongside the heavenly body."
 confidence: "high"

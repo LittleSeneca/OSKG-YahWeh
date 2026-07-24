@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.7"
 statement: "The Egyptian evidence is 'before Israel' because Merneptah's Israel (c. 1207 BCE) and Yhw3 of the Shasu (c. 1400 BCE) have nothing to do with each other in the Egyptian record."
 confidence: "high"

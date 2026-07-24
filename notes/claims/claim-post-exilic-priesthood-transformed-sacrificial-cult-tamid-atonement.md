@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.8"
 statement: "The post-exilic priesthood transformed the sacrificial cult by expanding the tamid, creating the Day of Atonement, and making atonement theology central to public worship — as a response to the trauma of 587, when the cult failed despite functioning."
 confidence: "medium-high"

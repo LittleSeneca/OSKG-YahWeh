@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.5"
 statement: "Israel had no ancestor cult, no cult of the dead — the realm of death was de-religionized, making Israelite religion unique in the ancient Near East."
 confidence: "medium-high"

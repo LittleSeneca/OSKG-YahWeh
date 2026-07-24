@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.6"
 statement: "The Amun cryptography in Iron Age I seals reveals a sophisticated theology of divine hiddenness that predates and may have influenced Israelite aniconism."
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.3"
 statement: "Israel's idolatry disappeared completely after the exile — a phenomenon with no parallel in religious history; this only makes sense if pre-exilic Israel already had a popular monotheistic faith."
 confidence: "medium-high"

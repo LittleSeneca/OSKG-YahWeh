@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.4"
 statement: "Iconographic interpretation must analyze 'constellations' of recurring motif combinations — not hunt for specific myths behind isolated images; Assmann's iconicity theory, adapted to Levantine material, provides the theoretical framework."
 confidence: "high"

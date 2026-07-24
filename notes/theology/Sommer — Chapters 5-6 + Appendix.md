@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-embodiment, kabbalah, christianity, scholars/benjamin-sommer, truth-project]
+tags: [source/book-notes, theology/divine-embodiment, kabbalah, christianity, scholars/benjamin-sommer, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapter 4 — Sacred Space 1]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Sommer — The Bodies of God]]", "[[Stavrakopoulou — Part V — Head + Epilogue]]"]

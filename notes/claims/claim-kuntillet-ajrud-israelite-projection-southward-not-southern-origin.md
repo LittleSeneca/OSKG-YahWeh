@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-4.3"
 statement: "The Kuntillet Ajrud inscriptions confirm 'Yahweh of Teman' as an Israelite projection southward, not evidence of a southern origin for Yahweh."
 confidence: "high"

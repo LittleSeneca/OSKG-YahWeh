@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.12"
 statement: "The Ezekiel school's reform program created the separation of cult from state, the priest-Levite distinction, and a radically sacralized temple — the blueprint for post-exilic theocracy achieved at the cost of lay exclusion"
 confidence: "medium"

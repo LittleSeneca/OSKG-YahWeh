@@ -6,7 +6,7 @@ tags:
   - evidence/philological
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-5-8.1"
 statement: "Biblical translators have systematically obscured references to God's genitals — Hebrew terms that clearly refer to male genitalia (yārēk, motnayim) are translated with euphemisms, driven by a theological reflex to deny God a sexed body."
 confidence: "high"

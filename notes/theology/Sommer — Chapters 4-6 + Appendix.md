@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, theology/kabbalah, scholars/benjamin-sommer, history/jerusalem, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, theology/kabbalah, scholars/benjamin-sommer, history/jerusalem, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Sommer — Chapters 5-6 + Appendix]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine]]"]

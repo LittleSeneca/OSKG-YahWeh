@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, hebrew-bible, faith/yahweh, scholars/daniel-fleming, philology, methodology, history/kenite-hypothesis, truth-project, book-summary]
+tags: [source/book-notes, hebrew-bible, faith/yahweh, scholars/daniel-fleming, philology, methodology, history/kenite-hypothesis, oskg-yahweh, book-summary]
 claims_status: "extracted"
 claims_extracted_date: 2026-08-04
 claims_count: 4

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-35.1"
 statement: "Paul's 'principalities and powers' are the corrupt elohim of Deut 32 — Christ's death and resurrection defeated the divine beings who received the nations at Babel."
 confidence: "medium"

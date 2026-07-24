@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, archaeology, methodology, scholars/william-dever, history/exile, truth-project]
+tags: [source/book-notes, archaeology, methodology, scholars/william-dever, history/exile, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-08-03
 confidence: high

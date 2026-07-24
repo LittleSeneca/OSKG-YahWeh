@@ -5,7 +5,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.1"
 statement: "Pictures are NOT more ambiguous than words — they are BETTER at capturing the complexity of religious concepts, which are constellations, not propositions."
 confidence: "high"

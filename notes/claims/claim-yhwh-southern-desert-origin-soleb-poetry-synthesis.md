@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-2-3.1"
 statement: "Yhwh originated in the southern deserts (Edom/Seir/Paran/Teman), not in Canaan, as shown by Egyptian epigraphic evidence and corroborated by biblical war poetry."
 confidence: "high"

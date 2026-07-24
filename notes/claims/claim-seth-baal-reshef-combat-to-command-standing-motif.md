@@ -5,7 +5,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.4"
 statement: "Seth-Baal and Reshef transition from warrior gods who FIGHT to gods of domination who STAND — a shift from conflict to command."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.7"
 statement: "The Assyrian 'Queen of Heaven' cult was not imposed by imperial force — it was a local Judean synthesis of Assyrian Ishtar and indigenous Asherah that emerged only after Assyrian collapse."
 confidence: "medium"

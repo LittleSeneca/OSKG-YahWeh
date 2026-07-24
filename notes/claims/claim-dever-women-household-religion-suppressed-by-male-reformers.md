@@ -9,7 +9,7 @@ tags:
   - evidence/ethnographic
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.6"
 statement: "Women were the primary practitioners of household religion centered on Asherah, and the Deuteronomistic reform was a male clerical coup against women's traditional religious authority."
 confidence: "medium-high"

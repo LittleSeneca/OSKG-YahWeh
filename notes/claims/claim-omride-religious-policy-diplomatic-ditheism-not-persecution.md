@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.5.1"
 statement: "The Omrides' religious policy was diplomatic syncretism — 'Yahweh and Baal' — not aggressive anti-Yahwism, but it would likely have led to polytheistic Yahwism given enough time."
 confidence: "medium"

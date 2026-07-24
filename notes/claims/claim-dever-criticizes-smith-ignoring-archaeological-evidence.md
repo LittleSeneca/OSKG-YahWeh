@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.5"
 statement: "Mark Smith's text-based work is 'not informed by any archaeological data that would change his almost exclusively text-based approach in any essential way' — this is Smith's critical blind spot, which leads him to the wrong conclusion on the Asherah question, namely that the evidence is insufficient to prove Asherah was a goddess."
 confidence: "debatable"

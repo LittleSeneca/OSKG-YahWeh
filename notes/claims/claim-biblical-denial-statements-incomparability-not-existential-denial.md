@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-4.3"
 statement: "Biblical statements that 'there is no god besides Yahweh' are incomparability claims, not existential denials — they mean no other *elohim* COMPARES to Yahweh, not that other *elohim* don't EXIST."
 confidence: "medium-high"

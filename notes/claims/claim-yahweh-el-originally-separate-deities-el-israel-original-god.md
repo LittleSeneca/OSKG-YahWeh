@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.4"
 statement: "Yahweh and El were originally separate deities — El was Israel's original god (as the name yiśrā'ēl shows), and Yahweh arrived later, only converging with El under the monarchy."
 confidence: "high"

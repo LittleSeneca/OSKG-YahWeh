@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, methodology, history/exile, history/aniconism, truth-project, second-isaiah, polemic, idolatry, mis-pi]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, methodology, history/exile, history/aniconism, oskg-yahweh, second-isaiah, polemic, idolatry, mis-pi]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.2"
 statement: "The Kuntillet Ajrud pithoi paintings are paratactic — individual motifs painted by different artists at different times, NOT a unified mythological scene connecting the inscriptions to the imagery."
 confidence: "very-high"

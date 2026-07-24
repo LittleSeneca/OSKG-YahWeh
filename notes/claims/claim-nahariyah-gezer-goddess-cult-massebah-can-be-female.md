@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.4"
 statement: "The Nahariyah and Gezer cult installations were dedicated to a goddess — and the standing stones (massebot) could represent female, not just male, deities."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-preface.3"
 statement: "Theology of the Hebrew Bible should be a descriptive, reconstructive enterprise — not normative or kerygmatic."
 confidence: "medium-high"

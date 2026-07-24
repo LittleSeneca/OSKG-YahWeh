@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.3"
 statement: "The Bes figures on the Kuntillet Ajrud pithoi are apotropaic Egyptian dwarf daemons, NOT depictions of Yahweh and Asherah — the iconographic identification is definitive."
 confidence: "very-high"

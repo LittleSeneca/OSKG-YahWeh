@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.6"
 statement: "Both state cults were syncretistic, but Jerusalem's succeeded (controlled by the state) while Bethel's failed (close to the people, slid into Baalization)."
 confidence: "medium"

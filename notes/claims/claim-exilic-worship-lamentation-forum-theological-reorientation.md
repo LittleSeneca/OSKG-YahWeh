@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.4"
 statement: "Exilic worship was predominantly lamentation — and this occasional form of worship, not tied to a holy place, became the forum for theological reorientation"
 confidence: "medium-high"

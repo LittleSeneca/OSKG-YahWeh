@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.6"
 statement: "Israelite prophecy differs fundamentally from pagan divination — the word of God received beforehand, not ecstatic frenzy, is the primary source of prophetic revelation."
 confidence: "medium"

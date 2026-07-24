@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-3.2"
 statement: "D's shem (Name) theology was a deliberate rejection of divine fluidity — God's Name, not God himself, dwells in the temple (Deuteronomy 12:5: 'to cause his Name to dwell there')."
 confidence: "high"

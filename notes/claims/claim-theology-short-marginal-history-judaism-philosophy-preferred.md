@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.1"
 statement: ""Theology" has a short and marginal history in Judaism — medieval Jewish reflection preferred "philosophy of religion.""
 confidence: "high"

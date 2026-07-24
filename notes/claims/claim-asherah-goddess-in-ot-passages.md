@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-2.1"
 statement: "Asherah appears as a GODDESS (not just a cult object) in several OT passages — the five key texts are Judg 3:7; 1 Kgs 15:13; 18:19; 2 Kgs 21:7; 23:4"
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.6"
 statement: "The Ketef Hinnom silver amulets — the earliest surviving biblical text — represent 'early deuteronomistic' orthodoxy where text replaces image as the medium of divine presence and blessing."
 confidence: "very-high"

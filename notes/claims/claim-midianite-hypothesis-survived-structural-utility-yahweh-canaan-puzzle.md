@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.2"
 statement: "The Midianite Hypothesis has survived massive transformations in biblical scholarship because it solved a structural problem — how Yahweh could be foreign to Canaan yet Israel could be Canaanite — not because the evidence for it is overwhelming."
 confidence: "high"

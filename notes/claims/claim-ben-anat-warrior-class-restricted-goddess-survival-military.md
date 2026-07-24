@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.7"
 statement: "The Ben-Anat warrior class provides epigraphic evidence for the continuing significance of goddess traditions — but ONLY within a specific, socially restricted military stratum."
 confidence: "high"

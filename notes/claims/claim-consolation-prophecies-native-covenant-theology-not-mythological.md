@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.5"
 statement: "Prophecies of consolation are not late mythological imports — they are the necessary complement to prophecies of doom within covenant theology: judgment and restoration are two movements of the same divine action."
 confidence: "medium-high"

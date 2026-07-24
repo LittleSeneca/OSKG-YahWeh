@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-3.5"
 statement: "The Bible preserves genuine tradition about kinship with southern/inland peoples — but this is about population affinities, NOT religious borrowing of Yahweh from those peoples."
 confidence: "medium-high"

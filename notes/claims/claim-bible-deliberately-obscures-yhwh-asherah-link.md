@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-9.2"
 statement: "The Bible deliberately obscures the Yhwh-Asherah link by associating her with Baal — a Deuteronomistic strategy to break the link between Yhwh and his consort"
 confidence: "high"

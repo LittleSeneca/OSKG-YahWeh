@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.7"
 statement: "Israelite El was a family/clan deity, not a national deity — his profile is fundamentally different from Yahweh's."
 confidence: "high"

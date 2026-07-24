@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-foreword.3"
 statement: "The field's development since 1990 has strengthened the convergence model."
 confidence: "medium"

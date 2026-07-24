@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.2"
 statement: "Theogony — the birth of gods through natural procreation from primordial substance — is essential to all pagan religion and entirely absent from Israelite religion."
 confidence: "high"

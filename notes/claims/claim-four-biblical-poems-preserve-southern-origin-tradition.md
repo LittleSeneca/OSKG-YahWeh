@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-2.2"
 statement: "Four biblical poems — Deuteronomy 33:2, Judges 5:4-5, Psalm 68:8-9, and Habakkuk 3:3 — preserve an ancient tradition of Yhwh coming from the south (Edom/Seir/Teman/Paran)."
 confidence: "medium-high"

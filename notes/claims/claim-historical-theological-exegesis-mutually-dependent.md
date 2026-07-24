@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.3"
 statement: "Historical and theological exegesis are mutually dependent — separating them produces bad history AND bad theology."
 confidence: "high"

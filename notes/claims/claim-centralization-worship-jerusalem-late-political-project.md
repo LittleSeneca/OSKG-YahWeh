@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-7.3"
 statement: "The centralization of worship in Jerusalem was a late 7th-century political project, not the original norm; the kings who enforced it (Hezekiah, Josiah) were pursuing political consolidation as much as religious reform."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/onomastic
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-5.3"
 statement: "Van der Toorn's objection that a major deity cannot derive from a deified ancestor dissolves once we recognize Yhwʒ was never a divine name — the two-step model (personal name → people-name → divine name) avoids the objection entirely."
 confidence: "medium-high"

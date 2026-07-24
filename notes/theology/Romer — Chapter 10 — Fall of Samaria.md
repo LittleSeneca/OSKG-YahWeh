@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/israel-judah, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, history/exile, scholars/thomas-romer, history/israel-judah, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

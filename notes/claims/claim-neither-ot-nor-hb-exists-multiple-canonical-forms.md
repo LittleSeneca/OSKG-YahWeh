@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-10-12-13.1"
 statement: ""Neither the Old Testament nor the Hebrew Bible exists" — there are multiple canonical forms."
 confidence: "very-high"

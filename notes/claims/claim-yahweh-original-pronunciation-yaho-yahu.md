@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-1.1"
 statement: "The original pronunciation of Yhwh was 'Yahô' or 'Yahû,' not 'Yahweh' — the tetragrammaton was originally a trigrammaton."
 confidence: "medium-high"

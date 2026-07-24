@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-ii-iii.4"
 claim_format: "implicit"
 statement: "The pre-monarchic Israelite league reenacted the Divine Warrior's victory in ritual form — the 'Ritual Conquest' was practiced at sanctuaries like Gilgal or Shiloh, blending historical skirmishes with mythic-liturgical patterns."

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-pro-1.1"
 statement: "The Bible's God has been systematically sanitized by centuries of Jewish and Christian theological interpretation, obscuring the real, embodied, corporeal deity present in the biblical texts."
 confidence: "high"

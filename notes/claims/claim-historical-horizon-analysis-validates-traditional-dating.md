@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.4"
 statement: "The chronological limit of classical prophecy is validated book-by-book by historical horizon analysis — each prophetic book reflects the events of one period only, with a natural, unextended horizon."
 confidence: "high"

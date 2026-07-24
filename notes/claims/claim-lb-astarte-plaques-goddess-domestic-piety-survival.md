@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.6"
 statement: "The so-called 'Astarte Plaques' are depictions of a goddess, not Egyptian 'concubine' figures — representing the survival of indigenous goddess worship in domestic, affordable, female-centered piety that runs continuously from MB IIB through the Iron Age."
 confidence: "high"

@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.7"
 statement: "The rise of the Neo-Assyrian and Babylonian empires made the national-god model obsolete and demanded a super-national god — Israelite monotheism emerged as an inverse correlation between political power and cosmic status, with Mesopotamian precedents (Assur, Marduk) showing the pattern was not unique to Israel."
 confidence: "high"

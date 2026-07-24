@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.5"
 statement: "Athtart as 'Name of Baal' (šm b'l) represents a divine hypostasis — a cultically available presence, with biblical parallels in the 'Name' theology."
 confidence: "medium-high"

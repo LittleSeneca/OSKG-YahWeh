@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-conc.1"
 statement: "The omission of goddess religion and polytheism from Lewis's volume is not a slight but an acknowledgment that these topics are of such substance that they deserve full-length treatments in their own right — though this choice means the book is ultimately about El and Yahweh, not 'ancient Israelite religion' comprehensively."
 confidence: "high"

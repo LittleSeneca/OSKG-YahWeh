@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-1.3"
 statement: "The name Yhwh probably means 'he blows' — a storm god, not a creator god — derived from a southern Semitic root h-w-y not attested in Hebrew."
 confidence: "low"

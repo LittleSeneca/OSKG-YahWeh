@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.4"
 statement: "Israel was monotheistic from the desert period — idolatry was always deviance, not the norm."
 confidence: "low"

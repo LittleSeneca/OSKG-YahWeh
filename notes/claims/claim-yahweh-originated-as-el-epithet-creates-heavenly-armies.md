@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-pre-i.4"
 claim_format: "implicit"
 statement: "Yahweh was not an independent god who later merged with El — Yahweh began as an EPITHET of El, a liturgical title meaning 'He creates the (heavenly) armies,' which became a proper name and displaced the original deity."

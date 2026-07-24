@@ -10,7 +10,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.5"
 statement: "Jeroboam's Bethel cult was a deliberately conservative, archaizing alternative to Jerusalem — the bull image was a pedestal for Yahweh (like Jerusalem's cherubim), not an idol, and the cult cry explicitly invoked the Exodus."
 confidence: "medium-high"

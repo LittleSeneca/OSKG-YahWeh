@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.8"
 statement: "Habakkuk's 'the righteous shall live by his faith' has a specific Israelite-national meaning — theodicy and covenant fidelity — not the individualistic one later theology reads into it."
 confidence: "medium-high"

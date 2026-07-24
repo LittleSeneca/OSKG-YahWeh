@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-5.5"
 statement: "The Beth Shean cylinder seal does NOT provide 'independent confirmation' of El and his asherah — Keel and Uehlinger overread the evidence."
 confidence: "high"

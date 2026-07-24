@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.2"
 statement: "The Moon God of Haran was identified with the local El — and Yahweh, already identified with El, absorbed lunar characteristics through this channel during Iron Age IIC."
 confidence: "medium-high"

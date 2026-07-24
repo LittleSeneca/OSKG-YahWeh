@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.4"
 statement: "Albright's and Kaufmann's insistence on Israel's radical distinctiveness was undermined by archaeological evidence — and Cross offered a more nuanced middle ground of continuity-with-novelty."
 confidence: "very-high"

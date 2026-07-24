@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-intro.2"
 statement: "Yhwh was originally a southern desert/war god (between the Negev and Egypt) who gradually, through a series of small steps, became Israel's god, then the god of Jerusalem, and finally — after the catastrophe of 587 — the one god, creator of heaven and earth, invisible and transcendent."
 confidence: "medium"

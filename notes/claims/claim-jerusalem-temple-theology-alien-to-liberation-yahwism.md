@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.3"
 statement: "Jerusalem temple theology created a new kind of Yahweh — king of the gods, creator, enthroned on Zion, identified with imperial power — fundamentally alien to pre-state liberation Yahwism."
 confidence: "medium"

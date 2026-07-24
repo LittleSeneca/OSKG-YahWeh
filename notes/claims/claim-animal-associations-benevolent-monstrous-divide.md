@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.4"
 statement: "Animal associations follow the benevolent/monstrous divide — domesticated species (bull, calf, bird, cow) are emblematic of benevolent deities, while undomesticated snake-dragons are emblematic of cosmic enemies, and this theriomorphic dichotomy maps onto the center-periphery spatial scheme."
 confidence: "high"

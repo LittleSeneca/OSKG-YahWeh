@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.6"
 statement: "The Jeremiah Deuteronomists (JerD) conducted a 'popular missionary work of enlightenment' that synthesized Deuteronomic law with Jeremiah's prophecy into a unified divine pedagogy"
 confidence: "medium-high"

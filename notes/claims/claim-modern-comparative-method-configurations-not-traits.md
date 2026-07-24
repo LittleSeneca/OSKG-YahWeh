@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.7"
 statement: "Modern comparative method has moved past 'parallelomania' and 'trait-list' distinctiveness — the real work is in studying configurations of traits."
 confidence: "very-high"

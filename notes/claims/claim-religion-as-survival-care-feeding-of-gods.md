@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.3"
 statement: "Ancient Israelite religion was not about theology, morality, or 'spirituality' in the modern sense — it was about survival: in a marginal economy with 30-year life expectancy and constant threat of famine, religion addressed the most basic human needs through 'the care and feeding of the gods' via sacrifices, offerings, and rituals."
 confidence: "high"

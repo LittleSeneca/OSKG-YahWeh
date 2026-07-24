@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.7"
 statement: "National covenant morality represents a HIGHER, not more primitive, stage — the 'sublime prophetic passion' is the culmination of a morality that transcends the individual."
 confidence: "low-medium"

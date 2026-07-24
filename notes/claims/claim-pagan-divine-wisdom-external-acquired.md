@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.5"
 statement: "Divine wisdom in paganism is external to the gods — it is knowledge OF the world order, not self-knowledge, and must be acquired from outside sources."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-4.2"
 statement: "The existence of plural *elohim* in the Hebrew Bible does NOT mean the biblical writers were polytheists — they never viewed Yahweh as interchangeable with or comparable to other *elohim*."
 confidence: "medium"

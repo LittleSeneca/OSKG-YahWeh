@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-1.2"
 statement: "You cannot understand Israelite religion without understanding how ordinary people lived — the four-room house, the extended family compound, the diet, the diseases, the gender roles, the life expectancy — and most text-based scholarship ignores this material context entirely, producing disembodied portraits of religion."
 confidence: "high"

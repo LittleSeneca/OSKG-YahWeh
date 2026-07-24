@@ -7,7 +7,7 @@ tags:
   - evidence/ugaritic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.6"
 statement: "El Shadday is genuinely archaic, not a late Priestly invention — extra-biblical attestations (Ugarit, Deir ʿAlla) plus archaic biblical poetry prove its antiquity."
 confidence: "high"

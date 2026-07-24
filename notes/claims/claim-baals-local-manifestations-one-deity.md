@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.1"
 statement: "'The Baals' in the Old Testament are not distinct local deities but local manifestations of one cosmic deity, Hadad/Baal — analogous to local manifestations of the Virgin Mary in Roman Catholicism."
 confidence: "high"

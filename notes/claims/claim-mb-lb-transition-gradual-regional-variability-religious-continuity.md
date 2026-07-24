@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.1"
 statement: "The Middle-to-Late Bronze Age transition was gradual and regionally variable, not a clean break — and this matters for religious continuity because there is no single 'Canaanite religion' at any moment, but multiple regional subsystems."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.5"
 statement: "No foreign god is ever an active, living character in biblical narrative — only YHWH acts; when the Bible mentions gods, it always means idols."
 confidence: "medium-high"

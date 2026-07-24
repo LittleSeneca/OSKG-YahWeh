@@ -6,7 +6,7 @@ tags:
   - evidence/grammatical
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-3.1"
 statement: "Moses is a constructed figure with an Egyptian name; no extra-biblical evidence exists for him."
 confidence: "very-high"

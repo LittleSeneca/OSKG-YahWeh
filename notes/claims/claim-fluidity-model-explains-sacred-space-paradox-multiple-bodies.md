@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-4.1"
 statement: "The ANE fluidity model resolves the sacred space paradox — God can be simultaneously in heaven and in the Temple because God has multiple simultaneous bodies."
 confidence: "high"

@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-intro.1"
 claim_format: "implicit"
 statement: "The debate between the critical consensus (polytheism until exile) and Kaufmann/Albright (early Mosaic monotheism) was deadlocked because both sides relied solely on biblical texts — onomastic evidence from pre-exilic Hebrew inscriptions provides the first external control."

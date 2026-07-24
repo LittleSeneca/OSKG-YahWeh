@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.6"
 statement: "The Ketuvim served as a "melting pot" — and its theological contribution is the "mundane everyday application" of Torah and Prophets."
 confidence: "medium"

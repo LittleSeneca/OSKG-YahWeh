@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.2"
 statement: "No fundamental religious rift existed between prophets and people — the prophets never accuse Israel of mythological beliefs, only of cultic rites."
 confidence: "medium"

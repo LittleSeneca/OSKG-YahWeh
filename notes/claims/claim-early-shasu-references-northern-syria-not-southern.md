@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.5"
 statement: "Early Shasu references (15th-14th centuries BCE) point north toward Syria, not south — the southern Shasu association only emerges in the 13th century."
 confidence: "medium-high"

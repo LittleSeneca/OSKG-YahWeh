@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.3"
 statement: "At Megiddo, the LB witnessed a decisive shift from the vegetation goddess to warrior deities (Baal, Reshef), mirrored on the human level by the replacement of erotic scenes with military and victory imagery — directly attributed to Egyptian colonialism."
 confidence: "high"

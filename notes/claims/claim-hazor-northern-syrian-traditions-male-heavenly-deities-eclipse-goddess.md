@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.2"
 statement: "Hazor maintained northern Syrian/Anatolian traditions throughout the LB, with male heavenly deities (moon god, weather god on a bull) eclipsing the goddess — representing the first evidence of piety oriented toward heavenly beings in Palestine."
 confidence: "high"

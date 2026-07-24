@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-5.1"
 statement: "Shiloh was Yhwh's first major sanctuary in Israel, confirmed by archaeology as a major cult site destroyed c. 1050 BCE."
 confidence: "high"

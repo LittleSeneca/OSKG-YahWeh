@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.3-3.4.4"
 statement: "Jeroboam's revolt was a social liberation movement explicitly fought under the banner of the Exodus tradition — the Exodus narrative may have been shaped by it."
 confidence: "low-medium"

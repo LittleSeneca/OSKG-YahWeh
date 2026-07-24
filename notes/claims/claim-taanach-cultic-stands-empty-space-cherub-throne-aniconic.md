@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.4"
 statement: "The Taanach cultic stands (10th century BCE) show the goddess, a subordinate Baal, and an intentionally empty space between cherubs — the earliest material evidence for aniconic Yahweh worship in a domestic cult context."
 confidence: "medium"

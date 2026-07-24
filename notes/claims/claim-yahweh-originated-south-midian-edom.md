@@ -10,7 +10,7 @@ tags:
   - evidence/archaeological
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.2"
 statement: "Yahweh originated outside Canaan in the south — the area of Midian/Edom/N.W. Arabia — as evidenced by Egyptian onomastics, biblical poetry, and the Kuntillet Ajrud epithet."
 confidence: "high"

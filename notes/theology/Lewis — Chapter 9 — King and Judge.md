@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/king, faith/judge, faith/theodicy, scholars/theodore-lewis, history/israel-judah, history/jerusalem, faith/el, faith/divine-council, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/king, faith/judge, faith/theodicy, scholars/theodore-lewis, history/israel-judah, history/jerusalem, faith/el, faith/divine-council, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 source:

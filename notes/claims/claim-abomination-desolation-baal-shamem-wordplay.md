@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.5"
 statement: "'Abomination of desolation' (šiqqûṣ šōmēm) in Daniel is a wordplay on Baal-Shamem ('Lord of the heavens') — šiqqûṣ replaces Baal, and šōmēm ('desolating') replaces šāmēm ('heavens'), continuing the OT tradition of polemical name-distortion into apocalyptic literature."
 confidence: "high"

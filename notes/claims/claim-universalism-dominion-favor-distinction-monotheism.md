@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-4.4"
 statement: "Israel's national limitation of YHWH's cult does not make it pagan — passages restricting YHWH territorially reflect limitation of FAVOR and CULT, not limitation of DOMINION; universalism has two distinct meanings."
 confidence: "high"

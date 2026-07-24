@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-3.1"
 statement: "The divine council is a pervasive biblical reality across multiple genres and books — not an obscure pagan import but an integral part of the Hebrew Bible's theological framework."
 confidence: "very-high"

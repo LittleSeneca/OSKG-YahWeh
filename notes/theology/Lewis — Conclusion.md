@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/el, scholars/theodore-lewis, philology, faith/asherah, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/el, scholars/theodore-lewis, philology, faith/asherah, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 source:

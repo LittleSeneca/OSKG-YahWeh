@@ -8,7 +8,7 @@ tags:
   - evidence/grammatical
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.4"
 statement: "Jeremiah was the prophet of Deuteronomy — his entire worldview is Torah-derived, with D cited over two hundred times in his book."
 confidence: "high"

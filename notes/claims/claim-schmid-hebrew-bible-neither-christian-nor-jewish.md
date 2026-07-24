@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-preface.4"
 statement: "Schmid's project is a 'Hebrew Bible undertaking' — neither Christian nor Jewish — with an initially historical focus rather than present-day application."
 confidence: "low-medium"

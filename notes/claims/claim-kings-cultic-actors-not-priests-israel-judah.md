@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-9.1"
 statement: "Israelite and Judean kings were primary cultic actors who built and maintained sanctuaries, offered sacrifices, and performed ritual functions — but they were never called priests and never received cult themselves."
 confidence: "very-high"

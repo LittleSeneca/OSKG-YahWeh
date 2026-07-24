@@ -6,7 +6,7 @@ tags:
   - evidence/philological
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-7.1"
 statement: "The serpent (*nāḥāš*) in Eden was a divine being — a member of the heavenly council — not merely a talking snake."
 confidence: "medium"

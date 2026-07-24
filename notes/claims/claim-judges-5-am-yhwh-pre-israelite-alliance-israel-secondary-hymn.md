@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.1"
 statement: "The 'am Yhwh in Judges 5:13 is the collective name of the pre-Israelite military alliance — Israel is imposed only by the secondary introductory hymn (vv. 2-11)."
 confidence: "medium"

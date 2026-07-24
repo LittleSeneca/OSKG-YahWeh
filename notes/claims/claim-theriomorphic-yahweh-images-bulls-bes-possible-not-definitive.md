@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-7.3"
 statement: "Theriomorphic representations — Kuntillet ʿAjrud Bes figures, the Bull Site bronze, and Jeroboam's bulls — are the most likely candidates for Yahweh images, but none can be definitively identified as Yahweh."
 confidence: "low"

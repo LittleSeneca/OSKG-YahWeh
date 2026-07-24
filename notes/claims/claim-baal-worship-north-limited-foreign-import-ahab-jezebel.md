@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.5"
 statement: "Baal worship in the north was a limited, foreign import under Ahab/Jezebel — not an indigenous Israelite development or persistent syncretism."
 confidence: "low-medium"

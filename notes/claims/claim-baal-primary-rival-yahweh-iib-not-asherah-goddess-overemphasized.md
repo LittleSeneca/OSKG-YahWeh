@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.8"
 statement: "Baal, not Asherah, was the primary rival to Yahweh in Iron Age IIB — the scholarly obsession with the goddess question has distorted the picture of what Iron Age IIB religion was actually about."
 confidence: "medium-high"

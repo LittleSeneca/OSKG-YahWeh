@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-intro.6"
 statement: "Terminology matters — 'Israel' originally meant the northern kingdom until 722 BCE, 'Judah' the southern kingdom until 587 BCE, 'Jews/Judaism' cannot be spoken of before the Persian period (4th century BCE), and 'Canaan' is a vague geographic term; retrojecting later categories onto earlier periods creates false continuity."
 confidence: "very-high"

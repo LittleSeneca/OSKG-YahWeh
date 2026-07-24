@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-3.3"
 statement: "P's kavod (Glory) theology rejects divine fluidity — the kavod is a blinding radiance that screens God's presence without being God's body."
 confidence: "high"

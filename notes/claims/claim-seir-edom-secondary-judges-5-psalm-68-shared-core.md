@@ -7,7 +7,7 @@ tags:
   - evidence/philological
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-4.2"
 statement: "The shared core of Judges 5:4-5 and Psalm 68:8-9 lacks southern geography — Seir and Edom are secondary elaborations on an older tradition that only mentioned 'he of Sinai.'"
 confidence: "medium-high"

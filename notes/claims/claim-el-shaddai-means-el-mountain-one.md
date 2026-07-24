@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.5"
 statement: "El-Shaddai means 'El, the Mountain One,' with reference to El's mountain dwelling — not 'God Almighty' as in later translation tradition."
 confidence: "medium"

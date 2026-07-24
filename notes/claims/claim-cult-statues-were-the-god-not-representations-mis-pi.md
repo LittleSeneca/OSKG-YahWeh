@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-1.2"
 statement: "In Mesopotamian religion, cult statues were not representations of a god — after the mīs pî and pīt pî rituals, the statue WAS the god, and a deity could have multiple simultaneous embodiments in different cult statues"
 confidence: "very-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-4-6.1"
 statement: "The Bible contains two theologies in permanent tension — fluid monotheism (J, E, Psalms) and anti-fluid monotheism (P, D, later tradition) — and neither won completely."
 confidence: "high"

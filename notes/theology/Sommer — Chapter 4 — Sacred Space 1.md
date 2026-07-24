@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, temple, scholars/benjamin-sommer, history/jerusalem, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, temple, scholars/benjamin-sommer, history/jerusalem, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

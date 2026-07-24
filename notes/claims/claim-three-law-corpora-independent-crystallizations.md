@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.2"
 statement: "The three law corpora (JE, D, P) are independent crystallizations of Israel's ancient juristic-moral tradition, not evolutionary developments from one another."
 confidence: "medium"

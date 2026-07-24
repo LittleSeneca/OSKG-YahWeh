@@ -9,7 +9,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-4.1"
 statement: "Psalm 29 is a Yahwistic adaptation of Canaanite Baal mythology, including Baal's seven thunders, the divine council, and enthronement over cosmic waters."
 confidence: "very-high"

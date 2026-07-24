@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.6"
 statement: "The reorientation of Israel's cultural ties from Egypt toward Phoenicia and northern Syria during Iron Age IIA — not internal theological revolution — drove the aniconic turn by introducing an iconographic system where attribute animals and astral/royal symbols replaced anthropomorphic deities."
 confidence: "medium"

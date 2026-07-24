@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.6"
 statement: "We cannot reconstruct an early Israelite 'pantheon' — the evidence is too fragmentary, and models derived from Ugarit and Mesopotamia project imperial-scale structures onto a decentralized pastoralist context."
 confidence: "medium"

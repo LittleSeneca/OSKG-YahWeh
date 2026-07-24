@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-9.1"
 statement: "Divine foreknowledge does not require predestination — God can foreknow events that never happen, as demonstrated by 1 Samuel 23 where David's departure prevents God's foreknown outcomes from occurring."
 confidence: "high"

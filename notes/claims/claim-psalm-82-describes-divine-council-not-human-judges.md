@@ -7,7 +7,7 @@ tags:
   - evidence/ugaritic
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-1.1"
 statement: "Psalm 82 describes a divine council where Yahweh judges other elohim — the evangelical 'human judges' reading fails exegetically."
 confidence: "high"

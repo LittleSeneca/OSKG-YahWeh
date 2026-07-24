@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.1"
 statement: "The fundamental idea of all pagan religion is the metadivine realm — a primordial domain of power prior to and above the gods, upon which the gods depend and whose decrees they must obey."
 confidence: "medium"

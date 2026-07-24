@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.7"
 statement: "The biblical cult has been fundamentally transformed — no mythological or magical basis remains; sacrifice is not food for the deity, festivals are historicized, impurity is a passive condition not a demonic force, and purifications are not exorcistic."
 confidence: "medium"

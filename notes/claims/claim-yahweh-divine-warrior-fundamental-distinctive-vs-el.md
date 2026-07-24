@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-8.1"
 statement: "Yahweh as divine warrior is a fundamental — perhaps THE fundamental — distinctive of Yahwism compared to El religion; El was pacific, Yahweh was militaristic."
 confidence: "very-high"

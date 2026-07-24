@@ -11,7 +11,7 @@ tags:
   - evidence/ugaritic
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.5"
 statement: "Asherah was a real goddess, Yahweh's consort, worshipped throughout Israel and Judah — and the cumulative archaeological evidence proves it against text-based skepticism."
 confidence: "very-high"

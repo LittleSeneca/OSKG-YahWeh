@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-intro.2"
 statement: "A new 'history of Israelite religion' must satisfy seven demands: consistent historical construction, open process toward Judaism and Christianity, interplay of political/social and religious development, inclusion of social history, restoration of theological dialogue, comparative religion without apologetics, and equal treatment of the post-exilic period."
 confidence: "medium-high"

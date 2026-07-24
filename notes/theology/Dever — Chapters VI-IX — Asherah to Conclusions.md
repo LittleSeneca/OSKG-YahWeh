@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, philology, methodology, history/israel-judah, history/josiah, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/asherah, archaeology, scholars/william-dever, philology, methodology, history/israel-judah, history/josiah, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

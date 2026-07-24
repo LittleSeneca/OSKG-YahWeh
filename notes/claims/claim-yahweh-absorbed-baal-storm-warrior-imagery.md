@@ -10,7 +10,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-2.2"
 statement: "The Davidic monarchy deliberately adopted Baal's language and imagery — storm theophany, cloud-rider, Sea/Leviathan combat — to describe Yahweh as the national god and dynastic patron."
 confidence: "very-high"

@@ -10,7 +10,7 @@ tags:
   - evidence/archaeological
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-4-5.1"
 statement: "Yhwh became Israel's god through a two-stage political process: first adopted by the monarchy as patron deity, then installed in Jerusalem (the old El city) by David — the El-Yhwh identification was accomplished politically, not theologically."
 confidence: "medium"

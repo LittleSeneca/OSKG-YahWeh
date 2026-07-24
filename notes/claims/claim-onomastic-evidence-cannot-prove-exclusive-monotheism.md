@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-1.4"
 claim_format: "implicit"
 statement: "Onomastic evidence has inherent limits: the absence of other gods from personal names does not by itself tell us whether a society denied the existence or divinity of those gods — it tells us about devotional naming practices, not about ontological belief."

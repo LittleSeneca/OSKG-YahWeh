@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.4"
 statement: "The lyre player on Kuntillet Ajrud Pithos A is a human woman, not the goddess Asherah — Dever's 'enthroned Asherah' identification is based on weak and anachronistic parallels."
 confidence: "high"

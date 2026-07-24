@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-5.1"
 statement: "Iron Age Israel is iconographically exceptional — there are virtually no provenanced Iron Age male divine images, and this must be explained by the aniconic tradition."
 confidence: "very-high"

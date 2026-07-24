@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-preface.2"
 statement: "A theology of the Hebrew Bible must first clarify what 'theology' means and what 'Hebrew Bible/Old Testament' designates — there is no such thing as THE Hebrew Bible."
 confidence: "high"

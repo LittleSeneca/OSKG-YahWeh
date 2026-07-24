@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.5"
 statement: "P's tithe and priesthood laws are ancient, not products of post-exilic hierocracy — the Levitical tithe was 'an obsolete law, a relic of another age' by Second Temple times."
 confidence: "medium"

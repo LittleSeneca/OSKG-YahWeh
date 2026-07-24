@@ -7,7 +7,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-7.5"
 statement: "The name 'Israel' (yiśrā'ēl) contains the divine name El, not Yahweh — and the archaeological/epigraphic evidence from Shechem and Deir 'Alla confirms El was the region's original high god before Yahweh's arrival."
 confidence: "high"

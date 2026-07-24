@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.5"
 statement: "Prophetic opposition theology was deliberately incorporated into official religion through both cultic and non-cultic channels during the exile, transforming it from outsider critique to communal norm"
 confidence: "medium"

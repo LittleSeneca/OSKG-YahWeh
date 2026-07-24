@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.1"
 statement: "The exile affected different levels of Israelite religion unequally: official religion (temple and kingship theology) collapsed while personal/family piety survived largely intact and became the scaffolding for rebuilding"
 confidence: "high"

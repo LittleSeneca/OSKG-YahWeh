@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-6.3"
 statement: "CAT 1.161, the Ugaritic royal funerary liturgy, provides the interpretive key to Baal's death in the Baal Cycle — the shared verbatim language proves Baal's death was modeled on royal funerary ritual, not on agricultural cycles."
 confidence: "very-high"

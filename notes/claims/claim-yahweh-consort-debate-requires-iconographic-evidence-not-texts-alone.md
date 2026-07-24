@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.1"
 statement: "The debate about Yahweh's consort cannot be resolved from texts alone — iconographic evidence from seal amulets is the missing piece, since biblical texts are late, polemical, and represent a minority opinion."
 confidence: "very-high"

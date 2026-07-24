@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.6"
 statement: "The Kenite/Midianite hypothesis — that Moses derived Yahwism from Jethro's Kenite or Midianite contacts — has no support in the biblical text."
 confidence: "medium"

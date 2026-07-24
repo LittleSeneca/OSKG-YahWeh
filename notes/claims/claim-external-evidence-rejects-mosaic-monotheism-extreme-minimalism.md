@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.4"
 statement: "The external evidence 'confirms neither the view that there was a fully developed Mosaic monotheism nor the popular view that late and even very late dates for the literature are justified.'"
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.4"
 statement: "The Torah formed in the Persian period — driven by Persian imperial authorization of local laws."
 confidence: "medium"

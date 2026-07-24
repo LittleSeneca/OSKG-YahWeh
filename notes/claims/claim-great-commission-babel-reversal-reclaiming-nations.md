@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-33.1"
 statement: "The Great Commission and Pentecost are the reversal of Babel — Jesus reclaims authority over all nations that were disinherited and assigned to lesser elohim at Babel."
 confidence: "medium-high"

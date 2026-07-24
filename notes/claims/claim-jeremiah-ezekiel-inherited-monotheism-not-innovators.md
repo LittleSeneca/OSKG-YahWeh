@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-13.5"
 statement: "The prophets — Jeremiah and Ezekiel — did not innovate monotheism. They inherited it from the popular religion and the Torah literature."
 confidence: "medium"

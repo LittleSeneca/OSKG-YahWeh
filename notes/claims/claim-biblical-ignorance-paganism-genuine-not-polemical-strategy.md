@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.3"
 statement: "The biblical ignorance of paganism is genuine — not a product of polemical strategy or monotheistic editing — because the phenomena 'go too deep and are too pervasive to be explained merely as monotheistic reworking.'"
 confidence: "low-medium"

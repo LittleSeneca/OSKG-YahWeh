@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.2.1"
 statement: "The Exodus group was not 'all Israel' but a small, declassed, ethnically mixed group of conscripted laborers (of 'Apiru/Hebrew type) in Ramesside Egypt — not nomads."
 confidence: "medium"

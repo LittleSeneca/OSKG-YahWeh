@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.11"
 statement: "Deutero-Isaiah dissolved the fusion of divine and political power that characterized pre-exilic kingship theology — at the very moment monotheism was formulated, political power was renounced"
 confidence: "medium-high"

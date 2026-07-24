@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-37.1"
 statement: "Glorified believers will take the administrative roles in the divine council that the fallen elohim forfeited — the elohim were placeholders for humanity's destined role."
 confidence: "medium"

@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-9.4"
 statement: "Josiah's reform removed the asherah from the Jerusalem temple, and the Deuteronomists rewrote her story to erase the memory of Yhwh's consort"
 confidence: "high"

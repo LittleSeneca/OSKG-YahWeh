@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.7"
 statement: "Feminist criticism has fundamentally reshaped the study of Israelite religion — this is not a niche concern but central to understanding household religion, goddess worship, and women's religious agency."
 confidence: "very-high"

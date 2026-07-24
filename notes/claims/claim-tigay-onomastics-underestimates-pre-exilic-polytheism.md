@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-8.1"
 statement: "Tigay's onomastic argument for widespread pre-exilic monolatry is methodologically flawed — the 16:1 ratio of Yahwistic to pagan names is equally compatible with Yahweh-as-chief-god polytheism, and goddess names are invisible in onomastics even at Ugarit where goddesses were undeniably major deities."
 confidence: "high"

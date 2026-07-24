@@ -5,7 +5,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.7"
 statement: "Cult places and objects were considered divine — divinity adhered to cult, which makes Israelite aniconism a radical departure."
 confidence: "medium"

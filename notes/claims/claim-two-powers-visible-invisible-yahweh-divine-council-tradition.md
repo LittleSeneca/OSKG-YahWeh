@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-29.1"
 statement: "The 'two powers in heaven' controversy in early Judaism was not heresy — it reflected the divine council tradition where the Angel of Yahweh was the visible Yahweh interacting with humans while the invisible Yahweh remained in heaven."
 confidence: "medium-high"

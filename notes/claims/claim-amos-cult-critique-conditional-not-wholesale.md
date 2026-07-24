@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.3"
 statement: "Amos's rejection of the cult was not wholesale — it was a conditional rejection of cult divorced from morality."
 confidence: "medium-high"

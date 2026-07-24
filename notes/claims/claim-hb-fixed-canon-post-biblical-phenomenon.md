@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.1"
 statement: "The Hebrew Bible as a fixed canon is a post-biblical phenomenon — the texts are pre-biblical and become biblical only through canonization."
 confidence: "high"

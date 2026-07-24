@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.1.1"
 statement: "'Patriarchal religion' is not a pre-Yahwistic chronological stage but a substratum of family piety that existed alongside, beneath, and before official Yahweh religion — retrojected onto the ancestors by later tradents who described what they knew of family piety in their own time."
 confidence: "medium-high"

@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.2"
 statement: "The Synod of Jamnia is an academic fallacy — there was no council that decided the canon."
 confidence: "very-high"

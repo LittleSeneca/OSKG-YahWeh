@@ -10,7 +10,7 @@
 10|  - history/israel-judah
 11|  - scholars/othmar-keel
 12|  - scholars/christoph-uehlinger
-13|  - truth-project
+13|  - oskg-yahweh
 14|created: 2026-07-22
 15|updated: 2026-07-22
 16|confidence: high

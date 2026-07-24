@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-4.1"
 statement: "The Hebrew Bible describes an ideal religion that never existed for most Israelites — 'Book religion' was a late theological construction unknown and irrelevant to ordinary people, while folk religion (what the prophets condemned) was the lived reality."
 confidence: "high"

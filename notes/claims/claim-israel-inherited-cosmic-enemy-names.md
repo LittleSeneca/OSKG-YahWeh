@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.6"
 statement: "Ancient Israel inherited the names and basic mythic roles of cosmic enemies from West Semitic culture shared with Ugarit — Sea (yam/ym), Leviathan (liwyatan/ltn), Tannin (tannin/tnn), and Death (mawet/Mot) — as demonstrated by Psalm 74:12-17, which presents Yahweh defeating these enemies as prelude to creation, directly paralleling the Baal Cycle's conflict pattern."
 confidence: "very-high"

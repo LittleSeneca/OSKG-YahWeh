@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-2.4"
 statement: "The Asherah was a stylized tree, not a living tree, grove, shrine, or simple image — it was a recognizable religious symbol with consistent iconography across centuries"
 confidence: "high"

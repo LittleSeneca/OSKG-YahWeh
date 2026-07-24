@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.6"
 statement: "The Hebrew Bible IS an ancient Near Eastern text — treating it as separate from its cultural environment is a fundamental category error."
 confidence: "very-high"

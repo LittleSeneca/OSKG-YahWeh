@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-3.4"
 statement: "Female imagery from the asherah was eventually absorbed into descriptions of Yahweh"
 confidence: "medium"

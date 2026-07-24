@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-6.1"
 statement: "Frazer's 'dying and rising gods' category is a modern myth derived from classical sources and faulty anthropology — not from primary evidence — and was shaped by his classical education and unstated interest in explaining Jesus' resurrection."
 confidence: "very-high"

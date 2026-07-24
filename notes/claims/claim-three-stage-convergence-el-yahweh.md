@@ -11,7 +11,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-7.5"
 statement: "A three-stage convergence model accounts for the El-Yahweh relationship: (1) El as original god of early Israel, (2) El as pantheon head with Yahweh as warrior-god member, (3) El and Yahweh identified as a single god — this 'convergence' paradigm replaced the older Near Eastern 'succession' pattern, as Yahweh did what Baal never did: he absorbed the father's identity."
 confidence: "medium-high"

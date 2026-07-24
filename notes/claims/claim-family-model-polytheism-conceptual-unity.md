@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-3.5"
 statement: "The divine family model provided polytheism with conceptual unity through structural flexibility — outsiders could be integrated through marriage and adoption."
 confidence: "medium-high"

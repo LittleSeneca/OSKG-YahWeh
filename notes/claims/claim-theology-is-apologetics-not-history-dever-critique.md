@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-1-2.2"
 statement: "Theology as an academic discipline is essentially apologetics — 'prescriptive rather than descriptive' — and therefore a dead end for historical inquiry into Israelite religion; the Old Testament Theology school (Eichrodt, von Rad, Wright) was engaged in a fundamentally different enterprise from history, and its questions cannot produce historical knowledge about what ancient Israelites actually believed and practiced."
 confidence: "medium"

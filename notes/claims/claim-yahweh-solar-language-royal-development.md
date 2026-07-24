@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-4.1"
 statement: "Solar imagery for Yahweh was limited but real, developed in Judah under royal influence following the same pattern as Baal's storm imagery absorption — this was solarized Yahwism, not a separate sun cult."
 confidence: "medium-high"

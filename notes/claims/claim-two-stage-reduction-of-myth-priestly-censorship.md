@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.6"
 statement: "The reduction of myth in biblical literature occurred in two stages — an earlier stage of reduced anthropomorphism relative to Ugarit, and a later stage (8th-6th centuries) of further muting driven by monolatry concerns, priestly censorship of sex/death, and scribal reshaping of divine imagery."
 confidence: "medium-high"

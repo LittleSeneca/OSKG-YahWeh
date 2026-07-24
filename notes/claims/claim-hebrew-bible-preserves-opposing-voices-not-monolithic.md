@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-1.4"
 statement: "The Hebrew Bible preserves 'opposing voices' that must be taken seriously — Israelite religion was not monolithic but encompassed competing traditions and power struggles."
 confidence: "very-high"

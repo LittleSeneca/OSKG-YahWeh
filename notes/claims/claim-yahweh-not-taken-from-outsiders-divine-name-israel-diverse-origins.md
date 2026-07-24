@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.1"
 statement: "Yahweh was not 'taken from outsiders' — rather, the divine name is evidence for the diverse background of Israel itself, not evidence of borrowing from foreigners."
 confidence: "medium-high"

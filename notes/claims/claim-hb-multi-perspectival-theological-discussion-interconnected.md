@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.8"
 statement: "The HB is "an observably multi-perspectival theological discussion" — not disconnected theologies but interconnected ones."
 confidence: "medium"

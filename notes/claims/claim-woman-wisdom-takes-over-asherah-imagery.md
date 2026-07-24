@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.4"
 statement: "Woman Wisdom in Proverbs 1-9 takes over roles and imagery previously associated with the goddess Asherah — including the tree of life and the female life-giver — as a wisdom-scribal strategy for monotheizing goddess traditions, possibly originating from Levitical teaching circles."
 confidence: "medium"

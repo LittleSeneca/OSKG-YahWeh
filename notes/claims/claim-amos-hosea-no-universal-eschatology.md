@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.9"
 statement: "Neither Amos nor Second Hosea had universal eschatology — it was born only after them."
 confidence: "medium-high"

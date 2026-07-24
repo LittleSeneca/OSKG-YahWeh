@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-24.1"
 statement: "The serpent in Eden was a divine throne guardian (seraph/cherub class being) who rebelled — not a literal talking snake from the animal kingdom."
 confidence: "medium-high"

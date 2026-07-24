@@ -1,7 +1,7 @@
 ---
 tags:
   - type/progress
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-23
 updated: 2026-07-23
 related:

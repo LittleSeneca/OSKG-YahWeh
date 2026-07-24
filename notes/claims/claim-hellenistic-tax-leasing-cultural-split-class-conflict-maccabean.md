@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-6.2"
 statement: "The Hellenistic period deepened the social crisis through Ptolemaic tax-leasing, adding a cultural split (Hellenizers vs. traditionalists) to the existing class conflict — creating the preconditions for the Maccabean revolt as both a religious and class war."
 confidence: "medium"

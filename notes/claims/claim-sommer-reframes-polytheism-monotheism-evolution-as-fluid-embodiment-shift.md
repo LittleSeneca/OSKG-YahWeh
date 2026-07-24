@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-1-3.1"
 statement: "Sommer reframes the polytheism-to-monotheism evolution as a fluid-monotheism to anti-fluid-monotheism evolution — the key shift was in the nature of God's embodiment, not the number of gods."
 confidence: "high"

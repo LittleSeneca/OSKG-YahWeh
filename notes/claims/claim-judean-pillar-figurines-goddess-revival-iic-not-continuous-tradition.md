@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.3"
 statement: "The Judean Pillar Figurines represent a REVIVAL of the goddess in anthropomorphic form during Iron Age IIC — not a continuous tradition from the Bronze Age through Iron IIB."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-3.3"
 statement: "El's divine family is astral in character; Baal is an outsider because he is a storm-god with separate paternity (bn dgn), not an astral deity."
 confidence: "medium"

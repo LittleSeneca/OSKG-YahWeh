@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, methodology, historiography, scholars/rainer-albertz, history/jerusalem, history/josiah, history/exile, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, methodology, historiography, scholars/rainer-albertz, history/jerusalem, history/josiah, history/exile, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

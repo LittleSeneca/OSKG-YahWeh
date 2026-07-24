@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.1.5"
 statement: "Ancestor cult (teraphim, necromancy) was present in early Israelite family religion but was progressively suppressed by official Yahweh religion; the largely negative biblical evidence is 'at least in part the result of later dogmatic correction.'"
 confidence: "low-medium"

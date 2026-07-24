@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.1-3.2.4"
 statement: "David's wars of conquest created a 'theological vacuum' — they could not be legitimated by the old charismatic war-leader model — so court theologians imported ANE sacral kingship theology."
 confidence: "medium-high"

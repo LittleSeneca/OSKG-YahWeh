@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-7.4"
 statement: "The aniconic and abstract traditions — fire, kābôd radiance, Name theology, and sacred emptiness — represent the dominant mode of representing Yahweh, and this is Israel's genuine distinctive contribution."
 confidence: "high"

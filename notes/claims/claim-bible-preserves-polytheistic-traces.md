@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-intro.1"
 statement: "The God of the Bible was not always 'the only God' — the Bible itself preserves unambiguous traces of a polytheistic past (Judges 11:24, Deuteronomy's warnings, Exodus 6:2-3), making monotheism a later development within the biblical tradition itself, not its original position."
 confidence: "high"

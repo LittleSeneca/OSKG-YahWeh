@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-31.1"
 statement: "Jesus's favorite self-designation — 'Son of Man' — is a direct claim to be the second Yahweh of Daniel 7, the visible Yahweh who will reclaim the nations."
 confidence: "medium-high"

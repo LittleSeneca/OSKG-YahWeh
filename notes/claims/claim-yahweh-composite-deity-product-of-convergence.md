@@ -12,7 +12,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-7.1"
 statement: "The Yahweh of the Bible is a composite deity — built from El's wisdom, Baal's storm, Asherah's nurturing, the sun's radiance, and Anat's ferocity — whose complexity is the product of the very convergence processes the Bible condemns in its polemics against other gods."
 confidence: "medium"

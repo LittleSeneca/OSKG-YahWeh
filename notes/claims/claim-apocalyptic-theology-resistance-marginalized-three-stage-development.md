@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-6.5"
 statement: "Apocalyptic emerged from marginalized lower-class and scribal circles as a 'theology of resistance,' progressing through three stages: Deutero-Zechariah (late 4th century), the Isaiah Apocalypse (early 3rd century), and Daniel (Maccabean period)."
 confidence: "low-medium"

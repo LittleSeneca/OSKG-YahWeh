@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-5.5"
 statement: "The Pentateuch's most important theological decision was to center Israel's identity on the pre-state period — on Moses, covenant, and liberation — not on David, Zion, or the monarchy, a deliberate political-theological choice that made Judaism portable and acceptable to the Persians."
 confidence: "medium-high"

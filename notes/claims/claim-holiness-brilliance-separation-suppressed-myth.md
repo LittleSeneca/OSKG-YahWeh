@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.4"
 statement: "Holiness is rooted in 'this-worldly' experience of brilliance and cleanliness; Israel's priesthood developed holiness as 'apartness' — separation from sex and death — which had the effect of censoring older mythologies involving divine sexuality and death."
 confidence: "medium-high"

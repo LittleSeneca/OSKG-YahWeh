@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, historiography, methodology, scholars/william-dever, scholars/mark-smith, truth-project]
+tags: [source/book-notes, faith/yahweh, historiography, methodology, scholars/william-dever, scholars/mark-smith, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-08-03
 confidence: high

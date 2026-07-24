@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.7"
 statement: "Yahweh was 'embedded in nearby spaces' to early Israel in the Levantine highlands and inland east — not distant and specifically southern — making both the 'foreign' and the 'southern origin' frameworks unnecessary."
 confidence: "low-medium"

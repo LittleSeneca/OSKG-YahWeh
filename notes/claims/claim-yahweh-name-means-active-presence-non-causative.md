@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.2"
 statement: "The meaning of Yahweh relates to 'being' and 'active presence' (non-causative HYH), not 'he who causes to be' (causative creator) — the Exodus 3:14 wordplay is the best interpretive guide."
 confidence: "high"

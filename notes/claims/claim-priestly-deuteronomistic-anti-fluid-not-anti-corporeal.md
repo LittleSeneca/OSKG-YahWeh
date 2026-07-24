@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-3.4"
 statement: "P and D are anti-fluid but not anti-corporeal — they reject multiple divine bodies (fluidity) while preserving the notion that God still has a body."
 confidence: "high"

@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-10.2"
 statement: "Second Isaiah's polemic against images targets the Babylonian mis pi (mouth-washing) ritual — the ceremony that animated cult statues into living gods — and inverts every element of it; the real target is not Babylonians but Judeans tempted to participate in Babylonian cult."
 confidence: "high"

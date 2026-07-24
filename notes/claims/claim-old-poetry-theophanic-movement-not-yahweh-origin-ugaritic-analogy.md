@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-4.1"
 statement: "The old poetry does not describe Yahweh's origin — it describes his theophanic movement from a distant divine home, analogous to Baal's Mount Sapan in Ugaritic myth."
 confidence: "high"

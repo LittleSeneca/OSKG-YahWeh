@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-2.1"
 statement: "Throughout the history of scholarship on Israelite religion, archaeological evidence has been systematically ignored — even by the best text-based scholars — such that the field has largely produced 'histories of the history of the texts about religions, rather than of religion itself.'"
 confidence: "high"

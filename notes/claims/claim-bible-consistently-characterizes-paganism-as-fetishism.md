@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.2"
 statement: "The Bible consistently characterizes paganism as fetishism — the worship of 'wood and stone' — never engaging with pagan gods as living deities with mythological biographies."
 confidence: "high"

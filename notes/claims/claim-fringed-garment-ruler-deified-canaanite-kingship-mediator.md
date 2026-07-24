@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.7"
 statement: "The ruler in the fringed garment represents a deified Canaanite kingship — a mediating figure between divine and human spheres that both prefigures and contrasts with later Israelite royal ideology."
 confidence: "medium-high"

@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-6.2"
 statement: "The so-called 'dying and rising gods' — Osiris, Dumuzi, Melqart, Adonis, and Baal — are fundamentally different from each other; their deaths reflect different cultural logics (funerary, royal, seasonal) that Frazer's generalization cannot sustain."
 confidence: "high"

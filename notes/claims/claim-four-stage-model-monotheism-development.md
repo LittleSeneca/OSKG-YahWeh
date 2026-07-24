@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-6.1"
 statement: "Israelite monotheism developed through four stages — Judges (convergence), Early Monarchy (centralization), Late Monarchy (differentiation), and Exile (crystallization) — driven by monarchy, writing, covenant theology, international crisis, and social change, making monotheism both an evolution (from polytheism) and a revolution (rejection of all other deities)."
 confidence: "medium-high"

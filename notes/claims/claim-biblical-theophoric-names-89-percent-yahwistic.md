@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-1.1"
 statement: "Biblical personal names are overwhelmingly Yahwistic: of 466 individuals with theophoric names, 413 (89%) bear Yahwistic names while only 53 (11%) bear clearly or plausibly pagan names."
 confidence: "high"

@@ -6,7 +6,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.4"
 statement: "Since the inscriptional evidence sets in for the most part in the eighth century BCE, Tigay's conclusions apply mainly to the period beginning then — the evidence does not directly argue against the greater prevalence of polytheism earlier."
 confidence: "high"

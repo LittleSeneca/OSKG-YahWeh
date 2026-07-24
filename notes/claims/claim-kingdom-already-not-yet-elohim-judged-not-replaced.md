@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-36.1"
 statement: "The kingdom is inaugurated but not consummated — the elohim are judged at the cross but not yet replaced; believers live in the already/not-yet tension."
 confidence: "medium"

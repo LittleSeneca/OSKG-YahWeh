@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.3-2.4.1"
 statement: "Pre-state Israel was a segmentary, acephalous, deliberately anti-monarchical tribal society — not an amphictyony, not a state."
 confidence: "medium-high"

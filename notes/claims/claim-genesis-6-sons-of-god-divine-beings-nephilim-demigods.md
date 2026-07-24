@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-10.1"
 statement: "The 'sons of God' in Genesis 6:1-4 were divine beings who produced the Nephilim — the Sethite interpretation is a late apologetic invention, not the text's original meaning."
 confidence: "high"

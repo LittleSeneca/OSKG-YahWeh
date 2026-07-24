@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-7.3"
 statement: "Molech was a genuine Canaanite underworld deity who received child sacrifice and was NOT equated with Yahweh by his worshippers."
 confidence: "very-high"

@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, philology, historiography, methodology, history/israel-judah, history/exile, faith/divine-council, truth-project, west-semitic-religion, ugarit]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, faith/polytheism, scholars/mark-smith, philology, historiography, methodology, history/israel-judah, history/exile, faith/divine-council, oskg-yahweh, west-semitic-religion, ugarit]
 created: 2026-07-22
 updated: 2026-07-24
 confidence: high

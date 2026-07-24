@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.8"
 statement: "The two dominant themes of Iron Age I iconography — aggressive domination and agricultural/herd fertility — correspond to the dual concerns of the Judges era in the Hebrew Bible."
 confidence: "high"

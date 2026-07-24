@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-28.1"
 statement: "'The Day of the Lord' in the prophets is about Yahweh reclaiming the nations from corrupt *elohim* — not primarily about the end of the world."
 confidence: "medium"

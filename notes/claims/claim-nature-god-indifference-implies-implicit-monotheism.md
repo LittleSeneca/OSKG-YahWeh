@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.8"
 statement: "Israelite indifference to nature gods in their onomasticon implies implicit monotheism: 'A unilatry which ignores the gods of other nations can be classified as monolatry, but a unilatry which ignores phenomena on which all nations depend looks implicitly like monotheism.'"
 confidence: "medium"

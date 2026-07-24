@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.6"
 statement: "Classical prophecy created the idea of universal history — a new 'historiosophy' between the early religion's dualism (Israel vs. nations) and apocalyptic's periodization."
 confidence: "medium-high"

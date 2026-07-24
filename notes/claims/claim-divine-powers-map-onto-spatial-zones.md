@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.3"
 statement: "Divine powers map onto spatial zones — benevolent deities of the center (home and foreign) provide blessing, protection, and well-being, while monstrous divinities of the periphery and beyond bring destruction and threat, with foreign deities also blessing, making the divide spatial rather than ethnic."
 confidence: "high"

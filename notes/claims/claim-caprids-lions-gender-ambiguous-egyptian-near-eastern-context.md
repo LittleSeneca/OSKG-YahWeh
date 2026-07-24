@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.1"
 statement: "Caprids and lions are gender-ambiguous symbols in MB IIB iconography whose meaning depends entirely on whether the interpretive framework is Egyptian or Near Eastern — revealing a religious world without rigid gender boundaries between divine spheres."
 confidence: "high"

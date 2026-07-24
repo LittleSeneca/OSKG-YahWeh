@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.4"
 statement: "The Shasu texts (Egyptian, 14th-13th C BCE) provide the earliest possible attestation of Yahweh — they are toponyms not theonyms, but the connection to Seir is the crucial link tying them to archaic biblical poetry."
 confidence: "medium"

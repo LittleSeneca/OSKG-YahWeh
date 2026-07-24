@@ -9,7 +9,7 @@ tags:
   - evidence/onomastic
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.3-2.4.2"
 statement: "The name 'Israel' ('El rules') and the altar inscription 'El, the god of Israel' (Gen 33:20) prove the tribal alliance originally worshipped El, not Yahweh — Yahweh was adopted secondarily."
 confidence: "medium"

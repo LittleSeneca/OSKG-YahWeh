@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.2"
 statement: "Jezebel's Baal was Baal-Shamem (the universal storm god), NOT Melqart (city god of Tyre) — the Esar-haddon treaty distinguishes Melqart from storm-associated Baal deities, and Mt. Carmel was always equated with Zeus (= Baal-Shamem, not Herakles/Melqart)."
 confidence: "medium-high"

@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.5"
 statement: "'His asherah' (*'šrth*) is a cultic symbol (stylized tree), NOT the goddess Asherah — the grammatical, biblical, and iconographic evidence converges on the asherah as a mediating entity subordinate to Yahweh."
 confidence: "medium-high"

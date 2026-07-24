@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.2"
 statement: "Anthropomorphism is the norm across ANE cultures; Israel develops a 'transcendent anthropomorphism' but never abandons it — the common claim that Israel discarded anthropomorphism is inaccurate for both Israel and the rest of the ancient Middle East."
 confidence: "high"

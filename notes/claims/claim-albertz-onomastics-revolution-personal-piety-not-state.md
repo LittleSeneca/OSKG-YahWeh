@@ -6,7 +6,7 @@ tags:
   - evidence/onomastic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.4"
 statement: "Albertz revolutionized onomastics by showing that personal names reflect personal piety, not state religion — and this shift is as important as any methodological development in the field."
 confidence: "high"

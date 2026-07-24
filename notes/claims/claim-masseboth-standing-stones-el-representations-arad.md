@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-5.3"
 statement: "Masseboth (standing stones) are the most likely physical representations of El in Iron Age Israel — and the Arad single stela is the clearest example of a massebah functioning as a divine symbol in a temple niche."
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-5.4"
 statement: "P's high priesthood and tent reflect pre-exilic conditions, not the Second Temple — the critical view that P mirrors post-exilic theocracy 'will not bear examination.'"
 confidence: "medium"

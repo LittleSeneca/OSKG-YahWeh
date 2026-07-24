@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.10"
 statement: "The basic problem is that Israelite religion is non-mythological — and this is what makes it unique in world history and the source of its universal appeal."
 confidence: "medium"

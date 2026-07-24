@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-4.1"
 statement: "The name 'Israel' is an El name, not a Yhwh name — the group originally venerated El, and Yhwh was adopted later."
 confidence: "high"

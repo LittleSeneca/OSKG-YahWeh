@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-4.3"
 statement: "The biblical texts themselves acknowledge that Yhwh and Israel were not originally connected — the relationship began at a specific historical moment."
 confidence: "high"

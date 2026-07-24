@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-3.3"
 statement: "The biblical evidence is insufficient to prove Asherah was a goddess in monarchic Israel"
 confidence: "low"

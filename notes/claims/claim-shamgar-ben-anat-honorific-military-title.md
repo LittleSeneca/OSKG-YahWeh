@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-5.2"
 statement: "Shamgar ben Anat is an honorific military title meaning 'son of (the warrior goddess) Anat,' not a patronymic or geographical designation."
 confidence: "medium-high"

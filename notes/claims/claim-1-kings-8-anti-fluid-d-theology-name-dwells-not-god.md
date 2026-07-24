@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-4.3"
 statement: "1 Kings 8:27 ('the heavens and the highest heaven cannot contain You; how much less this house') represents D's anti-fluid correction of older fluid theology — the Temple contains only God's Name, not God himself."
 confidence: "high"

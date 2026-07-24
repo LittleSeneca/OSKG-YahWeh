@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-7.1"
 statement: "There was NO anthropomorphic cult statue of Yahweh in the Jerusalem Temple — the seven arguments for one do not survive scrutiny."
 confidence: "high"

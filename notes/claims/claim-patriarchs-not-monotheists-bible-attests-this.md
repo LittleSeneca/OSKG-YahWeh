@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.2"
 statement: "The patriarchs were NOT monotheists — and the Bible itself attests to this through indirect testimony."
 confidence: "high"

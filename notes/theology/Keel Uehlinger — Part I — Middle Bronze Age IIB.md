@@ -10,7 +10,7 @@
 10|  - faith/polytheism
 11|  - faith/baal
 12|  - ane-religion
-13|  - truth-project
+13|  - oskg-yahweh
 14|created: 2026-07-22
 15|confidence: high
 16|source:

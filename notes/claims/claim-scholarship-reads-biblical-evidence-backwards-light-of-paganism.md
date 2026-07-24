@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.7"
 statement: "Biblical scholarship reads the evidence backwards — 'in the light of paganism' — assuming Israelite religion must have developed like other ANE religions and dismissing contrary evidence as late editorial insertions."
 confidence: "medium"

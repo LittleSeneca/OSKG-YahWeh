@@ -7,7 +7,7 @@ tags:
   - evidence/ugaritic
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-27.1"
 statement: "Yahweh absorbed Baal's storm-god imagery as POLEMICAL REPLACEMENT — demonstrating superiority by using Baal's own language — not as polytheistic syncretism."
 confidence: "medium"

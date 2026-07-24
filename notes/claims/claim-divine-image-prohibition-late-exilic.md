@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-8.3"
 statement: "The prohibition on divine images in the Decalogue is not Mosaic but was formulated during the exile (6th century BCE) to distinguish Yahwism from Babylonian idolatry, then projected backward into Israel's foundational narrative."
 confidence: "high"

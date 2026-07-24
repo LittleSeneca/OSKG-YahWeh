@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-app.1"
 statement: "The documents preserved in the Hebrew Bible, when taken as a whole, are monotheistic — monotheism was well established among biblical authors considerably earlier than the exile, even though most Israelites were not monotheists"
 confidence: "medium"

@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.7"
 statement: "Writing was a customary mode of prophetic communication — not a late development or emergency measure; Israel was a scribal culture embedded in the literate civilizations of Egypt and Mesopotamia."
 confidence: "medium-high"

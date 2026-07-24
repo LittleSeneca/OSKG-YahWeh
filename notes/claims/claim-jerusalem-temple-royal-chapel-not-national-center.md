@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-4.3"
 statement: "The Jerusalem Temple was a royal chapel serving the court and priestly elite — not the center of national religion for most Israelites, who had never been to Jerusalem and for whom Temple theology was unknown and irrelevant."
 confidence: "high"

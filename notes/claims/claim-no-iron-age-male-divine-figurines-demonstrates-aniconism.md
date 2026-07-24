@@ -5,7 +5,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-7.2"
 statement: "Dever's 1983 observation still stands — no provenanced Iron Age male divine figurines exist in Israel/Judah, and this absence demands an ideological explanation."
 confidence: "very-high"

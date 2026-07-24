@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.8"
 statement: "The three-book synthesis (Smith+Römer+Dever) establishes that the Bible is a minority report, God absorbed a goddess, and recovering Asherah recovers suppressed women's history."
 confidence: "high"

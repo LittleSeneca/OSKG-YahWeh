@@ -6,7 +6,7 @@ tags:
   - evidence/grammatical
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.6"
 statement: "The marriage of Hosea was theatrical representation — a dramatic sign-act — not biography."
 confidence: "medium"

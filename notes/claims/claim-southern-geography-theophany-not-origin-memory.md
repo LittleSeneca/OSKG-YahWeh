@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.5"
 statement: "The southern geography of the old poetry (Seir, Teman, Sinai) does not establish Yahweh's origin there — it attributes divine power in the wilderness without attaching worship to a southern population, and 'coming from the south' is a theophanic motif, not an origin memory."
 confidence: "medium"

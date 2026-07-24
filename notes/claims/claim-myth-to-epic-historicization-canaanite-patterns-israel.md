@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-ii-iii.2"
 claim_format: "implicit"
 statement: "Israel's religious literature transformed Canaanite MYTH into historical EPIC — the mythic raw material (divine warrior battles chaos, divine council, sacred mountain) was historicized into Israel's story of salvation history."

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.2"
 statement: "Seir (S'rr) was probably NOT in the original Amenhotep III Soleb list — it was added in the 13th-century Ramses II copy at Amarah West."
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-pro-1.2"
 statement: "The biblical God had a literal, physical humanoid body with head, hair, face, eyes, ears, nose, mouth, arms, hands, legs, feet, chest, back, heart, tongue, teeth, and genitals — and this is the scholarly consensus, not a fringe position."
 confidence: "very-high"

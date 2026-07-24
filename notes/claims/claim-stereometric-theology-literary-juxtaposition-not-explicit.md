@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.7"
 statement: ""Stereometric theology" — the HB conveys theological meaning through literary juxtaposition, not explicit statement."
 confidence: "medium-high"

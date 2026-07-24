@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-16-21.4"
 statement: "God's body was 'killed' — over centuries, Jewish and Christian intellectuals shaped by Greek philosophy replaced the living, breathing, embodied God of the Bible with an immaterial abstraction, and modern worshippers have been praying to a ghost."
 confidence: "high"

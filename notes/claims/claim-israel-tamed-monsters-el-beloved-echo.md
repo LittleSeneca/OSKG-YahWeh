@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.7"
 statement: "Israelite texts transform cosmic enemies through 'taming' — Leviathan becomes God's domesticated pet/plaything (Job 40-41, Psalm 104:26) and Sea is treated as a newborn babe (Job 38:8-11) — which may echo El's 'beloved' relationship with monsters, reflecting a coalescence of El's nurturing role and Baal's warrior role into Yahweh's character."
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-intro.5"
 statement: "Israelite monotheism was not an elite theological doctrine but the fundamental idea of a national culture from the very beginning."
 confidence: "low-medium"

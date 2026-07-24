@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-3.6.4"
 statement: "Hezekiah's reform (late 8th c.) was the first administrative response to prophetic critique, and the Book of the Covenant (Ex 20:23-23:19) was its legal basis, dated to the late 8th century."
 confidence: "medium"

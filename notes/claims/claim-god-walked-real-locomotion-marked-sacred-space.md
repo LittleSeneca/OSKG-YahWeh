@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-2-4.2"
 statement: "God's walking was real, not metaphorical — his locomotion through the landscape transformed it into sacred space, and standing stones (massebot) marked the places where he had stood."
 confidence: "high"

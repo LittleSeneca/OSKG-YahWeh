@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.5"
 statement: "The standard archaeological periodization is wrong — the Iron IIB/C break must be dated to the late 8th century (Assyrian conquest), not c. 850, based on iconographic evidence showing massive cultural change under Assyrian influence."
 confidence: "medium-high"

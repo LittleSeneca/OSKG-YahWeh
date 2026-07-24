@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, theology/divine-embodiment, ane-religion, scholars/benjamin-sommer, philology, history/aniconism, truth-project]
+tags: [source/book-notes, theology/divine-embodiment, ane-religion, scholars/benjamin-sommer, philology, history/aniconism, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

@@ -10,7 +10,7 @@ tags:
   - evidence/ugaritic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-7.4"
 statement: "The OT Rephaim (underworld shades) derive from Ugaritic rpʼum (deified royal dead), and the ethnic Rephaim (giants) developed from the underworld concept."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-12.1"
 statement: "True monotheism — the assertion that other gods do not EXIST — emerged in the Babylonian exile, first articulated in Second Isaiah."
 confidence: "very-high"

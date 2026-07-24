@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-16-21.1"
 statement: "God's face could be seen — sometimes fatally, sometimes safely — and the tension in the Hebrew Bible is not between a God with a face and without one, but between seeing it and surviving it."
 confidence: "very-high"

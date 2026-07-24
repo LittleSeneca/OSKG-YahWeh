@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-5.2"
 statement: "The Amorite Yahwi-/Yahwi- personal names provide the right onomastic context for understanding Yhwʒ, but these are personal names, not divine names, and the element never indicates a god."
 confidence: "medium"

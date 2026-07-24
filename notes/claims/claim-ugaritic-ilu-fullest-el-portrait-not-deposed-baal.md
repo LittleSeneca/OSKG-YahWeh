@@ -9,7 +9,7 @@ tags:
   - evidence/iconographic
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.3"
 statement: "Ugarit provides the fullest representation of El/ʾIlu in the Late Bronze Age — and the picture is of a fatherly, wise, benevolent, creative head of the pantheon who is NOT deposed by Baal."
 confidence: "very-high"

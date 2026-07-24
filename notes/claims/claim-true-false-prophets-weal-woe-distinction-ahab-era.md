@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.7"
 statement: "The distinction between 'true' and 'false' prophets first appears in Ahab's time as a division between prophets of weal and prophets of woe — both rooted in authentic Israelite tradition."
 confidence: "medium-high"

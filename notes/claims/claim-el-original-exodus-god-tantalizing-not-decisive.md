@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.8"
 statement: "El may have been the original god of the Exodus — but the evidence is fragmentary and the case is 'tantalizing' rather than decisive."
 confidence: "low-medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-2.6"
 statement: "Monotheism does not eliminate divine council imagery — it only reduces the ontological status of council members from deities to subservient powers."
 confidence: "high"

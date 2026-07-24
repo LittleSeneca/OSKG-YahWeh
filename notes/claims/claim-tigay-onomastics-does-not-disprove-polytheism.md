@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-intro.4"
 statement: "Tigay's onomastic argument does not disprove widespread polytheism in pre-exilic Israel."
 confidence: "medium"

@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.5"
 statement: "The MB IIB weather god is primarily a vegetation/fertility deity holding a branch — not the warrior-smiter he becomes in the Late Bronze Age."
 confidence: "medium-high"

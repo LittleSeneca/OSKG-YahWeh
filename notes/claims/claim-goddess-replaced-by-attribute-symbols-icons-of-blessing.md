@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.3"
 statement: "The anthropomorphic naked goddess of the Bronze Age is replaced by her attribute symbols — suckling mother animals, caprids at trees, scorpions, and branches — which become autonomous 'icons of blessing' detached from any specific goddess identity."
 confidence: "high"

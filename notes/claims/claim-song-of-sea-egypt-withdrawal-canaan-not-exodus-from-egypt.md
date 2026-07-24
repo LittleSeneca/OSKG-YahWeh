@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.7"
 statement: "The Song of the Sea (Exodus 15) is an origins story recalling Egypt's withdrawal from Canaan, not an actual exodus from Egypt — the people in the poem have never been in Egypt."
 confidence: "medium"

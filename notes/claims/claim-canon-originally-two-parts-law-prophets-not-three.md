@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-11.3"
 statement: "The canon was originally TWO parts ("Law and Prophets"), not three — the tripartite structure developed later."
 confidence: "high"

@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-10.4"
 statement: "Monotheism is 'not a new stage of religion but a new stage of rhetoric' born from exile — when political boundaries collapsed, Israel elevated the terms of its deity's mastery to cosmic scale; later readers 'read for the monotheistic God' and constructed the 'historical myth' of original monotheism, just as the biblical tradents did."
 confidence: "high"

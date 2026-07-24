@@ -9,7 +9,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.6"
 statement: "Yahweh was a southern storm/warrior deity who was subsequently clothed in northern Canaanite cultural garments — the merger of southern origins and northern traditions produced the Yahweh of the Hebrew Bible."
 confidence: "high"

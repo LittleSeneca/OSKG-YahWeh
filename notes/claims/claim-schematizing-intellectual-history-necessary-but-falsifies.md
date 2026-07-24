@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.1"
 statement: "Schematizing intellectual history is necessary but always falsifies to some degree — the best categories are the ones that 'falsify it least.'"
 confidence: "high"

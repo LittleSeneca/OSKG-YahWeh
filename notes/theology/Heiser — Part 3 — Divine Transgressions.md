@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/divine-council, genesis-6, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/divine-council, genesis-6, scholars/michael-heiser, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 claims_status: "extracted"

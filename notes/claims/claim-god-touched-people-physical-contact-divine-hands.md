@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-12-15.3"
 statement: "God touched people — his hands made physical contact with Moses, Jeremiah, and others — and divine touch was an instrument of both intimacy and commissioning."
 confidence: "high"

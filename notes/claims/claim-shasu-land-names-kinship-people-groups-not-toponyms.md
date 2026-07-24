@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-2.3"
 statement: "The Shasu-land names in the Egyptian lists represent kinship-based people-groups (mhwt, 'families/tribes'), not towns, landmarks, or sanctuaries."
 confidence: "medium"

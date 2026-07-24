@@ -13,7 +13,7 @@ tags:
   - history/jerusalem
   - history/josiah
   - faith/asherah
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-08-01
 confidence: medium-high

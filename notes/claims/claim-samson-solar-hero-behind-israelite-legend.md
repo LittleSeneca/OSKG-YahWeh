@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-6.3"
 statement: "Behind the figure of the judge Samson there lies ultimately a solar hero, overlaid with Israelite features."
 confidence: "low-medium"

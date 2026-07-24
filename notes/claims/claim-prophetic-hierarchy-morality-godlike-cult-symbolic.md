@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.10"
 statement: "The prophets established a hierarchy of value — morality is essentially godlike, cult is only symbolic."
 confidence: "low-medium"

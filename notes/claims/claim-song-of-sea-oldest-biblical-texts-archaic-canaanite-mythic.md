@@ -8,7 +8,7 @@ tags:
   - evidence/ugaritic
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-ii-iii.3"
 claim_format: "implicit"
 statement: "The Song of the Sea (Exodus 15) is one of the oldest texts in the Bible, dating to the 12th-11th centuries BCE based on archaic linguistic features, and is constructed almost entirely from Canaanite mythic motifs."

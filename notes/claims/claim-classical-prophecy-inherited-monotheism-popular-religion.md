@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-10.1"
 statement: "Classical prophecy inherited its monotheism and worldview from the popular religion — it did not create them; the prophets never argue FOR monotheism, only FROM it."
 confidence: "medium"

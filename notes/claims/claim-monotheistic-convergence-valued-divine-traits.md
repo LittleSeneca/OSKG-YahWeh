@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-5.6"
 statement: "The monotheistic Yahweh represents the convergence of valued divine traits, not the invention of new ones — Israel's distinctiveness lies in the reduction and combination of traits shared across Ugarit and Mesopotamia, not in any unique feature of how the deity is described."
 confidence: "high"

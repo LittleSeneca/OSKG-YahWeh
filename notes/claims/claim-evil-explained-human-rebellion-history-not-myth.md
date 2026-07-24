@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-9.1"
 statement: "Israelite religion solved the problem of evil monotheistically by replacing myth with history — Genesis 1-11 depicts all evils as consequences of human rebellion, not primordial divine conflict."
 confidence: "medium-high"

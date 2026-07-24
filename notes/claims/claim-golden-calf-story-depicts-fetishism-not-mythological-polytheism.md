@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.6"
 statement: "The golden calf story is the Bible's 'classic representation' of Israelite idolatry — and it depicts fetishism (worship of a newly-made anonymous image), not mythological polytheism."
 confidence: "low"

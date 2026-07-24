@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-5.3"
 statement: "Saul, David, and Solomon are paradigmatic constructs shaped by Deuteronomistic editors, but behind the theological portraits lie genuine historical developments."
 confidence: "high"

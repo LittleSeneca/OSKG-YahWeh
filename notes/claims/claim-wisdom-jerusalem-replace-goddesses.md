@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-9.7"
 statement: "New mythic figures — Woman Wisdom and personified Jerusalem — functioned as replacements for goddesses, serving as 'counter-advertisements' to the cults of Astarte and the Queen of Heaven, usurping goddess imagery and applying it to acceptable literary personifications."
 confidence: "low-medium"

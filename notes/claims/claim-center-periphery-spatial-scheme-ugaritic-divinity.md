@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-1.1"
 statement: "The center-periphery spatial scheme adapted from Wiggermann provides the fundamental organizational structure for Ugaritic divinity — benevolent deities inhabit the 'near' center (home, foreign, sacred mountains, cultivated land) while monstrous divine creatures belong to the periphery (wilderness) and beyond-periphery (underworld, cosmic waters)."
 confidence: "high"

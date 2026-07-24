@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-10.2"
 statement: "The cultic management of holiness in the Priestly source (P) was an ideological tool for constructing and reinforcing priestly hierarchy, rank, and privilege — holiness 'served as an indicator of rank among cultic personnel,' and P adamantly asserts that ONLY Aaronid priests are holy."
 confidence: "high"

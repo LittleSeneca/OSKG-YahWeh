@@ -11,7 +11,7 @@ tags:
   - evidence/biblical-text
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-8-9.2"
 statement: "Yhwh had a consort — Asherah was a goddess in monarchic Israel paired with Yhwh, not Baal; the biblical association of Asherah with Baal is a Deuteronomistic invention designed to break the Yhwh-Asherah link."
 confidence: "high"

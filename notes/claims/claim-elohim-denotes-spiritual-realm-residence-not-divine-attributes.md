@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-4.1"
 statement: "The Hebrew word *elohim* means 'disembodied spiritual being' — a 'place of residence' term denoting beings whose proper domain is the spiritual world, not a term describing a set of divine attributes."
 confidence: "medium-high"

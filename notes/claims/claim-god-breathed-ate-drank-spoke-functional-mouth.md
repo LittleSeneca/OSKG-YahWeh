@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-16-21.3"
 statement: "God breathed, ate, drank, and spoke — his mouth was a fully functional biological organ, not just a metaphor for divine communication."
 confidence: "high"

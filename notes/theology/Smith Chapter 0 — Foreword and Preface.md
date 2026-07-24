@@ -9,7 +9,7 @@ tags:
   - history/aniconism
   - faith/asherah
   - faith/polytheism
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-07-24
 confidence: high

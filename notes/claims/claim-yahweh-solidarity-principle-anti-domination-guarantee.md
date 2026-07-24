@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.3-2.4.3"
 statement: "Yahweh functioned as both the principle of solidarity (enabling cooperation across tribal lines) AND the guarantee against permanent centralized power — 'Yahweh will rule over you' (Gideon, Judg 8:22f.)."
 confidence: "medium"

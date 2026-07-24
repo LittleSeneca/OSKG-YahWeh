@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p2.4"
 statement: "Lachish and southern Palestine show the most intense Egyptian-Canaanite syncretism — the qudshu-type goddess, Baal-Seth as serpent-conqueror, and Hathor worship all represent fusions of Egyptian and indigenous traditions."
 confidence: "high"

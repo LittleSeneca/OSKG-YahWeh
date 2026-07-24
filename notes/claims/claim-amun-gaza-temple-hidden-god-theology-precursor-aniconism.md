@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.2"
 statement: "The Amun temple at Gaza propagated a 'hidden god' theology throughout Palestine via mass-produced seal amulets — a possible precursor to Israelite aniconism."
 confidence: "high"

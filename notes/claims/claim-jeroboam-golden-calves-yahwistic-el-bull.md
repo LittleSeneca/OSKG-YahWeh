@@ -11,7 +11,7 @@ tags:
   - evidence/inscriptional
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-1.6"
 statement: "Jeroboam's golden calves were Yahwistic images (not Baal images, not pedestals), derived from the old bull cult associated with El-Bethel at Bethel, traced back to Jacob."
 confidence: "high"

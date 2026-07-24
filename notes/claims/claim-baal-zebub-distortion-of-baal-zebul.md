@@ -7,7 +7,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.3"
 statement: "Baal-zebub ('Lord of the Flies') is a deliberate polemical distortion of Baal-zebul ('Prince Baal'), part of a broader scribal strategy of theologically motivated name-distortion."
 confidence: "high"

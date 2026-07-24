@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, history/jerusalem, truth-project]
+tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, history/jerusalem, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Sommer — Introduction]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Heiser — Part 2 — The Households of God]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]"]

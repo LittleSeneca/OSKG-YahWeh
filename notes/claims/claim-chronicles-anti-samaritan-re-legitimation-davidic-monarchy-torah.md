@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-6.3"
 statement: "The Chronistic history was a response to the Samaritan schism — an attempt to re-legitimate the Davidic monarchy and Jerusalem temple within the framework of the Torah, since the Pentateuch's pre-state focus gave Samaritans theological ammunition against Jerusalem's claims."
 confidence: "medium"

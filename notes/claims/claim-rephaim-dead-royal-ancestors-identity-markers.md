@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.2"
 statement: "The Rephaim and mlkm represent dead royal ancestors — at Ugarit they mark cultural identification with monarchy; in deuteronomic texts they mark cultural disidentification."
 confidence: "medium"

@@ -8,7 +8,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-6.1"
 statement: "Astralization replaces solarization as the dominant religious iconography in Iron Age IIC — the Assyrian conquest brings a shift from sun-centered to star-centered divine imagery."
 confidence: "high"

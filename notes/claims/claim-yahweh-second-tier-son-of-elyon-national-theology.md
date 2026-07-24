@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-8.4"
 statement: "Before monotheistic rhetoric emerged, Israel operated with a 'national theology' where Yahweh was one son of Elyon among many — a second-tier patron god under the high god El — as preserved in the LXX/DSS version of Deuteronomy 32:8-9 and Psalm 82."
 confidence: "high"

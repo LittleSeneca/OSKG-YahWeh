@@ -9,7 +9,7 @@ tags:
   - evidence/inscriptional
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-4.5"
 statement: "Deuteronomy 32:8-9, in its original form (LXX/Qumran), shows El Elyon as superior to Yahweh — who is one of the divine sons, not the high god."
 confidence: "very-high"

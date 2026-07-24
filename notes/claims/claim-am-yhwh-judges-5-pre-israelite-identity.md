@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-1.4"
 statement: "The Bible's 'people of Yahweh' ('am Yhwh) in Judges 5:13 represents a pre-Israelite or non-Israelite identity — Israel is only linked to the battle by the later addition of the opening hymn (vv. 2-11)."
 confidence: "medium-high"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-p1.2"
 statement: "The Naked Goddess was transformed from a Syrian cylinder-seal consort into a uniquely Canaanite 'Branch Goddess' — a mass-market fertility deity for personal devotion on scarabs."
 confidence: "high"

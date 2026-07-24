@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-1.3"
 statement: "Ancient Greek religion lacked the fluidity model entirely — Greek gods had discrete bodies and discrete selves like humans, meaning the key religious divide is fluid vs. non-fluid divinity, not monotheism vs. polytheism"
 confidence: "medium-high"

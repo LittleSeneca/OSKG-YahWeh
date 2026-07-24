@@ -9,7 +9,7 @@ tags:
   - evidence/comparative-ane
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-ii-iii.1"
 claim_format: "implicit"
 statement: "The central religious concept of early Israel was Yahweh as DIVINE WARRIOR — a concept borrowed directly from Canaanite myth, specifically the Ba'l cycle, and historicized into Israel's narrative."

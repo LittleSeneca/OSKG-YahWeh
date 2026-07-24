@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-excursus.5"
 statement: "The Astarte plaques are a CITY phenomenon — they are not found in early Israelite hill country settlements, which means they cannot be used as evidence for Israelite folk religion."
 confidence: "high"

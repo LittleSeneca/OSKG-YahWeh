@@ -5,7 +5,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-2.4"
 statement: "Pagan gods are subject to necessity — fate, ananke, rita, karma — even the highest gods cannot escape predestined decrees of an impersonal cosmic order."
 confidence: "high"

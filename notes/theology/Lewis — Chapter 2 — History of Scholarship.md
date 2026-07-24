@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, methodology, historiography, scholars/theodore-lewis, archaeology, philology, history/exile, faith/baal, truth-project]
+tags: [source/book-notes, methodology, historiography, scholars/theodore-lewis, archaeology, philology, history/exile, faith/baal, oskg-yahweh]
 created: 2026-07-22
 updated: 2026-07-29
 claims_status: "extracted"

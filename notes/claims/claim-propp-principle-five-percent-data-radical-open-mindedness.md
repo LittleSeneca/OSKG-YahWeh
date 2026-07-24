@@ -6,7 +6,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-3.5"
 statement: "The Propp Principle — we have at most 5% of the data, and parsimonious reconstructions are usually 'a failure of imagination, not a triumph of induction.'"
 confidence: "high"

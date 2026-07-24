@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-12.6"
 statement: "Habakkuk 2:18-20 represents the first explicit statement that idolatry is sinful for the nations — a key step toward universal mission."
 confidence: "medium"

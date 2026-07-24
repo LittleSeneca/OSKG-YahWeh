@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-6-9.2"
 statement: "Barth's "religion is unbelief" reversed the Romantic devaluation — now RELIGION was the problem and THEOLOGY was rehabilitated."
 confidence: "high"

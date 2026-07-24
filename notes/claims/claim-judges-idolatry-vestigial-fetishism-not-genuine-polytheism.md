@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-7.5"
 statement: "The Judges-era 'idolatry' was a superficial vestigial fetishism practiced by ignorant masses — not genuine polytheism with mythological content."
 confidence: "low"

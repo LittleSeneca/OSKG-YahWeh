@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-4.4"
 statement: "The Asherah question is genuinely unresolved — Smith backs away from his earlier skepticism that she was merely a cult symbol but remains cautious about the consort question."
 confidence: "medium"

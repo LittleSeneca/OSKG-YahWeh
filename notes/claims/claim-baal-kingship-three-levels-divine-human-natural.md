@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-6.4"
 statement: "Baal's kingship in the Baal Cycle operates on three levels — divine (order vs. conflict), human (life and death of the king), and natural (abundance vs. desiccation) — and Baal's death encodes dynastic vulnerability, not agricultural cycles."
 confidence: "high"

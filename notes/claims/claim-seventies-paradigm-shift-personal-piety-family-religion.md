@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-2.6"
 statement: "The 1970s witnessed a paradigm shift toward personal piety and family religion — driven independently by Meshel (Kuntillet Ajrud), Barkay (Ketef Hinnom), and Albertz (Persönliche Frömmigkeit)."
 confidence: "very-high"

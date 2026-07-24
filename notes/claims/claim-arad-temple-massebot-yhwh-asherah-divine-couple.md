@@ -5,7 +5,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-5.3"
 statement: "The two standing stones (massebot) in the holy of holies of the Arad temple represent Yhwh and another deity — almost certainly Asherah — providing archaeological evidence for a divine couple worshipped in an official Yahwistic sanctuary in 8th-century Judah."
 confidence: "medium-high"

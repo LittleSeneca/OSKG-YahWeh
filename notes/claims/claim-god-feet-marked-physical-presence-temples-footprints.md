@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-2-4.1"
 statement: "God's feet marked his physical presence on earth — temples were his footprints, and standing stones (massebot) marked the places where God had stood, rendering him locally present at specific sites."
 confidence: "very-high"

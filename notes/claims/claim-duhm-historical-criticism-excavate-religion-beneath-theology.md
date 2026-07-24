@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-5.2"
 statement: "Duhm and early historical critics practiced criticism passionately because they believed it was the tool to excavate 'true religion' from beneath theological redaction."
 confidence: "high"

@@ -10,7 +10,7 @@ tags:
   - evidence/iconographic
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.1"
 statement: "Asherah was a real goddess, Yhwh's consort, and the cumulative archaeological evidence proves it."
 confidence: "high"

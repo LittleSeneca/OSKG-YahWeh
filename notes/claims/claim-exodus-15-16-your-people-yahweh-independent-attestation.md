@@ -5,7 +5,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-6.5"
 statement: "Exodus 15:16 independently attests 'your people, Yahweh' — a people defined solely by its god, never named 'Israel' — from a different region (southern highlands/Jerusalem) than Judg 5."
 confidence: "medium"

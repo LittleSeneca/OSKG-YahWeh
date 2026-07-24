@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-6-9.7"
 statement: "Israelite religion was everywhere and always polytheistic in practice until the very end of the monarchy; monotheism was a 'book religion' invented by a small elite circle that never fully converted the masses."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-excursus.3"
 statement: "The goddess represented in the Astarte plaques was primarily a figure for WOMEN — associated with pregnancy, childbirth, and female life-cycle rituals, not a broadly popular cult that included male worshipers equally."
 confidence: "medium-high"

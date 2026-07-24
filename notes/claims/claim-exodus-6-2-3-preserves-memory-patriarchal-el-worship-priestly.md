@@ -8,7 +8,7 @@ tags:
   - evidence/philological
   - scholar/frank-moore-cross
   - source/cross-canaanite-myth-hebrew-epic
-  - truth-project
+  - oskg-yahweh
 claim_id: "cross-cmhe-pre-i.5"
 claim_format: "implicit"
 statement: "Exodus 6:2-3 explicitly acknowledges that the patriarchs worshipped El (as El Shadday), not Yahweh, and the Priestly writer preserves genuine historical memory of a time when the name Yahweh was unknown."

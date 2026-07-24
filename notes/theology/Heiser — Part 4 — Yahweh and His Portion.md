@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-council, deut-32, scholars/michael-heiser, faith/el, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-council, deut-32, scholars/michael-heiser, faith/el, oskg-yahweh]
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 3 — Divine Transgressions]]", "[[Heiser — Part 5 — Conquest and Failure]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]", "[[Fleming — Ch 1 — Introduction]]", "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]", "[[Romer — Chapter 2 — Geographic Origin]]", "[[scholarly-directory-yahweh-origins]]"]

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-1.8"
 statement: "The Pentateuchal laws confirm the fetishism pattern — all sources agree in their view of idolatry, and no law interdicts belief in pagan gods or telling their myths."
 confidence: "medium-high"

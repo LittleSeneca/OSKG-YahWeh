@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-1.5"
 statement: "The book's seven 'tastings' — El worship, El iconography, Yahweh's origin, Yahweh iconography, warrior/family god, king/judge, holy one — represent a defensible selective coverage centered on El and Yahweh."
 confidence: "high"

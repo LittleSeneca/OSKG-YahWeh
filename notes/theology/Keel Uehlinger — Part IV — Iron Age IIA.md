@@ -10,7 +10,7 @@ tags:
   - iconography
   - scholars/othmar-keel
   - scholars/christoph-uehlinger
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 confidence: high
 source:

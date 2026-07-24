@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.5"
 statement: "Yahweh's identity was 'open at the back' — the Thomas Mann metaphor captures how Yahweh absorbed and overflowed into the identities of other deities."
 confidence: "debatable"

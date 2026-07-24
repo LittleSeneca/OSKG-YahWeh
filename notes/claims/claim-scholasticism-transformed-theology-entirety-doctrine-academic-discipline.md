@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-2-4.2"
 statement: "Scholasticism transformed theology from 'doctrine of God' to 'entirety of Christian doctrine' and established it as an academic discipline."
 confidence: "high"

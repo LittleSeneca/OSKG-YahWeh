@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.6"
 statement: "The dominant religious iconography of Iron Age IIB is SOLAR, not Baal-oriented — and solar imagery was absorbed into Yahwism through Egyptian-influenced royal ideology."
 confidence: "high"

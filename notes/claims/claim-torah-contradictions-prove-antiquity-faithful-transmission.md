@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-ep.2"
 statement: "The Torah's internal contradictions prove its antiquity and faithful transmission, not late fluid composition — the compilers dared not alter ancient revelation."
 confidence: "low-medium"

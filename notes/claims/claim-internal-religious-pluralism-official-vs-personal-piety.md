@@ -7,7 +7,7 @@ tags:
   - evidence/sociological
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-intro.4"
 statement: "The history of Israelite religion must be organized not just chronologically but sociologically — distinguishing 'official religion' from 'personal piety' — because different social strata produced different religious symbolic worlds; this 'internal religious pluralism' is Albertz's signature methodological innovation."
 confidence: "medium"

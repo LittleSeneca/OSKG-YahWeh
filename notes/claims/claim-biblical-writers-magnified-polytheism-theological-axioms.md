@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-2.5"
 statement: "The biblical writers magnified polytheism, not minimized it — the sweeping prophetic indictments of idolatry are based more on theological axioms than historical data."
 confidence: "high"

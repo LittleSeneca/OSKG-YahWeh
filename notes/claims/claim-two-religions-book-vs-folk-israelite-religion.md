@@ -10,7 +10,7 @@ tags:
   - evidence/biblical-text
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.2"
 statement: "Ancient Israel had TWO religions running in parallel — 'Book religion' (the monotheistic, aniconic, centralized theology of the Deuteronomistic elite) and 'folk religion' (the polytheistic, image-rich, domestic practice of ordinary people, especially women) — and the Book religion was a late elite construction that never represented the religion of most Israelites."
 confidence: "medium-high"

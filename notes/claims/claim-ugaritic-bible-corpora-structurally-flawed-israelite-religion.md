@@ -6,7 +6,7 @@ tags:
   - evidence/comparative-ane
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-10.2"
 statement: "The standard reconstruction of Israelite religion is structurally flawed because it relies on two corpora (Ugaritic texts and the Hebrew Bible) that are both geographically and chronologically distant from Iron Age Palestine."
 confidence: "high"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-6.5"
 statement: "The Midianite/Kenite hypothesis — that Moses learned Yahweh from his Midianite father-in-law — has genuine strengths but the biblical texts do not actually support it in the way proponents claim."
 confidence: "medium"

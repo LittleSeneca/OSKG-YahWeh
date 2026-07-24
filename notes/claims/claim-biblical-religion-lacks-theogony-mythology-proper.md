@@ -7,7 +7,7 @@ tags:
   - evidence/ugaritic
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-3.2"
 statement: "Biblical religion lacks theogony and mythology proper — YHWH has no pedigree, fathers no generations, neither inherits nor bequeaths his authority, does not die and is not resurrected; this absence is radical and unique."
 confidence: "high"

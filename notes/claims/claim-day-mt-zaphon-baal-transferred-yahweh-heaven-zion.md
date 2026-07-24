@@ -9,7 +9,7 @@ tags:
   - evidence/grammatical
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-4.3"
 statement: "Mt Zaphon (Baal's sacred mountain in Syria) was transferred to Yahweh's dwelling — both the cosmic mountain of heaven and Mt Zion in Jerusalem."
 confidence: "high"

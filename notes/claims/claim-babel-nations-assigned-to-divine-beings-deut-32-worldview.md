@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/michael-heiser
   - source/heiser-unseen-realm
-  - truth-project
+  - oskg-yahweh
 claim_id: "heiser-ur-14.1"
 statement: "At Babel, God dispersed the nations and assigned them to lesser divine beings (*elohim*) — the Deuteronomy 32:8-9 worldview where Yahweh's portion is Israel while other nations fall under other *elohim*."
 confidence: "medium"

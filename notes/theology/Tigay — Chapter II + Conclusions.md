@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/jeffrey-tigay, archaeology, philology, history/israel-judah, history/jerusalem, faith/asherah, faith/polytheism, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/monotheism, scholars/jeffrey-tigay, archaeology, philology, history/israel-judah, history/jerusalem, faith/asherah, faith/polytheism, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

@@ -8,7 +8,7 @@ tags:
   - evidence/onomastic
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-2.1.2"
 statement: "Early Israelite families worshipped various regional forms of the god El (El-Shaddai, El-'Olam, El-Bethel, El-'Elyon, etc.) as their family god, and this was a practical monolatry without exclusiveness — one god per family, but no intolerance toward other families' gods because the functions were identical across deities."
 confidence: "medium"

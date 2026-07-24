@@ -8,7 +8,7 @@ tags:
   - evidence/comparative-ane
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-3.6"
 statement: "Dagon was a storm/fertility god (not a fish god), and Baal was his literal son — the dual-paternity solution (Baal is literally son of Dagon AND son of El as member of the pantheon) resolves the apparent contradiction in Ugaritic texts."
 confidence: "medium-high"

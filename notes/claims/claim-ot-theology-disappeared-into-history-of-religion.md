@@ -6,7 +6,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-5.3"
 statement: "The history-of-religions school absorbed OT theology — the subdiscipline 'basically disappeared' as scholars equated it with or replaced it by 'history of Israelite religion.'"
 confidence: "very-high"

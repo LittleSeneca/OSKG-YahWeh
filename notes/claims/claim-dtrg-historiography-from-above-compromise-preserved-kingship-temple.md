@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/rainer-albertz
   - source/albertz-history-israelite-religion
-  - truth-project
+  - oskg-yahweh
 claim_id: "albertz-hir-4.7"
 statement: "The Deuteronomistic History (DtrG) was a theological compromise — a 'historiography from above' produced by Jerusalem priestly circles that learned from the prophets of judgment but preserved hope in kingship and temple"
 confidence: "medium"

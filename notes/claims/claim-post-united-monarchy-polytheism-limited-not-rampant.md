@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/jeffrey-tigay
   - source/tigay-no-other-gods
-  - truth-project
+  - oskg-yahweh
 claim_id: "tigay-nog-1.3"
 statement: "After the United Monarchy, and perhaps even earlier, the evidence currently available makes it very difficult to suppose that many Israelites worshipped gods other than YHWH."
 confidence: "medium-high"

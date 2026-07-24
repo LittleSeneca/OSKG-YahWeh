@@ -7,7 +7,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.4"
 statement: "Normative 'theology of the OT' is a historically recent and theologically suspect development, rooted in the Enlightenment and neo-orthodoxy."
 confidence: "medium-high"

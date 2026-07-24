@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-11.7"
 statement: ""Second Hosea" (chs 4-14) knows nothing of syncretistic YHWH-Baal worship — the critical reading is wrong."
 confidence: "low-medium"

@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/mark-smith
   - source/smith-origins-biblical-monotheism
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-obm-10.1"
 statement: "Second Isaiah's monotheistic statements are not abstract theology but polemic embedded in three thematic contexts — Yahweh as cosmic creator, Yahweh as Israel's chooser, and idols as empty — making monotheism a situated rhetorical strategy, not a systematic doctrinal claim."
 confidence: "high"

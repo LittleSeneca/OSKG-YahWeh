@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-excursus.2"
 statement: "The goddess on the Astarte plaques is a non-royal, everyday protectress — not a great goddess of the pantheon, and not identifiable with a specific divine name (Anat, Astarte, or Asherah)."
 confidence: "high"

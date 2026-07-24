@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-10-12-13.3"
 statement: "Early Christianity had no "Old Testament" — just "the Law and the Prophets" — and established a double-canon, not a supersession."
 confidence: "high"

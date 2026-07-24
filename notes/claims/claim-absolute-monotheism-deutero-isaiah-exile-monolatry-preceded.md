@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-8.2"
 statement: "Absolute monotheism was first articulated by Deutero-Isaiah in the exile, became normative in the post-exilic period, and was preceded by a minority monolatrous 'Yahweh-alone' movement — NOT at the time of Moses (Albright) or the Middle Ages (Hayman)."
 confidence: "high"

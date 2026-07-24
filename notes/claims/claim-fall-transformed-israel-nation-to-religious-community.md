@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-ep.1"
 statement: "The fall of Jerusalem transformed Israel from a nation into a religious community — the history of Israel ended and the history of Judaism began."
 confidence: "medium-high"

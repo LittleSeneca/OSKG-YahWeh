@@ -8,7 +8,7 @@ tags:
   - history/israel-judah
   - history/jerusalem
   - history/josiah
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-07-23
 claims_status: "extracted"

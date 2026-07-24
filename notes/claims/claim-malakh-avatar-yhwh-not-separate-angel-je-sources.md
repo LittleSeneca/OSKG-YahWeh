@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/benjamin-sommer
   - source/sommer-bodies-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "sommer-bog-2.3"
 statement: "In J and E sources, the mal'akh (angel/messenger) is a small-scale manifestation of Yhwh's own presence — an avatar, not a separate being sent on a mission."
 confidence: "medium-high"

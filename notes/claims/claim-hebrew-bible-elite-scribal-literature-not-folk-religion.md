@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-1.5"
 statement: "The Hebrew Bible is elite scribal literature — not a window into folk religion — produced by a small circle of literate elites in a widely illiterate society."
 confidence: "high"

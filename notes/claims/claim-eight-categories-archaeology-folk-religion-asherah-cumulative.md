@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-5.2"
 statement: "Eight categories of archaeological evidence — local shrines, standing stones, altars, figurines, cult stands, inscriptions, votive offerings, and tombs — collectively demonstrate that folk religion in ancient Israel was widespread, persistent, and centered on a female deity (Asherah) worshipped alongside Yhwh, directly contradicting the biblical ideal of a monotheistic, aniconic, Jerusalem-centered Yahwism."
 confidence: "high"

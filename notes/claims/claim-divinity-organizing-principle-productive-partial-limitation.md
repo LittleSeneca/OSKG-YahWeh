@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/theodore-lewis
   - source/lewis-origin-character-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "lewis-ocg-conc.2"
 statement: "Using divinity as an organizing principle was productive but necessarily partial — Israelite religion was more holistic and pluralistic than any single lens can capture, and Lewis's seven chapters cover only 5 of Yahweh's 15+ divine attributes, leaving the majority underexplored."
 confidence: "very-high"

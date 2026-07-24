@@ -5,7 +5,7 @@ tags:
   - evidence/historiographical
   - scholar/konrad-schmid
   - source/schmid-historical-theology
-  - truth-project
+  - oskg-yahweh
 claim_id: "schmid-ht-10-12-13.2"
 statement: "Canonical differences do NOT serve denominational theological interests — they're accidents of philological history."
 confidence: "high"

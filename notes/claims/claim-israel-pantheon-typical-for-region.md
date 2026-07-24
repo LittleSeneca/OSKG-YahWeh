@@ -8,7 +8,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-1.5"
 statement: "Israel's pantheon was typical for the first-millennium Levantine region."
 confidence: "medium"

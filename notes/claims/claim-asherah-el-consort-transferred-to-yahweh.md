@@ -9,7 +9,7 @@ tags:
   - evidence/ugaritic
   - scholar/thomas-romer
   - source/romer-invention-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "romer-inv-9.1"
 statement: "Asherah was a goddess — El's consort at Ugarit — and became Yhwh's consort in Israel when El and Yhwh merged"
 confidence: "high"

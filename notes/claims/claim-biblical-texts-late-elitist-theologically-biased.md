@@ -7,7 +7,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-3.1"
 statement: "The textual sources for Israelite religion are all late (8th century BCE at earliest for composition, heavily edited through the post-exilic period), produced by a tiny literate elite (less than 1% of the population), and shaped by theological agendas that make them unreliable as direct historical sources for what ordinary Israelites actually practiced."
 confidence: "high"

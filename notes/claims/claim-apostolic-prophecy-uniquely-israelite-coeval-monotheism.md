@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-6.1"
 statement: "Apostolic prophecy — the messenger SENT by God to a people with divine commands — is uniquely Israelite and arose simultaneously with monotheism."
 confidence: "medium"

@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.2"
 statement: "The antimonarchic passages in I Samuel are premonarchic in origin, not postexilic retrojections of priestly theocratic ideology."
 confidence: "medium"

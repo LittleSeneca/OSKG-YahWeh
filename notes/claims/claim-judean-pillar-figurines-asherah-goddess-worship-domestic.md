@@ -7,7 +7,7 @@ tags:
   - evidence/iconographic
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-5.1"
 statement: "Over 3,000 Judean Pillar Figurines (JPFs) — nude female figurines with emphasized breasts, mass-produced, found overwhelmingly in domestic contexts in 8th-6th century Judah — are the strongest archaeological evidence for popular Asherah/goddess worship and the material fact that text-based scholarship cannot explain away."
 confidence: "very-high"

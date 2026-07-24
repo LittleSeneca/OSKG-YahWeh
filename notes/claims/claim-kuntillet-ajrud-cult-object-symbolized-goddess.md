@@ -8,7 +8,7 @@ tags:
   - evidence/iconographic
   - scholar/john-day
   - source/day-yahweh-gods-of-canaan
-  - truth-project
+  - oskg-yahweh
 claim_id: "day-ygc-2.3"
 statement: ""Yahweh and his Asherah" at Kuntillet Ajrud/Khirbet el-Qom refers to the CULT OBJECT, not the goddess directly — but the cult object symbolized the goddess and implied a consort relationship"
 confidence: "medium-high"

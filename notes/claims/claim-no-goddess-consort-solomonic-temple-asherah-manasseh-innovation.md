@@ -8,7 +8,7 @@ tags:
   - evidence/biblical-text
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-4.7"
 statement: "There was no goddess consort in the Solomonic Temple — neither literary nor iconographic evidence supports Asherah's presence before Manasseh's late introduction in the 7th century."
 confidence: "medium-high"

@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-1.3"
 statement: "Seal amulets are the single best source for reconstructing religious history — they survive in comparable quantities across all periods and function as a 'seismograph' for detecting subtle shifts in religious mentality, far outshining all other image-bearing artifacts."
 confidence: "high"

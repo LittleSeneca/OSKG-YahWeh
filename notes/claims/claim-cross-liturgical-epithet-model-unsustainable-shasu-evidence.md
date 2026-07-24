@@ -7,7 +7,7 @@ tags:
   - evidence/onomastic
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-5.4"
 statement: "Cross's interpretation of Yahweh as a liturgical epithet of El ('He brings armies into existence') cannot be sustained against the Egyptian Shasu evidence showing Yhwʒ as a people-name."
 confidence: "high"

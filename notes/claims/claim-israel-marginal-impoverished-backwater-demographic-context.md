@@ -5,7 +5,7 @@ tags:
   - evidence/archaeological
   - scholar/william-dever
   - source/dever-did-god-have-a-wife
-  - truth-project
+  - oskg-yahweh
 claim_id: "dever-dghw-intro.4"
 statement: "Ancient Israel was a marginal, impoverished cultural backwater — the size of New Jersey, with a total population never exceeding 150,000, Jerusalem at its height a town of ~5,000, literacy below 5%, and 80-90% of the population rural — and this demographic context is essential for understanding that the Hebrew Bible was written by and for a tiny urban elite who never represented the religion of most Israelites."
 confidence: "high"

@@ -10,7 +10,7 @@ tags:
   - evidence/inscriptional
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-2.1"
 statement: "Baal worship was a persistent, accepted feature of Israelite religion from the Judges period through the fall of Judah, not a brief northern apostasy under Ahab and Jezebel."
 confidence: "high"

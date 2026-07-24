@@ -2,7 +2,7 @@
 tags:
   - type/meta
   - methodology
-  - truth-project
+  - oskg-yahweh
 created: 2026-08-01
 related:
   - "[[claims-architecture]]"

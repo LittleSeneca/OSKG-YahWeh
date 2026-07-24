@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.3"
 statement: "The Iron Age I divine iconographic repertoire is exclusively masculine, domineering, and triumphant — the anthropomorphic goddess virtually disappears from glyptic art."
 confidence: "very-high"

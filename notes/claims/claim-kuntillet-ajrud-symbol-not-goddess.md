@@ -8,7 +8,7 @@ tags:
   - evidence/grammatical
   - scholar/mark-smith
   - source/smith-early-history-of-god
-  - truth-project
+  - oskg-yahweh
 claim_id: "smith-ehg-3.2"
 statement: "The Kuntillet Ajrud inscriptions refer to the asherah symbol, not the goddess"
 confidence: "medium"

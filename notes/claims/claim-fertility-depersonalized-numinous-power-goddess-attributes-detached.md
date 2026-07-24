@@ -6,7 +6,7 @@ tags:
   - evidence/iconographic
   - scholar/othmar-keel
   - source/keel-gods-goddesses-images
-  - truth-project
+  - oskg-yahweh
 claim_id: "keel-ggi-5.5"
 statement: "The disappearance of the anthropomorphic goddess from glyptic art represents a genuine theological transformation — fertility becomes a depersonalized 'numinous power' rather than a personal divine force."
 confidence: "medium-high"

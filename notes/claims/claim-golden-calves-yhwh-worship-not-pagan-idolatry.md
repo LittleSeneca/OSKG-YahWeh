@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.4"
 statement: "The 'sins of Jeroboam' — the golden calves — were not pagan idolatry but YHWH worship in an illicit form: the calves were pedestals without a divine rider, parallel to the ark's cherubs."
 confidence: "medium-high"

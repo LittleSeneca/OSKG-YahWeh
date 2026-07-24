@@ -1,5 +1,5 @@
 ---
-tags: [source/book-notes, faith/yahweh, faith/divine-council, methodology, scholars/michael-heiser, truth-project]
+tags: [source/book-notes, faith/yahweh, faith/divine-council, methodology, scholars/michael-heiser, oskg-yahweh]
 created: 2026-07-22
 confidence: high
 claims_status: "extracted"

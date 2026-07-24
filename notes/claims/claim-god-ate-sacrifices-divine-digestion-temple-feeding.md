@@ -7,7 +7,7 @@ tags:
   - evidence/comparative-ane
   - scholar/francesca-stavrakopoulou
   - source/stavrakopoulou-god-anatomy
-  - truth-project
+  - oskg-yahweh
 claim_id: "stav-god-9-11.3"
 statement: "God ate the sacrifices offered in the temple — the sacrificial system was 'the care and feeding of the gods,' with God consuming offerings through fire and smelling the pleasing odor."
 confidence: "high"

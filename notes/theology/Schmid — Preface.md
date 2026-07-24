@@ -7,7 +7,7 @@ tags:
   - faith/monotheism
   - history/exile
   - scholars/konrad-schmid
-  - truth-project
+  - oskg-yahweh
 created: 2026-07-22
 updated: 2026-08-08
 confidence: high

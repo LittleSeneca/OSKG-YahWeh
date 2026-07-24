@@ -6,7 +6,7 @@ tags:
   - evidence/biblical-text
   - scholar/yehezkel-kaufmann
   - source/kaufmann-religion-of-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "kaufmann-ri-8.3"
 statement: "Solomon's foreign worship was a private court defection, not a popular paganization — the post-Solomonic age was not a period of national religious decline."
 confidence: "low-medium"

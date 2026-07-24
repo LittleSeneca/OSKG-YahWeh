@@ -7,7 +7,7 @@ tags:
   - evidence/biblical-text
   - scholar/daniel-fleming
   - source/fleming-yahweh-before-israel
-  - truth-project
+  - oskg-yahweh
 claim_id: "fleming-ybi-summary.2"
 statement: "Exodus 3 and 6 do not preserve historical memory of Yahweh being unknown before Moses — they are schematic bridge-texts reconciling Genesis and Exodus, not ancient tradition."
 confidence: "medium-high"
