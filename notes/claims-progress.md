@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 114
-- **Total claims extracted:** 571
-- **Notes with edges added:** 114
-- **Last session:** 2026-08-06 (Batch 36)
+- **Notes with claims extracted:** 117
+- **Total claims extracted:** 581
+- **Notes with edges added:** 117
+- **Last session:** 2026-08-06 (Batch 37)
 
 ## By Scholar
 
@@ -156,9 +156,9 @@ related:
 - [x] Fleming — Ch 7 — The Early Character of the God Yahweh
 
 ### Sommer, The Bodies of God (9 notes)
-- [ ] Sommer — Introduction
-- [ ] Sommer — The Bodies of God
-- [ ] Sommer — Chapter 1 — Mesopotamia and Canaan
+- [x] Sommer — Introduction
+- [x] Sommer — The Bodies of God
+- [x] Sommer — Chapter 1 — Mesopotamia and Canaan
 - [ ] Sommer — Chapter 2 — Fluidity in Israel
 - [ ] Sommer — Chapter 3 — Rejection of Fluidity
 - [ ] Sommer — Chapter 4 — Sacred Space 1
@@ -772,5 +772,24 @@ related:
   - **Fleming's complete argument is now in the graph:** All 8 chapters extracted for a total of 47 Fleming claims. The full arc: Egyptian evidence (Ch2) → MH deconstruction (Ch3) → Old poetry reinterpretation (Ch4) → Onomastic positive case (Ch5) → 'Am Yhwh as pre-Israelite identity (Ch6) → Yahweh's original character and convergence with El (Ch7). Fleming is now the most densely mapped scholar in the graph, with his entire argument network available for comparison against the Römer-Day-Lewis southern-origin consensus and the Kaufmann monotheism-from-the-start position.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 35
+- **Next batch suggestion:** See below.
+
+### 2026-08-06 — Session 37 (Batch 37 Finalized)
+- **Notes processed:** 3 — Sommer Introduction, Sommer The Bodies of God, Sommer Chapter 1 (Mesopotamia and Canaan)
+- **Claims extracted:** 10 (3 Introduction, 4 Bodies of God, 3 Ch1)
+- **Edges added:** Internal edges already present from extraction + 8 cross-scholar edges in finalization pass. Key clusters:
+  - **Sommer's Introduction — the provocative opening (3 claims):** sommer-bog-intro.1 (God has a body — standard notion, not exception) establishes the book's central thesis with overwhelming biblical evidence. sommer-bog-intro.2 (scholars systematically avoided corporeality) documents three case studies of avoidance (Gerstenberger, Scarry, Eichrodt). sommer-bog-intro.3 (fluidity cross-cuts mono/poly) stakes the book's reframing: the interesting transition is fluid→non-fluid, not poly→mono.
+  - **Sommer's core argument — fluidity in biblical sources (4 claims):** sommer-bog-2.1 (J/E preserved ANE fluidity model) is Sommer's most original biblical argument — the mal'akh is a small-scale Yhwh-manifestation, not a separate angel; "Yhwh of Samaria" / "Yhwh of Teman" parallels "Ishtar of Arbela" / "Ishtar of Nineveh." sommer-bog-3.1 (P/D rejected fluidity) identifies the real theological revolution: not polytheism→monotheism but fluid monotheism→discrete transcendent monotheism. sommer-bog-6.1 (fluidity survived in kabbalah/Christianity) is Sommer's most speculative claim: the sefirot and Trinity are recoveries of suppressed J/E fluidity. sommer-bog-app.1 (monotheism early among biblical authors) puts Sommer in the minority position: the authors were monotheists, just of the fluid variety.
+  - **Sommer's ANE foundation — Chapter 1 (3 claims):** sommer-bog-1.1 (ANE gods had fluid selves) establishes the comparative evidence: Ishtar of Arbela/Nineveh/Venus were grammatically distinct yet functionally one. sommer-bog-1.2 (cult statues were the god, not representations) deploys the mīs pî/pīt pî ritual texts — the statue WAS the god after mouth-washing. sommer-bog-1.3 (fluidity absent from Greece) provides the crucial contrast: Greek gods had discrete bodies like humans; ANE gods were fundamentally unlike humans in their fluidity.
+  - **Cross-scholar edge pass — 8 new edges across 7 Sommer claim files:**
+    - **Sommer → Smith on divine embodiment (3 edges):** Sommer intro.1 and 1.2 both support Smith obm-5.2 (anthropomorphism persists) — independent methodological convergence on the same conclusion. Sommer intro.1 also supports Dever's two-religions claim — the embodied God of J/E IS the folk religion; the transcendent God of P/D IS the book religion.
+    - **Sommer → Römer on local Yhwh manifestations (1 edge):** Sommer 2.1 contradicts Römer 6.2 (local Yhwh manifestations as polytheistic pattern) — same Kuntillet Ajrud evidence, opposite interpretation: fluid monotheism vs. polytheism.
+    - **Sommer → Albertz on Deuteronomistic innovation (2 edges):** Sommer 3.1 supports Albertz 3.8.4 (covenant as Deuteronomic innovation) and Albertz 3.8.2 (Deuteronomic mediating synthesis) — Sommer's shem theology IS the mediating synthesis Albertz describes, and the theological mechanism by which the covenant innovation worked.
+    - **Sommer → Smith on monotheism timing (1 edge):** Sommer 6.1 supports Smith's monotheism-as-rhetoric — if fluidity survived underground, Smith's 'rhetoric not revolution' framing fits: P/D monotheism was a rhetorical victory that suppressed but never eliminated the older fluid tradition.
+    - **Sommer contradicting the consensus timeline (3 edges in intro.3 + app.1):** Summer intro.3 contradicts Römer 12.1 (true monotheism exile), Dever monotheism-late-elite, and Day absolute-monotheism-deutero-isaiah — if fluidity cross-cuts mono/poly, dating 'true monotheism' asks the wrong question. Sommer app.1 (monotheism early) adds direct contradiction to those same three claims plus Smith's monotheism-as-rhetoric.
+  - **Sommer's unique contribution to the graph:** Sommer is the only Tier 1 scholar who REJECTS the polytheism→monotheism framework while accepting all the critical evidence. He argues the field has been asking the wrong question. Whether his reframing succeeds depends on Ch3-6 (not yet extracted), but the framework is now in the graph: the real theological revolution was within monotheism itself — from fluid to discrete. This challenges every other scholar's dating of monotheism not by claiming it happened earlier but by arguing the category "monotheism" obscures the interesting theological development.
+  - **Sommer now 3 of 9 notes extracted (10 claims):** Introduction (3), Bodies of God / Ch2-3+6+Appendix (4), Ch1 Mesopotamia and Canaan (3). Remaining: Ch2 (Fluidity in Israel), Ch3 (Rejection of Fluidity), Ch4 (Sacred Space 1), Ch1-3 combined, Ch4-6+Appendix combined, Ch5-6+Appendix.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 32
 - **Next batch suggestion:** See below.
 

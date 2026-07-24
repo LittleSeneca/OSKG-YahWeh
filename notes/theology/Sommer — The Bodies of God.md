@@ -15,6 +15,14 @@ tags:
   - truth-project
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-07-23
+claims_count: 4
+claims_files:
+  - "[[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]]"
+  - "[[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]]"
+  - "[[claim-fluidity-model-survived-kabbalah-christianity]]"
+  - "[[claim-monotheism-well-established-before-exile-biblical-authors]]"
 related:
   - "[[Smith Chapter 0 — Introduction]]"
   - "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]"
@@ -37,6 +45,8 @@ He's a Jewish scholar at the Jewish Theological Seminary. His framework is deepl
 ---
 
 ## Introduction: God Has a Body
+<!-- Claims for this section extracted to dedicated note: [[Sommer — Introduction]] -->
+<!-- Claims: [[claim-biblical-god-has-body-standard-notion | sommer-bog-intro.1]], [[claim-scholars-systematically-avoided-divine-corporeality-evidence | sommer-bog-intro.2]], [[claim-divine-fluidity-cross-cuts-monotheism-polytheism-distinction | sommer-bog-intro.3]] -->
 
 ### The Starting Claim
 
@@ -62,6 +72,8 @@ Sommer's opening is a deliberate provocation. He argues that the biblical God:
 ---
 
 ## Chapter 1: The Fluidity Model in Mesopotamia and Canaan
+<!-- Claims for this section extracted to dedicated note: [[Sommer — Chapter 1 — Mesopotamia and Canaan]] -->
+<!-- Claims: [[claim-ane-gods-fluid-selves-multiple-local-manifestations | sommer-bog-1.1]], [[claim-cult-statues-were-the-god-not-representations-mis-pi | sommer-bog-1.2]], [[claim-ane-fluidity-absent-greece-mono-poly-less-fundamental | sommer-bog-1.3]] -->
 
 ### Claim: ANE gods had multiple bodies and overlapping selves — this was normal
 
@@ -98,6 +110,12 @@ Sommer's opening is a deliberate provocation. He argues that the biblical God:
 
 ## Chapter 2: The Fluidity Model in Ancient Israel
 
+### Implicit Claim: J and E sources preserved the ANE fluidity model
+→ [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]] | **sommer-bog-2.1** | Confidence: medium-high
+  The oldest biblical strands portray Yhwh with multiple local manifestations ("Yhwh of Samaria," "Yhwh of Teman") and the *mal'akh* as a small-scale manifestation of Yhwh himself — not a separate angel but an avatar. This is monotheism of a fluid, multi-bodied variety, not polytheism.
+  Depends on: [[claim-ane-gods-fluid-selves-multiple-local-manifestations]], [[claim-cult-statues-were-the-god-not-representations-mis-pi]], [[claim-biblical-god-has-body-standard-notion]]
+  Contradicted by: [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]]
+
 ### Claim: Early Israelite religion (J and E sources) preserved the ANE fluidity model — YHWH had multiple bodies and manifestations
 
 **Sommer's claim:** The oldest strands of biblical tradition (the J and E sources) portray Yhwh using the same fluidity model found in Mesopotamia and Canaan. Yhwh has multiple local manifestations, the *mal'akh* (angel/messenger) is not a separate being but a small-scale manifestation of Yhwh himself, and the line between Yhwh and his manifestations is deliberately blurred.
@@ -128,6 +146,12 @@ Sommer's opening is a deliberate provocation. He argues that the biblical God:
 ---
 
 ## Chapter 3: The Rejection of the Fluidity Model
+
+### Implicit Claim: P and D sources rejected the fluidity model
+→ [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]] | **sommer-bog-3.1** | Confidence: high
+  The theological revolution was not polytheism → monotheism but FLUID monotheism (J/E) → DISCRETE transcendent monotheism (P/D). P and D replaced the multi-bodied God with kavod (glory), shem (name), and torah as mediated presences — God dwells in heaven, not in the Temple.
+  Contradicts: [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]]
+  Supports: [[claim-fluidity-model-survived-kabbalah-christianity]]
 
 ### Claim: The Priestly (P) and Deuteronomistic (D) sources rejected the fluidity model — creating the transcendent, noncorporeal God of later theology
 
@@ -172,6 +196,11 @@ Sommer traces how the tension between the fluid and anti-fluid models plays out 
 
 ## Chapter 6: Implications and Afterlife
 
+### Implicit Claim: The fluidity model survived in kabbalah and Christianity
+→ [[claim-fluidity-model-survived-kabbalah-christianity]] | **sommer-bog-6.1** | Confidence: low-medium
+  The fluid God of J/E resurfaced in Jewish mysticism (the sefirot and Shekhinah) and Christianity (the Trinity, incarnation, Eucharist) — kabbalists and Christians recovered a genuinely ancient way of thinking about God that P and D had suppressed.
+  Depends on: [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]], [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]]
+
 ### Claim: The fluidity model didn't die — it survived in kabbalah and Christianity
 
 **Sommer's claim:** The fluid God of J and E was suppressed by P and D, but never eliminated. It resurfaced in:
@@ -195,6 +224,11 @@ Sommer traces how the tension between the fluid and anti-fluid models plays out 
 ---
 
 ## Appendix: Monotheism and Polytheism in Ancient Israel
+
+### Implicit Claim: Monotheism was well established among biblical authors before the exile
+→ [[claim-monotheism-well-established-before-exile-biblical-authors]] | **sommer-bog-app.1** | Confidence: medium
+  The biblical documents, taken as a whole, are monotheistic — monotheism was established among the AUTHORS considerably earlier than the exile, even though most Israelites were polytheists. Sommer rejects the polytheism → monotheism narrative for the biblical writers themselves while accepting it for popular religion.
+  Contradicts: [[claim-true-monotheism-emerged-babylonian-exile]], [[claim-absolute-monotheism-deutero-isaiah-exile-monolatry-preceded]], [[claim-dever-monotheism-late-elite-book-religion-never-displaced-folk]]
 
 Sommer directly addresses the question that Smith, Römer, and Dever spend their books answering:
 
