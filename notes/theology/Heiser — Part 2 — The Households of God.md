@@ -2,6 +2,16 @@
 tags: [source/book-notes, faith/yahweh, faith/divine-council, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-08-07
+claims_count: 6
+claims_files:
+  - "[[claim-divine-council-pervasive-biblical-reality-not-pagan-import]]"
+  - "[[claim-elohim-denotes-spiritual-realm-residence-not-divine-attributes]]"
+  - "[[claim-plural-elohim-does-not-mean-polytheism]]"
+  - "[[claim-biblical-denial-statements-incomparability-not-existential-denial]]"
+  - "[[claim-eden-serpent-nachash-divine-being-not-talking-snake]]"
+  - "[[claim-divine-foreknowledge-does-not-require-predestination]]"
 related: ["[[Heiser — Part 1 — First Things]]", "[[Heiser — Part 3 — Divine Transgressions]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Smith Origins — Ch2 — The Divine Council]]", "[[Cross — Preface + Part I — Canaanite Religion and El]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]"]
 ---
 
@@ -12,45 +22,24 @@ related: ["[[Heiser — Part 1 — First Things]]", "[[Heiser — Part 3 — Div
 ## Chapter 3: God's Entourage
 
 ### Claim: The divine council is a biblical reality, not a pagan import
-
-**Evidence — the council in the Hebrew Bible:**
-- 1 Kings 22:19-22: Micaiah's vision — "I saw Yahweh sitting on his throne with all the host of heaven standing beside him"
-- Job 1-2: "The sons of God came to present themselves before Yahweh" — including *haśśāṭān*, "the adversary"
-- Isaiah 6: "I saw the Lord sitting on a throne... seraphim were standing above him"
-- Psalm 89:5-7: "Who in the sky is equal to Yahweh? Who is like Yahweh among the sons of God, a God feared greatly in the council of the holy ones?"
-
-**The key terms Heiser catalogues:**
-- *bĕnê hā'ĕlōhîm* — "sons of God" (Job 1:6, 2:1, 38:7)
-- *bĕnê 'ēlîm* — "sons of gods/God" (Psalm 29:1, 89:7)
-- *sôd qĕdōšîm* — "council of holy ones" (Psalm 89:8)
-- *'ădat 'ēl* — "assembly of El" (Psalm 82:1)
-- *kōl ṣĕbā' haššāmayim* — "all the host of heaven" (1 Kings 22:19)
-
-**Confidence:** VERY HIGH. The divine council is not a single obscure verse — it's a pervasive concept across multiple genres and books.
+→ [[claim-divine-council-pervasive-biblical-reality-not-pagan-import]] | **heiser-ur-3.1** | Confidence: very-high
+  The divine council appears across narrative, poetry, and prophecy with multiple Hebrew terms (*bĕnê hā'ĕlōhîm*, *bĕnê 'ēlîm*, *sôd qĕdōšîm*, *'ădat 'ēl*, *kōl ṣĕbā' haššāmayim*). Any theology claiming only one divine being exists is filtering out massive textual evidence. Supports: [[claim-divine-council-seventy-sons-of-el]], [[claim-deut-32-8-9-sons-of-el]], [[claim-psalm-82-yahweh-prosecutes-gods-injustice]]. Contradicts: [[claim-israelite-religion-absolutely-different-paganism-from-beginning]].
 
 ---
 
 ## Chapter 4: God Alone
 
 ### Claim 1: *Elohim* means "disembodied spiritual being" — not "being with all divine attributes"
-
-**The six categories:** Yahweh, divine council members, foreign gods, demons (*shedim*), deceased Samuel, angels. "Would any Israelite, especially a biblical writer, really believe that the deceased human dead and demons are on the same level as Yahweh? No."
-
-**The implication:** "When a biblical writer wrote *elohim*, he wasn't thinking" in terms of attributes. *Elohim* is a "place of residence" term — it denotes beings whose proper domain is the spiritual world. Yahweh is unique AMONG the *elohim*, not the only *elohim*.
+→ [[claim-elohim-denotes-spiritual-realm-residence-not-divine-attributes]] | **heiser-ur-4.1** | Confidence: medium-high
+  *Elohim* is a "place of residence" term for beings whose proper domain is the spiritual world. Six categories span from Yahweh to Samuel's ghost — they cannot share attributes, so the word must denote realm, not attributes. Supports: [[claim-convergence-differentiation-framework-israelite-religion]]. Challenged by: [[claim-bible-consistently-characterizes-paganism-as-fetishism]].
 
 ### Claim 2: Plural *elohim* does NOT mean polytheism
-
-**The logical argument:** "There is no warrant for concluding that plural *elohim* produces a pantheon of interchangeable deities. There is no basis for concluding that the biblical writers would have viewed Yahweh as no better than another *elohim*." A biblical writer would not presume another *elohim* had the same attributes as Yahweh. "That is polytheistic thinking. It never enters the mind of any biblical writer."
+→ [[claim-plural-elohim-does-not-mean-polytheism]] | **heiser-ur-4.2** | Confidence: medium
+  A biblical writer would never view another *elohim* as interchangeable with Yahweh. "That is polytheistic thinking. It never enters the mind of any biblical writer." Supports: [[claim-golden-calves-yhwh-worship-not-pagan-idolatry]]. Contradicts: [[claim-bible-preserves-polytheistic-traces]], [[claim-dever-archaeology-proves-asherah-real-goddess-yhwh-consort]]. Depends on: [[claim-elohim-denotes-spiritual-realm-residence-not-divine-attributes]].
 
 ### Claim 3: The "denial statements" are incomparability claims, not existential denials
-
-**The evidence:** Isaiah 47:8 has Babylon saying "there is none besides me." Zephaniah 2:15 has Nineveh saying the same. "Are we to believe that the point of the phrase is to declare that no other cities exist except Babylon or Nineveh? That would be absurd."
-
-**The application to Yahweh:** When Deut 4:35 says "there is none besides him," it means no other *elohim* COMPARES to Yahweh — not that they don't EXIST. "How is it coherent to say that verses extolling the superiority of Yahweh above all *elohim* (Psa 97:9) are really telling us Yahweh is greater than beings that don't exist? To my ear, it mocks God to say, 'You're greater than something that doesn't exist.' So is my dog."
-
-**Deuteronomy's own testimony:** Deut 32:17 refers to *elohim* that Paul (1 Cor 10:20) took as literally existing. Deut 4:35 says there's no god besides Yahweh — but Deut 4:19-20 acknowledges other gods were "allotted" to the nations. "Is Scripture filled with contradictions? No."
-
-**Confidence on Ch 4:** HIGH on the *elohim* categories. MEDIUM-HIGH on the "place of residence" definition. MEDIUM-HIGH on denial statements as incomparability. This is Heiser's strongest chapter.
+→ [[claim-biblical-denial-statements-incomparability-not-existential-denial]] | **heiser-ur-4.3** | Confidence: medium-high
+  "There is none besides me" (Deut 4:35) means no *elohim* COMPARES to Yahweh — the same idiom is used of Babylon and Nineveh, which obviously aren't denying other cities exist. Contradicts: [[claim-absolute-monotheism-deutero-isaiah-exile-monolatry-preceded]], [[claim-true-monotheism-emerged-babylonian-exile]], [[claim-deutero-isaiah-first-consistent-monotheism-internal-development]].
 
 ---
 
@@ -59,12 +48,17 @@ related: ["[[Heiser — Part 1 — First Things]]", "[[Heiser — Part 3 — Div
 ### Chapter 5 (As in Heaven, So on Earth): The Tabernacle as microcosm of the divine council's cosmic mountain
 ### Chapter 6 (Gardens and Mountains): Eden as God's earthly dwelling, patterned on the cosmic mountain
 ### Chapter 7 (Eden): The serpent as a divine being (*nāḥāš*), not a talking snake
+
+### Implicit Claim: The serpent in Eden was a divine being, not merely a talking snake
+→ [[claim-eden-serpent-nachash-divine-being-not-talking-snake]] | **heiser-ur-7.1** | Confidence: medium
+  The *nāḥāš* has semantic overlap with divination terms and the serpent's promise of *elohim* status fits a divine-council rebel. Depends on: [[claim-divine-council-pervasive-biblical-reality-not-pagan-import]].
+
 ### Chapter 8 (Only God Is Perfect): The *elohim* were created good but fallible
 ### Chapter 9 (Peril and Providence): Divine foreknowledge does not require predestination
 
-**Key points (Ch 9 in particular):** Heiser uses 1 Samuel 23: God foreknows that Saul WILL come to Keilah and the people WILL turn David over. David leaves. Neither event happens. Therefore: "That which never happens can be foreknown by God, but it is not predestined, since it never happened." This separates foreknowledge from predestination — a crucial move for explaining how the *elohim* could rebel without God predestining evil.
-
-**Confidence:** MEDIUM on Heiser's Eden-as-cosmic-mountain reading. HIGH on the foreknowledge/predestination distinction.
+### Implicit Claim: Divine foreknowledge does not require predestination
+→ [[claim-divine-foreknowledge-does-not-require-predestination]] | **heiser-ur-9.1** | Confidence: high
+  1 Samuel 23 demonstrates: God foreknows Saul WILL come to Keilah and the people WILL surrender David. David leaves. Neither event happens. "That which never happens can be foreknown by God, but it is not predestined, since it never happened."
 
 ---
 

@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 123
-- **Total claims extracted:** 596
-- **Notes with edges added:** 123
-- **Last session:** 2026-08-07 (Batch 39)
+- **Notes with claims extracted:** 126
+- **Total claims extracted:** 607
+- **Notes with edges added:** 126
+- **Last session:** 2026-08-07 (Batch 40)
 
 ## By Scholar
 
@@ -167,9 +167,9 @@ related:
 - [x] Sommer — Chapters 5-6 + Appendix
 
 ### Heiser, The Unseen Realm (8 notes)
-- [ ] Heiser — Part 1 — First Things
-- [ ] Heiser — Part 2 — The Households of God
-- [ ] Heiser — Part 3 — Divine Transgressions
+- [x] Heiser — Part 1 — First Things
+- [x] Heiser — Part 2 — The Households of God
+- [x] Heiser — Part 3 — Divine Transgressions
 - [ ] Heiser — Part 4 — Yahweh and His Portion
 - [ ] Heiser — Part 5 — Conquest and Failure
 - [ ] Heiser — Part 6 — Thus Says the Lord
@@ -827,3 +827,15 @@ related:
 - **Notes remaining:** 26
 - **Next batch suggestion:** See below.
 
+### 2026-08-07 — Batch 40 (Finalized)
+- **Notes processed:** 3 — Heiser Part 1 (First Things), Heiser Part 2 (The Households of God), Heiser Part 3 (Divine Transgressions)
+- **Claims extracted:** 11 (heiser-ur-1.1, 2.1, 3.1, 4.1, 4.2, 4.3, 7.1, 9.1, 10.1, 11.1, 14.1)
+- **Edges added:** ~20 (internal Heiser, plus 9 cross-scholar in this finalize pass). Key clusters:
+  - **Heiser vs. Kaufmann (5 new edges):** heiser-ur-1.1, 10.1, and 14.1 all contradict Kaufmann's thesis that Israelite religion was absolutely different from paganism and that non-Yahweh divine beings are empty fetishes. heiser-ur-4.1 also contradicts the Yahweh-El distinct-deities claim — on Heiser's reading, Yahweh and El are distinct *elohim* within a hierarchy, not rival gods.
+  - **Heiser vs. Dever (1 new edge):** heiser-ur-4.2 contradicts Dever's folk-polytheism claim — what Dever calls folk polytheism, Heiser calls folk divine-council recognition.
+  - **Heiser strengthens divine council thread (4 new internal edges):** heiser-ur-3.1 (divine council pervasive) now supports heiser-ur-10.1 (Genesis 6) and heiser-ur-14.1 (Babel). heiser-ur-7.1 (serpent = divine being) now supports heiser-ur-11.1 (serpent's temptation). These connect the divine council foundation to its narrative consequences.
+  - **Heiser's unique position:** Heiser is the only Tier 1 scholar who accepts ALL the critical data (divine council, plural *elohim*, ANE parallels, Deut 32:8-9) while rejecting the polytheism label. He joins Sommer as the second scholar who rejects the polytheism→monotheism narrative while accepting the evidence — but through a hierarchical divine-council model rather than fluid embodiment.
+  - **Heiser now has strong contradictions with 4 scholars:** Kaufmann (5 edges), Dever (2 edges, including existing), Smith/Römer (through heiser-ur-4.3 on incomparability vs. existential-denial).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 23
+- **Next batch suggestion:** Heiser Part 4 (Yahweh and His Portion) + Heiser Part 5 (Conquest and Failure) + Heiser Part 6 (Thus Says the Lord). Rationale: Continue the Heiser thread — these three parts cover Yahweh's reclaiming of the nations (the "Deuteronomy 32 worldview" payoff), the conquest narrative through a divine-council lens, and the prophetic rebuke of the *elohim*. Each directly depends on heiser-ur-14.1 and heiser-ur-3.1, edging backward to those foundation claims. After Heiser is complete, pivot to Keel/Uehlinger iconography to test Heiser's claims against material culture.
