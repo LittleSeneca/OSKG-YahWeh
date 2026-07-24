@@ -66,6 +66,10 @@ Filter the graph by tag to see networks: `topic/asherah` (86 connected claims), 
 
 `sources/primary-sources/` contains full text, translations, and scholarly significance for every major inscription cited in the project:
 
+![Scholarly Lineage and Confessional Map](scholarly-lineage-map.png)
+
+*Academic genealogies and confessional commitments of the 45+ scholars in the OSKG. Colors represent scholarly traditions: green nodes = evangelical/archaeological perspectives, blue/purple = critical Jewish scholarship, red/brown = Copenhagen minimalists and threshold figures. Lines trace teacher-student relationships, intellectual debts, and methodological fault lines. The graph reveals which scholars cite each other — and which camps never engage.*
+
 Kuntillet Ajrud · Khirbet el-Qom · Deut 32:8-9 + 4QDeut · Soleb Shasu · Merneptah Stele · Mesha Stele · Tel Dan Stele · Lachish Ostraca · Ketef Hinnom Amulets · Elephantine Papyri · Ugaritic Baal Cycle (KTU 1.1–1.6, Keret, Aqhat) · Black Obelisk · Kurkh Monolith · Siloam Inscription · Gezer Calendar · Ekron Inscription
 
 ## Scholars Covered (17 monographs from 15 scholars)
