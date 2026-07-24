@@ -66,6 +66,8 @@ This framing leaves room for divine involvement (God could work through the geol
 **Challenged by:**
 - Whether "invention" is the right metaphor even with the clarification — it inherently implies human artifice
 - The sedimentary model may overstate continuity and understate revolutionary breaks
+- [[claim-hebrew-bible-elite-scribal-literature-not-folk-religion]] (schmid-ht-1.5) — if the HB is Persian-period elite literature, the "sediments" Romer identifies may reflect Persian-period scribal perspectives rather than centuries of pre-exilic religious development
+- [[claim-persian-period-more-important-literary-formation]] (schmid-ht-1.6) — if the Persian period is the primary period of literary formation, Romer's sedimentary model describes Persian-period theological imagination, not progressive construction across a millennium
 
 **Primary sources:**
 <!-- The entire book as an illustration of the sedimentary process -->

@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 132
-- **Total claims extracted:** 628
-- **Notes with edges added:** 132
-- **Last session:** 2026-08-08 (Batch 42)
+- **Notes with claims extracted:** 135
+- **Total claims extracted:** 646
+- **Notes with edges added:** 135
+- **Last session:** 2026-08-09 (Batch 43)
 
 ## By Scholar
 
@@ -178,9 +178,9 @@ related:
 
 ### Schmid, A Historical Theology of the Hebrew Bible (7 notes)
 - [x] Schmid — Preface
-- [ ] Schmid — §1 — Is There a Theology of the Hebrew Bible
-- [ ] Schmid — §§2-4 — Concept of Theology from Plato to Gabler
-- [ ] Schmid — §5 — Romantic Devaluation of Theology
+- [x] Schmid — §1 — Is There a Theology of the Hebrew Bible
+- [x] Schmid — §§2-4 — Concept of Theology from Plato to Gabler
+- [x] Schmid — §5 — Romantic Devaluation of Theology
 - [ ] Schmid — §§6-9 — Jewish Reception to Implicit Theology
 - [ ] Schmid — §11 — The Tanakh as the Hebrew Bible
 - [ ] Schmid — §§10, 12, 13 — Canon Pluriformity and Relativity
@@ -867,4 +867,16 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 17
 - **Next batch suggestion:** See below.
+
+### 2026-08-09 — Batch 43 (Finalized)
+- **Notes processed:** 3 — Schmid §1 (Is There a Theology of the Hebrew Bible), Schmid §§2-4 (Concept of Theology from Plato to Gabler), Schmid §5 (Romantic Devaluation of Theology)
+- **Claims extracted:** 18 (7 §1, 7 §§2-4, 4 §5)
+- **Edges added:** Internal edges present from extraction + 6 cross-scholar edges in finalization pass (3 forward from Schmid claims to Smith/Römer, 3 retrofit to existing Smith/Römer claims). Key clusters:
+  - **Schmid's methodological foundation now complete (4 of 7 notes):** Preface, §1 (the case for historical theology), §§2-4 (genealogy of "theology" from Plato to Gabler), §5 (Romantic devaluation of theology). Schmid has now established: the impossibility of traditional OT theology (1.1), the mutual dependence of historical and theological exegesis (1.3), the Hebrew Bible as elite Persian-period scribal literature (1.5), the Persian period as primary literary formation period (1.6), the genealogy of "theology" from Greek myth through scholasticism, Luther, Protestant orthodoxy, Gabler, and Bauer (2-4.1-2-4.7), and the Romantic religion/theology split that motivated historical criticism (5.1-5.4).
+  - **Schmid's most important contribution — the elite-literature/Persian-period thesis:** schmid-ht-1.5 (HB is elite scribal literature) and schmid-ht-1.6 (Persian period more important) are Schmid's most consequential claims for the Truth Project. If correct, the entire evolutionary model describes Persian-period theological imagination, not pre-exilic reality. These claims now edge to Smith's four-stage model, monotheism-as-rhetoric, and Römer's invention-as-progressive-construction — and those claims now have retrofitted Challenged-by edges pointing back.
+  - **Cross-scholar edge pass — 6 new edges:** schmid-ht-1.5 now contradicts Smith's four-stage model, monotheism-as-rhetoric, and Römer's invention-as-progressive-construction (3 edges). schmid-ht-1.6 now contradicts Smith's four-stage model and Römer's invention-as-progressive-construction (2 edges). Retrofit: the four-stage model, monotheism-as-rhetoric, and invention-as-progressive-construction all now list Schmid's claims in their Challenged-by sections (3 edges, including fixing a bare-text reference to a proper wikilink).
+  - **Schmid's position in the graph:** Schmid joins Lewis and Dever as methodological voices — but unlike them, Schmid's methodology directly challenges the evidentiary foundation of the entire evolutionary consensus. If Schmid is right about Persian-period dating, Smith, Römer, and Day are all mining Persian-period theological imagination for evidence of pre-exilic religion. This is the most radical challenge to the consensus in the graph — more radical than Kaufmann because it doesn't argue for different models on the same evidence; it argues the evidence itself is from the wrong period.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 14
+- **Next batch suggestion:** Schmid §§6-9 + Schmid §11 + Schmid §§10,12,13 — complete Schmid's remaining 3 notes (Jewish reception, Tanakh framing, canon pluriformity). Then pivot to Stavrakopoulou (God: An Anatomy) for the corporeal/embodied-God thread that complements Sommer's fluidity model.
 

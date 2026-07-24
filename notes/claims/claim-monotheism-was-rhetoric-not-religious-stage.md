@@ -73,6 +73,7 @@ If monotheism is rhetoric rather than an ontological position, the entire modern
 - The question of whether Second Isaiah's audience understood these as rhetorical or ontological
 - [[claim-wisdom-tradition-counter-discourse-divine-justice-job-qoheleth]] — Lewis 9.4: wisdom literature represents a DIFFERENT mode of discourse from prophetic polemic. Job and Qoheleth question divine justice not as inner-community rhetoric but as genuine existential challenge. If wisdom discourse is neither polemic nor rhetoric, Smith's rhetoric-only framework may be too narrow.
 - [[claim-sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift]] — Sommer reframes the question: the J/E authors were monotheists (one God, multiple bodies), not polytheists deploying monotheistic rhetoric. If Sommer is right, Smith's "rhetoric not stage" thesis misidentifies fluid monotheism as polytheistic practice.
+- [[claim-hebrew-bible-elite-scribal-literature-not-folk-religion]] (schmid-ht-1.5) — if the HB is Persian-period elite literature, the "rhetoric" of monotheism may reflect Persian-period scribal ideology rather than pre-exilic religious discourse
 
 **Primary sources:**
 - Isaiah 45:5 ("I am Yahweh, there is no other")

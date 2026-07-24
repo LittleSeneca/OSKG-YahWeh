@@ -100,7 +100,8 @@ This is the core question. If Smith is right, monotheism is a human achievement 
 - [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the evolutionary sequence entirely: monotheistic IDEA present from the beginning, battle was only about cultic consequences
 - [[claim-non-pagan-features-earliest-biblical-strata-not-late-editing]] (kaufmann-ri-3.9) — If non-pagan features are genuinely present in the earliest literary strata, the four-stage evolutionary model is compressing development that was actually early and intuitive
 - Tigay's onomastic data (potential early monolatry)
-- Schmid's late datings (Persian-period texts)
+- [[claim-persian-period-more-important-literary-formation]] (schmid-ht-1.6) — if the Persian period is the primary period of literary formation, the four stages may describe Persian-period theological imagination, not pre-exilic religious evolution
+- [[claim-hebrew-bible-elite-scribal-literature-not-folk-religion]] (schmid-ht-1.5) — Schmid's demonstration that the HB is Persian-period elite scribal literature challenges the assumption that biblical texts provide direct evidence of pre-exilic religious stages
 - [[claim-psalm-82-yahweh-prosecutes-gods-injustice]] — Lewis 9.3: Psalm 82 preserves the divine council framework in a text that postdates the supposed convergence stages (Smith dates Ps 82 as pre-exilic). The gods are still real enough to prosecute — they haven't been "absorbed" or "differentiated" into non-existence.
 
 **Primary sources:**
