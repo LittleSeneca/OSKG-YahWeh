@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 111
-- **Total claims extracted:** 554
-- **Notes with edges added:** 111
-- **Last session:** 2026-08-04 (Session 37 / Batch 35)
+- **Notes with claims extracted:** 114
+- **Total claims extracted:** 571
+- **Notes with edges added:** 114
+- **Last session:** 2026-08-06 (Batch 36)
 
 ## By Scholar
 
@@ -151,9 +151,9 @@ related:
 - [x] Fleming — Ch 2 — Yhwʒ of Shasu-Land
 - [x] Fleming — Ch 3 — The Midianite Hypothesis — Moses and the Priest
 - [x] Fleming — Ch 4 — The Old Poetry
-- [ ] Fleming — Ch 5 — The Name Yahweh
-- [ ] Fleming — Ch 6 — The People of Yahweh
-- [ ] Fleming — Ch 7 — The Early Character of the God Yahweh
+- [x] Fleming — Ch 5 — The Name Yahweh
+- [x] Fleming — Ch 6 — The People of Yahweh
+- [x] Fleming — Ch 7 — The Early Character of the God Yahweh
 
 ### Sommer, The Bodies of God (9 notes)
 - [ ] Sommer — Introduction
@@ -759,5 +759,18 @@ related:
   - **Fleming's position vs. the existing graph:** Fleming directly contradicts the core claims of Römer (southern origin, MH as best explanation, four poems as origin evidence), Day (southern origin from Midian/Edom), and Lewis (Shasu-Seir connection). Fleming provides independent support for Kaufmann's rejection of the Kenite hypothesis (fleming-ybi-3.2, 3.3, 3.4) and Lewis's cautious assessment that the biblical texts don't support the MH (fleming-ybi-3.3, 3.5). The contradiction structure is now densely mapped: Fleming vs. the Römer-Day-Lewis southern-origin consensus, with Fleming and Kaufmann aligned on the conclusion (MH is wrong) for entirely different reasons.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 38
+- **Next batch suggestion:** See below.
+
+### 2026-08-06 — Batch 36 (Finalized)
+- **Notes processed:** 3 — Fleming Ch5 (The Name Yahweh), Fleming Ch6 (The People of Yahweh), Fleming Ch7 (The Early Character of the God Yahweh)
+- **Claims extracted:** 17 (4 Ch5, 7 Ch6, 6 Ch7)
+- **Edges added:** Internal edges already present from extraction + 7 cross-scholar edges in finalization pass. Key clusters:
+  - **Fleming's onomastic-grammatical argument (Ch5):** 4 claims providing the philological backbone for Fleming's thesis. fleming-ybi-5.1 (Yhwʒ = shortened personal name, not divine name) establishes the two-step model. fleming-ybi-5.2 (Amorite Yahwi- names = onomastic context, not divine names) provides the Mari evidence. fleming-ybi-5.3 dissolves van der Toorn's objection via the two-step model. fleming-ybi-5.4 shows Cross's liturgical-epithet model can't be sustained against the Shasu evidence.
+  - **Fleming's 'am Yhwh argument (Ch6):** 7 claims — the largest single-chapter extraction to date. fleming-ybi-6.1 (Judg 5:13's 'am Yhwh = pre-Israelite alliance) is the centerpiece. fleming-ybi-6.2 (ten texts → two clusters) provides distributional evidence. fleming-ybi-6.3 (Judg 5: people defines god; Exod 15: god defines people) establishes developmental trajectory. fleming-ybi-6.4 ('am Kemosh = Moabite parallel) deploys the Mesha evidence. fleming-ybi-6.5 (Exod 15:16 independently attests "your people, Yahweh") shows the pattern was geographically widespread. fleming-ybi-6.6 (Yhwʒ/'am Yhwh = structural parallel bridging 600-year gap) is the boldest synthetic claim. fleming-ybi-6.7 (Song of the Sea = Egypt's withdrawal from Canaan, not exodus) provides the origins-story framework.
+  - **Fleming's early character of Yahweh (Ch7):** 6 claims. fleming-ybi-7.1 (Yahweh NOT originally storm god/warrior) challenges the consensus. fleming-ybi-7.2 (South Arabian political gods = best analogies) is Fleming's most original contribution. fleming-ybi-7.3 (Marduk/Assur disprove van der Toorn's objection) clears the remaining objection. fleming-ybi-7.4 (Yahweh and El originally separate) and fleming-ybi-7.5 (name "Israel" contains El, not Yahweh) establish the convergence model. fleming-ybi-7.6 (early Israelite pantheon unreconstructable) is a methodological caution.
+  - **Cross-scholar edge pass — 7 new edges:** 6.1 → fleming-ybi-4.2 (Supports: Seir/Edom secondary in poetry supports redaction-critical approach to Judg 5); 6.5 → fleming-ybi-3.3 (Supports: Jethro-not-Midianite-priest strengthens Exod 15's pre-Moses tradition); 7.1 → claim-yhwh-name-means-he-blows-storm-god (Contradicts: etymological conflict); 7.1 → day-ygc Psalm 29 Baal hymn (Challenged by: storm imagery appropriation hard to explain if no storm origins); 7.2 → claim-kenite-midianite-hypothesis-baseless (Supports: Kaufmann and Fleming converge on MH rejection); 7.4 → claim-name-yahweh-revealed-moses-time-p-chronology-reliable (Contradicts: P's always-known name vs. Fleming's late-arrival model); 7.6 → claim-el-family-astral-baal-outsider-storm-god (Challenged by: Ugaritic pantheon evidence challenges rejection of pantheon reconstruction).
+  - **Fleming's complete argument is now in the graph:** All 8 chapters extracted for a total of 47 Fleming claims. The full arc: Egyptian evidence (Ch2) → MH deconstruction (Ch3) → Old poetry reinterpretation (Ch4) → Onomastic positive case (Ch5) → 'Am Yhwh as pre-Israelite identity (Ch6) → Yahweh's original character and convergence with El (Ch7). Fleming is now the most densely mapped scholar in the graph, with his entire argument network available for comparison against the Römer-Day-Lewis southern-origin consensus and the Kaufmann monotheism-from-the-start position.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 35
 - **Next batch suggestion:** See below.
 
