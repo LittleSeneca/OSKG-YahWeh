@@ -64,7 +64,8 @@ Kaufmann's ultimate thesis. He's not just arguing for early monotheism — he's 
 [[claim-conflict-myth-encodes-power-and-powerlessness-hope]]
 
 **Challenged by:**
-[[claim-invention-means-progressive-construction]]
+- [[claim-law-given-in-presence-divine-council-witnesses]] — the law-giving at Sinai in the presence of the divine council is an ANE-standard mythological pattern, not a unique non-mythological Israelite phenomenon
+- [[claim-prophets-indicted-host-of-heaven-corrupt-divine-beings]] — if the prophets operated within a cosmic-mythological framework of territorial divine beings, Israelite religion was thoroughly mythological
 [[claim-bible-preserves-polytheistic-traces]]
 [[claim-bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism]] — the canon preserves fluid theologies alongside anti-fluid ones; the "non-mythological" character is a theological choice by P/D, not a primitive inheritance
 [[claim-kabbalistic-sefirot-structural-parallel-ane-fluid-divinity]] — kabbalah recovers precisely the "pagan" fluidity patterns within monotheism, showing the difference was a contested theological choice, not an inherent uniqueness

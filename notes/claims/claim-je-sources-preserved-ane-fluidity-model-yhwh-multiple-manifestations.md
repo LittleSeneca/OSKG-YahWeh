@@ -74,7 +74,8 @@ If Sommer is right about J and E, then the "polytheism → monotheism" narrative
 - [[claim-biblical-god-has-body-standard-notion]] — the embodiment premise
 
 **Supports:**
-- [[claim-divine-fluidity-cross-cuts-monotheism-polytheism-distinction]] — this is the Israelite evidence for the cross-cutting thesis
+- [[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]] — Heiser's "two powers" (visible/invisible Yahweh) independently converges on the same JE fluidity pattern Sommer identifies: one God, multiple localized manifestations
+- [[claim-elyon-yahweh-same-god-deut32-not-two-deities]] — Elyon and Yahweh as two titles for one God performing two functions IS the fluidity model in Deuteronomic idiom
 - [[claim-anthropomorphism-persists-israel-transcendent]] — J/E's anthropomorphic fluidity ('Yhwh of Samaria,' 'Yhwh of Teman,' the mal'akh as Yhwh-avatar) IS the anthropomorphism Smith argues persists in Israel
 
 **Contradicts:**

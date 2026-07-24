@@ -100,7 +100,7 @@ This is where Smith's project lands. The God you worship is a composite of at le
 <!-- Traditional theological claim that Yahweh's character is revealed, not constructed -->
 
 **Challenged by:**
-- Scholars who read specific convergences as metaphorical rather than absorptive
+- [[claim-cloud-rider-polemical-baal-replacement-not-syncretism]] — Heiser reads the same Baal-language data as polemical replacement, not convergence/absorption; same evidence, opposite interpretation
 - The dating question: if the texts are late (Persian period), the composite may reflect literary artistry rather than gradual absorption
 
 **Primary sources:**

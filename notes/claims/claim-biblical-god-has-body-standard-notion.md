@@ -71,7 +71,7 @@ The "spiritual," invisible, transcendent God of later Judaism and Christianity �
 <!-- Claims this one requires to be true -->
 
 **Supports:**
-- [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]] — if God has a body in the Hebrew Bible, J and E's fluidity model is not an alien import but a native biblical tradition
+- [[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]] — the visible Yahweh who interacts with humans in the "two powers" tradition has a body; divine corporeality is the unstated premise of the visible/invisible distinction
 - [[claim-anthropomorphism-persists-israel-transcendent]] — Smith independently confirms divine corporeality's persistence from comparative ANE evidence; Sommer provides the detailed exegetical case from the biblical texts themselves
 - [[claim-two-religions-book-vs-folk-israelite-religion]] — the embodied God of J/E IS the folk religion Dever describes; the transcendent God of P/D IS the 'book religion' of the elite. Sommer provides the source-critical mechanism for the two-religions split
 

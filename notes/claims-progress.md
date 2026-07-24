@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 126
-- **Total claims extracted:** 607
-- **Notes with edges added:** 126
-- **Last session:** 2026-08-07 (Batch 40)
+- **Notes with claims extracted:** 129
+- **Total claims extracted:** 617
+- **Notes with edges added:** 129
+- **Last session:** 2026-08-08 (Batch 41)
 
 ## By Scholar
 
@@ -170,9 +170,9 @@ related:
 - [x] Heiser — Part 1 — First Things
 - [x] Heiser — Part 2 — The Households of God
 - [x] Heiser — Part 3 — Divine Transgressions
-- [ ] Heiser — Part 4 — Yahweh and His Portion
-- [ ] Heiser — Part 5 — Conquest and Failure
-- [ ] Heiser — Part 6 — Thus Says the Lord
+- [x] Heiser — Part 4 — Yahweh and His Portion
+- [x] Heiser — Part 5 — Conquest and Failure
+- [x] Heiser — Part 6 — Thus Says the Lord
 - [ ] Heiser — Part 7 — The Kingdom Already
 - [ ] Heiser — Part 8 — The Kingdom Not Yet
 
@@ -839,3 +839,18 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 23
 - **Next batch suggestion:** Heiser Part 4 (Yahweh and His Portion) + Heiser Part 5 (Conquest and Failure) + Heiser Part 6 (Thus Says the Lord). Rationale: Continue the Heiser thread — these three parts cover Yahweh's reclaiming of the nations (the "Deuteronomy 32 worldview" payoff), the conquest narrative through a divine-council lens, and the prophetic rebuke of the *elohim*. Each directly depends on heiser-ur-14.1 and heiser-ur-3.1, edging backward to those foundation claims. After Heiser is complete, pivot to Keel/Uehlinger iconography to test Heiser's claims against material culture.
+
+### 2026-08-08 — Batch 41 (Finalized)
+- **Notes processed:** 3 — Heiser Part 4 (Yahweh and His Portion), Heiser Part 5 (Conquest and Failure), Heiser Part 6 (Thus Says the Lord)
+- **Claims extracted:** 10 (heiser-ur-16.1, 21.1, 22.1, 23.1, 24.1, 25.1, 26.1, 27.1, 28.1, 29.1)
+- **Edges added:** Internal edges already present from extraction + 18 cross-scholar edges in finalization pass (10 forward + 6 retrofits + 2 intra-batch). Key clusters:
+  - **Heiser → Sommer convergence deepens (6 edges):** heiser-ur-16.1 (Elyon=Yahweh) now supports Sommer's fluid monotheism model — Elyon and Yahweh as two titles performing two functions IS the fluidity model. heiser-ur-29.1 (two powers) now connects to Sommer's embodiment claims (biblical-god-has-body), to Sommer's JE fluidity (mal'akh = avatar), and to Sommer's reframing (poly→mono obscures fluid→anti-fluid). heiser-ur-22.1 (holiness = realm separation) joins Sommer's sacred space paradox. Heiser and Sommer converge on the same pattern from different disciplines — biblical theology and comparative religion.
+  - **Heiser vs. Kaufmann intensifies (3 new edges, 5 total):** heiser-ur-21.1 (law given in divine council) and heiser-ur-26.1 (prophets indicted host of heaven) both contradict Kaufmann's non-mythological-uniqueness thesis. The law-giving at Sinai with divine council witnesses is an ANE-standard mythological pattern; the prophets operating within cosmic-mythological framework of territorial *elohim* directly contradicts Kaufmann's claim that Israelite religion was fundamentally different.
+  - **Heiser vs. Smith's convergence model (2 edges):** heiser-ur-27.1 (cloud-rider = polemical replacement) now contradicts Smith's yahweh-composite-deity (convergence). Same Baal-language data, opposite interpretation. heiser-ur-16.1 contradicts Smith's four-stage model — if Elyon=Yahweh from the start, Stage 1 collapses.
+  - **Heiser vs. Römer's exile monotheism (1 edge):** heiser-ur-28.1 (Day of the Lord = reclamation) contradicts Römer's true-monotheism-emerged-in-exile — pre-exilic prophets already proclaimed Yahweh's cosmic reclamation of the nations.
+  - **Heiser's Deut 32 worldview now fully mapped (Parts 1-6):** 21 claims across 6 notes. The divine council framework (Parts 1-3) → Yahweh's claim on Israel (Part 4: Elyon=Yahweh, holiness as realm separation) → cosmic warfare in the conquest (Part 5: Nephilim elimination, *ḥērem* as reclamation) → prophetic prosecution of the *elohim* (Part 6: host of heaven, cloud-rider, Day of the Lord, two powers). The entire Deut 32 worldview — from Babel distribution to Day of the Lord reclamation — is now in the graph.
+  - **Heiser's unique contribution solidified:** Heiser is the ONLY scholar who reads the Deut 32 worldview as the Bible's own operating system rather than as a vestige of polytheism. He joins Sommer as the second scholar who rejects the polytheism→monotheism narrative while accepting all the critical data, but through hierarchical divine-council model rather than fluid embodiment. Their convergence (visible/invisible Yahweh = localized divine manifestation) is the single most productive cross-scholar thread in the batch.
+  - **Heiser now has contradictions with 5 scholars:** Kaufmann (5 edges), Smith (4 edges: four-stage model, convergence, incomparability), Römer (1 edge: exile monotheism), Dever (2 edges from batch 40 + existing), Day (3 edges: cloud-rider, Psalm 29, chaoskampf).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 20
+- **Next batch suggestion:** See below.

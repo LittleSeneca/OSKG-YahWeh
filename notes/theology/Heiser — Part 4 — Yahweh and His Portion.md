@@ -3,26 +3,19 @@ tags: [source/book-notes, faith/yahweh, faith/divine-council, deut-32, scholars/
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 3 — Divine Transgressions]]", "[[Heiser — Part 5 — Conquest and Failure]]", "[[Smith Chapter 1 — Deities in the Period of the Judges]]", "[[Smith Origins — Ch7 — El Yahweh and the Original God of Israel]]", "[[Fleming — Ch 1 — Introduction]]", "[[Fleming — Ch 2 — Yhwʒ of Shasu-Land]]", "[[Romer — Chapter 2 — Geographic Origin]]", "[[scholarly-directory-yahweh-origins]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-08-08
+claims_count: 1
+claims_files:
+  - "[[claim-elyon-yahweh-same-god-deut32-not-two-deities]]"
 ---
+
 # Heiser — Part 4: Yahweh and His Portion (Chapters 16-20)
 
-## Chapter 16: The Deuteronomy 32 Worldview
-
-### Claim: Deut 32:8-9 describes Yahweh receiving Israel as his "portion" — this is NOT evidence of two gods
-
-**Heiser's key claim:** "When Elyon divided the nations... he fixed the boundaries according to the number of the sons of God. Yahweh's portion is his people." Elyon IS Yahweh. One God, two titles, one action: distributing nations to subordinate divine beings.
-
-**The critical reading (Smith, Römer):** Two distinct deities. Elyon (El, the high god) distributes the nations. Yahweh (a junior god) receives Israel. Later, the two were identified.
-
-**Heiser's counter:** "To a biblical writer, the Most High (*elyon*) was the God of Israel. The Old Testament refers to him as Most High in several places." The two names describe ONE being performing TWO functions. Elyon = the distributor. Yahweh = the receiver of Israel. Same God, different roles.
-
-**The evidence:**
-- Psalm 82 is the parallel: "God (*elohim*) stands in the assembly of El (*'ădat 'ēl*); among the *elohim* he judges." One God judging the council — NOT two separate deities.
-- Genesis 14:18-22: Melchizedek is priest of "El Elyon" — and Abraham identifies El Elyon with Yahweh
-- Numbers 24:16; Psalms 7:17; 18:13; 47:2: all identify Elyon with Yahweh
-- "The whole point of Deut 32:8-9 is that Israel is uniquely blessed because they are Yahweh's DIRECT portion — the other nations got lesser beings. There is no hint in the passage that Israel's God is a lesser being."
-
-**Confidence:** MEDIUM. Heiser's reading is textually possible but requires collapsing the distinction between Elyon and Yahweh that Deut 32:8-9 seems to PRESERVE. Why use two names for one God doing one action unless there was a historical distinction being acknowledged?
+## Claim 1: Elyon = Yahweh in Deut 32:8-9 — NOT two gods
+→ [[claim-elyon-yahweh-same-god-deut32-not-two-deities]] | **heiser-ur-16.1** | Confidence: medium
+  Heiser argues Elyon and Yahweh are the same God performing two functions (distributor + receiver), not two separate deities. Contradicted by: [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]].
+  If Heiser is right, the critical edifice of Yahweh as junior deity collapses. If wrong, Deut 32 is the smoking gun for polytheistic origins.
 
 ## Chapters 17-20: Israel's Calling, Cosmic Geography, and the Divine Allotment
 

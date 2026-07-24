@@ -94,7 +94,8 @@ This is the core question. If Smith is right, monotheism is a human achievement 
 <!-- Albright/Bright model of early Mosaic monotheism -->
 
 **Challenged by:**
-- [[claim-fluidity-anti-fluidity-tension-present-from-beginning-not-chronological]] — Sommer argues the fluidity/anti-fluidity tension was present from the beginning, not a clean stage development. A four-stage model of monotheism can't account for simultaneous coexistence of fluid and anti-fluid theologies.
+- [[claim-elyon-yahweh-same-god-deut32-not-two-deities]] — if Elyon=Yahweh from the beginning, Stage 1 (El and Yahweh as separate deities) collapses
+- [[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]] — if pre-exilic prophets already proclaimed Yahweh's cosmic reclamation of the nations, monotheistic governance predates the exile (Stage 4)
 **
 - [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the evolutionary sequence entirely: monotheistic IDEA present from the beginning, battle was only about cultic consequences
 - [[claim-non-pagan-features-earliest-biblical-strata-not-late-editing]] (kaufmann-ri-3.9) — If non-pagan features are genuinely present in the earliest literary strata, the four-stage evolutionary model is compressing development that was actually early and intuitive

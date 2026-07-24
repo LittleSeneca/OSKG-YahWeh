@@ -90,7 +90,7 @@ Monotheism — the belief that there is only one God — was not revealed to Mos
 - Any claim that Mosaic monotheism existed at the origins of Israelite religion. If true monotheism emerges in the 6th century, it cannot have been revealed in the 13th.
 
 **Challenged by:**
-- [[claim-exile-extinction-idolatry-proves-popular-monotheism]] (kaufmann-ri-4.3) — Kaufmann's most powerful historical argument: complete disappearance of idolatry after exile has no parallel in religious history, suggesting monotheism was already popular before the exile, not forged by it
+- [[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]] — if the pre-exilic Day of the Lord prophets already proclaim Yahweh's cosmic reclamation of the nations, the theology that only Yahweh rules did not emerge in exile — it was applied to the nations earlier
 - [[claim-evolution-monotheism-to-monolatry-not-reverse]] (kaufmann-ri-4.7) — Kaufmann reverses the causal arrow: exile was not the forge but the test that confirmed an already-existing monotheism
 - [[claim-jeremiah-ezekiel-inherited-monotheism-not-innovators]] (kaufmann-ri-13.5) — if Jeremiah and Ezekiel inherited monotheism rather than creating it, the exile was not where monotheism was born
 - [[claim-exiles-monotheists-never-considered-babylonian-gods]] (kaufmann-ri-13.8) — Ezekiel 20:32 shows exiles contemplating apostasy as "serving wood and stone," not accepting Marduk; the crisis was covenantal, not theological

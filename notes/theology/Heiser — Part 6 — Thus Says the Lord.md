@@ -3,6 +3,14 @@ tags: [source/book-notes, faith/divine-council, prophets, scholars/michael-heise
 created: 2026-07-22
 confidence: medium
 related: ["[[Heiser — Part 5 — Conquest and Failure]]", "[[Heiser — Part 7 — The Kingdom Already]]", "[[Smith Chapters 5-7 — Cult, Monotheism, Portraits]]", "[[Day — Chapter 4 — Yahwehs Appropriation of Baal Imagery]]", "[[Smith Chapter 2 — Yahweh and Baal]]"]
+claims_status: "extracted"
+claims_extracted_date: 2026-08-08
+claims_count: 4
+claims_files:
+  - "[[claim-prophets-indicted-host-of-heaven-corrupt-divine-beings]]"
+  - "[[claim-cloud-rider-polemical-baal-replacement-not-syncretism]]"
+  - "[[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]]"
+  - "[[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]]"
 ---
 
 # Heiser — Part 6: Thus Says the Lord (Chapters 26-30)
@@ -13,49 +21,27 @@ Heiser argues that the prophets operated within the cosmic-geographical framewor
 
 ---
 
-## Chapter 26: The Host of Heaven on Trial
-
-### Claim: The prophets indicted the "host of heaven" — the corrupt divine beings behind the nations
-
-**Heiser's claim:** "Isaiah 24:21-23 describes a time when Yahweh will punish 'the host of heaven in heaven, and the kings of the earth on earth.' The parallel is unmistakable: cosmic powers in the spiritual realm correspond to human rulers on earth. They will be 'shut up in a prison' and 'after many days they will be punished.' The prophet sees a future judgment on the divine beings who corrupted the nations."
-
-**Evidence:**
-- Isaiah 24:21-22: cosmic POWERS judged alongside earthly rulers
-- Daniel 10:13, 20-21: "the prince of Persia" and "the prince of Greece" resist Yahweh's angel — territorial divine beings in active conflict
-- Deuteronomy 32:8-9 is the framework: the princes ARE the *sons of God* who received the nations
-
-**Confidence:** HIGH on the cosmic language in the prophets. MEDIUM on Heiser's claim that these are the specific *elohim* of Deut 32 (the prophets never explicitly connect the two concepts).
+## Claim 1: Prophets indicted "host of heaven" — corrupt divine beings
+→ [[claim-prophets-indicted-host-of-heaven-corrupt-divine-beings]] | **heiser-ur-26.1** | Confidence: medium
+  Isaiah 24:21-22 describes parallel judgment of cosmic powers and earthly rulers. Depends on: [[claim-babel-nations-assigned-to-divine-beings-deut-32-worldview]], [[claim-psalm-82-describes-divine-council-not-human-judges]].
 
 ---
 
-## Chapter 27: The Rider of the Clouds
-
-### Claim: Yahweh absorbed the storm-god imagery of Baal — and the prophets weaponized it
-
-**Heiser's claim:** "The image of Yahweh as rider of the clouds is taken directly from Baal language." But rather than this representing polytheistic syncretism, Heiser argues it represents Yahweh's VICTORY over Baal — using Baal's own imagery to demonstrate superiority. "Yahweh is the true rider of the clouds. Baal is a pretender."
-
-**Evidence:**
-- Psalm 68:4: "lift up a song to him who rides through the deserts; his name is Yah" — using Baal's epithet
-- Daniel 7:13: "one like a son of man... coming with the clouds of heaven" — the divine warrior arrives on clouds
-- The "Day of the Lord" in the prophets repeatedly uses storm theophany language
-
-**Heiser vs. the critical reading:** Where Smith and Cross see absorption of Baal mythology (convergence), Heiser sees polemical replacement. Same data, different interpretation.
-
-**Confidence:** HIGH on the Baal-language parallels. MEDIUM on Heiser's "polemical replacement" reading (both readings are possible).
+## Claim 2: Cloud-rider = polemical replacement of Baal
+→ [[claim-cloud-rider-polemical-baal-replacement-not-syncretism]] | **heiser-ur-27.1** | Confidence: medium
+  Yahweh used Baal's own storm-god language to demonstrate superiority — polemical replacement, not syncretistic absorption. Contradicts: [[claim-day-yahweh-cloud-rider-derived-baal-rkb-rpt]], [[claim-day-psalm-29-yahwistic-baal-hymn-seven-thunders]].
 
 ---
 
-## Chapters 28-30: The Day of the Lord, the Two Powers, and the New Covenant
+## Implicit Claim: Day of the Lord = Yahweh reclaiming nations
+→ [[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]] | **heiser-ur-28.1** | Confidence: medium
+  <!-- Implicit claim extracted from Ch 28-30 narrative — not a ## Claim block -->
+  Each prophetic "Day" oracle is a local manifestation of Yahweh's cosmic reclamation project, not the end of the world. Depends on: [[claim-babel-nations-assigned-to-divine-beings-deut-32-worldview]].
 
-**Ch 28 (The Day of the Lord):** "The Day of the Lord is not primarily about the end of the world. It is about Yahweh reclaiming the nations." The prophetic "Day" language describes each historical judgment (on Babylon, on Assyria, on Edom) as a local manifestation of Yahweh's cosmic reclamation project.
-
-**Ch 29 (The Two Powers in Heaven):** Heiser engages the "two powers" controversy in early Judaism — the idea that some Jews believed in a second divine figure alongside Yahweh (later branded heretical). Heiser argues this wasn't heresy — it was a recognition of the divine council structure. "The second power was the Angel of Yahweh, the visible Yahweh who could interact with humans while the invisible Yahweh remained in heaven." This aligns with Sommer's fluidity model.
-
-**Ch 30 (The New Covenant):** Jeremiah 31's new covenant promise is read through the Deut 32 lens: "The new covenant is not about replacing law with grace. It is about Yahweh writing his law on the hearts of his people so that the relationship broken by Israel's failure — the reason for the exile — can be restored. The covenant is new because Israel couldn't keep the old one, not because the old one was defective."
-
-**Confidence on Ch 28:** MEDIUM. Heiser reads the Day of the Lord through the Deut 32 lens consistently but the texts themselves rarely make the connection explicit.
-
-**Confidence on Ch 29:** MEDIUM-HIGH. The "two powers" controversy is well-documented in early Judaism (Alan Segal's work). Heiser's reading that this reflects the visible/invisible Yahweh distinction from the divine council tradition is plausible.
+## Implicit Claim: Two powers = visible/invisible Yahweh
+→ [[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]] | **heiser-ur-29.1** | Confidence: medium-high
+  <!-- Implicit claim extracted from Ch 29 narrative — not a ## Claim block -->
+  The "two powers" controversy in early Judaism reflected authentic divine council tradition: the Angel of Yahweh was the visible Yahweh. Supports: [[claim-je-sources-preserved-ane-fluidity-model-yhwh-multiple-manifestations]], [[claim-fluidity-model-survived-kabbalah-christianity]].
 
 ---
 
