@@ -2,39 +2,36 @@
 tags: [source/book-notes, faith/divine-council, eschatology, scholars/michael-heiser, methodology, history/israel-judah, history/jerusalem, history/exile, truth-project]
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-08-08
+claims_count: 3
+claims_files:
+  - "[[claim-kingdom-already-not-yet-elohim-judged-not-replaced]]"
+  - "[[claim-glorified-believers-replace-fallen-elohim-divine-council]]"
+  - "[[claim-new-creation-dissolves-divine-human-realm-distinction]]"
 related: ["[[Heiser — Part 7 — The Kingdom Already]]", "[[Smith Origins — Ch10 — Monotheism in Isaiah 40-55]]", "[[meta-analysis-scholars]]", "[[Albertz Vol2 — Chapter 6 — Hellenistic Period]]"]
 ---
 
 # Heiser — Part 8: The Kingdom Not Yet (Chapters 36-42)
 
 ## Chapter 36: The Already and Not Yet
-
-### Claim: The kingdom is inaugurated but not consummated — the *elohim* are judged but not yet replaced
-
-**Heiser's framework:** Christ's first coming DEFEATED the corrupt *elohim*. His second coming will REPLACE them. In the meantime, believers live in the "already/not yet" tension: the *elohim* know they've lost, but they still exercise influence. This explains both the NT's confidence ("he disarmed the rulers") and its warnings ("we wrestle against... cosmic powers").
+→ [[claim-kingdom-already-not-yet-elohim-judged-not-replaced]] | **heiser-ur-36.1** | Confidence: medium
+  Christ's first coming DEFEATED the corrupt *elohim* (Col 2:15 — past tense). His second coming will REPLACE them. In the meantime, believers live in the "already/not yet" tension: the *elohim* know they've lost, but they still exercise influence (Eph 6:12 — present tense). This explains both the NT's confidence and its warnings.
+  **Edges:** Depends on: [[claim-paul-principalities-corrupt-deut32-elohim]], [[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]]. Supports: [[claim-glorified-believers-replace-fallen-elohim-divine-council]].
 
 ---
 
-## Chapter 37-38: Believers Replace the Fallen Elohim
-
-### Claim: Glorified believers will take the administrative roles in the divine council that the fallen *elohim* forfeited
-
-**Heiser's claim:** "The idea of believers becoming *elohim* strikes most Christians as bizarre, but that is precisely Paul's point in 1 Corinthians 6:3: 'Do you not know that we are to judge angels?'" Psalm 82 promised the corrupt *elohim* would "die like men." Who takes their place? Glorified humans.
-
-**Evidence:**
-- Psalm 8:5: "You have made him a little lower than *elohim*" (reading *elohim*, not "angels" as most translations)
-- Revelation 2:26-27: "The one who conquers... I will give authority over the nations" — the same authority the *elohim* had
-- Revelation 3:21: "The one who conquers, I will grant him to sit with me on my throne"
-- 1 Corinthians 6:2-3: "Do you not know that the saints will judge the world?... Do you not know that we are to judge angels?"
-- Hebrews 2:5-10: The "world to come" is not subject to angels but to humans — specifically, to Christ and "the many sons" he brings to glory
-
-**The cosmic trajectory:** God's original plan was for humans to rule creation alongside him (Genesis 1:26-28). The *elohim* were always meant to be ADMINISTRATORS, not replacements for humanity's role. When some *elohim* rebelled, they disrupted that plan. The restoration involves humans FINALLY taking the place God always intended — ruling alongside Yahweh in the divine council. The *elohim* were placeholders. We're the real thing.
+## Chapters 37-38: Believers Replace the Fallen Elohim
+→ [[claim-glorified-believers-replace-fallen-elohim-divine-council]] | **heiser-ur-37.1** | Confidence: medium
+  "The idea of believers becoming *elohim* strikes most Christians as bizarre, but that is precisely Paul's point in 1 Corinthians 6:3: 'Do you not know that we are to judge angels?'" Psalm 82 promised the corrupt *elohim* would "die like men." Who takes their place? Glorified humans. The *elohim* were always meant to be ADMINISTRATORS, not replacements for humanity's role. God's original plan (Gen 1:26-28) was for humans to rule alongside him. The *elohim* were placeholders. We're the real thing.
+  **Edges:** Depends on: [[claim-divine-council-pervasive-biblical-reality-not-pagan-import]], [[claim-babel-nations-assigned-to-divine-beings-deut-32-worldview]], [[claim-kingdom-already-not-yet-elohim-judged-not-replaced]]. Supports: [[claim-new-creation-dissolves-divine-human-realm-distinction]].
 
 ---
 
 ## Chapters 39-42: Final Restoration and Heiser's Closing Argument
-
-**Ch 39 (New Creation):** The new heavens and new earth (Revelation 21-22) represent the final fusion of the divine and human realms. No more temple — "its temple is the Lord God the Almighty and the Lamb" — because the DISTINCTION between realms is dissolved. What was separated at Eden is reunited.
+→ [[claim-new-creation-dissolves-divine-human-realm-distinction]] | **heiser-ur-39.1** | Confidence: medium
+  The new heavens and new earth (Revelation 21-22) represent the final fusion of the divine and human realms. No more temple — "its temple is the Lord God the Almighty and the Lamb" — because the DISTINCTION between realms is dissolved. What was separated at Eden is reunited. The cosmic story that began with the separation of divine and human space ends with their reunion.
+  **Edges:** Depends on: [[claim-holiness-realm-separation-not-primarily-morality]], [[claim-glorified-believers-replace-fallen-elohim-divine-council]].
 
 **Ch 40 (The Unseen Realm Revisited):** Heiser's closing summary of the entire framework.
 

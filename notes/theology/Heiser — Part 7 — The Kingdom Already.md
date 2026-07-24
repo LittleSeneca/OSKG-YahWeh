@@ -2,59 +2,44 @@
 tags: [source/book-notes, faith/divine-council, christology, eschatology, scholars/michael-heiser, truth-project]
 created: 2026-07-22
 confidence: medium
+claims_status: "extracted"
+claims_extracted_date: 2026-08-08
+claims_count: 4
+claims_files:
+  - "[[claim-son-of-man-second-yahweh-daniel-7]]"
+  - "[[claim-jesus-baptism-divine-council-endorsement]]"
+  - "[[claim-great-commission-babel-reversal-reclaiming-nations]]"
+  - "[[claim-paul-principalities-corrupt-deut32-elohim]]"
 related: ["[[Heiser — Part 6 — Thus Says the Lord]]", "[[Heiser — Part 8 — The Kingdom Not Yet]]", "[[Sommer — Chapters 4-6 + Appendix]]", "[[Sommer — The Bodies of God]]", "[[Day — Chapter 8 — Conclusion — Rise of Monotheism]]"]
 ---
 
 # Heiser — Part 7: The Kingdom Already (Chapters 31-35)
 
 ## Chapter 31: The Son of Man
-
-### Claim: Jesus's favorite self-designation — "Son of Man" — is a direct claim to be the second Yahweh of Daniel 7
-
-**Heiser's claim:** "Son of Man" (*bar 'enash* in Aramaic) is not a humility title. It's a claim to divine identity. Daniel 7:13-14 describes "one like a son of man" coming with the clouds of heaven — cloud-riding is a divine prerogative — and receiving "dominion, glory, and a kingdom that all peoples, nations, and languages should serve him." Jesus applies this to himself repeatedly. He's claiming to be the visible Yahweh who will reclaim the nations from the corrupt *elohim*.
-
-**Evidence:**
-- Mark 14:61-64: The high priest asks "Are you the Christ, the Son of the Blessed?" Jesus replies: "I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven." The high priest tears his robes — he understood the claim perfectly.
-- The cloud-riding in Daniel 7 is Yahweh's prerogative (Psalm 104:3; Isaiah 19:1). Jesus claims it for himself.
-- "Son of Man" appears 81 times in the Gospels — always on Jesus's lips. It was his own chosen self-identification, not one imposed by the church.
-
-**Confidence:** HIGH that Daniel 7 describes a divine figure. HIGH that Jesus used "Son of Man" as a self-designation. MEDIUM-HIGH that Jesus intended the full Daniel 7 claim (some scholars argue the Son of Man originally referred to a corporate figure — the saints of the Most High — not an individual).
+→ [[claim-son-of-man-second-yahweh-daniel-7]] | **heiser-ur-31.1** | Confidence: medium-high
+  Jesus's "Son of Man" self-designation is a direct claim to be the second Yahweh of Daniel 7 — the visible Yahweh who will reclaim the nations from the corrupt *elohim*. Cloud-riding is a divine prerogative; Jesus claims it. The high priest tore his robes because he understood the claim perfectly.
+  **Edges:** Depends on: [[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]], [[claim-cloud-rider-polemical-baal-replacement-not-syncretism]]. Supports: [[claim-great-commission-babel-reversal-reclaiming-nations]]. Contradicts: [[claim-true-monotheism-emerged-babylonian-exile]].
 
 ---
 
 ## Chapter 32: The Baptism and the Divine Council
-
-### Claim: Jesus's baptism was a divine council endorsement — the voice from heaven and the Spirit descending are council members affirming Jesus's authority
-
-**Heiser's claim:** The baptism scene (Mark 1:9-11) depicts the visible Yahweh (Jesus) being affirmed by the invisible Yahweh (the voice) and the Spirit. This is a divine council scene: the two other persons of the Trinity acting as council witnesses to Jesus's authority to reclaim the nations.
+→ [[claim-jesus-baptism-divine-council-endorsement]] | **heiser-ur-32.1** | Confidence: medium
+  The baptism scene (Mark 1:9-11) depicts the visible Yahweh (Jesus) being affirmed by the invisible Yahweh (the voice) and the Spirit — a divine council endorsement. The Transfiguration repeats the pattern with Moses and Elijah as additional council witnesses.
+  **Edges:** Depends on: [[claim-divine-council-pervasive-biblical-reality-not-pagan-import]], [[claim-two-powers-visible-invisible-yahweh-divine-council-tradition]]. Supports: [[claim-law-given-in-presence-divine-council-witnesses]], [[claim-son-of-man-second-yahweh-daniel-7]].
 
 ---
 
-## Chapter 33: The Transfiguration and Chapter 34: The Great Commission
-
-**The Transfiguration:** Moses and Elijah appear with Jesus — representing the Law and Prophets, the two witnesses to Jesus's identity as the second Yahweh. The voice from the cloud repeats the baptismal endorsement: "This is my beloved Son; listen to him."
-
-**The Great Commission (Matt 28:18-20):** "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations." Heiser: This is the reversal of Babel. At Babel, the nations were disinherited and given to lesser *elohim*. At the Great Commission, Jesus reclaims ALL authority and sends his followers to disciple ALL nations. "The Great Commission is about taking back the nations."
-
-**Pentecost (Acts 2) as Babel-reversed:** At Babel, languages were divided and scattered. At Pentecost, the Spirit enables apostles to speak in all languages and people are gathered. "What Yahweh did at Babel is being undone."
-
-**Confidence:** MEDIUM-HIGH on the Babel-reversal reading of Pentecost (Acts 2 explicitly echoes the table of nations). MEDIUM on the Transfiguration as council scene.
+## Chapter 33-34: The Transfiguration and the Great Commission
+→ [[claim-great-commission-babel-reversal-reclaiming-nations]] | **heiser-ur-33.1** | Confidence: medium-high
+  The Great Commission (Matt 28:18-20) is the reversal of Babel: Jesus reclaims ALL authority over ALL nations that were disinherited and given to lesser *elohim* at Babel. Pentecost (Acts 2) confirms the pattern — at Babel languages were divided and scattered; at Pentecost the Spirit enables apostles to speak in all languages and people are gathered. "What Yahweh did at Babel is being undone."
+  **Edges:** Depends on: [[claim-babel-nations-assigned-to-divine-beings-deut-32-worldview]], [[claim-son-of-man-second-yahweh-daniel-7]]. Supports: [[claim-day-of-the-lord-yahweh-reclaiming-nations-not-end-of-world]]. Contradicts: [[claim-true-monotheism-emerged-babylonian-exile]].
 
 ---
 
 ## Chapter 35: Paul's Cosmic Christology
-
-### Claim: Paul saw Christ's work as defeating the cosmic powers — the corrupt *elohim* of the nations
-
-**Evidence:**
-- Colossians 1:16: "by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities" — Christ created the *elohim*; they answer to him
-- Colossians 2:15: Christ "disarmed the rulers and authorities and put them to open shame, by triumphing over them in him"
-- Ephesians 1:20-22: God seated Christ "far above all rule and authority and power and dominion... and put all things under his feet"
-- Ephesians 3:10: "so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places"
-
-**The cosmic reading of Paul:** Paul's "principalities and powers" are not abstract political forces. They are the *elohim* — the corrupt divine beings who received the nations at Babel. Christ's death and resurrection defeated them. The church's mission is to announce this victory to the nations they once ruled.
-
-**Confidence:** HIGH on Paul's cosmic language being about spiritual beings. MEDIUM on Heiser's specific identification with the Deut 32 *elohim* (Paul never explicitly cites Deut 32:8-9, though he does cite Deut 32:17 in 1 Cor 10:20).
+→ [[claim-paul-principalities-corrupt-deut32-elohim]] | **heiser-ur-35.1** | Confidence: medium
+  Paul's "principalities and powers" are the corrupt *elohim* of Deut 32 — the divine beings who received the nations at Babel. Christ's death and resurrection defeated them (Col 2:15). The church's mission is to announce this victory to the nations they once ruled (Eph 3:10). Paul cites Deut 32:17 in 1 Cor 10:20, explicitly connecting Gentile worship to the Deut 32 *elohim*.
+  **Edges:** Depends on: [[claim-babel-nations-assigned-to-divine-beings-deut-32-worldview]], [[claim-prophets-indicted-host-of-heaven-corrupt-divine-beings]]. Supports: [[claim-kingdom-already-not-yet-elohim-judged-not-replaced]]. Contradicts: [[claim-monotheism-was-rhetoric-not-religious-stage]].
 
 ---
 

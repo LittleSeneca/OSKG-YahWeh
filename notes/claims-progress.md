@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 129
-- **Total claims extracted:** 617
-- **Notes with edges added:** 129
-- **Last session:** 2026-08-08 (Batch 41)
+- **Notes with claims extracted:** 132
+- **Total claims extracted:** 628
+- **Notes with edges added:** 132
+- **Last session:** 2026-08-08 (Batch 42)
 
 ## By Scholar
 
@@ -173,11 +173,11 @@ related:
 - [x] Heiser — Part 4 — Yahweh and His Portion
 - [x] Heiser — Part 5 — Conquest and Failure
 - [x] Heiser — Part 6 — Thus Says the Lord
-- [ ] Heiser — Part 7 — The Kingdom Already
-- [ ] Heiser — Part 8 — The Kingdom Not Yet
+- [x] Heiser — Part 7 — The Kingdom Already
+- [x] Heiser — Part 8 — The Kingdom Not Yet
 
 ### Schmid, A Historical Theology of the Hebrew Bible (7 notes)
-- [ ] Schmid — Preface
+- [x] Schmid — Preface
 - [ ] Schmid — §1 — Is There a Theology of the Hebrew Bible
 - [ ] Schmid — §§2-4 — Concept of Theology from Plato to Gabler
 - [ ] Schmid — §5 — Romantic Devaluation of Theology
@@ -854,3 +854,17 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 20
 - **Next batch suggestion:** See below.
+
+### 2026-08-08 — Batch 42 (Finalized)
+- **Notes processed:** 3 — Heiser Part 7 (The Kingdom Already), Heiser Part 8 (The Kingdom Not Yet), Schmid Preface
+- **Claims extracted:** 11 (heiser-ur-31.1, 32.1, 33.1, 35.1, 36.1, 37.1, 39.1; schmid-ht-preface.1, .2, .3, .4)
+- **Edges added:** Internal Heiser edges from extraction + 8 cross-scholar edges in finalization pass. Key clusters:
+  - **Schmid Preface → Critical methodology cluster (6 edges):** Schmid's diagnosis of OT theology's crisis (preface.1) now supports Dever's critique that theology is apologetics, the claim that history of religion is superior to OT theology, the practice-not-belief definition of religion, and Lewis's insistence that the Hebrew Bible must be read as an ANE text. Schmid's descriptive/reconstructive methodology (preface.3) supports three existing claims: ANE-eyes reading, ANE-text framing, and practice-based religion definition. Schmid's definitional work (preface.2) now links to the ANE-text framing claim. This establishes Schmid as the methodological conscience of the graph — his descriptive approach provides the theoretical justification for the entire Truth Project's claim-extraction methodology.
+  - **Heiser NT → Sommer convergence (2 edges):** heiser-ur-31.1 (Son of Man = visible Yahweh) now supports Sommer's reframing claim — Jesus as visible Yahweh incarnate IS the fluid embodiment model applied to NT Christology. heiser-ur-39.1 (new creation dissolves realm distinction) now connects to Sommer's fluid/anti-fluid tension claim — the new creation IS the final resolution where anti-fluid temple boundaries are dissolved and the fluid Edenic condition is restored. This extends the Heiser-Sommer convergence from the OT divine council into NT Christology and eschatology.
+  - **Heiser continues contradictions with the monotheism-as-evolution narrative:** heiser-ur-33.1 (Great Commission = Babel reversal) now contradicts the monotheism-as-rhetoric claim — if the Great Commission operates within the Deut 32 framework of nations-under-elohim, monotheism-as-rhetoric doesn't describe first-century Jewish-Christian cosmology.
+  - **Heiser's full NT arc now in the graph:** The Deut 32 worldview from Parts 1-6 (Babel → divine council → cosmic warfare → prophetic prosecution) now flows into the NT: Son of Man as visible Yahweh (Part 7 Ch31), baptism as council endorsement (Ch32-33), Great Commission as Babel reversal (Ch34), Paul's principalities as defeated elohim (Ch35), the already/not-yet tension (Ch36), believers replacing fallen elohim (Ch37-38), and new creation as realm-dissolution (Ch39). 28 Heiser claims across 8 notes — the complete Unseen Realm argument is now in the graph.
+  - **Schmid enters the graph with methodological force:** Schmid is the first scholar in the graph whose contribution is primarily methodological rather than substantive. His Preface claims (the crisis of OT theology, the need for definitional clarity, descriptive vs. normative methodology, "neither Christian nor Jewish" framing) don't make claims about Yahweh's origins or Asherah — they make claims about HOW the field should operate. This enriches the graph by adding a second-order, self-reflexive layer: the graph can now reason about its own methodology.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 17
+- **Next batch suggestion:** See below.
+
