@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 138
-- **Total claims extracted:** 666
-- **Notes with edges added:** 138
-- **Last session:** 2026-08-09 (Batch 44)
+- **Notes with claims extracted:** 141
+- **Total claims extracted:** 677
+- **Notes with edges added:** 141
+- **Last session:** 2026-08-09 (Batch 45)
 
 ## By Scholar
 
@@ -186,9 +186,9 @@ related:
 - [x] Schmid — §§10, 12, 13 — Canon Pluriformity and Relativity
 
 ### Stavrakopoulou, God: An Anatomy (6 notes)
-- [ ] Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine
-- [ ] Stavrakopoulou — Part I — Feet and Legs
-- [ ] Stavrakopoulou — Part II — Genitals
+- [x] Stavrakopoulou — Prologue + Chapter 1 — Dissecting the Divine
+- [x] Stavrakopoulou — Part I — Feet and Legs
+- [x] Stavrakopoulou — Part II — Genitals
 - [ ] Stavrakopoulou — Part III — Torso
 - [ ] Stavrakopoulou — Part IV — Arms and Hands
 - [ ] Stavrakopoulou — Part V — Head + Epilogue
@@ -892,5 +892,23 @@ related:
 - **Commits:** 1 (this session)
 - **Notes remaining:** 11
 - **Next batch suggestion:** Stavrakopoulou Prologue+Ch1 + Stavrakopoulou Part I (Feet and Legs) + Stavrakopoulou Part II (Genitals). Rationale: Schmid is complete. Stavrakopoulou's God: An Anatomy picks up the embodied-God thread that Sommer's fluidity model established — she provides the complementary argument from bodily theology. Her Prologue-Ch1 establishes the methodological framework (reading the Bible as ancient body-talk), Part I covers feet/legs (divine locomotion, standing stones as feet, the Temple as body), and Part II covers genitals (divine masculinity, circumcision as bodily mark, the "Yahweh and his Asherah" question from an anatomical angle). These three notes form the foundation before tackling torso, arms/hands, and head. Stavrakopoulou will directly contradict Kaufmann's incorporeal God (kaufmann-ri-1.1, 1.2) and will both support and complicate Sommer's fluidity model. Total notes remaining after this batch: 8.
+
+### 2026-08-09 — Batch 45 (Finalized)
+- **Notes processed:** 3 — Stavrakopoulou Prologue + Chapter 1 (Dissecting the Divine), Stavrakopoulou Part I (Feet and Legs), Stavrakopoulou Part II (Genitals)
+- **Claims extracted:** 11 (4 Prologue+Ch1: stav-god-pro-1.1 through 1.4; 3 Part I: stav-god-2-4.1 through 2-4.3; 4 Part II: stav-god-5-8.1 through 5-8.4)
+- **Edges added:** ~35 internal edges in 11 new claims + 12 cross-scholar edges in finalization pass. Key clusters:
+  - **Stavrakopoulou enters the graph as the embodied-God pole:** 11 claims establish the strongest corporeal reading in the corpus. Unlike Sommer (fluid embodiment — God has multiple bodies), Stavrakopoulou argues for ONE literal supersized humanoid body. The Prologue+Ch1 claims establish the framework: sanitization thesis (1.1), the body-part catalogue as scholarly consensus (1.2), incorporeal God as Greek philosophical import (1.3), and Genesis 1:26 as divine council (1.4). Together these frame the entire project: the biblical God walked, ate, fought, and had sex — later theology spiritualized this away.
+  - **The feet cluster (Part I, 3 claims) — materialized divine presence:** God's feet marked physical territory (2-4.1), his walking transformed landscape into sacred space marked by massebot (2-4.2), and his feet functioned as weapons of violent domination and property markers (2-4.3). The 'Ain Dara temple footprints (metre-long, pointing inward, no exit prints) provide material-culture confirmation of the ANE pattern. The maqom/massebah wordplay — "place" derives from "standing place" — is Stavrakopoulou's most original philological contribution.
+  - **The genitals cluster (Part II, 4 claims) — the most provocative section:** Translators systematically obscure references to God's male genitalia (5-8.1). God's masculinity is performed through phallic imagery — "right hand," "holy arm," "glory" (*kavod*) as male bodily weight (5-8.2). Circumcision marks Israelite males as belonging to a male deity — the covenant sign on the penis mirrors God's own anatomy (5-8.3). God had sex — with his consort Asherah (Kuntillet Ajrud, Khirbet el-Qom) and metaphorically with Israel (Hosea, Ezekiel) — because the deity was understood as a sexual, married being (5-8.4).
+  - **Cross-scholar edge pass — 12 new edges across 7 claim files:**
+    - **Feet → Sommer sacred space (4 edges):** 2-4.1 now supports claim-tent-of-meeting-ark-fluid-theology (feet = mechanism for God traveling with Israel) and claim-yhwh-represented-by-standing-stones-massebot (footprints and massebot are parallel material witnesses). 2-4.2 also supports both (walking = mechanism for mobile sacred space; maqom/massebah wordplay = philological foundation for Romer's standing-stone theology).
+    - **Embodied God → Sommer corporeality (3 edges):** 1.2 now supports claim-cult-statues-were-the-god-not-representations (body-part catalogue = textual equivalent of cult statue theology) and claim-scholars-systematically-avoided-divine-corporeality-evidence (the catalogue IS the evidence Sommer says scholars avoided). 1.3 also supports the scholarly-avoidance claim (the avoidance is the historical mechanism by which Greek incorporeality was enforced).
+    - **Genesis 1:26 → Heiser divine council (2 edges):** 1.4 now supports claim-babel-nations-assigned-to-divine-beings-deut-32-worldview (creation and Babel are bookends) and claim-divine-council-seventy-sons-of-el (the "us" of Gen 1:26 = seventy sons of El).
+    - **Genitals → Dever gendered suppression (2 edges):** 5-8.2 and 5-8.3 now both support claim-dever-suppression-asherah-equals-suppression-womens-religion — if God's masculinity is anatomical not metaphorical, the male-only priesthood and exclusion of women from religious authority have a literal theological foundation built into the covenant sign itself. 5-8.2 now also contradicts claim-yahweh-male-gendered-not-sexual (Stavrakopoulou argues Yahweh's gender IS sexual, performed through phallic imagery, not merely grammatical).
+    - **Stavrakopoulou → Kaufmann contradiction thread:** All 11 Stavrakopoulou claims contradict claim-israelite-religion-non-mythological-fundamentally-unique — Kaufmann's incorporeal, non-mythological God is the primary target of Stavrakopoulou's entire embodied-God project. This is the most extensive single-scholar contradiction in the graph (11 claims → 1 claim).
+  - **Stavrakopoulou 3 of 6 notes extracted (11 claims).** Remaining: Part III (Torso), Part IV (Arms and Hands), Part V (Head + Epilogue).
+- **Commits:** 1 (this session)
+- **Notes remaining:** 8
+- **Next batch suggestion:** See below.
 
 
