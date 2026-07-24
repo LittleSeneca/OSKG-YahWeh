@@ -179,6 +179,10 @@ If browsing on GitHub, start at [[Home]].
 
 ## Methodology
 
+![Schmid Stress Test — what survives if the Pentateuch is Persian-period?](schmid-stress-test.png)
+
+*Counter-position stress test for Konrad Schmid's late dating thesis. Green nodes: claims that survive if the Pentateuch was composed in the Persian period (independently dated, anchored in inscriptional/onomastic evidence, or reflecting Persian-period practice). Red/brown nodes: claims that lose their textual foundation (no pre-exilic textual evidence unless the Bible is pre-exilic; if Schmid is right, these are retrojections). The graph quantifies the damage: ~41% of the consensus graph loses its textual basis under Schmid's model.*
+
 The pipeline architecture was developed independently but converges with the **Open Research Knowledge Graph (ORKG)** at Leibniz University Hannover (Auer, D'Souza, Farfar et al., 2019–present). Both systems use: structured claim extraction → typed semantic edges → graph querying → evidence synthesis. The independent convergence validates the approach. OSKG-YahWeh differs from ORKG in scale (17 books deep rather than millions of papers shallow) and domain (humanities/biblical studies rather than scientific literature). See [[METHODOLOGY]] for the full analysis.
 
 ---
