@@ -58,6 +58,10 @@ This is the strongest empirical challenge to the polytheism consensus. If Tigay 
 **Contradicts:**
 <!-- Will edge to Tigay claims (onomastics proves monolatry) when extracted -->
 
+**Supports:**
+- [[claim-epigraphic-evidence-limited-to-eighth-sixth-centuries]] — the limitations of the epigraphic record are one reason onomastics alone can't settle the polytheism question; the evidence only kicks in during the 8th-6th centuries
+- [[claim-four-stage-model-monotheism-development]] — Smith's own model acknowledges that monotheism was a development, not the starting point; the onomastic data from later periods can't disprove earlier polytheism
+
 **Challenged by:**
 <!-- Will edge to Kaufmann claims (popular religion was Yahwistic) when extracted -->
 

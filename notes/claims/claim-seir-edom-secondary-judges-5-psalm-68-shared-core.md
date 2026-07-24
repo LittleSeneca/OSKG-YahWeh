@@ -60,6 +60,9 @@ If Seir and Edom are secondary additions to a fragment that only mentioned Sinai
 - [[claim-four-biblical-poems-preserve-southern-origin-tradition]] — if Seir and Edom are secondary elaborations, the poems don't preserve an ancient tradition of southern origin — they elaborate a divine-dwelling motif with later geographical specifics
 - [[claim-yahweh-originated-south-midian-edom]] — Day treats the Seir/Edom geography in Judges 5 as primary evidence for southern origin; Fleming argues it's a secondary elaboration on an older Sinai-only tradition
 
+**Primary sources:**
+- [[deut-32-8-9-qumran-variant]]
+
 ## Assessment
 
 Fleming's textual-critical approach is methodologically sounder than the "oral variants" approach. Shared = older is a standard principle. His reconstruction is elegant and persuasive. But the "Sinai" in the shared core is still a southern location, so this doesn't eliminate the southern connection — it just narrows it to Sinai specifically.

@@ -64,7 +64,7 @@ This is a crucial move for Heiser's larger project. If foreknowledge requires pr
 <!-- Claims this one requires to be true -->
 
 **Supports:**
-<!-- Claims this one provides evidence for -->
+- [[claim-glorified-believers-replace-fallen-elohim-divine-council]] — Heiser's eschatological thesis that glorified believers will take administrative roles in the divine council depends on the logical possibility that God can foreknow outcomes without predestining them — otherwise the rebellion of the *elohim* would be divinely caused.
 
 **Contradicts:**
 <!-- Claims that cannot be true if this one is -->
