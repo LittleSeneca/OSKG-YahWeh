@@ -65,6 +65,8 @@ If Heiser is right about Elyon=Yahweh, the entire critical edifice — Yahweh as
 - [[claim-deut-32-8-9-el-elyon-superior-yahweh-divine-son]] — the critical reading that El Elyon and Yahweh are two distinct deities with El as superior
 - [[claim-yahweh-el-originally-separate-deities-el-israel-original-god]] — the El-Yahweh distinction thesis
 - [[claim-four-stage-model-monotheism-development]] — Smith's four-stage model assumes El and Yahweh were originally separate deities; if Elyon=Yahweh from the start, the model's Stage 1 collapses
+- [[claim-yahweh-second-tier-son-of-elyon-national-theology]] — Smith's reading of Deut 32:8-9 as a national theology with Yahweh subordinate to Elyon. Heiser's reading: one God performing two functions, not two deities in a hierarchy.
+- [[claim-deut-32-8-9-sons-of-el]] — Smith's textual argument that Deut 32:8-9 originally read 'sons of El.' Heiser accepts the reading but rejects the polytheistic implications: the 'sons' are created divine beings under Yahweh's authority, not rival gods under a superior El.
 
 **Challenged by:**
 <!-- Evidence or arguments that weaken this claim -->

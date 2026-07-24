@@ -91,6 +91,7 @@ This single passage provides a snapshot of an early Israelite theology in which 
 **Challenged by:**
 [[claim-henotheism-monolatry-framework-wrong-question]] — Kaufmann would reject the polytheistic reading of Deut 32:8-9 entirely. If the Bible never acknowledges other gods as living deities (only as idols), then the "sons of El" must be understood differently — perhaps as angels, not gods. The critical reading assumes the very framework Kaufmann argues against.
 [[claim-no-foreign-god-active-living-character-biblical-narrative]] — Kaufmann's observation: no god other than YHWH ever acts as a living character in biblical narrative. Deut 32:8-9 describes a past allocation, not ongoing divine activity. The "sons of El" are passive recipients, not active deities.
+- [[claim-elyon-yahweh-same-god-deut32-not-two-deities]] — Heiser's counter-reading: Elyon is an epithet of Yahweh, not a separate deity. If Heiser is right, the entire 'sons of El' → 'El and Yahweh were distinct' chain of reasoning collapses at the first link.
 
 **Primary sources:**
 - MT: Deut 32:8-9 (bĕnê yiśrā'ēl)

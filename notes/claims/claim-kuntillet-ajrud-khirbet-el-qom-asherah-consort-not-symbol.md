@@ -63,6 +63,7 @@ If Dever is right about the inscriptions, then the textual evidence (biblical + 
 **Contradicts:**
 - [[claim-kuntillet-ajrud-symbol-not-goddess]] — Smith's reading of Kuntillet Ajrud
 - [[claim-his-asherah-cultic-symbol-stylized-tree-not-goddess-consort]] — Keel/Uehlinger's reading
+- [[claim-asherah-was-yahwistic-symbol]] — Smith's thesis that the asherah was always a Yahwistic cult symbol; the inscriptions read 'his Asherah' as a proper name, not a cult object
 
 **Challenged by:**
 <!-- Placeholder -->

@@ -67,6 +67,7 @@ If the asherah was a Yahwistic symbol (not a foreign goddess), then the Deuteron
 
 **Contradicts:**
 - [[claim-asherah-el-consort-transferred-to-yahweh]] (romer-inv-9.1) — Römer argues the asherah represented a real goddess transferred from El to Yahweh, not merely a symbol that had lost its goddess connection
+- [[claim-dever-archaeology-proves-asherah-real-goddess-yhwh-consort]] — Dever's cumulative archaeological case that Asherah was a real goddess and Yhwh's consort. The figurine, inscription, and iconographic evidence Dever marshals directly contradicts the symbol-only interpretation.
 
 **Challenged by:**
 [[claim-yahweh-predominant-family-god-pluralism-intensified-syncretism]] — Albertz's late-monarchy family piety data shows intensifying syncretistic pluralism; if Asherah was merely a symbol, the goddess cults Albertz documents require a different explanation

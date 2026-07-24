@@ -69,6 +69,8 @@ The cumulative archaeological evidence — 3,000+ Judean Pillar Figurines, Kunti
 - [[claim-kuntillet-ajrud-pithoi-paratactic-motifs-not-unified-scene]]
 - [[claim-no-consort-relationship-yahweh-asherah-divine-couples-absent]]
 - [[claim-god-absolute-supremacy-no-metadivine-realm]]
+- [[claim-kuntillet-ajrud-symbol-not-goddess]] — Smith's grammatical argument that the asherah was a symbol, not a goddess consort. The cumulative archaeological evidence (3000+ JPFs, inscriptions, iconography) directly contradicts this reading.
+- [[claim-asherah-was-yahwistic-symbol]] — Smith's broader thesis that the asherah was always a Yahwistic cult symbol, not a goddess. The archaeological evidence shows the opposite: the asherah was widely treated as a goddess.
 
 **Challenged by:**
 - [[claim-judean-pillar-figurines-goddess-revival-iic-not-continuous-tradition]]

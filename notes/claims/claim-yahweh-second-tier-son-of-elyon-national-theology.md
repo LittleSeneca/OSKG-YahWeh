@@ -84,6 +84,7 @@ If Yahweh was originally a second-tier god — a son of El/Elyon — then Israel
 **Contradicts:**
 - Readings that identify Elyon as an epithet of Yahweh from the start
 - Models that collapse El and Yahweh in the earliest period
+- [[claim-elyon-yahweh-same-god-deut32-not-two-deities]] — Heiser argues Elyon and Yahweh are the same God performing two functions. Smith's national theology model directly contradicts this: the text makes better sense if they are originally distinct, with Yahweh as one of Elyon's subordinate sons.
 
 **Challenged by:**
 - Late dating of Psalm 82 and Deut 32:8-9
