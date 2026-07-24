@@ -2,10 +2,10 @@
 name: claims-extraction
 description: "Extract structured claims from Truth Project chapter notes into first-class Obsidian claim files — multi-session batch workflow with progress tracking."
 version: 1.0.0
-category: truth-project
+category: oskg-yahweh
 metadata:
   hermes:
-    tags: [truth-project, obsidian, extraction, knowledge-graph]
+    tags: [oskg-yahweh, obsidian, extraction, knowledge-graph]
 ---
 
 # Claims Extraction — Truth Project
@@ -106,7 +106,7 @@ tags:
   - evidence/<evidence-type>    # REQUIRED: at least one
   - scholar/<scholar-slug>      # REQUIRED
   - source/<book-slug>          # REQUIRED
-  - truth-project
+  - oskg-yahweh
 claim_id: "<id>"               # REQUIRED
 statement: "<one sentence>"     # REQUIRED
 confidence: "<rating>"          # REQUIRED
@@ -429,7 +429,7 @@ The confidence_rationale field captures the one-sentence justification.
 16. **`hermes chat -q` flag ordering.** `-q` consumes the NEXT argument. Correct: `hermes chat -q "prompt" -s skill`. Wrong: `hermes chat -q -s skill "prompt"`.
 17. **Harness prompts missing full file paths.** Passing only titles forces the session to guess filenames. Always include `title → notes/theology/filename.md`.
 18. **Evidence section merged into The Claim.** The most common structural defect: evidence content is substantial (bullets, tables, data) but lives inside `## The Claim` instead of under its own `## Evidence` header. The claim file has sections The Claim → Confidence → Stakes → Disagreement → Edges, skipping Evidence entirely. This happens when the extractor doesn't split the chapter note's combined claim+evidence block. **Fix:** insert `## Evidence\n\n` between The Claim's statement paragraph and the evidence paragraphs. The content is already there — it's a heading placement issue, not missing content. In batch 24, 2 of 19 files (4.2 and 4.9) had this defect. Phase 2 quality review must catch this: grep for `^## Evidence` in every claim file created.
-19. **`patch` corrupting frontmatter with matching `created:` lines.** When `old_string` in a frontmatter patch includes `---` (the closing frontmatter marker) and `created:` (which appears in multiple note files), the patch tool can match the wrong occurrence, silently removing tags and escaping quotes. Symptoms: missing YAML tags (faith/polytheism, truth-project dropped), escaped quotes (`\\\"title\\\"`), misplaced frontmatter. **Fix:** when adding claims_status block to frontmatter, use `write_file` with the complete rewritten file rather than `patch`. If you do use `patch`, include enough unique context lines (at least 5 lines of surrounding YAML) to guarantee a single match. Always read the patched file immediately after to verify nothing was corrupted.
+19. **`patch` corrupting frontmatter with matching `created:` lines.** When `old_string` in a frontmatter patch includes `---` (the closing frontmatter marker) and `created:` (which appears in multiple note files), the patch tool can match the wrong occurrence, silently removing tags and escaping quotes. Symptoms: missing YAML tags (faith/polytheism, oskg-yahweh dropped), escaped quotes (`\\\"title\\\"`), misplaced frontmatter. **Fix:** when adding claims_status block to frontmatter, use `write_file` with the complete rewritten file rather than `patch`. If you do use `patch`, include enough unique context lines (at least 5 lines of surrounding YAML) to guarantee a single match. Always read the patched file immediately after to verify nothing was corrupted.
 20. **Primary source wikilinks using wrong slugs.** The `sources/primary-sources/` directory contains files with specific names — wikilinks must match the exact filename. The Soleb note is `soleb-shasu-inscription.md`, not `source-soleb-shasu-list.md` or `source-soleb-shasu-inscription.md`. Amara West content is covered by the Soleb note — do not create a separate broken `[[source-amara-west-shasu-list]]` wikilink. Before writing any primary source wikilink, verify with `ls sources/primary-sources/*.md` that the slug matches. Broken primary source wikilinks = automatic FAIL in quality review.
 
 21. **Template placeholder `[[source-<slug>]]` surviving extraction.** The claim template includes `<!-- Inscriptions, texts, artifacts — use [[<filename-slug>]] wikilinks -->` as a placeholder. During batch extraction, this was sometimes replaced with the literal text `[[source-<slug>]]` (the INSTRUCTION text, not an actual wikilink). 19 Keel/Uehlinger claims shipped with this literal placeholder (July 2024 audit). **Fix:** Phase 2 quality review must grep ALL claim files created in the batch for the literal string `source-<slug>`. Any hit means the Primary Sources section was never filled in and the placeholder was corrupted. Replace with the HTML comment: `<!-- Inscriptions, texts, artifacts — add wikilinks when primary source identification is complete -->`.

@@ -68,7 +68,7 @@ Every note should carry tags from at minimum FOUR categories, plus any project-s
 - Use the full firstname-lastname format. If a note discusses MULTIPLE scholars, tag all of them.
 
 ### Category 4: Project (what larger project this note serves)
-- `truth-project` — the Yahweh/monotheism research project
+- `oskg-yahweh` — the Yahweh/monotheism research project
 - Use additional project tags if the note serves multiple projects.
 
 ### Cross-Cutting Tags (add when relevant)
@@ -86,7 +86,7 @@ Every note in the project MUST have:
 - [ ] The Type tag (`source/book-notes`, etc.)
 - [ ] At least TWO topic tags relevant to the chapter's content
 - [ ] The Scholar tag for the author (or all scholars discussed)
-- [ ] The Project tag (`truth-project`)
+- [ ] The Project tag (`oskg-yahweh`)
 - [ ] At least one cross-reference in `related:` frontmatter to another note
 
 **That's 5+ tags minimum per note.** If a note has fewer, it's a gap.
@@ -170,7 +170,7 @@ When deciding which tags to add to a note, ask:
 
 ## Common Tagging Gaps (what the audit will find)
 
-1. **Notes with only `truth-project` and `source/book-notes`** — missing topic tags entirely.
+1. **Notes with only `oskg-yahweh` and `source/book-notes`** — missing topic tags entirely.
 2. **Notes that discuss Asherah but don't tag `faith/asherah`** — the content is there but the tag isn't.
 3. **Notes that cite Dever's archaeology but don't tag `archaeology`** — missing evidence-type tags.
 4. **Notes missing the scholar tag** — especially common when a note discusses multiple scholars.
@@ -182,7 +182,7 @@ When deciding which tags to add to a note, ask:
 
 ### Pitfall 1: Concatenation bugs during batch normalization
 
-When normalizing tags with a Python script that modifies YAML frontmatter, inline-format and bullet-list format are easily confused by regex. A script that replaces `project/truth` with `truth-project` in inline format (`tags: [..., project/truth, ...]`) works correctly. But if the same replacement runs against bullet-list format where the closing `]` doesn't exist, the result is `truth-projectcreated:` — the tag gets concatenated with the next YAML field.
+When normalizing tags with a Python script that modifies YAML frontmatter, inline-format and bullet-list format are easily confused by regex. A script that replaces `project/truth` with `oskg-yahweh` in inline format (`tags: [..., project/truth, ...]`) works correctly. But if the same replacement runs against bullet-list format where the closing `]` doesn't exist, the result is `oskg-yahwehcreated:` — the tag gets concatenated with the next YAML field.
 
 **Fix:** Always handle inline (`tags: [a, b, c]`) and bullet-list (`tags:\n  - a\n  - b`) formats separately. Test normalization scripts on 2-3 notes first before running against the full vault. Always run a follow-up scan after batch normalization to detect concatenation artifacts.
 

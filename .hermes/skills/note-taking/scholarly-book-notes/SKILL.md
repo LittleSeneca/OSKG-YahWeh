@@ -84,7 +84,7 @@ Link to directory entries and meta-analysis. Don't let notes exist in a vacuum.
 
 ```yaml
 ---
-tags: [source/book-notes, faith/yahweh, scholars/author-name, truth-project]
+tags: [source/book-notes, faith/yahweh, scholars/author-name, oskg-yahweh]
 created: YYYY-MM-DD
 confidence: medium
 source:

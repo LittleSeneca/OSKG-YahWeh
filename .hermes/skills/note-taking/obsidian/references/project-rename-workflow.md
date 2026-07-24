@@ -77,6 +77,6 @@ grep -rl '<owner>/<old-name>' ~/Projects/Personal/obsidian --include='*.md' | wc
 
 ## Pitfalls
 
-- **Session note filenames should NOT be renamed.** Session filenames like `2026-07-22 — truth-project-launch.md` contain the old project name but are historical artifacts. Renaming them breaks wikilinks across the entire vault. The tags inside them are updated; the filenames stay.
+- **Session note filenames should NOT be renamed.** Session filenames like `2026-07-22 — oskg-yahweh-launch.md` contain the old project name but are historical artifacts. Renaming them breaks wikilinks across the entire vault. The tags inside them are updated; the filenames stay.
 - **Wikilinks in project notes to session files will still reference old filenames.** This is correct — the session files exist at those names. Leave them.
 - **Run the find/sed commands from the project root and obsidian root separately.** Do not try to run from a parent directory — the path patterns differ between the project and the vault.

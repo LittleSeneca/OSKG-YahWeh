@@ -29,7 +29,7 @@ tags:
   - source/book-notes
   - faith/<topic>
   - scholars/<name>
-  - truth-project
+  - oskg-yahweh
 created: YYYY-MM-DD
 source:
   title: "Full Title"

@@ -5,7 +5,7 @@ version: 1.0.0
 platforms: [linux, macos]
 metadata:
   hermes:
-    tags: [note-taking, obsidian, research, reading, truth-project]
+    tags: [note-taking, obsidian, research, reading, oskg-yahweh]
 ---
 
 # Obsidian Book Notes

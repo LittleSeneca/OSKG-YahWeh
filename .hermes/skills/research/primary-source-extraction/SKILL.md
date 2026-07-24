@@ -6,7 +6,7 @@ author: agent-created
 platforms: [macos]
 metadata:
   hermes:
-    tags: [research, extraction, vision, ocr, truth-project]
+    tags: [research, extraction, vision, ocr, oskg-yahweh]
     related: [obsidian, scholarly-research]
 ---
 

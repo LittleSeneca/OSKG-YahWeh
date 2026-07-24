@@ -48,7 +48,7 @@ Every primary source file MUST have:
 tags:
   - type/primary-source
   - topic/<specific-topic>
-  - truth-project
+  - oskg-yahweh
 created: YYYY-MM-DD
 related:
   - "[[other-source-filename]]"

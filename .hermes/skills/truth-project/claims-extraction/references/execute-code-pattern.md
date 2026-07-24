@@ -19,7 +19,7 @@ tags:
   - evidence/evidence-type
   - scholar/scholar-slug
   - source/book-slug
-  - truth-project
+  - oskg-yahweh
 claim_id: "scholar-book-chapter.number"
 statement: "One-sentence claim statement"
 confidence: "high"

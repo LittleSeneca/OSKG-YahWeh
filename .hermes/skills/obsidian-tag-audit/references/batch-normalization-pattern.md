@@ -17,7 +17,7 @@ normalize = {
     'theology/divine-council': 'faith/divine-council',
     'uggritic-studies': 'ugarit',
     'truth/book-notes': 'source/book-notes',
-    'project/truth': 'truth-project',
+    'project/truth': 'oskg-yahweh',
     'scholars/albertz': 'scholars/rainer-albertz',
     # etc.
 }
@@ -95,12 +95,12 @@ Always run a follow-up scan to catch concatenation bugs:
 ```python
 for f in sorted(base.rglob("*.md")):
     content = f.read_text()
-    # Concatenation artifact: truth-projectcreated:
-    if 'truth-projectcreated' in content:
-        print(f"BROKEN: {f.name} — truth-project concatenated with next field")
-        content = content.replace('truth-projectcreated:', 'truth-project\ncreated:')
+    # Concatenation artifact: oskg-yahwehcreated:
+    if 'oskg-yahwehcreated' in content:
+        print(f"BROKEN: {f.name} — oskg-yahweh concatenated with next field")
+        content = content.replace('oskg-yahwehcreated:', 'oskg-yahweh\ncreated:')
         # For bullet format, also handle inline variant
-        content = content.replace('- truth-projectcreated:', '- truth-project\ncreated:')
+        content = content.replace('- oskg-yahwehcreated:', '- oskg-yahweh\ncreated:')
         f.write_text(content)
 ```
 
