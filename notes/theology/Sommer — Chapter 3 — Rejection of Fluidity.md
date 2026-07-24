@@ -2,6 +2,14 @@
 tags: [source/book-notes, faith/yahweh, theology/divine-embodiment, scholars/benjamin-sommer, truth-project]
 created: 2026-07-22
 confidence: high
+claims_status: "extracted"
+claims_extracted_date: 2026-08-07
+claims_count: 4
+claims_files:
+  - "[[claim-deuteronomic-shem-theology-rejects-divine-fluidity]]"
+  - "[[claim-priestly-kavod-theology-rejects-divine-fluidity]]"
+  - "[[claim-priestly-deuteronomistic-anti-fluid-not-anti-corporeal]]"
+  - "[[claim-genesis-1-26-anti-fluid-manifesto-image-without-embodiment]]"
 related: ["[[Sommer — Chapter 2 — Fluidity in Israel]]", "[[Sommer — Chapter 4 — Sacred Space 1]]", "[[Sommer — Chapters 1-3 — Fluidity Model]]", "[[Dever — Introduction]]", "[[meta-analysis-scholars]]"]
 ---
 
@@ -13,48 +21,27 @@ related: ["[[Sommer — Chapter 2 — Fluidity in Israel]]", "[[Sommer — Chapt
 
 ## Claim 1: P and D sources systematically rejected the fluidity model
 
-**Sommer's claim:** The Priestly (P) and Deuteronomistic (D) sources represent a THEOLOGICAL REVOLUTION — not the invention of monotheism, but the rejection of divine fluidity WITHIN monotheism. They replaced multiple divine bodies with hypostatic substitutes: the *kavod* (Glory) for P and the *shem* (Name) for D.
+**Sommer's overarching claim:** The Priestly (P) and Deuteronomistic (D) sources represent a THEOLOGICAL REVOLUTION — not the invention of monotheism, but the rejection of divine fluidity WITHIN monotheism. They replaced multiple divine bodies with hypostatic substitutes: the *kavod* (Glory) for P and the *shem* (Name) for D.
 
----
+### Sub-claim 1a: D's *shem* theology rejects fluidity
+→ [[claim-deuteronomic-shem-theology-rejects-divine-fluidity]] | **sommer-bog-3.2** | Confidence: high
+  "It is not God who dwells in the temple; only God's name does." Deut 12:5: "to cause his Name to dwell there" — NOT "where Yhwh dwells." D's God is transcendent, in heaven, accessed only through the Name.
+  Supports: [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]], [[claim-covenant-concept-deuteronomic-innovation-not-mosaic-original]], [[claim-deuteronomic-theology-mediating-synthesis-subordinated-king-temple]], [[claim-centralization-worship-jerusalem-late-political-project]]
 
-## Evidence — D's theology of the Name
+### Sub-claim 1b: P's *kavod* theology rejects fluidity
+→ [[claim-priestly-kavod-theology-rejects-divine-fluidity]] | **sommer-bog-3.3** | Confidence: high
+  P never depicts God walking, eating, or appearing in human form. The *kavod* is a blinding radiance that screens God's presence without BEING God. P's God speaks from a distance (Gen 1); contrast J's hands-on God (Gen 2).
+  Supports: [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]] | Contradicted by: [[claim-biblical-god-has-body-standard-notion]] (P's screened body vs. J/E's visible body)
 
-**Key texts:**
-- Deuteronomy 12:5: Yhwh will choose a place "to cause his Name to dwell there" (*lĕšakkēn šĕmô šām*)
-- NOT "where Yhwh dwells" — the Name dwells; Yhwh does not
+### Sub-claim 1c: P and D are anti-fluid, not anti-corporeal per se
+→ [[claim-priestly-deuteronomistic-anti-fluid-not-anti-corporeal]] | **sommer-bog-3.4** | Confidence: high
+  Both D and P preserve divine corporeality — they reject MULTIPLE bodies, not the body itself. D's God still has hands/arms; P's God has form (*ṣelem*) and shape (*dĕmût*). What changed was location (heaven only) and accessibility (screened).
+  Supports: [[claim-priestly-deuteronomistic-sources-rejected-fluidity-model]], [[claim-fluidity-model-survived-kabbalah-christianity]]
 
-**The revolutionary distinction:**
-> "The Deuteronomic editors wished to make a subtle distinction that the older texts lack: It is not God who dwells in the temple; only God's name does."
-
-This solves a theological problem: God dwells in heaven (D's consistent theology), yet God must be accessible to worshippers. The solution: his NAME functions as a localized presence that mediates access without actually embodying God.
-
-**What D rejected:** The older J/E idea that Yhwh himself dwelt in the Temple, walked in the garden, ate with Abraham. D's God is transcendent — in heaven, accessed only through the Name.
-
----
-
-## Evidence — P's theology of the Glory (*kavod*)
-
-**Key texts:**
-- Exodus 24:15-17: "The *kavod* of Yhwh dwelt on Mount Sinai... the appearance of the *kavod* of Yhwh was like a consuming fire on the top of the mountain"
-- Exodus 40:34-35: "The cloud covered the Tent of Meeting and the *kavod* of Yhwh filled the Tabernacle"
-
-**The *kavod* is an emergency measure:**
-- God in P is dangerous — "stunningly bright, so that it had to be surrounded by dark clouds to protect anyone nearby"
-- The *kavod* is not God's body — it's a radiance that represents God's presence without BEING God
-- P never depicts God walking, eating, or appearing in human form
-- P's creation account (Genesis 1) has God speaking things into existence from a distance — contrast J's hands-on God in Genesis 2
-
-**What P rejected:** The material anthropomorphism of J/E. P's God has no body humans could see — only the blinding *kavod* that must be screened by cloud.
-
----
-
-## Evidence — Genesis 1:26 as P's anti-fluid manifesto
-
-**The verse:** "Let us make humanity in our form (*ṣelem*), according to our shape (*dĕmût*)"
-
-**Sommer's reading:** P grants that humans share God's "form" and "shape" — but this is a THEOLOGICAL CONCESSION. Humans have God's shape but NOT God's substance. God's body is made of light/energy, not matter. Humans are images of the divine form — but the form itself is transcendent.
-
-**The word *ṣelem* in context:** In the ANE, kings were called the *ṣelem* of a god because they represented divine rule on earth. P democratizes this: ALL humans, not just kings, are God's image. But the image is a distant representation — not an embodiment.
+### Sub-claim 1d: Genesis 1:26 as P's anti-fluid manifesto
+→ [[claim-genesis-1-26-anti-fluid-manifesto-image-without-embodiment]] | **sommer-bog-3.5** | Confidence: medium-high
+  "Let us make humanity in our form (*ṣelem*), according to our shape (*dĕmût*)." Humans share God's shape but NOT God's substance. Image without embodiment — P's theological compromise. Democratizes ANE royal ideology.
+  Supports: [[claim-genesis-1-26-inverts-ezekiel-1-26]], [[claim-priestly-deuteronomistic-anti-fluid-not-anti-corporeal]]
 
 ---
 
@@ -63,8 +50,8 @@ This solves a theological problem: God dwells in heaven (D's consistent theology
 | Source | Date | Theology | Body Count |
 |--------|------|----------|------------|
 | **J/E** | 10th-8th c. | Fluid monotheism | Many bodies, one God |
-| **D** | 7th c. | Anti-fluid monotheism | No body; only the Name |
-| **P** | 6th-5th c. | Anti-fluid monotheism | No material body; only the Glory |
+| **D** | 7th c. | Anti-fluid monotheism | No body on earth; only the Name |
+| **P** | 6th-5th c. | Anti-fluid monotheism | No material body on earth; only the Glory |
 | **Later Judaism** | Post-biblical | Radical anti-fluid | NO body at all |
 
 ---

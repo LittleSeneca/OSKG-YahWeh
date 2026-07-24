@@ -14,10 +14,10 @@ related:
 ## Status Summary
 
 - **Total chapter notes:** 149
-- **Notes with claims extracted:** 117
-- **Total claims extracted:** 581
-- **Notes with edges added:** 117
-- **Last session:** 2026-08-06 (Batch 37)
+- **Notes with claims extracted:** 120
+- **Total claims extracted:** 591
+- **Notes with edges added:** 120
+- **Last session:** 2026-08-07 (Batch 38)
 
 ## By Scholar
 
@@ -159,9 +159,9 @@ related:
 - [x] Sommer — Introduction
 - [x] Sommer — The Bodies of God
 - [x] Sommer — Chapter 1 — Mesopotamia and Canaan
-- [ ] Sommer — Chapter 2 — Fluidity in Israel
-- [ ] Sommer — Chapter 3 — Rejection of Fluidity
-- [ ] Sommer — Chapter 4 — Sacred Space 1
+- [x] Sommer — Chapter 2 — Fluidity in Israel
+- [x] Sommer — Chapter 3 — Rejection of Fluidity
+- [x] Sommer — Chapter 4 — Sacred Space 1
 - [ ] Sommer — Chapters 1-3 — Fluidity Model
 - [ ] Sommer — Chapters 4-6 + Appendix
 - [ ] Sommer — Chapters 5-6 + Appendix
@@ -791,5 +791,27 @@ related:
   - **Sommer now 3 of 9 notes extracted (10 claims):** Introduction (3), Bodies of God / Ch2-3+6+Appendix (4), Ch1 Mesopotamia and Canaan (3). Remaining: Ch2 (Fluidity in Israel), Ch3 (Rejection of Fluidity), Ch4 (Sacred Space 1), Ch1-3 combined, Ch4-6+Appendix combined, Ch5-6+Appendix.
 - **Commits:** 1 (this session)
 - **Notes remaining:** 32
+- **Next batch suggestion:** See below.
+
+### 2026-08-07 — Session 38 (Batch 38 Finalized)
+- **Notes processed:** 3 — Sommer Chapter 2 (Fluidity in Israel), Sommer Chapter 3 (Rejection of Fluidity), Sommer Chapter 4 (Sacred Space 1)
+- **Claims extracted:** 10 (3 Ch2, 4 Ch3, 3 Ch4)
+- **Edges added:** Internal edges already present from extraction + 15 cross-scholar edges in finalization pass. Key clusters:
+  - **Sommer Ch2 — The fluidity model in Israel (3 claims):** sommer-bog-2.2 (Yhwh had local manifestations — fluid monotheism, not polytheism) is Sommer's most original biblical argument. The Kuntillet Ajrud "Yhwh of Samaria/Teman" inscriptions parallel the multiple Ishtars of Assyrian treaties. sommer-bog-2.3 (mal'akh as avatar) provides the exegetical mechanism: the angel of the Lord in J/E is not a separate being but a small-scale Yhwh manifestation. sommer-bog-2.4 (J/E are monotheistic, not polytheistic) is Sommer's most provocative claim — same texts, opposite framework from the Smith/Römer/Dever consensus.
+  - **Sommer Ch3 — The anti-fluid revolution (4 claims):** sommer-bog-3.2 (D's shem theology rejects fluidity) — God's Name dwells in the Temple, not God himself. sommer-bog-3.3 (P's kavod theology rejects fluidity) — the Glory screens God's presence without being God's body. sommer-bog-3.4 (P/D are anti-fluid but not anti-corporeal) is Sommer's most important conceptual clarification: the rejection of multiple bodies ≠ the rejection of divine embodiment. sommer-bog-3.5 (Genesis 1:26 as P's anti-fluid manifesto) reads ṣelem as physical form — image without substance, P's theological compromise.
+  - **Sommer Ch4 — Sacred space and fluid theology (3 claims):** sommer-bog-4.1 (fluidity explains the sacred space paradox) — God can be in heaven and the Temple simultaneously because multiple bodies is normal in ANE thought. sommer-bog-4.2 (Tent of Meeting and Ark reflect fluid theology) — Moses's face-to-face encounters and the Ark's mobility are physically impossible with one body, natural with multiple. sommer-bog-4.3 (1 Kings 8 as D's anti-fluid correction) — Solomon's prayer is not timeless theology but a specific polemic against the older fluid model.
+  - **Cross-scholar edge pass — 15 new edges across 7 Sommer claim files:**
+    - **Sommer → Dever on Kuntillet Ajrud (3 edges):** Sommer 2.2 contradicts Dever's archaeology-proves-asherah-consort and Kuntillet Ajrud consort-not-symbol claims — same inscriptions, opposite frameworks. Also contradicts Dever's cumulative-archaeology-goddess-consort claim (2.4). Sommer reads the Kuntillet Ajrud data as evidence of fluid monotheism; Dever reads it as evidence of goddess worship. This is the most productive contradiction in the Sommer batch.
+    - **Sommer → Keel/Uehlinger on Asherah and aniconism (3 edges):** Sommer 2.2 contradicts Keel/Uehlinger's his-asherah-cultic-symbol — Sommer reframes the inscriptions as being about Yhwh's manifestations, not Asherah at all. Sommer 4.1 contradicts Keel/Uehlinger's iron-age-israel-aniconic — under fluid theology, early Israel had divine bodies everywhere; aniconism was the late D/P reaction. Sommer 3.2 and 3.3 both support Keel/Uehlinger's abstract-traditions-fire-kabod-name — the shem and kavod ARE the abstract modes.
+    - **Sommer → Kaufmann on monotheistic readings (1 edge):** Sommer 2.2 supports Kaufmann's golden-calves-yhwh-worship (if Yhwh has multiple bodies, calves are additional embodiments, not competing gods). Both scholars read seemingly-polytheistic data as monotheistic.
+    - **Sommer → Smith on composite god (1 edge):** Sommer 2.4 edges to Smith's yahweh-composite-deity — Sommer provides an alternative: "composite" traits may be evidence of fluidity (multiple divine bodies), not absorption of other gods' identities.
+    - **Sommer → Albertz on Deuteronomistic reform (1 edge):** Sommer 3.2 supports josiah-reform-removed-asherah — D's anti-fluid shem theology provides the theological rationale for Josiah's purge.
+    - **Sommer → Smith/Keel on cult statues (2 edges):** Sommer 3.4 supports cult-statues-were-the-god (fluid theology → mis pî → the statue IS the god; anti-fluid revolution → aniconism). Sommer 4.2 supports yhwh-represented-by-standing-stones — the Ark and massebot are both material markers of Yhwh bodies.
+    - **Sommer → Dever on sacred space (2 edges):** Sommer 4.1 supports Dever's high-places-legitimate — fluidity explains WHY multiple sanctuaries could each house a distinct Yhwh body. Sommer 4.2 supports cult-places-objects-considered-divine — the Tent and Ark were divine objects in fluid theology.
+    - **Sommer contradicting aniconic consensus (1 edge):** Sommer 4.2 contradicts no-anthropomorphic-yahweh-statue-jerusalem-temple — the Tent/Ark traditions assume anthropomorphic divine presence that the later Temple deliberately avoided.
+  - **Sommer's Ch2-4 now complete — the core of his argument is in the graph:** The fluidity model (Ch2: J/E preserved it) → the anti-fluid revolution (Ch3: D/P rejected it) → the sacred space payoff (Ch4: the model explains otherwise puzzling data). Sommer's alternative genealogy — fluid monotheism (J/E) → anti-fluid monotheism (D/P) → anti-corporeal monotheism (later Judaism) — is now fully mapped. His most important contribution: the claim that Israel moved from one kind of monotheism to another, not from polytheism to monotheism.
+  - **Sommer now 6 of 9 notes extracted (20 claims):** Introduction (3), Bodies of God (4), Ch1 Mesopotamia and Canaan (3), Ch2 Fluidity in Israel (3), Ch3 Rejection of Fluidity (4), Ch4 Sacred Space 1 (3). Remaining: Ch1-3 combined, Ch4-6+Appendix combined, Ch5-6+Appendix.
+- **Commits:** 1 (this session)
+- **Notes remaining:** 29
 - **Next batch suggestion:** See below.
 
