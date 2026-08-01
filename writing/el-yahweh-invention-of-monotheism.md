@@ -85,7 +85,7 @@ Start with the name. The name of the people. The name of the nation. The name Go
 
 It means "May El rule" or "El strives." The divine element is *'ēl*. Not *yāh*. Not *yahweh*. El. The high god of the Canaanite pantheon.
 
-This is not a contested etymology. Mark S. Smith, Skirball Professor of Bible and Ancient Near Eastern Studies at NYU, calls this evidence of "El as the original god of Israel."[^1] Smith is the keystone scholar in this field. His two books, *The Early History of God* and *The Origins of Biblical Monotheism*, are the foundation on which most subsequent research rests. He did much of the primary translation and analysis of the Ugaritic texts that revealed the Canaanite pantheon in detail. He is also a practicing Roman Catholic. This matters. Smith's conclusions about Israel's polytheistic origins do not come from a skeptic trying to dismantle the Bible. They come from a believer reading the evidence with as much honesty as he can bring to it. When a scholar of Smith's stature, working from within the tradition, concludes that El predates Yahweh in Israel, that conclusion carries weight. Theodore J. Lewis, in his 2020 magnum opus *The Origin and Character of God*, confirms that El was a family/clan deity with a fundamentally different profile from the warrior Yahweh who would later absorb his identity.[^2] Thomas Römer, professor at the Collège de France, notes that "the name 'Israel' is a name constructed with the divine name El and ought normally to be translated as 'May El show his strength.'"[^3]
+This is not a contested etymology. Mark S. Smith, Skirball Professor of Bible and Ancient Near Eastern Studies at NYU, calls this evidence of "El as the original god of Israel."[^1]: Smith is the keystone scholar in this field. His two books, *The Early History of God* and *The Origins of Biblical Monotheism*, are the foundation on which most subsequent research rests. He did much of the primary translation and analysis of the Ugaritic texts that revealed the Canaanite pantheon in detail. He is also a practicing Roman Catholic. This matters. Smith's conclusions about Israel's polytheistic origins do not come from a skeptic trying to dismantle the Bible. They come from a believer reading the evidence with as much honesty as he can bring to it. When a scholar of Smith's stature, working from within the tradition, concludes that El predates Yahweh in Israel, that conclusion carries weight. Theodore J. Lewis, in his 2020 magnum opus *The Origin and Character of God*, confirms that El was a family/clan deity with a fundamentally different profile from the warrior Yahweh who would later absorb his identity.[^2]: Thomas Römer, professor at the Collège de France, notes that "the name 'Israel' is a name constructed with the divine name El and ought normally to be translated as 'May El show his strength.'"[^3]
 
 If Yahweh had been Israel's original god, we would expect a name like *yiśrâ-yāh* or *yiśrâ-yahweh*. Instead, the people's name invokes a different god entirely. The Israelites named themselves after El. Not Yahweh. That is not a trivial detail. It is the first piece of converging evidence that Yahweh was not always Israel's god. He became Israel's god.
 
@@ -116,7 +116,7 @@ This is not the monotheism I learned in Sunday school. This is a divine pantheon
 
 Michael Heiser, an evangelical scholar with a PhD in Hebrew Bible and Semitic Languages from the University of Wisconsin-Madison, agrees that "sons of God" is the original reading. He disagrees with what it means, arguing that Elyon IS Yahweh and the passage describes one God performing one action with two titles. But he cannot dispute the text-critical fact: the Masoretic Text was altered. The Dead Sea Scrolls preserve the older, theologically embarrassing reading.[^6]
 
-Smith is more direct: "In early Israel the god of Israel apparently belonged to the second tier of the pantheon; he was not the presider god but one of his sons."[^7] This passage "presents a cosmic order in which each deity received its own nation. Israel was the nation which Yahweh received, yet El was the head of this pantheon and Yahweh only one of its members."[^8]
+Smith is more direct: "In early Israel the god of Israel apparently belonged to the second tier of the pantheon; he was not the presider god but one of his sons."[^7]: This passage "presents a cosmic order in which each deity received its own nation. Israel was the nation which Yahweh received, yet El was the head of this pantheon and Yahweh only one of its members."[^8]
 
 ## 3. El Was Israel's Original God
 
@@ -136,7 +136,7 @@ Major Israelite sanctuaries show evidence of prior El worship that was later abs
 
 ### The Name Pattern
 
-Day observes a striking pattern: the Hebrew Bible refers to divine beings as "sons of God" (*bĕnê 'ēl*, *bĕnê hā'ĕlōhîm*) but never "sons of Yahweh." The name pattern "finds a ready explanation in their origin in the sons of the Canaanite god El."[^11] If the council had always been Yahweh's, we would expect "sons of Yahweh." The consistent use of El-language preserves the older theology.
+Day observes a striking pattern: the Hebrew Bible refers to divine beings as "sons of God" (*bĕnê 'ēl*, *bĕnê hā'ĕlōhîm*) but never "sons of Yahweh." The name pattern "finds a ready explanation in their origin in the sons of the Canaanite god El."[^11]: If the council had always been Yahweh's, we would expect "sons of Yahweh." The consistent use of El-language preserves the older theology.
 
 ### The Balaam Oracles
 
@@ -165,7 +165,7 @@ The consensus among critical scholars is strong: Yahweh originated outside Canaa
 
 The mechanism by which Yahweh entered Israel is debated. The Kenite/Midianite hypothesis proposes that the Midianites, among whom Moses lived according to the biblical narrative (his father-in-law Jethro was a "priest of Midian" who already worshipped Yahweh in Exodus 18), transmitted the deity to Israel. This hypothesis is plausible but unprovable. Moses has no extra-biblical attestation. The Exodus narrative is, as Römer honestly acknowledges, "fashioned with great artifice in the manner of a romance."[^17]
 
-Fleming mounts a significant recent challenge in *Yahweh Before Israel* (2021), arguing through physical measurement of the Soleb column that Seir was probably not in the original Amenhotep III list but was added in the 13th-century Ramesses II copy. Without Seir, the geographical anchor for Yahweh's southern origin weakens. He further argues the old poetry is mythological theophany, not historical memory: "Yahweh is no more originally 'from' Sinai and Seir than Zeus is 'from' Olympus."[^18] This challenge has not been systematically rebutted.
+Fleming mounts a significant recent challenge in *Yahweh Before Israel* (2021), arguing through physical measurement of the Soleb column that Seir was probably not in the original Amenhotep III list but was added in the 13th-century Ramesses II copy. Without Seir, the geographical anchor for Yahweh's southern origin weakens. He further argues the old poetry is mythological theophany, not historical memory: "Yahweh is no more originally 'from' Sinai and Seir than Zeus is 'from' Olympus."[^18]: This challenge has not been systematically rebutted.
 
 What is firm: El was Israel's original god. Yahweh arrived later. Where exactly from, and by what mechanism, remains partially contested.
 
@@ -182,7 +182,7 @@ The Khirbet el-Qom inscription from approximately 700 BCE, a burial inscription 
 
 The debate centers on the Hebrew phrase *wl'šrth*. The possessive suffix *-h* can be read as referring to a personal name (the goddess Asherah) or a cult object (the wooden pole known as an asherah). The goddess interpretation is the majority position. William Dever, archaeologist at the University of Arizona, Römer, and Day all read it as a goddess. Dever calls the inscriptions "the smoking gun" for Asherah worship alongside Yahweh.[^20]
 
-Smith is the most prominent dissenter, arguing that Hebrew grammar forbids a possessive suffix on a personal name. You cannot say "his Mary" in Hebrew. The *-h* forces a common noun reading: "his asherah" meaning "his cult symbol."[^21] Othmar Keel and Christoph Uehlinger, in their exhaustive catalog of Iron Age iconography *Gods, Goddesses, and Images of God in Ancient Israel* (1998), argue the asherah was a stylized tree that functioned as a mediating entity bringing Yahweh's blessing, not a goddess consort on equal footing.[^22]
+Smith is the most prominent dissenter, arguing that Hebrew grammar forbids a possessive suffix on a personal name. You cannot say "his Mary" in Hebrew. The *-h* forces a common noun reading: "his asherah" meaning "his cult symbol."[^21]: Othmar Keel and Christoph Uehlinger, in their exhaustive catalog of Iron Age iconography *Gods, Goddesses, and Images of God in Ancient Israel* (1998), argue the asherah was a stylized tree that functioned as a mediating entity bringing Yahweh's blessing, not a goddess consort on equal footing.[^22]
 
 The archaeological evidence beyond the inscriptions tilts the field. Over three thousand Judean Pillar Figurines have been excavated. Nude female figures with emphasized breasts, mass-produced from molds, found overwhelmingly in domestic contexts, dating to the 8th through 6th centuries BCE. Dever calls them "prayers in clay," votive offerings for fertility, conception, and safe childbirth. They were "found in almost every excavated 8th-6th century house in Judah."[^23]
 
@@ -194,7 +194,7 @@ And the Bible itself provides evidence through its polemics. You do not rail aga
 
 The Deuteronomistic cover-up is Römer's key insight. The Bible deliberately obscures the Yahweh-Asherah link by associating her with Baal. But extra-biblical texts never pair Baal with Asherah. They pair Yahweh with Asherah. The inscriptions reveal what the biblical editors worked to hide.[^24]
 
-The goddess was not a late pagan corruption of a pure original. She was there from the beginning, or at least from the moment Yahweh absorbed El's identity. At Ugarit, Asherah was El's consort, the mother of the seventy gods.[^45] When El and Yahweh merged, Asherah came with the package. The transfer was structurally expected. The biblical editors spent centuries trying to edit her out. They failed.
+The goddess was not a late pagan corruption of a pure original. She was there from the beginning, or at least from the moment Yahweh absorbed El's identity. At Ugarit, Asherah was El's consort, the mother of the seventy gods.[^45]: When El and Yahweh merged, Asherah came with the package. The transfer was structurally expected. The biblical editors spent centuries trying to edit her out. They failed.
 
 ## 6. What Israelite Religion Actually Was
 
@@ -250,7 +250,7 @@ Psalm 29 is widely regarded by scholars as a hymn originally composed for Baal, 
 
 This is not a scandal. It is how ancient religion worked. Deities absorbed the characteristics of rival deities. Hymns were repurposed. Mythological frameworks were inherited and transformed. The Pentateuch and the historical books did not emerge from a vacuum. They emerged from a shared cultural matrix that included Ugaritic epic, Mesopotamian creation mythology, Egyptian wisdom literature, and Persian imperial theology.
 
-The Genesis 1 creation account does not describe creation ex nihilo as later theology would insist. It describes God bringing order to a preexistent watery chaos (*tehom*, cognate with the Babylonian Tiamat). The great sea monsters (*tanninim*) appear not as pre-creation enemies to be battled but as created beings (Genesis 1:21). The sun and moon are depersonalized as "the greater light" and "the lesser light," stripped of their divine names (Shemesh and Yareah) and thus of their divine status.[^36] This is not the rejection of Canaanite mythology. It is its creative transformation. The same elements appear, reconfigured to serve a new theological program.
+The Genesis 1 creation account does not describe creation ex nihilo as later theology would insist. It describes God bringing order to a preexistent watery chaos (*tehom*, cognate with the Babylonian Tiamat). The great sea monsters (*tanninim*) appear not as pre-creation enemies to be battled but as created beings (Genesis 1:21). The sun and moon are depersonalized as "the greater light" and "the lesser light," stripped of their divine names (Shemesh and Yareah) and thus of their divine status.[^36]: This is not the rejection of Canaanite mythology. It is its creative transformation. The same elements appear, reconfigured to serve a new theological program.
 
 The Pentateuch is not a book of revealed monotheism. It is a compilation of mythic stories, folk and family religion, legal codes, and early history writing, stitched together over centuries by multiple authors with competing theological agendas, later edited by the winners into a narrative of purity, corruption, and reform that is the reverse of what actually happened.
 
@@ -264,7 +264,7 @@ Yehezkel Kaufmann's *The Religion of Israel* (1960) is the most sophisticated de
 
 First, the Bible is "utterly ignorant" of the nature of pagan religion. Across centuries of polemic, biblical writers consistently misrepresent paganism as mere fetishism, the worship of wood and stone, rather than engaging with living gods, myths, and cosmic dramas. If Israelite religion evolved out of polytheism, its polemics would show familiarity with polytheistic theology. They do not. They treat idols as dead objects. This, Kaufmann argues, is not a rhetorical strategy. It is evidence that the biblical authors genuinely did not understand what polytheists actually believed.[^38]
 
-Second, the absence of theogony is radical and unique. "The store of biblical legends lacks the fundamental myth of paganism: the theogony. All theogonic motifs are similarly absent. Israel's god has no pedigree, fathers no generations; he neither inherits nor bequeaths his authority. He does not die and is not resurrected."[^39] If the biblical editors had systematically purged mythology, they did a terrible job. They preserved God walking in the garden, smelling sacrifices, wrestling Jacob, trying to kill Moses, the sons of God mating with human women. What is missing, Kaufmann argues, must have never been there.
+Second, the absence of theogony is radical and unique. "The store of biblical legends lacks the fundamental myth of paganism: the theogony. All theogonic motifs are similarly absent. Israel's god has no pedigree, fathers no generations; he neither inherits nor bequeaths his authority. He does not die and is not resurrected."[^39]: If the biblical editors had systematically purged mythology, they did a terrible job. They preserved God walking in the garden, smelling sacrifices, wrestling Jacob, trying to kill Moses, the sons of God mating with human women. What is missing, Kaufmann argues, must have never been there.
 
 Third, the prophets did not create monotheism. They inherited it. Amos, Hosea, Isaiah, Micah, Jeremiah, and Ezekiel all worked within an already-existing monotheistic framework. They were calling Israel back to covenant faithfulness, not to a new religious consciousness. The exile intensified monotheism but did not create it.[^40]
 
@@ -342,19 +342,19 @@ The evolutionary model, for all its untidiness, accounts for more of the evidenc
 
 The counter-positions are not wrong about their evidence. They are wrong about what their evidence proves. Kaufmann proves that the biblical editors were effective. Heiser proves that the divine council was real. Stern proves that early poetry can be read monotheistically. Tigay proves that Yahweh dominated public naming conventions. None of these proofs adds up to the conclusion that Israel was monotheistic from the beginning. The conclusion that fits the evidence, all of it, the names and the figurines, the poetry and the inscriptions, the Bible and the ground, is that Israelite religion was diverse, contested, and evolving. Monotheism was not the starting point. It was the destination. And the journey took a thousand years.
 
-[^38] Kaufmann, Yehezkel. *The Religion of Israel: From Its Beginnings to the Babylonian Exile*. Translated and abridged by Moshe Greenberg. Chicago: University of Chicago Press, 1960, Chapter I. See also claim: `israelite-religion-non-mythological-fundamentally-unique`.
+[^38]: Kaufmann, Yehezkel. *The Religion of Israel: From Its Beginnings to the Babylonian Exile*. Translated and abridged by Moshe Greenberg. Chicago: University of Chicago Press, 1960, Chapter I. See also claim: `israelite-religion-non-mythological-fundamentally-unique`.
 
-[^39] Kaufmann, *Religion of Israel*, Chapter III. See also claim: `biblical-idolatry-not-genuine-mythological-polytheism`.
+[^39]: Kaufmann, *Religion of Israel*, Chapter III. See also claim: `biblical-idolatry-not-genuine-mythological-polytheism`.
 
-[^40] Kaufmann, *Religion of Israel*, Chapters XI-XIII. See also claim: `prophets-inherited-monotheism-did-not-invent`.
+[^40]: Kaufmann, *Religion of Israel*, Chapters XI-XIII. See also claim: `prophets-inherited-monotheism-did-not-invent`.
 
-[^41] Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Bellingham, WA: Lexham Press, 2015. See also Heiser, "Are Yahweh and El Distinct Deities in Deut 32:8-9 and Psalm 82?" *Hiphil* 3 (2006). Claim: `elyon-yahweh-same-god-deut32-not-two-deities`.
+[^41]: Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Bellingham, WA: Lexham Press, 2015. See also Heiser, "Are Yahweh and El Distinct Deities in Deut 32:8-9 and Psalm 82?" *Hiphil* 3 (2006). Claim: `elyon-yahweh-same-god-deut32-not-two-deities`.
 
-[^42] Stern, Philip D. "When Did Monotheism Emerge in Ancient Israel?" *Biblical Archaeology Review*, October 26, 2025. See also claims: `monotheism-well-established-before-exile-biblical-authors`.
+[^42]: Stern, Philip D. "When Did Monotheism Emerge in Ancient Israel?" *Biblical Archaeology Review*, October 26, 2025. See also claims: `monotheism-well-established-before-exile-biblical-authors`.
 
-[^43] Tigay, Jeffrey H. *You Shall Have No Other Gods: Israelite Religion in the Light of Hebrew Inscriptions*. Atlanta: Scholars Press, 1986, Chapter I. Claims: `post-united-monarchy-polytheism-limited-not-rampant`.
+[^43]: Tigay, Jeffrey H. *You Shall Have No Other Gods: Israelite Religion in the Light of Hebrew Inscriptions*. Atlanta: Scholars Press, 1986, Chapter I. Claims: `post-united-monarchy-polytheism-limited-not-rampant`.
 
-[^44] Tigay, *You Shall Have No Other Gods*, Chapter II.
+[^44]: Tigay, *You Shall Have No Other Gods*, Chapter II.
 
 ## 10. Stop Reading the Old Testament Wrong
 
@@ -378,79 +378,79 @@ That story, from desert war god to universal creator, is one of the most remarka
 
 ## Notes
 
-[^1] Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. 2nd ed. Grand Rapids: Eerdmans, 2002 [orig. 1990], Chapter 1. See also claim: `el-was-original-god-israel-name-and-absence-yahweh`.
+[^1]: Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. 2nd ed. Grand Rapids: Eerdmans, 2002 [orig. 1990], Chapter 1. See also claim: `el-was-original-god-israel-name-and-absence-yahweh`.
 
-[^2] Lewis, Theodore J. *The Origin and Character of God: Ancient Israelite Religion through the Lens of Divinity*. Oxford: Oxford University Press, 2020, Chapter 4.
+[^2]: Lewis, Theodore J. *The Origin and Character of God: Ancient Israelite Religion through the Lens of Divinity*. Oxford: Oxford University Press, 2020, Chapter 4.
 
-[^3] Römer, Thomas. *The Invention of God*. Translated by Raymond Geuss. Cambridge, MA: Harvard University Press, 2015, Chapter 4. See also claim: `israel-name-el-originally-el-worshippers`.
+[^3]: Römer, Thomas. *The Invention of God*. Translated by Raymond Geuss. Cambridge, MA: Harvard University Press, 2015, Chapter 4. See also claim: `israel-name-el-originally-el-worshippers`.
 
-[^4] The Merneptah Stele is housed in the Egyptian Museum, Cairo. Dated to the 5th year of Merneptah's reign, c. 1208 BCE. See primary source note: `merneptah-stele`.
+[^4]: The Merneptah Stele is housed in the Egyptian Museum, Cairo. Dated to the 5th year of Merneptah's reign, c. 1208 BCE. See primary source note: `merneptah-stele`.
 
-[^5] 4QDeut-j (DJD XIV, plate XXXV) preserves *bny 'lwhm* ("sons of God") or *bny 'l* ("sons of El"). The LXX reads ἀγγέλων θεοῦ ("angels of God"). The MT reads *bĕnê yiśrā'ēl* ("sons of Israel"). See primary source note: `deut-32-8-9-qumran-variant`. Claims: `deut-32-8-9-el-elyon-superior-yahweh-divine-son`, `deut-32-8-9-sons-of-el`.
+[^5]: 4QDeut-j (DJD XIV, plate XXXV) preserves *bny 'lwhm* ("sons of God") or *bny 'l* ("sons of El"). The LXX reads ἀγγέλων θεοῦ ("angels of God"). The MT reads *bĕnê yiśrā'ēl* ("sons of Israel"). See primary source note: `deut-32-8-9-qumran-variant`. Claims: `deut-32-8-9-el-elyon-superior-yahweh-divine-son`, `deut-32-8-9-sons-of-el`.
 
-[^6] Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Bellingham, WA: Lexham Press, 2015, Part 4. See also claim: `elyon-yahweh-same-god-deut32-not-two-deities`.
+[^6]: Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Bellingham, WA: Lexham Press, 2015, Part 4. See also claim: `elyon-yahweh-same-god-deut32-not-two-deities`.
 
-[^7] Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford: Oxford University Press, 2001, Chapter 8.
+[^7]: Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford: Oxford University Press, 2001, Chapter 8.
 
-[^8] Smith, *Origins of Biblical Monotheism*, Chapter 7.
+[^8]: Smith, *Origins of Biblical Monotheism*, Chapter 7.
 
-[^9] Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Cambridge, MA: Harvard University Press, 1973, Part I. See also claim: `yahweh-originated-as-el-epithet-creates-heavenly-armies`.
+[^9]: Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Cambridge, MA: Harvard University Press, 1973, Part I. See also claim: `yahweh-originated-as-el-epithet-creates-heavenly-armies`.
 
-[^10] See claims: `el-was-original-god-israel-name-and-absence-yahweh`, `name-israel-el-original`.
+[^10]: See claims: `el-was-original-god-israel-name-and-absence-yahweh`, `name-israel-el-original`.
 
-[^11] Day, John. *Yahweh and the Gods and Goddesses of Canaan*. Sheffield: Sheffield Academic Press, 2000, Chapter 1.
+[^11]: Day, John. *Yahweh and the Gods and Goddesses of Canaan*. Sheffield: Sheffield Academic Press, 2000, Chapter 1.
 
-[^12] See claim: `el-original-god-exodus`.
+[^12]: See claim: `el-original-god-exodus`.
 
-[^13] See primary source note: `soleb-shasu-inscription`. Claims: `yhwh-originated-southern-deserts-edom-seir`, `four-biblical-poems-preserve-southern-origin-tradition`.
+[^13]: See primary source note: `soleb-shasu-inscription`. Claims: `yhwh-originated-southern-deserts-edom-seir`, `four-biblical-poems-preserve-southern-origin-tradition`.
 
-[^14] Claim: `four-biblical-poems-preserve-southern-origin-tradition`.
+[^14]: Claim: `four-biblical-poems-preserve-southern-origin-tradition`.
 
-[^15] Primary source note: `kuntillet-ajrud-inscriptions`. Claims: `yhwh-local-manifestations-fluid-monotheism-kuntillet-ajrud`.
+[^15]: Primary source note: `kuntillet-ajrud-inscriptions`. Claims: `yhwh-local-manifestations-fluid-monotheism-kuntillet-ajrud`.
 
-[^16] See synthesis: `synthesis-who-was-yahweh`, Question 1.
+[^16]: See synthesis: `synthesis-who-was-yahweh`, Question 1.
 
-[^17] Römer, *Invention of God*, Chapter 3. See also claim: `midianite-hypothesis-survived-structural-utility-yahweh-canaan-puzzle`.
+[^17]: Römer, *Invention of God*, Chapter 3. See also claim: `midianite-hypothesis-survived-structural-utility-yahweh-canaan-puzzle`.
 
-[^18] Fleming, Daniel E. *Yahweh Before Israel: Glimpses of History in a Divine Name*. Cambridge: Cambridge University Press, 2021, Chapters 2-3. See also claim: `yahweh-not-taken-from-outsiders-divine-name-israel-diverse-origins` and `southern-geography-theophany-not-origin-memory`.
+[^18]: Fleming, Daniel E. *Yahweh Before Israel: Glimpses of History in a Divine Name*. Cambridge: Cambridge University Press, 2021, Chapters 2-3. See also claim: `yahweh-not-taken-from-outsiders-divine-name-israel-diverse-origins` and `southern-geography-theophany-not-origin-memory`.
 
-[^19] Primary source note: `kuntillet-ajrud-inscriptions`. Claims: `kuntillet-ajrud-khirbet-el-qom-asherah-consort-not-symbol`, `kuntillet-ajrud-proves-consort`.
+[^19]: Primary source note: `kuntillet-ajrud-inscriptions`. Claims: `kuntillet-ajrud-khirbet-el-qom-asherah-consort-not-symbol`, `kuntillet-ajrud-proves-consort`.
 
-[^20] Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Grand Rapids: Eerdmans, 2005, Chapters VI-IX. See claims: `dever-archaeology-proves-asherah-real-goddess-yhwh-consort`, `dever-cumulative-archaeology-asherah-yahweh-consort-goddess`.
+[^20]: Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Grand Rapids: Eerdmans, 2005, Chapters VI-IX. See claims: `dever-archaeology-proves-asherah-real-goddess-yhwh-consort`, `dever-cumulative-archaeology-asherah-yahweh-consort-goddess`.
 
-[^21] Smith, *Early History of God*, Chapter 3. Claims: `asherah-cult-symbol-not-goddess-monarchic-israel`, `asherah-was-yahwistic-symbol`.
+[^21]: Smith, *Early History of God*, Chapter 3. Claims: `asherah-cult-symbol-not-goddess-monarchic-israel`, `asherah-was-yahwistic-symbol`.
 
-[^22] Keel, Othmar, and Christoph Uehlinger. *Gods, Goddesses, and Images of God in Ancient Israel*. Translated by Thomas H. Trapp. Minneapolis: Fortress Press, 1998, Part V. Claims: `his-asherah-cultic-symbol-stylized-tree-not-goddess-consort`, `no-consort-relationship-yahweh-asherah-divine-couples-absent`.
+[^22]: Keel, Othmar, and Christoph Uehlinger. *Gods, Goddesses, and Images of God in Ancient Israel*. Translated by Thomas H. Trapp. Minneapolis: Fortress Press, 1998, Part V. Claims: `his-asherah-cultic-symbol-stylized-tree-not-goddess-consort`, `no-consort-relationship-yahweh-asherah-divine-couples-absent`.
 
-[^23] Dever, *Did God Have a Wife?*, Chapter V. Claim: `judean-pillar-figurines-asherah-goddess-worship-domestic`.
+[^23]: Dever, *Did God Have a Wife?*, Chapter V. Claim: `judean-pillar-figurines-asherah-goddess-worship-domestic`.
 
-[^24] Römer, *Invention of God*, Chapter 9. Claims: `bible-deliberately-obscures-yhwh-asherah-link`, `yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis`.
+[^24]: Römer, *Invention of God*, Chapter 9. Claims: `bible-deliberately-obscures-yhwh-asherah-link`, `yhwh-consort-asherah-goddess-baal-link-deuteronomistic-synthesis`.
 
-[^25] Dever, *Did God Have a Wife?*, Introduction. Claims: `hebrew-bible-elite-scribal-literature-not-folk-religion`, `monotheism-well-established-before-exile-biblical-authors`.
+[^25]: Dever, *Did God Have a Wife?*, Introduction. Claims: `hebrew-bible-elite-scribal-literature-not-folk-religion`, `monotheism-well-established-before-exile-biblical-authors`.
 
-[^26] Tigay, Jeffrey H. *You Shall Have No Other Gods: Israelite Religion in the Light of Hebrew Inscriptions*. Atlanta: Scholars Press, 1986, Chapter I. Claims: `post-united-monarchy-polytheism-limited-not-rampant`, `biblical-writers-magnified-polytheism-theological-axioms`.
+[^26]: Tigay, Jeffrey H. *You Shall Have No Other Gods: Israelite Religion in the Light of Hebrew Inscriptions*. Atlanta: Scholars Press, 1986, Chapter I. Claims: `post-united-monarchy-polytheism-limited-not-rampant`, `biblical-writers-magnified-polytheism-theological-axioms`.
 
-[^27] Tigay, *You Shall Have No Other Gods*, Chapter II. See also evidence brief: `evidence-brief-questions-3-4`, Section 3(d).
+[^27]: Tigay, *You Shall Have No Other Gods*, Chapter II. See also evidence brief: `evidence-brief-questions-3-4`, Section 3(d).
 
-[^28] Keel and Uehlinger, *Gods, Goddesses, and Images of God*, Parts VI-VII.
+[^28]: Keel and Uehlinger, *Gods, Goddesses, and Images of God*, Parts VI-VII.
 
-[^29] Smith, *Origins of Biblical Monotheism*, Chapter 8. Claims: `true-monotheism-denies-other-gods-existence`, `monotheism-as-exilic-rhetoric-not-religious-revolution`.
+[^29]: Smith, *Origins of Biblical Monotheism*, Chapter 8. Claims: `true-monotheism-denies-other-gods-existence`, `monotheism-as-exilic-rhetoric-not-religious-revolution`.
 
-[^30] Römer, *Invention of God*, Chapter 12. Claims: `true-monotheism-emerged-babylonian-exile`, `exile-transformed-israel-state-people-to-religious-community`.
+[^30]: Römer, *Invention of God*, Chapter 12. Claims: `true-monotheism-emerged-babylonian-exile`, `exile-transformed-israel-state-people-to-religious-community`.
 
-[^31] Albertz, Rainer. *A History of Israelite Religion in the Old Testament Period*. 2 vols. Translated by John Bowden. Louisville: Westminster John Knox, 1994. Vol. 2, Chapter 4. Claim: `deutero-isaiah-first-consistent-monotheism-internal-development`.
+[^31]: Albertz, Rainer. *A History of Israelite Religion in the Old Testament Period*. 2 vols. Translated by John Bowden. Louisville: Westminster John Knox, 1994. Vol. 2, Chapter 4. Claim: `deutero-isaiah-first-consistent-monotheism-internal-development`.
 
-[^32] Smith, *Origins of Biblical Monotheism*, Chapter 10.
+[^32]: Smith, *Origins of Biblical Monotheism*, Chapter 10.
 
-[^33] Smith, *Early History of God*, Introduction. See also claims: `israelite-culture-was-canaanite-no-separation`, `israel-broadly-west-semitic-religion-not-pristine-monotheism`.
+[^33]: Smith, *Early History of God*, Introduction. See also claims: `israelite-culture-was-canaanite-no-separation`, `israel-broadly-west-semitic-religion-not-pristine-monotheism`.
 
-[^34] Keel and Uehlinger, *Gods, Goddesses, and Images of God*, Chapters I-V.
+[^34]: Keel and Uehlinger, *Gods, Goddesses, and Images of God*, Chapters I-V.
 
-[^35] Day, *Yahweh and the Gods and Goddesses of Canaan*, Chapter 4. See also claim: `day-chaoskampf-canaanite-baal-yam-not-babylonian-marduk-tiamat`.
+[^35]: Day, *Yahweh and the Gods and Goddesses of Canaan*, Chapter 4. See also claim: `day-chaoskampf-canaanite-baal-yam-not-babylonian-marduk-tiamat`.
 
-[^36] Smith, *Origins of Biblical Monotheism*, Chapter 9. Claim: `monotheism-as-transformed-canaanite-myth`.
+[^36]: Smith, *Origins of Biblical Monotheism*, Chapter 9. Claim: `monotheism-as-transformed-canaanite-myth`.
 
-[^37] Sommer, Benjamin D. *The Bodies of God and the World of Ancient Israel*. Cambridge: Cambridge University Press, 2009, Chapters 1-3. See also claims: `bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism`, `sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift`.
+[^37]: Sommer, Benjamin D. *The Bodies of God and the World of Ancient Israel*. Cambridge: Cambridge University Press, 2009, Chapters 1-3. See also claims: `bible-contains-two-theologies-in-tension-fluid-vs-anti-fluid-monotheism`, `sommer-reframes-polytheism-monotheism-evolution-as-fluid-embodiment-shift`.
 
 [^45]: At Ugarit, Asherah (*Aṯiratu*) is El's consort, "Lady Asherah of the Sea," "Creatress/Mother of the Gods." The Ugaritic texts date to the 14th-13th centuries BCE. See Day, *Yahweh and the Gods and Goddesses of Canaan*, Chapter 2; primary source note: `ugaritic-baal-cycle`. Claim: `asherah-el-consort-transferred-to-yahweh`.
 
